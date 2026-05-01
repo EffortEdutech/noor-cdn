@@ -1,0 +1,8 @@
+{
+  "name": "NOOR CDN index",
+  "appVersion": "0.25.0",
+  "generatedAt": "2026-05-01T04:23:23.766Z",
+  "manifest": "manifest/noor-content-manifest.json",
+  "health": "manifest/noor-content-health.json",
+  "publishManifest": "../publish-manifest.json"
+}

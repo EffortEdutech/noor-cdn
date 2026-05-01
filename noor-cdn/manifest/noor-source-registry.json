@@ -1,0 +1,40 @@
+{
+  "id": "noor-source-registry-v0.12",
+  "version": "0.12.0",
+  "status": "pre-production",
+  "rule": "No source may be promoted to production without license verification, scholarly/source attribution, checksum review and manual sign-off.",
+  "sources": [
+    {
+      "id": "quran-demo-short-surahs-cdn",
+      "domain": "quran",
+      "stage": "demo-cdn-ready",
+      "licenseStatus": "demo-only",
+      "approvalStatus": "not-production-approved",
+      "notes": "Existing NOOR demo data, packaged only to test CDN layout."
+    },
+    {
+      "id": "tafseer-demo-basic-cdn",
+      "domain": "tafseer",
+      "stage": "demo-cdn-ready",
+      "licenseStatus": "demo-only",
+      "approvalStatus": "not-production-approved",
+      "notes": "Demo summaries, not a tafseer authority."
+    },
+    {
+      "id": "hadith-demo-nawawi-cdn",
+      "domain": "hadith",
+      "stage": "demo-cdn-ready",
+      "licenseStatus": "demo-only",
+      "approvalStatus": "not-production-approved",
+      "notes": "Demo references only."
+    }
+  ],
+  "productionGate": [
+    "Verified text source",
+    "Clear redistribution license or internal permission",
+    "Attribution label approved",
+    "Import transform checked",
+    "Content validator passes",
+    "Scholar/reviewer sign-off recorded"
+  ]
+}

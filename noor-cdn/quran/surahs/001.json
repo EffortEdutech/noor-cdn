@@ -1,0 +1,83 @@
+{
+  "surah": {
+    "number": 1,
+    "slug": "al-fatihah",
+    "nameArabic": "الفاتحة",
+    "nameTransliteration": "Al-Fatihah",
+    "nameEnglish": "The Opening",
+    "revelation": "makki",
+    "ayahCount": 7
+  },
+  "ayahs": [
+    {
+      "surah": 1,
+      "ayah": 1,
+      "key": "1:1",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "translations": {
+        "en": "In the name of Allah, the Most Compassionate, the Most Merciful.",
+        "ms": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang."
+      }
+    },
+    {
+      "surah": 1,
+      "ayah": 2,
+      "key": "1:2",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "translations": {
+        "en": "All praise is for Allah, Lord of all worlds.",
+        "ms": "Segala puji bagi Allah, Tuhan seluruh alam."
+      }
+    },
+    {
+      "surah": 1,
+      "ayah": 3,
+      "key": "1:3",
+      "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "translations": {
+        "en": "The Most Compassionate, the Most Merciful.",
+        "ms": "Yang Maha Pemurah lagi Maha Penyayang."
+      }
+    },
+    {
+      "surah": 1,
+      "ayah": 4,
+      "key": "1:4",
+      "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+      "translations": {
+        "en": "Master of the Day of Recompense.",
+        "ms": "Pemilik Hari Pembalasan."
+      }
+    },
+    {
+      "surah": 1,
+      "ayah": 5,
+      "key": "1:5",
+      "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "translations": {
+        "en": "You alone we worship, and You alone we ask for help.",
+        "ms": "Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan."
+      }
+    },
+    {
+      "surah": 1,
+      "ayah": 6,
+      "key": "1:6",
+      "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "translations": {
+        "en": "Guide us to the straight path.",
+        "ms": "Tunjukilah kami jalan yang lurus."
+      }
+    },
+    {
+      "surah": 1,
+      "ayah": 7,
+      "key": "1:7",
+      "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "translations": {
+        "en": "The path of those You have blessed, not of those who incur anger, nor of those who are astray.",
+        "ms": "Jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan pula mereka yang sesat."
+      }
+    }
+  ]
+}

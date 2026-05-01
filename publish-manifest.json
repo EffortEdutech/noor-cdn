@@ -1,0 +1,90 @@
+{
+  "name": "NOOR CDN Publish Pack",
+  "appVersion": "0.25.0",
+  "appLabel": "Sprint 25 Production CDN v1 Promotion",
+  "generatedAt": "2026-05-01T04:23:23.766Z",
+  "sourceRoot": "content-pipeline/dist/noor-cdn",
+  "publishRoot": "content-pipeline/publish/noor-cdn-gh-pages",
+  "publicSubfolder": "noor-cdn",
+  "totalFiles": 13,
+  "totalJsonFiles": 13,
+  "hosting": {
+    "githubPagesBase": "https://effortedutech.github.io/noor-cdn/noor-cdn",
+    "jsDelivrBase": "https://cdn.jsdelivr.net/gh/EffortEdutech/noor-cdn@main/noor-cdn"
+  },
+  "requiredResolverPaths": [
+    "noor-cdn/manifest/noor-content-manifest.json",
+    "noor-cdn/manifest/noor-content-health.json",
+    "noor-cdn/metadata/surah-index.json",
+    "noor-cdn/quran/surahs/001.json",
+    "noor-cdn/tafseer/demo-tafseer/surahs/001.json",
+    "noor-cdn/hadith/collections.json"
+  ],
+  "files": [
+    {
+      "path": "noor-cdn/hadith/collections.json",
+      "bytes": 192,
+      "sha256": "e9142f4dbdd1459b37e74d780ae774237b953ec50931fd4822884b03e4459f89"
+    },
+    {
+      "path": "noor-cdn/hadith/demo-nawawi/items.json",
+      "bytes": 1161,
+      "sha256": "432261cdb28bd6e94414a34269d0d057cd917e76d42e2d6df73013579682713b"
+    },
+    {
+      "path": "noor-cdn/manifest/noor-content-health.json",
+      "bytes": 2158,
+      "sha256": "fdf1324bcbd24379b973427933be371e32663e5b38f39e114e146b14398a4aac"
+    },
+    {
+      "path": "noor-cdn/manifest/noor-content-manifest.json",
+      "bytes": 1525,
+      "sha256": "13b1c5ac587e8d2406adeb0f91227603b7d855df3b778dc6ae664e5859df5fac"
+    },
+    {
+      "path": "noor-cdn/manifest/noor-source-registry.json",
+      "bytes": 1285,
+      "sha256": "ceda157ee8327b24ee5a5a152215568d6bad7433d49ddd19e4c5623e77eab9a1"
+    },
+    {
+      "path": "noor-cdn/quran/surahs/001.json",
+      "bytes": 2612,
+      "sha256": "a3722019e6dec75e81e0d5b6cd5782530f164ed5c66ecb3e69815ba50245c98e"
+    },
+    {
+      "path": "noor-cdn/quran/surahs/112.json",
+      "bytes": 1348,
+      "sha256": "361ddefb99a19793c1770dd511690f31e7fd0ddb90d17c6b80d0ef8871ba2c73"
+    },
+    {
+      "path": "noor-cdn/quran/surahs/113.json",
+      "bytes": 1809,
+      "sha256": "9ae51fed13873dd69d1075b9d52dd5b92cbeb24eeb124bc2b21280e1547a3db1"
+    },
+    {
+      "path": "noor-cdn/quran/surahs/114.json",
+      "bytes": 1874,
+      "sha256": "180f1ccc71053dbfb1e55a44e8c030d8b531ff1185d215f9edfbdd811c45ae76"
+    },
+    {
+      "path": "noor-cdn/tafseer/demo-tafseer/surahs/001.json",
+      "bytes": 1397,
+      "sha256": "0ac85da1d3bc1c382a786c087fcd2bf6c50d190f50d6f313b975b574ec077c44"
+    },
+    {
+      "path": "noor-cdn/tafseer/demo-tafseer/surahs/112.json",
+      "bytes": 405,
+      "sha256": "ab9cc3dd8dfdefebcd68566b979919b974d9bbe58bdc91bb4953507328c0c120"
+    },
+    {
+      "path": "noor-cdn/tafseer/demo-tafseer/surahs/113.json",
+      "bytes": 452,
+      "sha256": "de92ecb8596a411464e58826f49f30f688976cd6fa253939c1fe9ebb8ed6921a"
+    },
+    {
+      "path": "noor-cdn/tafseer/demo-tafseer/surahs/114.json",
+      "bytes": 458,
+      "sha256": "6a72dce7397896b6bef3978ea8fed2169b3b7bf190edb2e6099487349eb06a35"
+    }
+  ]
+}

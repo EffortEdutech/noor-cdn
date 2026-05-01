@@ -1,0 +1,68 @@
+{
+  "manifest": {
+    "id": "noor-cdn-ready-content-v0.12",
+    "version": "0.12.0",
+    "label": "NOOR CDN-ready content preparation pack",
+    "releasedAt": "2026-04-30",
+    "mode": "cdn-ready",
+    "datasets": {
+      "quran": {
+        "id": "quran-demo-short-surahs-cdn",
+        "label": "Quran demo short surah CDN pack",
+        "status": "partial",
+        "sourceLabel": "NOOR demo content for CDN pipeline testing — replace with verified licensed Quran dataset before production",
+        "languages": [
+          "ar",
+          "en",
+          "ms"
+        ],
+        "itemCount": 22,
+        "updatedAt": "2026-04-30",
+        "notes": "Uses the existing NOOR demo short-surah dataset to verify production CDN folder layout, manifest checks and resolver path compatibility."
+      },
+      "tafseer": {
+        "id": "tafseer-demo-basic-cdn",
+        "label": "Demo tafseer CDN pack",
+        "status": "demo",
+        "sourceLabel": "NOOR demo summaries — not a scholarly tafseer source",
+        "languages": [
+          "en"
+        ],
+        "itemCount": 6,
+        "updatedAt": "2026-04-30",
+        "notes": "Used only to verify tafseer book/surah CDN routing and health reporting."
+      },
+      "hadith": {
+        "id": "hadith-demo-nawawi-cdn",
+        "label": "Demo hadith CDN pack",
+        "status": "demo",
+        "sourceLabel": "Demo Hadith Reference",
+        "languages": [
+          "en",
+          "ms"
+        ],
+        "itemCount": 2,
+        "updatedAt": "2026-04-30",
+        "notes": "Used only to verify collection and item CDN routing before production data import."
+      }
+    }
+  },
+  "generatedAt": "2026-05-01T04:23:22.877Z",
+  "isHealthy": true,
+  "summary": {
+    "surahIndexedCount": 4,
+    "surahContentCount": 4,
+    "ayahContentCount": 22,
+    "tafseerEntryCount": 6,
+    "tafseerCoveredSurahCount": 4,
+    "hadithCollectionCount": 1,
+    "hadithItemCount": 2
+  },
+  "issues": [
+    {
+      "severity": "info",
+      "area": "manifest",
+      "message": "Sprint 14 publishes a CDN-ready demo pack. Production promotion still requires verified sources, licensing and scholarly review."
+    }
+  ]
+}

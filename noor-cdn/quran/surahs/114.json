@@ -1,0 +1,73 @@
+{
+  "surah": {
+    "number": 114,
+    "slug": "an-nas",
+    "nameArabic": "الناس",
+    "nameTransliteration": "An-Nas",
+    "nameEnglish": "Mankind",
+    "revelation": "makki",
+    "ayahCount": 6
+  },
+  "ayahs": [
+    {
+      "surah": 114,
+      "ayah": 1,
+      "key": "114:1",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "translations": {
+        "en": "Say, I seek refuge in the Lord of mankind.",
+        "ms": "Katakanlah: Aku berlindung kepada Tuhan manusia."
+      }
+    },
+    {
+      "surah": 114,
+      "ayah": 2,
+      "key": "114:2",
+      "arabic": "مَلِكِ النَّاسِ",
+      "translations": {
+        "en": "The Sovereign of mankind.",
+        "ms": "Raja manusia."
+      }
+    },
+    {
+      "surah": 114,
+      "ayah": 3,
+      "key": "114:3",
+      "arabic": "إِلَٰهِ النَّاسِ",
+      "translations": {
+        "en": "The God of mankind.",
+        "ms": "Sembahan manusia."
+      }
+    },
+    {
+      "surah": 114,
+      "ayah": 4,
+      "key": "114:4",
+      "arabic": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "translations": {
+        "en": "From the evil of the retreating whisperer.",
+        "ms": "Daripada kejahatan pembisik yang bersembunyi."
+      }
+    },
+    {
+      "surah": 114,
+      "ayah": 5,
+      "key": "114:5",
+      "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "translations": {
+        "en": "Who whispers into the hearts of mankind.",
+        "ms": "Yang membisikkan ke dalam dada manusia."
+      }
+    },
+    {
+      "surah": 114,
+      "ayah": 6,
+      "key": "114:6",
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "translations": {
+        "en": "From among jinn and mankind.",
+        "ms": "Daripada kalangan jin dan manusia."
+      }
+    }
+  ]
+}

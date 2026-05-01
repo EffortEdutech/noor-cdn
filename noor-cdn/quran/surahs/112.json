@@ -1,0 +1,53 @@
+{
+  "surah": {
+    "number": 112,
+    "slug": "al-ikhlas",
+    "nameArabic": "الإخلاص",
+    "nameTransliteration": "Al-Ikhlas",
+    "nameEnglish": "Sincerity",
+    "revelation": "makki",
+    "ayahCount": 4
+  },
+  "ayahs": [
+    {
+      "surah": 112,
+      "ayah": 1,
+      "key": "112:1",
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "translations": {
+        "en": "Say, He is Allah, One.",
+        "ms": "Katakanlah: Dialah Allah Yang Maha Esa."
+      }
+    },
+    {
+      "surah": 112,
+      "ayah": 2,
+      "key": "112:2",
+      "arabic": "اللَّهُ الصَّمَدُ",
+      "translations": {
+        "en": "Allah, the Eternal Refuge.",
+        "ms": "Allah tempat bergantung segala sesuatu."
+      }
+    },
+    {
+      "surah": 112,
+      "ayah": 3,
+      "key": "112:3",
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "translations": {
+        "en": "He neither begets nor is born.",
+        "ms": "Dia tidak beranak dan tidak pula diperanakkan."
+      }
+    },
+    {
+      "surah": 112,
+      "ayah": 4,
+      "key": "112:4",
+      "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "translations": {
+        "en": "And there is none comparable to Him.",
+        "ms": "Dan tidak ada sesuatu pun yang setara dengan-Nya."
+      }
+    }
+  ]
+}

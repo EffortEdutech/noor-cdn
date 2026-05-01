@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "slug": "al-fatihah",
+    "nameArabic": "الفاتحة",
+    "nameTransliteration": "Al-Fatihah",
+    "nameEnglish": "The Opening",
+    "revelation": "makki",
+    "ayahCount": 7
+  },
+  {
+    "number": 112,
+    "slug": "al-ikhlas",
+    "nameArabic": "الإخلاص",
+    "nameTransliteration": "Al-Ikhlas",
+    "nameEnglish": "Sincerity",
+    "revelation": "makki",
+    "ayahCount": 4
+  },
+  {
+    "number": 113,
+    "slug": "al-falaq",
+    "nameArabic": "الفلق",
+    "nameTransliteration": "Al-Falaq",
+    "nameEnglish": "The Daybreak",
+    "revelation": "makki",
+    "ayahCount": 5
+  },
+  {
+    "number": 114,
+    "slug": "an-nas",
+    "nameArabic": "الناس",
+    "nameTransliteration": "An-Nas",
+    "nameEnglish": "Mankind",
+    "revelation": "makki",
+    "ayahCount": 6
+  }
+]

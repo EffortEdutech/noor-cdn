@@ -1,0 +1,63 @@
+{
+  "surah": {
+    "number": 113,
+    "slug": "al-falaq",
+    "nameArabic": "الفلق",
+    "nameTransliteration": "Al-Falaq",
+    "nameEnglish": "The Daybreak",
+    "revelation": "makki",
+    "ayahCount": 5
+  },
+  "ayahs": [
+    {
+      "surah": 113,
+      "ayah": 1,
+      "key": "113:1",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "translations": {
+        "en": "Say, I seek refuge in the Lord of daybreak.",
+        "ms": "Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh."
+      }
+    },
+    {
+      "surah": 113,
+      "ayah": 2,
+      "key": "113:2",
+      "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "translations": {
+        "en": "From the evil of what He created.",
+        "ms": "Daripada kejahatan makhluk yang Dia ciptakan."
+      }
+    },
+    {
+      "surah": 113,
+      "ayah": 3,
+      "key": "113:3",
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "translations": {
+        "en": "And from the evil of darkness when it settles.",
+        "ms": "Dan daripada kejahatan malam apabila telah gelap gelita."
+      }
+    },
+    {
+      "surah": 113,
+      "ayah": 4,
+      "key": "113:4",
+      "arabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "translations": {
+        "en": "And from the evil of those who blow upon knots.",
+        "ms": "Dan daripada kejahatan para peniup pada ikatan-ikatan."
+      }
+    },
+    {
+      "surah": 113,
+      "ayah": 5,
+      "key": "113:5",
+      "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "translations": {
+        "en": "And from the evil of an envier when he envies.",
+        "ms": "Dan daripada kejahatan orang yang dengki apabila dia dengki."
+      }
+    }
+  ]
+}
