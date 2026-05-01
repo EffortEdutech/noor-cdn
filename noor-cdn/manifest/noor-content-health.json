@@ -47,7 +47,7 @@
       }
     }
   },
-  "generatedAt": "2026-05-01T04:23:22.877Z",
+  "generatedAt": "2026-05-01T06:49:06.924Z",
   "isHealthy": true,
   "summary": {
     "surahIndexedCount": 4,
@@ -62,7 +62,7 @@
     {
       "severity": "info",
       "area": "manifest",
-      "message": "Sprint 14 publishes a CDN-ready demo pack. Production promotion still requires verified sources, licensing and scholarly review."
+      "message": "Sprint 26 publishes a CDN-ready demo pack with a generated search index. Production promotion still requires verified sources, licensing and scholarly review."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T04:23:22.877Z",
+  "generatedAt": "2026-05-01T06:49:06.924Z",
   "files": [
     {
       "path": "hadith/collections.json",
@@ -20,6 +20,11 @@
       "path": "manifest/noor-source-registry.json",
       "bytes": 1285,
       "sha256": "ceda157ee8327b24ee5a5a152215568d6bad7433d49ddd19e4c5623e77eab9a1"
+    },
+    {
+      "path": "manifest/search-index-manifest.json",
+      "bytes": 355,
+      "sha256": "75c86b9ebf262ec52de24907a00716b400594fb130f931d043354098d976d893"
     },
     {
       "path": "metadata/surah-index.json",
@@ -50,6 +55,11 @@
       "path": "search/index.json",
       "bytes": 2711,
       "sha256": "5562ce9ef185b5a2a7ec006318e9d9233e56d2d9cdf8c83e6d5dd63ab2498e45"
+    },
+    {
+      "path": "search/search-index.json",
+      "bytes": 21125,
+      "sha256": "bb6d000d74e17b54f1167b9e130dad22e103307ebf10d6d1a0ecf2d6c88be490"
     },
     {
       "path": "tafseer/demo-tafseer/surahs/001.json",

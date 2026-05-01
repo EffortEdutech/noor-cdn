@@ -1,0 +1,685 @@
+[
+  {
+    "id": "demo-nawawi-001",
+    "type": "hadith",
+    "title": "Hadith 1",
+    "excerpt": "Actions are only by intentions, and every person will have only what they intended.",
+    "reference": "Demo Hadith Reference",
+    "href": "/learn/hadith",
+    "sourceLabel": "Narrator: Umar ibn al-Khattab",
+    "tags": [
+      "intention",
+      "ikhlas",
+      "actions"
+    ],
+    "priority": 2,
+    "searchText": {
+      "title": "Hadith 1",
+      "narrator": "Umar ibn al-Khattab",
+      "english": "Actions are only by intentions, and every person will have only what they intended.",
+      "malay": "Sesungguhnya setiap amalan itu bergantung kepada niat, dan setiap orang akan mendapat berdasarkan apa yang diniatkannya.",
+      "source": "Demo Hadith Reference",
+      "tags": "intention ikhlas actions"
+    }
+  },
+  {
+    "id": "demo-nawawi-002",
+    "type": "hadith",
+    "title": "Hadith 2",
+    "excerpt": "The merciful are shown mercy by the Most Merciful. Be merciful to those on earth and the One above the heavens will have mercy upon you.",
+    "reference": "Demo Hadith Reference",
+    "href": "/learn/hadith",
+    "sourceLabel": "Demo Hadith Reference",
+    "tags": [
+      "mercy",
+      "character",
+      "compassion"
+    ],
+    "priority": 2,
+    "searchText": {
+      "title": "Hadith 2",
+      "english": "The merciful are shown mercy by the Most Merciful. Be merciful to those on earth and the One above the heavens will have mercy upon you.",
+      "malay": "Orang yang penyayang akan disayangi oleh Yang Maha Penyayang. Sayangilah mereka di bumi, nescaya kamu akan disayangi oleh Tuhan di langit.",
+      "source": "Demo Hadith Reference",
+      "tags": "mercy character compassion"
+    }
+  },
+  {
+    "id": "1:1",
+    "type": "quran",
+    "title": "Al-Fatihah 1",
+    "excerpt": "In the name of Allah, the Most Compassionate, the Most Merciful.",
+    "reference": "1:1",
+    "href": "/learn/quran/1#ayah-1",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:1",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "english": "In the name of Allah, the Most Compassionate, the Most Merciful.",
+      "malay": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "1:2",
+    "type": "quran",
+    "title": "Al-Fatihah 2",
+    "excerpt": "All praise is for Allah, Lord of all worlds.",
+    "reference": "1:2",
+    "href": "/learn/quran/1#ayah-2",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:2",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "english": "All praise is for Allah, Lord of all worlds.",
+      "malay": "Segala puji bagi Allah, Tuhan seluruh alam.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "1:3",
+    "type": "quran",
+    "title": "Al-Fatihah 3",
+    "excerpt": "The Most Compassionate, the Most Merciful.",
+    "reference": "1:3",
+    "href": "/learn/quran/1#ayah-3",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:3",
+      "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "english": "The Most Compassionate, the Most Merciful.",
+      "malay": "Yang Maha Pemurah lagi Maha Penyayang.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "1:4",
+    "type": "quran",
+    "title": "Al-Fatihah 4",
+    "excerpt": "Master of the Day of Recompense.",
+    "reference": "1:4",
+    "href": "/learn/quran/1#ayah-4",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:4",
+      "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+      "english": "Master of the Day of Recompense.",
+      "malay": "Pemilik Hari Pembalasan.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "1:5",
+    "type": "quran",
+    "title": "Al-Fatihah 5",
+    "excerpt": "You alone we worship, and You alone we ask for help.",
+    "reference": "1:5",
+    "href": "/learn/quran/1#ayah-5",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:5",
+      "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "english": "You alone we worship, and You alone we ask for help.",
+      "malay": "Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "1:6",
+    "type": "quran",
+    "title": "Al-Fatihah 6",
+    "excerpt": "Guide us to the straight path.",
+    "reference": "1:6",
+    "href": "/learn/quran/1#ayah-6",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:6",
+      "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "english": "Guide us to the straight path.",
+      "malay": "Tunjukilah kami jalan yang lurus.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "1:7",
+    "type": "quran",
+    "title": "Al-Fatihah 7",
+    "excerpt": "The path of those You have blessed, not of those who incur anger, nor of those who are astray.",
+    "reference": "1:7",
+    "href": "/learn/quran/1#ayah-7",
+    "sourceLabel": "The Opening · makki",
+    "tags": [
+      "al-fatihah",
+      "al-fatihah",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Fatihah The Opening الفاتحة",
+      "reference": "1:7",
+      "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "english": "The path of those You have blessed, not of those who incur anger, nor of those who are astray.",
+      "malay": "Jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan pula mereka yang sesat.",
+      "tags": "al-fatihah"
+    }
+  },
+  {
+    "id": "112:1",
+    "type": "quran",
+    "title": "Al-Ikhlas 1",
+    "excerpt": "Say, He is Allah, One.",
+    "reference": "112:1",
+    "href": "/learn/quran/112#ayah-1",
+    "sourceLabel": "Sincerity · makki",
+    "tags": [
+      "al-ikhlas",
+      "al-ikhlas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Ikhlas Sincerity الإخلاص",
+      "reference": "112:1",
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "english": "Say, He is Allah, One.",
+      "malay": "Katakanlah: Dialah Allah Yang Maha Esa.",
+      "tags": "al-ikhlas"
+    }
+  },
+  {
+    "id": "112:2",
+    "type": "quran",
+    "title": "Al-Ikhlas 2",
+    "excerpt": "Allah, the Eternal Refuge.",
+    "reference": "112:2",
+    "href": "/learn/quran/112#ayah-2",
+    "sourceLabel": "Sincerity · makki",
+    "tags": [
+      "al-ikhlas",
+      "al-ikhlas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Ikhlas Sincerity الإخلاص",
+      "reference": "112:2",
+      "arabic": "اللَّهُ الصَّمَدُ",
+      "english": "Allah, the Eternal Refuge.",
+      "malay": "Allah tempat bergantung segala sesuatu.",
+      "tags": "al-ikhlas"
+    }
+  },
+  {
+    "id": "112:3",
+    "type": "quran",
+    "title": "Al-Ikhlas 3",
+    "excerpt": "He neither begets nor is born.",
+    "reference": "112:3",
+    "href": "/learn/quran/112#ayah-3",
+    "sourceLabel": "Sincerity · makki",
+    "tags": [
+      "al-ikhlas",
+      "al-ikhlas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Ikhlas Sincerity الإخلاص",
+      "reference": "112:3",
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "english": "He neither begets nor is born.",
+      "malay": "Dia tidak beranak dan tidak pula diperanakkan.",
+      "tags": "al-ikhlas"
+    }
+  },
+  {
+    "id": "112:4",
+    "type": "quran",
+    "title": "Al-Ikhlas 4",
+    "excerpt": "And there is none comparable to Him.",
+    "reference": "112:4",
+    "href": "/learn/quran/112#ayah-4",
+    "sourceLabel": "Sincerity · makki",
+    "tags": [
+      "al-ikhlas",
+      "al-ikhlas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Ikhlas Sincerity الإخلاص",
+      "reference": "112:4",
+      "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "english": "And there is none comparable to Him.",
+      "malay": "Dan tidak ada sesuatu pun yang setara dengan-Nya.",
+      "tags": "al-ikhlas"
+    }
+  },
+  {
+    "id": "113:1",
+    "type": "quran",
+    "title": "Al-Falaq 1",
+    "excerpt": "Say, I seek refuge in the Lord of daybreak.",
+    "reference": "113:1",
+    "href": "/learn/quran/113#ayah-1",
+    "sourceLabel": "The Daybreak · makki",
+    "tags": [
+      "al-falaq",
+      "al-falaq",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Falaq The Daybreak الفلق",
+      "reference": "113:1",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "english": "Say, I seek refuge in the Lord of daybreak.",
+      "malay": "Katakanlah: Aku berlindung kepada Tuhan yang menguasai subuh.",
+      "tags": "al-falaq"
+    }
+  },
+  {
+    "id": "113:2",
+    "type": "quran",
+    "title": "Al-Falaq 2",
+    "excerpt": "From the evil of what He created.",
+    "reference": "113:2",
+    "href": "/learn/quran/113#ayah-2",
+    "sourceLabel": "The Daybreak · makki",
+    "tags": [
+      "al-falaq",
+      "al-falaq",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Falaq The Daybreak الفلق",
+      "reference": "113:2",
+      "arabic": "مِن شَرِّ مَا خَلَقَ",
+      "english": "From the evil of what He created.",
+      "malay": "Daripada kejahatan makhluk yang Dia ciptakan.",
+      "tags": "al-falaq"
+    }
+  },
+  {
+    "id": "113:3",
+    "type": "quran",
+    "title": "Al-Falaq 3",
+    "excerpt": "And from the evil of darkness when it settles.",
+    "reference": "113:3",
+    "href": "/learn/quran/113#ayah-3",
+    "sourceLabel": "The Daybreak · makki",
+    "tags": [
+      "al-falaq",
+      "al-falaq",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Falaq The Daybreak الفلق",
+      "reference": "113:3",
+      "arabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "english": "And from the evil of darkness when it settles.",
+      "malay": "Dan daripada kejahatan malam apabila telah gelap gelita.",
+      "tags": "al-falaq"
+    }
+  },
+  {
+    "id": "113:4",
+    "type": "quran",
+    "title": "Al-Falaq 4",
+    "excerpt": "And from the evil of those who blow upon knots.",
+    "reference": "113:4",
+    "href": "/learn/quran/113#ayah-4",
+    "sourceLabel": "The Daybreak · makki",
+    "tags": [
+      "al-falaq",
+      "al-falaq",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Falaq The Daybreak الفلق",
+      "reference": "113:4",
+      "arabic": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "english": "And from the evil of those who blow upon knots.",
+      "malay": "Dan daripada kejahatan para peniup pada ikatan-ikatan.",
+      "tags": "al-falaq"
+    }
+  },
+  {
+    "id": "113:5",
+    "type": "quran",
+    "title": "Al-Falaq 5",
+    "excerpt": "And from the evil of an envier when he envies.",
+    "reference": "113:5",
+    "href": "/learn/quran/113#ayah-5",
+    "sourceLabel": "The Daybreak · makki",
+    "tags": [
+      "al-falaq",
+      "al-falaq",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "Al-Falaq The Daybreak الفلق",
+      "reference": "113:5",
+      "arabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "english": "And from the evil of an envier when he envies.",
+      "malay": "Dan daripada kejahatan orang yang dengki apabila dia dengki.",
+      "tags": "al-falaq"
+    }
+  },
+  {
+    "id": "114:1",
+    "type": "quran",
+    "title": "An-Nas 1",
+    "excerpt": "Say, I seek refuge in the Lord of mankind.",
+    "reference": "114:1",
+    "href": "/learn/quran/114#ayah-1",
+    "sourceLabel": "Mankind · makki",
+    "tags": [
+      "an-nas",
+      "an-nas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "An-Nas Mankind الناس",
+      "reference": "114:1",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "english": "Say, I seek refuge in the Lord of mankind.",
+      "malay": "Katakanlah: Aku berlindung kepada Tuhan manusia.",
+      "tags": "an-nas"
+    }
+  },
+  {
+    "id": "114:2",
+    "type": "quran",
+    "title": "An-Nas 2",
+    "excerpt": "The Sovereign of mankind.",
+    "reference": "114:2",
+    "href": "/learn/quran/114#ayah-2",
+    "sourceLabel": "Mankind · makki",
+    "tags": [
+      "an-nas",
+      "an-nas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "An-Nas Mankind الناس",
+      "reference": "114:2",
+      "arabic": "مَلِكِ النَّاسِ",
+      "english": "The Sovereign of mankind.",
+      "malay": "Raja manusia.",
+      "tags": "an-nas"
+    }
+  },
+  {
+    "id": "114:3",
+    "type": "quran",
+    "title": "An-Nas 3",
+    "excerpt": "The God of mankind.",
+    "reference": "114:3",
+    "href": "/learn/quran/114#ayah-3",
+    "sourceLabel": "Mankind · makki",
+    "tags": [
+      "an-nas",
+      "an-nas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "An-Nas Mankind الناس",
+      "reference": "114:3",
+      "arabic": "إِلَٰهِ النَّاسِ",
+      "english": "The God of mankind.",
+      "malay": "Sembahan manusia.",
+      "tags": "an-nas"
+    }
+  },
+  {
+    "id": "114:4",
+    "type": "quran",
+    "title": "An-Nas 4",
+    "excerpt": "From the evil of the retreating whisperer.",
+    "reference": "114:4",
+    "href": "/learn/quran/114#ayah-4",
+    "sourceLabel": "Mankind · makki",
+    "tags": [
+      "an-nas",
+      "an-nas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "An-Nas Mankind الناس",
+      "reference": "114:4",
+      "arabic": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "english": "From the evil of the retreating whisperer.",
+      "malay": "Daripada kejahatan pembisik yang bersembunyi.",
+      "tags": "an-nas"
+    }
+  },
+  {
+    "id": "114:5",
+    "type": "quran",
+    "title": "An-Nas 5",
+    "excerpt": "Who whispers into the hearts of mankind.",
+    "reference": "114:5",
+    "href": "/learn/quran/114#ayah-5",
+    "sourceLabel": "Mankind · makki",
+    "tags": [
+      "an-nas",
+      "an-nas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "An-Nas Mankind الناس",
+      "reference": "114:5",
+      "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "english": "Who whispers into the hearts of mankind.",
+      "malay": "Yang membisikkan ke dalam dada manusia.",
+      "tags": "an-nas"
+    }
+  },
+  {
+    "id": "114:6",
+    "type": "quran",
+    "title": "An-Nas 6",
+    "excerpt": "From among jinn and mankind.",
+    "reference": "114:6",
+    "href": "/learn/quran/114#ayah-6",
+    "sourceLabel": "Mankind · makki",
+    "tags": [
+      "an-nas",
+      "an-nas",
+      "makki"
+    ],
+    "priority": 4,
+    "searchText": {
+      "title": "An-Nas Mankind الناس",
+      "reference": "114:6",
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "english": "From among jinn and mankind.",
+      "malay": "Daripada kalangan jin dan manusia.",
+      "tags": "an-nas"
+    }
+  },
+  {
+    "id": "demo-tafseer-1-1-1",
+    "type": "tafseer",
+    "title": "Beginning with mercy",
+    "excerpt": "This opening teaches the believer to begin every meaningful action by remembering Allah and His mercy. It frames knowledge, worship, and daily life with humility and reliance.",
+    "reference": "1:1-1",
+    "href": "/learn/quran/1#ayah-1",
+    "sourceLabel": "Demo Tafseer",
+    "tags": [
+      "mercy",
+      "beginning",
+      "bismillah"
+    ],
+    "priority": 3,
+    "searchText": {
+      "title": "Beginning with mercy",
+      "body": "This opening teaches the believer to begin every meaningful action by remembering Allah and His mercy. It frames knowledge, worship, and daily life with humility and reliance.",
+      "tags": "mercy beginning bismillah",
+      "source": "Demo Tafseer",
+      "reference": "1:1-1"
+    }
+  },
+  {
+    "id": "demo-tafseer-1-2-4",
+    "type": "tafseer",
+    "title": "Praise, mercy, and accountability",
+    "excerpt": "These ayat gather the believer between gratitude, hope, and awareness of the Day of Recompense. NOOR will later support long-form tafseer entries and ayah ranges.",
+    "reference": "1:2-4",
+    "href": "/learn/quran/1#ayah-2",
+    "sourceLabel": "Demo Tafseer",
+    "tags": [
+      "gratitude",
+      "mercy",
+      "accountability"
+    ],
+    "priority": 3,
+    "searchText": {
+      "title": "Praise, mercy, and accountability",
+      "body": "These ayat gather the believer between gratitude, hope, and awareness of the Day of Recompense. NOOR will later support long-form tafseer entries and ayah ranges.",
+      "tags": "gratitude mercy accountability",
+      "source": "Demo Tafseer",
+      "reference": "1:2-4"
+    }
+  },
+  {
+    "id": "demo-tafseer-1-5-7",
+    "type": "tafseer",
+    "title": "Worship and guidance",
+    "excerpt": "The servant declares worship for Allah alone and asks for guidance. This becomes the daily heart of Muslim practice and learning.",
+    "reference": "1:5-7",
+    "href": "/learn/quran/1#ayah-5",
+    "sourceLabel": "Demo Tafseer",
+    "tags": [
+      "worship",
+      "guidance",
+      "dua"
+    ],
+    "priority": 3,
+    "searchText": {
+      "title": "Worship and guidance",
+      "body": "The servant declares worship for Allah alone and asks for guidance. This becomes the daily heart of Muslim practice and learning.",
+      "tags": "worship guidance dua",
+      "source": "Demo Tafseer",
+      "reference": "1:5-7"
+    }
+  },
+  {
+    "id": "demo-tafseer-112-1-4",
+    "type": "tafseer",
+    "title": "Pure tawhid",
+    "excerpt": "Surah Al-Ikhlas summarizes the oneness and uniqueness of Allah. It is short in words and immense in meaning.",
+    "reference": "112:1-4",
+    "href": "/learn/quran/112#ayah-1",
+    "sourceLabel": "Demo Tafseer",
+    "tags": [
+      "tawhid",
+      "ikhlas",
+      "faith"
+    ],
+    "priority": 3,
+    "searchText": {
+      "title": "Pure tawhid",
+      "body": "Surah Al-Ikhlas summarizes the oneness and uniqueness of Allah. It is short in words and immense in meaning.",
+      "tags": "tawhid ikhlas faith",
+      "source": "Demo Tafseer",
+      "reference": "112:1-4"
+    }
+  },
+  {
+    "id": "demo-tafseer-113-1-5",
+    "type": "tafseer",
+    "title": "Seeking refuge from external harms",
+    "excerpt": "Surah Al-Falaq teaches the believer to seek refuge with the Lord of daybreak from created harms, darkness, hidden harm, and envy.",
+    "reference": "113:1-5",
+    "href": "/learn/quran/113#ayah-1",
+    "sourceLabel": "Demo Tafseer",
+    "tags": [
+      "protection",
+      "refuge",
+      "envy"
+    ],
+    "priority": 3,
+    "searchText": {
+      "title": "Seeking refuge from external harms",
+      "body": "Surah Al-Falaq teaches the believer to seek refuge with the Lord of daybreak from created harms, darkness, hidden harm, and envy.",
+      "tags": "protection refuge envy",
+      "source": "Demo Tafseer",
+      "reference": "113:1-5"
+    }
+  },
+  {
+    "id": "demo-tafseer-114-1-6",
+    "type": "tafseer",
+    "title": "Seeking refuge from whispers",
+    "excerpt": "Surah An-Nas directs the heart to Allah as Lord, King, and God of mankind while seeking protection from whispers that affect the inner life.",
+    "reference": "114:1-6",
+    "href": "/learn/quran/114#ayah-1",
+    "sourceLabel": "Demo Tafseer",
+    "tags": [
+      "protection",
+      "waswas",
+      "heart"
+    ],
+    "priority": 3,
+    "searchText": {
+      "title": "Seeking refuge from whispers",
+      "body": "Surah An-Nas directs the heart to Allah as Lord, King, and God of mankind while seeking protection from whispers that affect the inner life.",
+      "tags": "protection waswas heart",
+      "source": "Demo Tafseer",
+      "reference": "114:1-6"
+    }
+  }
+]

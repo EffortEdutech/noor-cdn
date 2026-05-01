@@ -1,0 +1,13 @@
+{
+  "name": "NOOR CDN Search Index",
+  "generatedAt": "2026-05-01T06:49:07.730Z",
+  "sourceRoot": "content-pipeline/dist/noor-cdn",
+  "outputRoot": "content-pipeline/dist/noor-cdn",
+  "totalEntries": 30,
+  "sha256": "a0157c210d41bd800fb8bbb86ab848c2d4fb875e64bb536cf2a316fa6d3016b0",
+  "byType": {
+    "hadith": 2,
+    "quran": 22,
+    "tafseer": 6
+  }
+}

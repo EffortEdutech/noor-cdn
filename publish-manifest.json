@@ -2,12 +2,12 @@
   "name": "NOOR CDN Publish Pack",
   "appVersion": "0.25.0",
   "appLabel": "Sprint 25 Production CDN v1 Promotion",
-  "generatedAt": "2026-05-01T04:23:23.766Z",
+  "generatedAt": "2026-05-01T06:49:08.583Z",
   "sourceRoot": "content-pipeline/dist/noor-cdn",
   "publishRoot": "content-pipeline/publish/noor-cdn-gh-pages",
   "publicSubfolder": "noor-cdn",
-  "totalFiles": 13,
-  "totalJsonFiles": 13,
+  "totalFiles": 14,
+  "totalJsonFiles": 14,
   "hosting": {
     "githubPagesBase": "https://effortedutech.github.io/noor-cdn/noor-cdn",
     "jsDelivrBase": "https://cdn.jsdelivr.net/gh/EffortEdutech/noor-cdn@main/noor-cdn"
@@ -18,7 +18,8 @@
     "noor-cdn/metadata/surah-index.json",
     "noor-cdn/quran/surahs/001.json",
     "noor-cdn/tafseer/demo-tafseer/surahs/001.json",
-    "noor-cdn/hadith/collections.json"
+    "noor-cdn/hadith/collections.json",
+    "noor-cdn/search/search-index.json"
   ],
   "files": [
     {
@@ -33,8 +34,8 @@
     },
     {
       "path": "noor-cdn/manifest/noor-content-health.json",
-      "bytes": 2158,
-      "sha256": "fdf1324bcbd24379b973427933be371e32663e5b38f39e114e146b14398a4aac"
+      "bytes": 2188,
+      "sha256": "84c2dc609f4b7cff225a53fe1174e8172c4f35a8e8a7f9472a09600f659ab6d6"
     },
     {
       "path": "noor-cdn/manifest/noor-content-manifest.json",
@@ -45,6 +46,11 @@
       "path": "noor-cdn/manifest/noor-source-registry.json",
       "bytes": 1285,
       "sha256": "ceda157ee8327b24ee5a5a152215568d6bad7433d49ddd19e4c5623e77eab9a1"
+    },
+    {
+      "path": "noor-cdn/manifest/search-index-manifest.json",
+      "bytes": 355,
+      "sha256": "6f0c3a1824739ec065e76454c44b6019e71238ace48bbd33f9a4b398b9ce8757"
     },
     {
       "path": "noor-cdn/quran/surahs/001.json",
