@@ -47,17 +47,24 @@
         "ur"
       ],
       "itemCount": 102012,
-      "updatedAt": "2026-05-01T09:59:14.073Z",
-      "notes": "Staging migration only. Each old language edition becomes a NOOR collection."
+      "updatedAt": "2026-05-02T05:01:45.759Z",
+      "notes": "Staging migration only. Sprint 27.9.1 normalized every Hadith collection ID to avoid duplicate React keys and CDN path collisions."
     }
+  },
+  "updatedAt": "2026-05-02T05:01:45.759Z",
+  "hadithIdNormalization": {
+    "sprint": "27.9.1",
+    "status": "normalized",
+    "generatedAt": "2026-05-02T05:01:45.759Z",
+    "rule": "Hadith collection IDs are globally unique across migrated ilm-mate source files."
   },
   "search": {
     "format": "sharded-v1",
     "compatibilityIndex": "search/search-index.json",
     "liteIndex": "search/search-index-lite.json",
     "shardManifest": "manifest/search-index-manifest.json",
-    "shardCount": 14,
-    "totalEntries": 147277,
+    "shardCount": 13,
+    "totalEntries": 145664,
     "githubSafe": true
   }
 }

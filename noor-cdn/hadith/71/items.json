@@ -10,7 +10,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-2",
@@ -23,7 +27,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-3",
@@ -36,7 +44,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-4",
@@ -49,7 +61,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-5",
@@ -62,7 +78,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-6",
@@ -75,7 +95,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-7",
@@ -88,7 +112,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-8",
@@ -101,7 +129,11 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   },
   {
     "id": "71-9",
@@ -114,6 +146,10 @@
     "tags": [
       "en",
       "71"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/71.json",
+      "oldCollectionId": "71"
+    }
   }
 ]

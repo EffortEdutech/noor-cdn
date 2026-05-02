@@ -10,7 +10,11 @@
     "tags": [
       "en",
       "8b"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/8b.json",
+      "oldCollectionId": "8b"
+    }
   },
   {
     "id": "8b-2",
@@ -23,6 +27,10 @@
     "tags": [
       "en",
       "8b"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/8b.json",
+      "oldCollectionId": "8b"
+    }
   }
 ]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "by-chapter-other-books-riyad-assalihin-13-1",
+    "collectionId": "by-chapter-other-books-riyad-assalihin-13",
+    "book": "riyad_assalihin",
+    "number": "1",
+    "arabic": "وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم أتي ليلة أسري به بقدحين من خمر ولبن، فنظر إليهما فأخذ اللبن، فقال جبريل صلى الله عليه وسلم‏:‏ ‏\"‏الحمد لله الذي هداك للفطرة لو أخذت الخمر غوت أمتك” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · 13",
+    "tags": [
+      "en",
+      "by-chapter-other-books-riyad-assalihin-13"
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/13.json",
+      "oldCollectionId": "13"
+    }
+  },
+  {
+    "id": "by-chapter-other-books-riyad-assalihin-13-2",
+    "collectionId": "by-chapter-other-books-riyad-assalihin-13",
+    "book": "riyad_assalihin",
+    "number": "2",
+    "arabic": "وعنه عن رسول الله صلى الله عليه وسلم قال‏:‏ ‏ \"‏كل أمر ذي بال لا يبدأ فيه‏:‏ بالحمد لله فهو أقطع‏\"‏ حديث حسن، ‏(‏‏(‏رواه أبو داود وغيره‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · 13",
+    "tags": [
+      "en",
+      "by-chapter-other-books-riyad-assalihin-13"
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/13.json",
+      "oldCollectionId": "13"
+    }
+  },
+  {
+    "id": "by-chapter-other-books-riyad-assalihin-13-3",
+    "collectionId": "by-chapter-other-books-riyad-assalihin-13",
+    "book": "riyad_assalihin",
+    "number": "3",
+    "arabic": "وعن أبي موسى الأشعري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏ \"‏إذا مات ولد العبد قال الله تعالى لملائكته‏:‏ قبضتم ولد عبدي‏؟‏ فَيقولون : نَعَمْ ، فيقول : قَبَضْتُمْ ثَمَرَةَ فُؤادِهِ ؟ فيقولون : نَعَمْ ، فيقول : فماذا قال عبدي‏؟‏ فيقولون‏:‏ حمدك واسترجع، فيقول الله تعالى‏:‏ ابنوا لعبدي بيتًا في الجنة، وسموه بيت الحمد‏\"‏‏.‏ رواه الترمذي وقال حديث حسن‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · 13",
+    "tags": [
+      "en",
+      "by-chapter-other-books-riyad-assalihin-13"
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/13.json",
+      "oldCollectionId": "13"
+    }
+  },
+  {
+    "id": "by-chapter-other-books-riyad-assalihin-13-4",
+    "collectionId": "by-chapter-other-books-riyad-assalihin-13",
+    "book": "riyad_assalihin",
+    "number": "4",
+    "arabic": "وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏ \"‏إن الله ليرضى عن العبد يأكل الأكلة فيحمده عليها، ويشرب الشربة، فيحمده عليها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · 13",
+    "tags": [
+      "en",
+      "by-chapter-other-books-riyad-assalihin-13"
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/13.json",
+      "oldCollectionId": "13"
+    }
+  }
+]

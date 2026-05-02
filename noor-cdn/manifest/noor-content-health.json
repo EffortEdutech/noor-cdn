@@ -48,12 +48,19 @@
           "ur"
         ],
         "itemCount": 102012,
-        "updatedAt": "2026-05-01T09:59:14.073Z",
-        "notes": "Staging migration only. Each old language edition becomes a NOOR collection."
+        "updatedAt": "2026-05-02T05:01:45.759Z",
+        "notes": "Staging migration only. Sprint 27.9.1 normalized every Hadith collection ID to avoid duplicate React keys and CDN path collisions."
       }
+    },
+    "updatedAt": "2026-05-02T05:01:45.759Z",
+    "hadithIdNormalization": {
+      "sprint": "27.9.1",
+      "status": "normalized",
+      "generatedAt": "2026-05-02T05:01:45.759Z",
+      "rule": "Hadith collection IDs are globally unique across migrated ilm-mate source files."
     }
   },
-  "generatedAt": "2026-05-01T09:59:21.372Z",
+  "generatedAt": "2026-05-02T05:01:45.759Z",
   "isHealthy": true,
   "summary": {
     "surahIndexedCount": 114,
@@ -79,6 +86,21 @@
       "severity": "info",
       "area": "manifest",
       "message": "Sprint 26.5 output is staging-only. Do not publish as production CDN until NOOR review approval passes."
+    },
+    {
+      "severity": "info",
+      "area": "hadith",
+      "message": "Sprint 27.9.1 normalized Hadith collection IDs. Duplicate final IDs: 0."
+    },
+    {
+      "severity": "info",
+      "area": "hadith",
+      "message": "Old duplicate groups resolved: 72."
+    },
+    {
+      "severity": "info",
+      "area": "hadith",
+      "message": "This remains staging-only content. Production CDN remains blocked."
     }
   ]
 }

@@ -10,7 +10,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-2",
@@ -23,7 +27,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-3",
@@ -36,7 +44,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-4",
@@ -49,7 +61,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-5",
@@ -62,7 +78,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-6",
@@ -75,7 +95,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-7",
@@ -88,7 +112,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-8",
@@ -101,7 +129,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-9",
@@ -114,7 +146,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-10",
@@ -127,7 +163,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-11",
@@ -140,7 +180,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-12",
@@ -153,7 +197,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-13",
@@ -166,7 +214,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-14",
@@ -179,7 +231,11 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   },
   {
     "id": "84-15",
@@ -192,6 +248,10 @@
     "tags": [
       "en",
       "84"
-    ]
+    ],
+    "migration": {
+      "sourcePath": "hadith/db/by_chapter/the_9_books/bukhari/84.json",
+      "oldCollectionId": "84"
+    }
   }
 ]
