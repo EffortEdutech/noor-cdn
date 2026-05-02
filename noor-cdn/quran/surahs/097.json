@@ -1,0 +1,73 @@
+{
+  "surah": {
+    "number": 97,
+    "slug": "al-qadr",
+    "nameArabic": "القدر",
+    "nameTransliteration": "Al-Qadr",
+    "nameEnglish": "The Power",
+    "revelation": "makki",
+    "ayahCount": 5
+  },
+  "ayahs": [
+    {
+      "surah": 97,
+      "ayah": 1,
+      "key": "97:1",
+      "arabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "translations": {
+        "en": "We have indeed revealed this (Message) in the Night of Power:",
+        "ms": "Sesungguhnya Kami telah menurunkan (Al-Quran) ini pada Malam Lailatul-Qadar",
+        "id": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ"
+      },
+      "transliteration": "Inna anzalnahu fee laylati alqadri"
+    },
+    {
+      "surah": 97,
+      "ayah": 2,
+      "key": "97:2",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "translations": {
+        "en": "And what will explain to thee what the night of power is?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui apa dia kebesaran Malam Lailatul-Qadar itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ"
+      },
+      "transliteration": "Wama adraka ma laylatu alqadri"
+    },
+    {
+      "surah": 97,
+      "ayah": 3,
+      "key": "97:3",
+      "arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "translations": {
+        "en": "The Night of Power is better than a thousand months.",
+        "ms": "Malam Lailatul-Qadar lebih baik daripada seribu bulan",
+        "id": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ"
+      },
+      "transliteration": "Laylatu alqadri khayrun min alfi shahrin"
+    },
+    {
+      "surah": 97,
+      "ayah": 4,
+      "key": "97:4",
+      "arabic": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "translations": {
+        "en": "Therein come down the angels and the Spirit by Allah's permission, on every errand:",
+        "ms": "Pada Malam itu, turun malaikat dan Jibril dengan izin Tuhan mereka, kerana membawa segala perkara (yang ditakdirkan berlakunya pada tahun yang berikut)",
+        "id": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ"
+      },
+      "transliteration": "Tanazzalu almalaikatu waalrroohu feeha biithni rabbihim min kulli amrin"
+    },
+    {
+      "surah": 97,
+      "ayah": 5,
+      "key": "97:5",
+      "arabic": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "translations": {
+        "en": "Peace!... This until the rise of morn!",
+        "ms": "Sejahteralah Malam (yang berkat) itu hingga terbit fajar",
+        "id": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ"
+      },
+      "transliteration": "Salamun hiya hatta matlaAAi alfajri"
+    }
+  ]
+}

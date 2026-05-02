@@ -1,0 +1,277 @@
+{
+  "surah": {
+    "number": 85,
+    "slug": "al-burooj",
+    "nameArabic": "البروج",
+    "nameTransliteration": "Al-Burooj",
+    "nameEnglish": "The Mansions of the Stars",
+    "revelation": "makki",
+    "ayahCount": 22
+  },
+  "ayahs": [
+    {
+      "surah": 85,
+      "ayah": 1,
+      "key": "85:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "translations": {
+        "en": "By the sky, (displaying) the Zodiacal Signs;",
+        "ms": "Demi langit yang mempunyai tempat-tempat peredaran bintang-bintang",
+        "id": "وَٱلسَّمَآءِ ذَاتِ ٱلۡبُرُوجِ"
+      },
+      "transliteration": "Waalssamai thati alburooji"
+    },
+    {
+      "surah": 85,
+      "ayah": 2,
+      "key": "85:2",
+      "arabic": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "translations": {
+        "en": "By the promised Day (of Judgment);",
+        "ms": "Dan hari (pembalasan) yang dijanjikan",
+        "id": "وَٱلۡيَوۡمِ ٱلۡمَوۡعُودِ"
+      },
+      "transliteration": "Waalyawmi almawAAoodi"
+    },
+    {
+      "surah": 85,
+      "ayah": 3,
+      "key": "85:3",
+      "arabic": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "translations": {
+        "en": "By one that witnesses, and the subject of the witness;-",
+        "ms": "Dan makhluk-makhluk yang hadir menyaksikan hari itu, serta segala keadaan yang disaksikan",
+        "id": "وَشَاهِدٖ وَمَشۡهُودٖ"
+      },
+      "transliteration": "Washahidin wamashhoodin"
+    },
+    {
+      "surah": 85,
+      "ayah": 4,
+      "key": "85:4",
+      "arabic": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "translations": {
+        "en": "Woe to the makers of the pit (of fire),",
+        "ms": "Celakalah kaum yang menggali parit",
+        "id": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ"
+      },
+      "transliteration": "Qutila ashabu alukhdoodi"
+    },
+    {
+      "surah": 85,
+      "ayah": 5,
+      "key": "85:5",
+      "arabic": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "translations": {
+        "en": "Fire supplied (abundantly) with fuel:",
+        "ms": "(Parit) api yang penuh dengan bahan bakaran",
+        "id": "ٱلنَّارِ ذَاتِ ٱلۡوَقُودِ"
+      },
+      "transliteration": "Alnnari thati alwaqoodi"
+    },
+    {
+      "surah": 85,
+      "ayah": 6,
+      "key": "85:6",
+      "arabic": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "translations": {
+        "en": "Behold! they sat over against the (fire),",
+        "ms": "(Mereka dilaknat) ketika mereka duduk di kelilingnya",
+        "id": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ"
+      },
+      "transliteration": "Ith hum AAalayha quAAoodun"
+    },
+    {
+      "surah": 85,
+      "ayah": 7,
+      "key": "85:7",
+      "arabic": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "translations": {
+        "en": "And they witnessed (all) that they were doing against the Believers.",
+        "ms": "Sambil mereka melihat apa yang mereka lakukan kepada orang-orang yang beriman",
+        "id": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ"
+      },
+      "transliteration": "Wahum AAala ma yafAAaloona bialmumineena shuhoodun"
+    },
+    {
+      "surah": 85,
+      "ayah": 8,
+      "key": "85:8",
+      "arabic": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "translations": {
+        "en": "And they ill-treated them for no other reason than that they believed in Allah, Exalted in Power, Worthy of all Praise!-",
+        "ms": "Dan mereka tidak marah dan menyeksakan orang-orang yang beriman itu melainkan kerana orang-orang itu beriman kepada Allah Yang Maha Kuasa, lagi Maha Terpuji",
+        "id": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ"
+      },
+      "transliteration": "Wama naqamoo minhum illa an yuminoo biAllahi alAAazeezi alhameedi"
+    },
+    {
+      "surah": 85,
+      "ayah": 9,
+      "key": "85:9",
+      "arabic": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "translations": {
+        "en": "Him to Whom belongs the dominion of the heavens and the earth! And Allah is Witness to all things.",
+        "ms": "Tuhan yang menguasai segala alam langit dan bumi. Dan (ingatlah), Allah sentiasa menyaksikan tiap-tiap sesuatu",
+        "id": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ"
+      },
+      "transliteration": "Allathee lahu mulku alssamawati waalardi waAllahu AAala kulli shayin shaheedun"
+    },
+    {
+      "surah": 85,
+      "ayah": 10,
+      "key": "85:10",
+      "arabic": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "translations": {
+        "en": "Those who persecute (or draw into temptation) the Believers, men and women, and do not turn in repentance, will have the Penalty of Hell: They will have the Penalty of the Burning Fire.",
+        "ms": "Sesungguhnya orang-orang yang menimpakan bencana untuk memesongkan orang-orang lelaki yang beriman dan orang-orang perempuan yang beriman, kemudian mereka tidak bertaubat, maka mereka akan beroleh azab neraka Jahannam (kerana perbuatan buruk itu), dan mereka akan beroleh lagi azab api yang kuat membakar (kerana mereka tidak bertaubat)",
+        "id": "إِنَّ ٱلَّذِينَ فَتَنُواْ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ ثُمَّ لَمۡ يَتُوبُواْ فَلَهُمۡ عَذَابُ جَهَنَّمَ وَلَهُمۡ عَذَابُ ٱلۡحَرِيقِ"
+      },
+      "transliteration": "Inna allatheena fatanoo almumineena waalmuminati thumma lam yatooboo falahum AAathabu jahannama walahum AAathabu alhareeqi"
+    },
+    {
+      "surah": 85,
+      "ayah": 11,
+      "key": "85:11",
+      "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "translations": {
+        "en": "For those who believe and do righteous deeds, will be Gardens; beneath which rivers flow: That is the great Salvation, (the fulfilment of all desires),",
+        "ms": "Sesungguhnya orang-orang yang beriman dan beramal soleh, mereka akan beroleh Syurga yang mengalir di bawahnya beberapa sungai; yang demikian itu ialah kemenangan yang besar",
+        "id": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ جَنَّـٰتٞ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡكَبِيرُ"
+      },
+      "transliteration": "Inna allatheena amanoo waAAamiloo alssalihati lahum jannatun tajree min tahtiha alanharu thalika alfawzu alkabeeru"
+    },
+    {
+      "surah": 85,
+      "ayah": 12,
+      "key": "85:12",
+      "arabic": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "translations": {
+        "en": "Truly strong is the Grip (and Power) of thy Lord.",
+        "ms": "Sesungguhnya azab Tuhanmu (terhadap orang-orang yang kufur ingkar) amatlah berat",
+        "id": "إِنَّ بَطۡشَ رَبِّكَ لَشَدِيدٌ"
+      },
+      "transliteration": "Inna batsha rabbika lashadeedun"
+    },
+    {
+      "surah": 85,
+      "ayah": 13,
+      "key": "85:13",
+      "arabic": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "translations": {
+        "en": "It is He Who creates from the very beginning, and He can restore (life).",
+        "ms": "Sesungguhnya Dia lah yang menciptakan (sekalian makhluk) pada mulanya, dan yang mengembalikannya (hidup semula sesudah mati)",
+        "id": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ"
+      },
+      "transliteration": "Innahu huwa yubdio wayuAAeedu"
+    },
+    {
+      "surah": 85,
+      "ayah": 14,
+      "key": "85:14",
+      "arabic": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "translations": {
+        "en": "And He is the Oft-Forgiving, Full of Loving-Kindness,",
+        "ms": "Dan Dia lah yang Maha Pengampun, lagi Maha Pengasih",
+        "id": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ"
+      },
+      "transliteration": "Wahuwa alghafooru alwadoodu"
+    },
+    {
+      "surah": 85,
+      "ayah": 15,
+      "key": "85:15",
+      "arabic": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "translations": {
+        "en": "Lord of the Throne of Glory,",
+        "ms": "Tuhan yang mempunyai Arasy yang tinggi kemuliaannya",
+        "id": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ"
+      },
+      "transliteration": "Thoo alAAarshi almajeedi"
+    },
+    {
+      "surah": 85,
+      "ayah": 16,
+      "key": "85:16",
+      "arabic": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "translations": {
+        "en": "Doer (without let) of all that He intends.",
+        "ms": "Yang berkuasa melakukan segala yang dikehendakinya",
+        "id": "فَعَّالٞ لِّمَا يُرِيدُ"
+      },
+      "transliteration": "FaAAAAalun lima yureedu"
+    },
+    {
+      "surah": 85,
+      "ayah": 17,
+      "key": "85:17",
+      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "translations": {
+        "en": "Has the story reached thee, of the forces-",
+        "ms": "Sudahkah sampai kepadamu (wahai Muhammad) perihal (kebinasaan yang telah menimpa) kaum-kaum yang menentang (Rasul-rasul yang diutuskan kepada mereka)",
+        "id": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡجُنُودِ"
+      },
+      "transliteration": "Hal ataka hadeethu aljunoodi"
+    },
+    {
+      "surah": 85,
+      "ayah": 18,
+      "key": "85:18",
+      "arabic": "فِرْعَوْنَ وَثَمُودَ",
+      "translations": {
+        "en": "Of Pharaoh and the Thamud?",
+        "ms": "(Mereka itu ialah kaum) Firaun, dan Thamud (kaum Nabi Soleh)",
+        "id": "فِرۡعَوۡنَ وَثَمُودَ"
+      },
+      "transliteration": "FirAAawna wathamooda"
+    },
+    {
+      "surah": 85,
+      "ayah": 19,
+      "key": "85:19",
+      "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "translations": {
+        "en": "And yet the Unbelievers (persist) in rejecting (the Truth)!",
+        "ms": "(Kaummu wahai Muhammad, bukan sahaja menolak ajaranmu), bahkan orang-orang yang kafir itu terus tenggelam dalam keadaan mendustakan kebenaran",
+        "id": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ"
+      },
+      "transliteration": "Bali allatheena kafaroo fee taktheebin"
+    },
+    {
+      "surah": 85,
+      "ayah": 20,
+      "key": "85:20",
+      "arabic": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "translations": {
+        "en": "But Allah doth encompass them from behind!",
+        "ms": "Sedang Allah, dari belakang mereka, melingkungi mereka (dengan kekuasaanNya)",
+        "id": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطُۢ"
+      },
+      "transliteration": "WaAllahu min waraihim muheetun"
+    },
+    {
+      "surah": 85,
+      "ayah": 21,
+      "key": "85:21",
+      "arabic": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "translations": {
+        "en": "Nay, this is a Glorious Qur'an,",
+        "ms": "(Sebenarnya apa yang engkau sampaikan kepada mereka bukanlah syair atau sihir), bahkan ialah Al-Quran yang tertinggi kemuliaannya",
+        "id": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ"
+      },
+      "transliteration": "Bal huwa quranun majeedun"
+    },
+    {
+      "surah": 85,
+      "ayah": 22,
+      "key": "85:22",
+      "arabic": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "translations": {
+        "en": "(Inscribed) in a Tablet Preserved!",
+        "ms": "(Lagi yang terpelihara dengan sebaik-baiknya) pada Lauh Mahfuz",
+        "id": "فِي لَوۡحٖ مَّحۡفُوظِۭ"
+      },
+      "transliteration": "Fee lawhin mahfoothin"
+    }
+  ]
+}

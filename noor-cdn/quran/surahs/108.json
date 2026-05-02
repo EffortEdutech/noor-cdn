@@ -1,0 +1,49 @@
+{
+  "surah": {
+    "number": 108,
+    "slug": "al-kawthar",
+    "nameArabic": "الكوثر",
+    "nameTransliteration": "Al-Kawthar",
+    "nameEnglish": "The Abundance",
+    "revelation": "makki",
+    "ayahCount": 3
+  },
+  "ayahs": [
+    {
+      "surah": 108,
+      "ayah": 1,
+      "key": "108:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "translations": {
+        "en": "To thee have We granted the Fount (of Abundance).",
+        "ms": "Sesungguhnya Kami telah mengurniakan kepadamu (wahai Muhammad) kebaikan yang banyak (di dunia dan di akhirat)",
+        "id": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ"
+      },
+      "transliteration": "Inna aAAtaynaka alkawthara"
+    },
+    {
+      "surah": 108,
+      "ayah": 2,
+      "key": "108:2",
+      "arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "translations": {
+        "en": "Therefore to thy Lord turn in Prayer and Sacrifice.",
+        "ms": "Oleh itu, kerjakanlah sembahyang kerana Tuhanmu semata-mata, dan sembelihlah korban (sebagai bersyukur)",
+        "id": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ"
+      },
+      "transliteration": "Fasalli lirabbika wainhar"
+    },
+    {
+      "surah": 108,
+      "ayah": 3,
+      "key": "108:3",
+      "arabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "translations": {
+        "en": "For he who hateth thee, he will be cut off (from Future Hope).",
+        "ms": "Sesungguhnya orang yang bencikan engkau, Dia lah yang terputus (dari mendapat sebarang perkara yang diingininya)",
+        "id": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ"
+      },
+      "transliteration": "Inna shaniaka huwa alabtaru"
+    }
+  ]
+}

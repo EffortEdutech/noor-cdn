@@ -1,0 +1,241 @@
+{
+  "surah": {
+    "number": 82,
+    "slug": "al-infitaar",
+    "nameArabic": "الانفطار",
+    "nameTransliteration": "Al-Infitaar",
+    "nameEnglish": "The Cleaving",
+    "revelation": "makki",
+    "ayahCount": 19
+  },
+  "ayahs": [
+    {
+      "surah": 82,
+      "ayah": 1,
+      "key": "82:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "translations": {
+        "en": "When the Sky is cleft asunder;",
+        "ms": "Apabila langit terbelah",
+        "id": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ"
+      },
+      "transliteration": "Itha alssamao infatarat"
+    },
+    {
+      "surah": 82,
+      "ayah": 2,
+      "key": "82:2",
+      "arabic": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "translations": {
+        "en": "When the Stars are scattered;",
+        "ms": "Dan apabila bintang-bintang gugur bertaburan",
+        "id": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ"
+      },
+      "transliteration": "Waitha alkawakibu intatharat"
+    },
+    {
+      "surah": 82,
+      "ayah": 3,
+      "key": "82:3",
+      "arabic": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "translations": {
+        "en": "When the Oceans are suffered to burst forth;",
+        "ms": "Dan apabila lautan pecah bercampur-baur",
+        "id": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ"
+      },
+      "transliteration": "Waitha albiharu fujjirat"
+    },
+    {
+      "surah": 82,
+      "ayah": 4,
+      "key": "82:4",
+      "arabic": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "translations": {
+        "en": "And when the Graves are turned upside down;-",
+        "ms": "Dan apabila kubur-kubur dibongkarkan",
+        "id": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ"
+      },
+      "transliteration": "Waitha alqubooru buAAthirat"
+    },
+    {
+      "surah": 82,
+      "ayah": 5,
+      "key": "82:5",
+      "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "translations": {
+        "en": "(Then) shall each soul know what it hath sent forward and (what it hath) kept back.",
+        "ms": "(Setelah semuanya itu berlaku), tiap-tiap orang akan mengetahui apa yang telah dikerjakan dan ditinggalkannya",
+        "id": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ"
+      },
+      "transliteration": "AAalimat nafsun ma qaddamat waakhkharat"
+    },
+    {
+      "surah": 82,
+      "ayah": 6,
+      "key": "82:6",
+      "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "translations": {
+        "en": "O man! What has seduced thee from thy Lord Most Beneficent?-",
+        "ms": "Wahai manusia! Apakah yang memperdayakanmu - (berlaku derhaka) kepada Tuhanmu yang Maha Pemurah",
+        "id": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ"
+      },
+      "transliteration": "Ya ayyuha alinsanu ma gharraka birabbika alkareemi"
+    },
+    {
+      "surah": 82,
+      "ayah": 7,
+      "key": "82:7",
+      "arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "translations": {
+        "en": "Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;",
+        "ms": "Tuhan yang telah mencipta dan mengatur kejadianmu, lalu menjadikan anggotamu sesuai (dengan tujuan yang kerananya anggota itu diadakan), serta menjadikan (binaan tubuh badanmu) sama padan dengan kekuatannya",
+        "id": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ"
+      },
+      "transliteration": "Allathee khalaqaka fasawwaka faAAadalaka"
+    },
+    {
+      "surah": 82,
+      "ayah": 8,
+      "key": "82:8",
+      "arabic": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "translations": {
+        "en": "In whatever Form He wills, does He put thee together.",
+        "ms": "Dalam bentuk dan rupa apa sahaja yang dikehendakiNya, Ia menyusun kejadianmu",
+        "id": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ"
+      },
+      "transliteration": "Fee ayyi sooratin ma shaa rakkabaka"
+    },
+    {
+      "surah": 82,
+      "ayah": 9,
+      "key": "82:9",
+      "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "translations": {
+        "en": "Nay! But ye do reject Right and Judgment!",
+        "ms": "Sebenarnya tidak ada yang memperdayakan kamu (hai golongan yang ingkar)! Bahkan kamu sendiri tidak percayakan adanya hari pembalasan",
+        "id": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ"
+      },
+      "transliteration": "Kalla bal tukaththiboona bialddeeni"
+    },
+    {
+      "surah": 82,
+      "ayah": 10,
+      "key": "82:10",
+      "arabic": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+      "translations": {
+        "en": "But verily over you (are appointed angels) to protect you,-",
+        "ms": "Padahal sesungguhnya, ada malaikat-malaikat yang menjaga dan mengawas segala bawaan kamu",
+        "id": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ"
+      },
+      "transliteration": "Wainna AAalaykum lahafitheena"
+    },
+    {
+      "surah": 82,
+      "ayah": 11,
+      "key": "82:11",
+      "arabic": "كِرَامًا كَـٰتِبِينَ",
+      "translations": {
+        "en": "Kind and honourable,- Writing down (your deeds):",
+        "ms": "(Mereka adalah makhluk) yang mulia (di sisi Allah), lagi ditugaskan menulis (amal-amal kamu)",
+        "id": "كِرَامٗا كَٰتِبِينَ"
+      },
+      "transliteration": "Kiraman katibeena"
+    },
+    {
+      "surah": 82,
+      "ayah": 12,
+      "key": "82:12",
+      "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "translations": {
+        "en": "They know (and understand) all that ye do.",
+        "ms": "Mereka mengetahui apa yang kamu lakukan",
+        "id": "يَعۡلَمُونَ مَا تَفۡعَلُونَ"
+      },
+      "transliteration": "YaAAlamoona ma tafAAaloona"
+    },
+    {
+      "surah": 82,
+      "ayah": 13,
+      "key": "82:13",
+      "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "translations": {
+        "en": "As for the Righteous, they will be in bliss;",
+        "ms": "(Gunanya catitan malaikat-malaikat itu ialah: untuk menyatakan siapa yang berbakti dan siapa yang bersalah) - kerana sesungguhnya: orang-orang yang berbakti (dengan taat dan amal kebajikan), tetap berada dalam Syurga yang penuh nikmat",
+        "id": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ"
+      },
+      "transliteration": "Inna alabrara lafee naAAeemin"
+    },
+    {
+      "surah": 82,
+      "ayah": 14,
+      "key": "82:14",
+      "arabic": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "translations": {
+        "en": "And the Wicked - they will be in the Fire,",
+        "ms": "Dan sesungguhnya orang-orang yang bersalah, bertempat dalam neraka yang menjulang-julang",
+        "id": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ"
+      },
+      "transliteration": "Wainna alfujjara lafee jaheemin"
+    },
+    {
+      "surah": 82,
+      "ayah": 15,
+      "key": "82:15",
+      "arabic": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "translations": {
+        "en": "Which they will enter on the Day of Judgment,",
+        "ms": "Mereka menderita bakaran neraka itu pada hari pembalasan",
+        "id": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ"
+      },
+      "transliteration": "Yaslawnaha yawma alddeeni"
+    },
+    {
+      "surah": 82,
+      "ayah": 16,
+      "key": "82:16",
+      "arabic": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "translations": {
+        "en": "And they will not be able to keep away therefrom.",
+        "ms": "Dan mereka (sentiasa berada dalam azab seksanya), tidak ghaib daripadanya",
+        "id": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ"
+      },
+      "transliteration": "Wama hum AAanha bighaibeena"
+    },
+    {
+      "surah": 82,
+      "ayah": 17,
+      "key": "82:17",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "translations": {
+        "en": "And what will explain to thee what the Day of Judgment is?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui kedahsyatan hari pembalasan itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ"
+      },
+      "transliteration": "Wama adraka ma yawmu alddeeni"
+    },
+    {
+      "surah": 82,
+      "ayah": 18,
+      "key": "82:18",
+      "arabic": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "translations": {
+        "en": "Again, what will explain to thee what the Day of Judgment is?",
+        "ms": "Sekali lagi, apa jalannya engkau dapat mengetahui kedahsyatan hari pembalasan itu",
+        "id": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ"
+      },
+      "transliteration": "Thumma ma adraka ma yawmu alddeeni"
+    },
+    {
+      "surah": 82,
+      "ayah": 19,
+      "key": "82:19",
+      "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "translations": {
+        "en": "(It will be) the Day when no soul shall have power (to do) aught for another: For the command, that Day, will be (wholly) with Allah.",
+        "ms": "(Hari itu ialah) hari seseorang tidak dapat memberikan pertolongan sedikitpun kepada orang lain, dan segala urusan pada hari itu tertentu bagi Allah",
+        "id": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ"
+      },
+      "transliteration": "Yawma la tamliku nafsun linafsin shayan waalamru yawmaithin lillahi"
+    }
+  ]
+}

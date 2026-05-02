@@ -1,0 +1,325 @@
+{
+  "surah": {
+    "number": 88,
+    "slug": "al-ghaashiyah",
+    "nameArabic": "الغاشية",
+    "nameTransliteration": "Al-Ghaashiyah",
+    "nameEnglish": "The Overwhelming",
+    "revelation": "makki",
+    "ayahCount": 26
+  },
+  "ayahs": [
+    {
+      "surah": 88,
+      "ayah": 1,
+      "key": "88:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "translations": {
+        "en": "Has the story reached thee of the overwhelming (Event)?",
+        "ms": "Sudahkah sampai kepadamu (wahai Muhammad) perihal hari kiamat yang huru-haranya meliputi",
+        "id": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ"
+      },
+      "transliteration": "Hal ataka hadeethu alghashiyati"
+    },
+    {
+      "surah": 88,
+      "ayah": 2,
+      "key": "88:2",
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+      "translations": {
+        "en": "Some faces, that Day, will be humiliated,",
+        "ms": "Muka (orang-orang yang kafir) pada hari itu tunduk kerana merasa hina",
+        "id": "وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ"
+      },
+      "transliteration": "Wujoohun yawmaithin khashiAAatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 3,
+      "key": "88:3",
+      "arabic": "عَامِلَةٌ نَّاصِبَةٌ",
+      "translations": {
+        "en": "Labouring (hard), weary,-",
+        "ms": "Mereka menjalankan kerja yang berat lagi berpenat lelah",
+        "id": "عَامِلَةٞ نَّاصِبَةٞ"
+      },
+      "transliteration": "AAamilatun nasibatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 4,
+      "key": "88:4",
+      "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+      "translations": {
+        "en": "The while they enter the Blazing Fire,-",
+        "ms": "Mereka tetap menderita bakaran neraka yang amat panas (membakar)",
+        "id": "تَصۡلَىٰ نَارًا حَامِيَةٗ"
+      },
+      "transliteration": "Tasla naran hamiyatan"
+    },
+    {
+      "surah": 88,
+      "ayah": 5,
+      "key": "88:5",
+      "arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+      "translations": {
+        "en": "The while they are given, to drink, of a boiling hot spring,",
+        "ms": "Mereka diberi minum dari matair yang menggelegak panasnya",
+        "id": "تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ"
+      },
+      "transliteration": "Tusqa min AAaynin aniyatin"
+    },
+    {
+      "surah": 88,
+      "ayah": 6,
+      "key": "88:6",
+      "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+      "translations": {
+        "en": "No food will there be for them but a bitter Dhari'",
+        "ms": "Tiada makanan bagi mereka (di situ) selain dari pokok-pokok yang berduri",
+        "id": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ"
+      },
+      "transliteration": "Laysa lahum taAAamun illa min dareeAAin"
+    },
+    {
+      "surah": 88,
+      "ayah": 7,
+      "key": "88:7",
+      "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+      "translations": {
+        "en": "Which will neither nourish nor satisfy hunger.",
+        "ms": "Yang tidak menggemokkan, dan tidak pula dapat menghilangkan sedikit kelaparan pun",
+        "id": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ"
+      },
+      "transliteration": "La yusminu wala yughnee min jooAAin"
+    },
+    {
+      "surah": 88,
+      "ayah": 8,
+      "key": "88:8",
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+      "translations": {
+        "en": "(Other) faces that Day will be joyful,",
+        "ms": "(Sebaliknya) muka (orang-orang yang beriman) pada hari itu berseri-seri",
+        "id": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ"
+      },
+      "transliteration": "Wujoohun yawmaithin naAAimatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 9,
+      "key": "88:9",
+      "arabic": "لِّسَعْيِهَا رَاضِيَةٌ",
+      "translations": {
+        "en": "Pleased with their striving,-",
+        "ms": "Berpuas hati dengan balasan amal usahanya (yang baik yang telah dikerjakannya di dunia)",
+        "id": "لِّسَعۡيِهَا رَاضِيَةٞ"
+      },
+      "transliteration": "LisaAAyiha radiyatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 10,
+      "key": "88:10",
+      "arabic": "فِى جَنَّةٍ عَالِيَةٍ",
+      "translations": {
+        "en": "In a Garden on high,",
+        "ms": "(Mereka tinggal menetap) di dalam Syurga tinggi (tempat kedudukannya darjatnya)",
+        "id": "فِي جَنَّةٍ عَالِيَةٖ"
+      },
+      "transliteration": "Fee jannatin AAaliyatin"
+    },
+    {
+      "surah": 88,
+      "ayah": 11,
+      "key": "88:11",
+      "arabic": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+      "translations": {
+        "en": "Where they shall hear no (word) of vanity:",
+        "ms": "Mereka tidak mendengar di situ sebarang perkataan yang sia-sia",
+        "id": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ"
+      },
+      "transliteration": "La tasmaAAu feeha laghiyatan"
+    },
+    {
+      "surah": 88,
+      "ayah": 12,
+      "key": "88:12",
+      "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+      "translations": {
+        "en": "Therein will be a bubbling spring:",
+        "ms": "Di dalam Syurga itu ada matair yang mengalir",
+        "id": "فِيهَا عَيۡنٞ جَارِيَةٞ"
+      },
+      "transliteration": "Feeha AAaynun jariyatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 13,
+      "key": "88:13",
+      "arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+      "translations": {
+        "en": "Therein will be Thrones (of dignity), raised on high,",
+        "ms": "Di situ juga ada pelamin-pelamin (berhias) yang tinggi (tempatnya)",
+        "id": "فِيهَا سُرُرٞ مَّرۡفُوعَةٞ"
+      },
+      "transliteration": "Feeha sururun marfooAAatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 14,
+      "key": "88:14",
+      "arabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+      "translations": {
+        "en": "Goblets placed (ready),",
+        "ms": "Dan piala-piala minuman yang disediakan (untuk mereka)",
+        "id": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ"
+      },
+      "transliteration": "Waakwabun mawdooAAatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 15,
+      "key": "88:15",
+      "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+      "translations": {
+        "en": "And cushions set in rows,",
+        "ms": "Dan bantal-bantal yang teratur (untuk mereka berbaring atau bersandar)",
+        "id": "وَنَمَارِقُ مَصۡفُوفَةٞ"
+      },
+      "transliteration": "Wanamariqu masfoofatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 16,
+      "key": "88:16",
+      "arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "translations": {
+        "en": "And rich carpets (all) spread out.",
+        "ms": "Serta hamparan-hamparan yang terbentang",
+        "id": "وَزَرَابِيُّ مَبۡثُوثَةٌ"
+      },
+      "transliteration": "Wazarabiyyu mabthoothatun"
+    },
+    {
+      "surah": 88,
+      "ayah": 17,
+      "key": "88:17",
+      "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "translations": {
+        "en": "Do they not look at the Camels, how they are made?-",
+        "ms": "(Mengapa mereka yang kafir masih mengingkari akhirat) tidakkah mereka memperhatikan keadaan unta bagaimana ia diciptakan",
+        "id": "أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ"
+      },
+      "transliteration": "Afala yanthuroona ila alibili kayfa khuliqat"
+    },
+    {
+      "surah": 88,
+      "ayah": 18,
+      "key": "88:18",
+      "arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "translations": {
+        "en": "And at the Sky, how it is raised high?-",
+        "ms": "Dan keadaan langit bagaimana ia ditinggikan binaannya",
+        "id": "وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ"
+      },
+      "transliteration": "Waila alssamai kayfa rufiAAat"
+    },
+    {
+      "surah": 88,
+      "ayah": 19,
+      "key": "88:19",
+      "arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "translations": {
+        "en": "And at the Mountains, how they are fixed firm?-",
+        "ms": "Dan keadaan gunung-ganang bagaimana ia ditegakkan",
+        "id": "وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ"
+      },
+      "transliteration": "Waila aljibali kayfa nusibat"
+    },
+    {
+      "surah": 88,
+      "ayah": 20,
+      "key": "88:20",
+      "arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "translations": {
+        "en": "And at the Earth, how it is spread out?",
+        "ms": "Dan keadaan bumi bagaimana ia dihamparkan",
+        "id": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ"
+      },
+      "transliteration": "Waila alardi kayfa sutihat"
+    },
+    {
+      "surah": 88,
+      "ayah": 21,
+      "key": "88:21",
+      "arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+      "translations": {
+        "en": "Therefore do thou give admonition, for thou art one to admonish.",
+        "ms": "Oleh itu berikanlah sahaja peringatan (wahai Muhammad, kepada manusia, dan janganlah berdukacita kiranya ada yang menolaknya), kerana sesungguhnya engkau hanyalah seorang Rasul pemberi ingatan",
+        "id": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ"
+      },
+      "transliteration": "Fathakkir innama anta muthakkirun"
+    },
+    {
+      "surah": 88,
+      "ayah": 22,
+      "key": "88:22",
+      "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "translations": {
+        "en": "Thou art not one to manage (men's) affairs.",
+        "ms": "Bukanlah engkau seorang yang berkuasa memaksa mereka (menerima ajaran Islam yang engkau sampaikan itu)",
+        "id": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ"
+      },
+      "transliteration": "Lasta AAalayhim bimusaytirin"
+    },
+    {
+      "surah": 88,
+      "ayah": 23,
+      "key": "88:23",
+      "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "translations": {
+        "en": "But if any turn away and reject Allah,-",
+        "ms": "Akan tetapi sesiapa yang berpaling (dari kebenaran) serta ia kufur ingkar",
+        "id": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
+      },
+      "transliteration": "Illa man tawalla wakafara"
+    },
+    {
+      "surah": 88,
+      "ayah": 24,
+      "key": "88:24",
+      "arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "translations": {
+        "en": "Allah will punish him with a mighty Punishment,",
+        "ms": "Maka Allah akan menyeksanya dengan azab seksa yang sebesar-besarnya",
+        "id": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ"
+      },
+      "transliteration": "FayuAAaththibuhu Allahu alAAathaba alakbara"
+    },
+    {
+      "surah": 88,
+      "ayah": 25,
+      "key": "88:25",
+      "arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "translations": {
+        "en": "For to Us will be their return;",
+        "ms": "Sesungguhnya kepada Kamilah kembalinya mereka",
+        "id": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ"
+      },
+      "transliteration": "Inna ilayna iyabahum"
+    },
+    {
+      "surah": 88,
+      "ayah": 26,
+      "key": "88:26",
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "translations": {
+        "en": "Then it will be for Us to call them to account.",
+        "ms": "Selain dari itu, sesungguhnya tanggungan Kamilah soal menghitung amal mereka",
+        "id": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم"
+      },
+      "transliteration": "Thumma inna AAalayna hisabahum"
+    }
+  ]
+}

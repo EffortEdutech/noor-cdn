@@ -1,0 +1,49 @@
+{
+  "surah": {
+    "number": 110,
+    "slug": "an-nasr",
+    "nameArabic": "النصر",
+    "nameTransliteration": "An-Nasr",
+    "nameEnglish": "The Divine Support",
+    "revelation": "madani",
+    "ayahCount": 3
+  },
+  "ayahs": [
+    {
+      "surah": 110,
+      "ayah": 1,
+      "key": "110:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "translations": {
+        "en": "When comes the Help of Allah, and Victory,",
+        "ms": "Apabila datang pertolongan Allah dan kemenangan (semasa engkau wahai Muhammad berjaya menguasai negeri Makkah)",
+        "id": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ"
+      },
+      "transliteration": "Itha jaa nasru Allahi waalfathu"
+    },
+    {
+      "surah": 110,
+      "ayah": 2,
+      "key": "110:2",
+      "arabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "translations": {
+        "en": "And thou dost see the people enter Allah's Religion in crowds,",
+        "ms": "Dan engkau melihat manusia masuk dalam ugama Allah beramai-ramai",
+        "id": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا"
+      },
+      "transliteration": "Waraayta alnnasa yadkhuloona fee deeni Allahi afwajan"
+    },
+    {
+      "surah": 110,
+      "ayah": 3,
+      "key": "110:3",
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "translations": {
+        "en": "Celebrate the praises of thy Lord, and pray for His Forgiveness: For He is Oft-Returning (in Grace and Mercy).",
+        "ms": "Maka ucapkanlah tasbih dengan memuji Tuhanmu dan mintalah ampun kepadaNya, sesungguhnya Dia amat menerima taubat",
+        "id": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا"
+      },
+      "transliteration": "Fasabbih bihamdi rabbika waistaghfirhu innahu kana tawwaban"
+    }
+  ]
+}

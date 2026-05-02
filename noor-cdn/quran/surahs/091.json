@@ -1,0 +1,193 @@
+{
+  "surah": {
+    "number": 91,
+    "slug": "ash-shams",
+    "nameArabic": "الشمس",
+    "nameTransliteration": "Ash-Shams",
+    "nameEnglish": "The Sun",
+    "revelation": "makki",
+    "ayahCount": 15
+  },
+  "ayahs": [
+    {
+      "surah": 91,
+      "ayah": 1,
+      "key": "91:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "translations": {
+        "en": "By the Sun and his (glorious) splendour;",
+        "ms": "Demi matahari dan cahayanya yang terang-benderang",
+        "id": "وَٱلشَّمۡسِ وَضُحَىٰهَا"
+      },
+      "transliteration": "Waalshshamsi waduhaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 2,
+      "key": "91:2",
+      "arabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+      "translations": {
+        "en": "By the Moon as she follows him;",
+        "ms": "Dan bulan apabila ia mengiringinya",
+        "id": "وَٱلۡقَمَرِ إِذَا تَلَىٰهَا"
+      },
+      "transliteration": "Waalqamari itha talaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 3,
+      "key": "91:3",
+      "arabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+      "translations": {
+        "en": "By the Day as it shows up (the Sun's) glory;",
+        "ms": "Dan siang apabila ia memperlihatkannya dengan jelas nyata",
+        "id": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا"
+      },
+      "transliteration": "Waalnnahari itha jallaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 4,
+      "key": "91:4",
+      "arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "translations": {
+        "en": "By the Night as it conceals it;",
+        "ms": "Dan malam apabila ia menyelubunginya (dengan gelap- gelita)",
+        "id": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا"
+      },
+      "transliteration": "Waallayli itha yaghshaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 5,
+      "key": "91:5",
+      "arabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+      "translations": {
+        "en": "By the Firmament and its (wonderful) structure;",
+        "ms": "Demi langit dan Yang membinanya (dalam bentuk yang kuat kukuh - yang melambangkan kekuasaanNya)",
+        "id": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا"
+      },
+      "transliteration": "Waalssamai wama banaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 6,
+      "key": "91:6",
+      "arabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+      "translations": {
+        "en": "By the Earth and its (wide) expanse:",
+        "ms": "Serta bumi dan Yang menghamparkannya (untuk kemudahan makhluk-makhlukNya)",
+        "id": "وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا"
+      },
+      "transliteration": "Waalardi wama tahaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 7,
+      "key": "91:7",
+      "arabic": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "translations": {
+        "en": "By the Soul, and the proportion and order given to it;",
+        "ms": "Demi diri manusia dan Yang menyempurnakan kejadiannya (dengan kelengkapan yang sesuai dengan keadaannya)",
+        "id": "وَنَفۡسٖ وَمَا سَوَّىٰهَا"
+      },
+      "transliteration": "Wanafsin wama sawwaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 8,
+      "key": "91:8",
+      "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+      "translations": {
+        "en": "And its enlightenment as to its wrong and its right;-",
+        "ms": "Serta mengilhamkannya (untuk mengenal) jalan yang membawanya kepada kejahatan, dan yang membawanya kepada bertaqwa",
+        "id": "فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا"
+      },
+      "transliteration": "Faalhamaha fujooraha wataqwaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 9,
+      "key": "91:9",
+      "arabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+      "translations": {
+        "en": "Truly he succeeds that purifies it,",
+        "ms": "Sesungguhnya berjayalah orang yang menjadikan dirinya - yang sedia bersih - bertambah-tambah bersih (dengan iman dan amal kebajikan)",
+        "id": "قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا"
+      },
+      "transliteration": "Qad aflaha man zakkaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 10,
+      "key": "91:10",
+      "arabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+      "translations": {
+        "en": "And he fails that corrupts it!",
+        "ms": "Dan sesungguhnya hampalah orang yang menjadikan dirinya - yang sedia bersih - itu susut dan terbenam kebersihannya (dengan sebab kekotoran maksiat)",
+        "id": "وَقَدۡ خَابَ مَن دَسَّىٰهَا"
+      },
+      "transliteration": "Waqad khaba man dassaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 11,
+      "key": "91:11",
+      "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+      "translations": {
+        "en": "The Thamud (people) rejected (their prophet) through their inordinate wrong-doing,",
+        "ms": "(Ingatlah), kaum Thamud telah mendustakan (Rasulnya) dengan sebab perbuatan derhaka mereka yang melampaui batas",
+        "id": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ"
+      },
+      "transliteration": "Kaththabat thamoodu bitaghwaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 12,
+      "key": "91:12",
+      "arabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+      "translations": {
+        "en": "Behold, the most wicked man among them was deputed (for impiety).",
+        "ms": "Ketika orang yang paling jahat di antara mereka menerima perintah dari mereka (supaya membunuh unta yang menjadi mukjizat)",
+        "id": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا"
+      },
+      "transliteration": "Ithi inbaAAatha ashqaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 13,
+      "key": "91:13",
+      "arabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا",
+      "translations": {
+        "en": "But the Messenger of Allah said to them: \"It is a She-camel of Allah! And (bar her not from) having her drink!\"",
+        "ms": "Maka berkatalah Rasul Allah (Nabi Soleh) kepada mereka: \" (Janganlah kamu ganggu) unta betina dari Allah itu, dan (janganlah kamu menyekatnya daripada mendapat) air minumnya (supaya kamu tidak ditimpa azab)",
+        "id": "فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا"
+      },
+      "transliteration": "Faqala lahum rasoolu Allahi naqata Allahi wasuqyaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 14,
+      "key": "91:14",
+      "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "translations": {
+        "en": "Then they rejected him (as a false prophet), and they hamstrung her. So their Lord, on account of their crime, obliterated their traces and made them equal (in destruction, high and low)!",
+        "ms": "(Setelah Nabi Soleh memberi amaran) lalu mereka mendustakannya serta menyembelih unta itu. Dengan sebab dosa mereka, maka Tuhan menimpakan mereka dengan azab yang membinasakan serta Ia meratakan azab itu meliputi mereka (sehingga punah-ranah semuanya)",
+        "id": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ عَلَيۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا"
+      },
+      "transliteration": "Fakaththaboohu faAAaqarooha fadamdama AAalayhim rabbuhum bithanbihim fasawwaha"
+    },
+    {
+      "surah": 91,
+      "ayah": 15,
+      "key": "91:15",
+      "arabic": "وَلَا يَخَافُ عُقْبَـٰهَا",
+      "translations": {
+        "en": "And for Him is no fear of its consequences.",
+        "ms": "Dan Allah tidak hiraukan kesudahan (mereka) yang demikian, (kerana itu adalah balasan yang adil)",
+        "id": "وَلَا يَخَافُ عُقۡبَٰهَا"
+      },
+      "transliteration": "Wala yakhafu AAuqbaha"
+    }
+  ]
+}

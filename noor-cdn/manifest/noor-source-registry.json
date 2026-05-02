@@ -1,40 +1,31 @@
 {
-  "id": "noor-source-registry-v0.12",
-  "version": "0.12.0",
-  "status": "pre-production",
-  "rule": "No source may be promoted to production without license verification, scholarly/source attribution, checksum review and manual sign-off.",
+  "generatedAt": "2026-05-01T09:59:14.073Z",
+  "status": "staging-only",
+  "productionGate": [
+    "Verify source license and redistribution rights",
+    "Record attribution per edition/collection",
+    "Generate source checksums",
+    "Run scholarly/content review",
+    "Approve through NOOR production promotion gate"
+  ],
   "sources": [
     {
-      "id": "quran-demo-short-surahs-cdn",
-      "domain": "quran",
-      "stage": "demo-cdn-ready",
-      "licenseStatus": "demo-only",
-      "approvalStatus": "not-production-approved",
-      "notes": "Existing NOOR demo data, packaged only to test CDN layout."
+      "id": "ilm-mate-quran",
+      "area": "quran",
+      "sourcePath": "content/quran",
+      "approvalStatus": "pending-review"
     },
     {
-      "id": "tafseer-demo-basic-cdn",
-      "domain": "tafseer",
-      "stage": "demo-cdn-ready",
-      "licenseStatus": "demo-only",
-      "approvalStatus": "not-production-approved",
-      "notes": "Demo summaries, not a tafseer authority."
+      "id": "ilm-mate-tafseer",
+      "area": "tafseer",
+      "sourcePath": "content/tafsir",
+      "approvalStatus": "pending-review"
     },
     {
-      "id": "hadith-demo-nawawi-cdn",
-      "domain": "hadith",
-      "stage": "demo-cdn-ready",
-      "licenseStatus": "demo-only",
-      "approvalStatus": "not-production-approved",
-      "notes": "Demo references only."
+      "id": "ilm-mate-hadith",
+      "area": "hadith",
+      "sourcePath": "content/hadith",
+      "approvalStatus": "pending-review"
     }
-  ],
-  "productionGate": [
-    "Verified text source",
-    "Clear redistribution license or internal permission",
-    "Attribution label approved",
-    "Import transform checked",
-    "Content validator passes",
-    "Scholar/reviewer sign-off recorded"
   ]
 }

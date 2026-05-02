@@ -1,0 +1,637 @@
+{
+  "surah": {
+    "number": 14,
+    "slug": "ibraaheem",
+    "nameArabic": "إبراهيم",
+    "nameTransliteration": "Ibraaheem",
+    "nameEnglish": "Abraham",
+    "revelation": "makki",
+    "ayahCount": 52
+  },
+  "ayahs": [
+    {
+      "surah": 14,
+      "ayah": 1,
+      "key": "14:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "translations": {
+        "en": "A. L. R. A Book which We have revealed unto thee, in order that thou mightest lead mankind out of the depths of darkness into light - by the leave of their Lord - to the Way of (Him) the Exalted in power, worthy of all praise!-",
+        "ms": "Alif, Laam, Raa'. Ini ialah Kitab (Al-Quran) Kami turunkan dia kepadamu (wahai Muhammad), supaya engkau mengeluarkan umat manusia seluruhnya dari gelap-gelita kufur kepada cahaya iman - dengan izin Tuhan mereka - ke jalan Allah Yang Maha Kuasa lagi Maha Terpuji",
+        "id": "الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ"
+      },
+      "transliteration": "Aliflamra kitabun anzalnahu ilayka litukhrija alnnasa mina alththulumati ila alnnoori biithni rabbihim ila sirati alAAazeezi alhameedi"
+    },
+    {
+      "surah": 14,
+      "ayah": 2,
+      "key": "14:2",
+      "arabic": "ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌ لِّلْكَـٰفِرِينَ مِنْ عَذَابٍ شَدِيدٍ",
+      "translations": {
+        "en": "Of Allah, to Whom do belong all things in the heavens and on earth! But alas for the Unbelievers for a terrible penalty (their Unfaith will bring them)!-",
+        "ms": "Allah jua yang memiliki segala yang ada di langit serta yang ada di bumi; dan kecelakaan besar bagi orang-orang yang kufur ingkar (terhadap Al-Quran) dari azab yang amat berat (yang akan menimpa mereka kelak)",
+        "id": "ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ وَوَيۡلٞ لِّلۡكَٰفِرِينَ مِنۡ عَذَابٖ شَدِيدٍ"
+      },
+      "transliteration": "Allahi allathee lahu ma fee alssamawati wama fee alardi wawaylun lilkafireena min AAathabin shadeedin"
+    },
+    {
+      "surah": 14,
+      "ayah": 3,
+      "key": "14:3",
+      "arabic": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْـَٔاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۭ بَعِيدٍ",
+      "translations": {
+        "en": "Those who love the life of this world more than the Hereafter, who hinder (men) from the Path of Allah and seek therein something crooked: they are astray by a long distance.",
+        "ms": "Orang-orang yang mengutamakan dunia lebih daripada akhirat, dan menghalangi manusia dari jalan ugama Allah, serta menghendaki jalan itu menjadi bengkok terpesong, mereka itulah orang-orang yang terjerumus ke dalam kesesatan yang jauh terpesongnya",
+        "id": "ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَـٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدٖ"
+      },
+      "transliteration": "Allatheena yastahibboona alhayata alddunya AAala alakhirati wayasuddoona AAan sabeeli Allahi wayabghoonaha AAiwajan olaika fee dalalin baAAeedin"
+    },
+    {
+      "surah": 14,
+      "ayah": 4,
+      "key": "14:4",
+      "arabic": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "translations": {
+        "en": "We sent not a messenger except (to teach) in the language of his (own) people, in order to make (things) clear to them. Now Allah leaves straying those whom He pleases and guides whom He pleases: and He is Exalted in power, full of Wisdom.",
+        "ms": "Dan Kami tidak mengutuskan seseorang Rasul melainkan dengan bahasa kaumnya supaya ia menjelaskan (hukum-hukum Allah) kepada mereka. Maka Allah menyesatkan sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya), juga memberi hidayah petunjuk kepada sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya); dan Dia lah jua Yang Maha Kuasa, lagi Maha Bijaksana",
+        "id": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوۡمِهِۦ لِيُبَيِّنَ لَهُمۡۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ"
+      },
+      "transliteration": "Wama arsalna min rasoolin illa bilisani qawmihi liyubayyina lahum fayudillu Allahu man yashao wayahdee man yashao wahuwa alAAazeezu alhakeemu"
+    },
+    {
+      "surah": 14,
+      "ayah": 5,
+      "key": "14:5",
+      "arabic": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "translations": {
+        "en": "We sent Moses with Our signs (and the command). \"Bring out thy people from the depths of darkness into light, and teach them to remember the Days of Allah.\" Verily in this there are Signs for such as are firmly patient and constant,- grateful and appreciative.",
+        "ms": "Dan sesungguhnya Kami telah mengutuskan Nabi Musa (pada masa yang lalu) dengan membawa mukjizat-mukjizat Kami sambil Kami berfirman: \"Hendaklah engkau mengeluarkan kaummu dari gelap-gelita kufur kepada cahaya iman; dan ingatkanlah mereka dengan Hari-hari Allah. \"Sesungguhnya yang demikian itu, mengandungi tanda-tanda yang menunjukkan kekuasaan Allah bagi tiap-tiap seorang yang kuat bersabar, lagi kuat bersyukur",
+        "id": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ"
+      },
+      "transliteration": "Walaqad arsalna moosa biayatina an akhrij qawmaka mina alththulumati ila alnnoori wathakkirhum biayyami Allahi inna fee thalika laayatin likulli sabbarin shakoorin"
+    },
+    {
+      "surah": 14,
+      "ayah": 6,
+      "key": "14:6",
+      "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "translations": {
+        "en": "Remember! Moses said to his people: \"Call to mind the favour of Allah to you when He delivered you from the people of Pharaoh: they set you hard tasks and punishments, slaughtered your sons, and let your women-folk live: therein was a tremendous trial from your Lord.\"",
+        "ms": "Dan (ingatlah) ketika Nabi Musa berkata kepada kaumnya: \"Kenanglah nikmat Allah kepada kamu, semasa Ia menyelamatkan kamu dari Firaun dan orang-orangnya yang sentiasa menyeksa kamu dengan berbagai seksa yang buruk dan mereka pula menyembelih anak-anak lelaki kamu dan membiarkan hidup anak-anak perempuan kamu; dan kejadian yang demikian itu mengandungi bala bencana dan cubaan yang besar dari Tuhan kamu",
+        "id": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ أَنجَىٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ وَيُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ"
+      },
+      "transliteration": "Waith qala moosa liqawmihi othkuroo niAAmata Allahi AAalaykum ith anjakum min ali firAAawna yasoomoonakum sooa alAAathabi wayuthabbihoona abnaakum wayastahyoona nisaakum wafee thalikum balaon min rabbikum AAatheemun"
+    },
+    {
+      "surah": 14,
+      "ayah": 7,
+      "key": "14:7",
+      "arabic": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+      "translations": {
+        "en": "And remember! your Lord caused to be declared (publicly): \"If ye are grateful, I will add more (favours) unto you; But if ye show ingratitude, truly My punishment is terrible indeed.\"",
+        "ms": "Dan (ingatlah) ketika Tuhan kamu memberitahu: \"Demi sesungguhnya! Jika kamu bersyukur nescaya Aku akan tambahi nikmatKu kepada kamu, dan demi sesungguhnya, jika kamu kufur ingkar sesungguhnya azabKu amatlah keras",
+        "id": "وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ"
+      },
+      "transliteration": "Waith taaththana rabbukum lain shakartum laazeedannakum walain kafartum inna AAathabee lashadeedun"
+    },
+    {
+      "surah": 14,
+      "ayah": 8,
+      "key": "14:8",
+      "arabic": "وَقَالَ مُوسَىٰٓ إِن تَكْفُرُوٓا۟ أَنتُمْ وَمَن فِى ٱلْأَرْضِ جَمِيعًا فَإِنَّ ٱللَّهَ لَغَنِىٌّ حَمِيدٌ",
+      "translations": {
+        "en": "And Moses said: \"If ye show ingratitude, ye and all on earth together, yet is Allah free of all wants, worthy of all praise.",
+        "ms": "Dan Nabi Musa berkata: \"Kalau kamu dan sesiapa jua yang ada di muka bumi seluruhnya berlaku kufur ingkar, maka (hal yang demikian tidak merugikan Allah), kerana sesungguhnya Allah adalah Maha Kaya, lagi Maha Terpuji",
+        "id": "وَقَالَ مُوسَىٰٓ إِن تَكۡفُرُوٓاْ أَنتُمۡ وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا فَإِنَّ ٱللَّهَ لَغَنِيٌّ حَمِيدٌ"
+      },
+      "transliteration": "Waqala moosa in takfuroo antum waman fee alardi jameeAAan fainna Allaha laghaniyyun hameedun"
+    },
+    {
+      "surah": 14,
+      "ayah": 9,
+      "key": "14:9",
+      "arabic": "أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍ",
+      "translations": {
+        "en": "Has not the story reached you, (O people!), of those who (went) before you? - of the people of Noah, and 'Ad, and Thamud? - And of those who (came) after them? None knows them but Allah. To them came messengers with Clear (Signs); but they put their hands up to their mouths, and said: \"We do deny (the mission) on which ye have been sent, and we are really in suspicious (disquieting) doubt as to that to which ye invite us.\"",
+        "ms": "(Mengapa kamu masih berdegil) bukankah telah datang kepada kamu khabar berita orang-orang yang terdahulu daripada kamu, iaitu kaum Nabi Nuh, dan Aad juga Thamud serta orang-orang yang kemudian daripada mereka ? Tiada sesiapapun yang mengetahui bilangan mereka melainkan Allah. Mereka telah didatangi oleh rasul-rasul mereka dengan membawa keterangan-keterangan yang nyata, lalu mereka meletakkan tangan mereka ke mulut mereka sambil berkata: \"Sesungguhnya kami kufur ingkarkan apa yang - mengikut dakwaan kamu - kamu diutus membawanya, dan sesungguhnya kami adalah dalam keadaan yang meragukan terhadap iman dan tauhid yang kamu ajak kami kepadanya",
+        "id": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ مِن قَبۡلِكُمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡ لَا يَعۡلَمُهُمۡ إِلَّا ٱللَّهُۚ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرَدُّوٓاْ أَيۡدِيَهُمۡ فِيٓ أَفۡوَٰهِهِمۡ وَقَالُوٓاْ إِنَّا كَفَرۡنَا بِمَآ أُرۡسِلۡتُم بِهِۦ وَإِنَّا لَفِي شَكّٖ مِّمَّا تَدۡعُونَنَآ إِلَيۡهِ مُرِيبٖ"
+      },
+      "transliteration": "Alam yatikum nabao allatheena min qablikum qawmi noohin waAAadin wathamooda waallatheena min baAAdihim la yaAAlamuhum illa Allahu jaathum rusuluhum bialbayyinati faraddoo aydiyahum fee afwahihim waqaloo inna kafarna bima orsiltum bihi wainna lafee shakkin mimma tadAAoonana ilayhi mureebun"
+    },
+    {
+      "surah": 14,
+      "ayah": 10,
+      "key": "14:10",
+      "arabic": "۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَـٰنٍ مُّبِينٍ",
+      "translations": {
+        "en": "Their messengers said: \"Is there a doubt about Allah, The Creator of the heavens and the earth? It is He Who invites you, in order that He may forgive you your sins and give you respite for a term appointed!\" They said: \"Ah! ye are no more than human, like ourselves! Ye wish to turn us away from the (gods) our fathers used to worship: then bring us some clear authority.\"",
+        "ms": "Rasul-rasul mereka bertanya: \"Patutkah berlakunya sebarang keraguan tentang wujudnya Allah, yang menciptakan langit dan bumi? Ia menyeru kamu beriman kerana hendak membersih dan melepaskan kamu dari dosa-dosa kamu, dan memberi tempoh kepada kamu hingga ke suatu masa yang tertentu. Mereka menjawab: \"Kamu tidak lain hanyalah manusia seperti kami. Kamu bertujuan hendak menyekat kami daripada menyembah apa yang telah disembah oleh datuk nenek kami. Oleh itu, bawalah kepada kami satu bukti yang jelas nyata",
+        "id": "۞قَالَتۡ رُسُلُهُمۡ أَفِي ٱللَّهِ شَكّٞ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَدۡعُوكُمۡ لِيَغۡفِرَ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرَكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۚ قَالُوٓاْ إِنۡ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتُونَا بِسُلۡطَٰنٖ مُّبِينٖ"
+      },
+      "transliteration": "Qalat rusuluhum afee Allahi shakkun fatiri alssamawati waalardi yadAAookum liyaghfira lakum min thunoobikum wayuakhkhirakum ila ajalin musamman qaloo in antum illa basharun mithluna tureedoona an tasuddoona AAamma kana yaAAbudu abaona fatoona bisultanin mubeenin"
+    },
+    {
+      "surah": 14,
+      "ayah": 11,
+      "key": "14:11",
+      "arabic": "قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌ مِّثْلُكُمْ وَلَـٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَـٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "translations": {
+        "en": "Their messengers said to them: \"True, we are human like yourselves, but Allah doth grant His grace to such of his servants as He pleases. It is not for us to bring you an authority except as Allah permits. And on Allah let all men of faith put their trust.",
+        "ms": "Rasul-rasul mereka berkata kepada mereka: \"Kami ini tidak lain hanyalah manusia seperti kamu juga, tetapi Allah melimpahkan kurniaNya kepada sesiapa yang dikehendakiNya dari hamba-hambaNya; dan kami tiadalah berkuasa membawa kepada kamu sebarang bukti (mukjizat) melainkan dengan izin Allah. Dan dengan yang demikian maka kepada Allah jualah hendaknya orang-orang yang beriman berserah diri",
+        "id": "قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرٞ مِّثۡلُكُمۡ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَآ أَن نَّأۡتِيَكُم بِسُلۡطَٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ"
+      },
+      "transliteration": "Qalat lahum rusuluhum in nahnu illa basharun mithlukum walakinna Allaha yamunnu AAala man yashao min AAibadihi wama kana lana an natiyakum bisultanin illa biithni Allahi waAAala Allahi falyatawakkali almuminoona"
+    },
+    {
+      "surah": 14,
+      "ayah": 12,
+      "key": "14:12",
+      "arabic": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "translations": {
+        "en": "\"No reason have we why we should not put our trust on Allah. Indeed He Has guided us to the Ways we (follow). We shall certainly bear with patience all the hurt you may cause us. For those who put their trust should put their trust on Allah.\"",
+        "ms": "Dan mengapa pula kami tidak berserah diri kepada Allah padahal Ia telah menunjukkan jalan untuk tiap-tiap seorang dari kami menjalaninya? Dan demi sesungguhnya, kami akan bersabar terhadap segala perbuatan kamu menyakiti kami. Dan dengan yang demikian, maka kepada Allah jualah hendaknya berserah diri orang-orang yang mahu berserah",
+        "id": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدۡ هَدَىٰنَا سُبُلَنَاۚ وَلَنَصۡبِرَنَّ عَلَىٰ مَآ ءَاذَيۡتُمُونَاۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ"
+      },
+      "transliteration": "Wama lana alla natawakkala AAala Allahi waqad hadana subulana walanasbiranna AAala ma athaytumoona waAAala Allahi falyatawakkali almutawakkiloona"
+    },
+    {
+      "surah": 14,
+      "ayah": 13,
+      "key": "14:13",
+      "arabic": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۖ فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّـٰلِمِينَ",
+      "translations": {
+        "en": "And the Unbelievers said to their messengers: \"Be sure we shall drive you out of our land, or ye shall return to our religion.\" But their Lord inspired (this Message) to them: \"Verily We shall cause the wrong-doers to perish!",
+        "ms": "Dan berkatalah pula orang-orang yang kafir itu kepada Rasul-rasul mereka: \"Demi sesungguhnya, kami akan mengeluarkan kamu dari negeri kami atau kamu menjadi seugama dengan kami\". Lalu Tuhan wahyukan, kepada Rasul-rasulNya: \"Demi sesungguhnya! Kami akan membinasakan orang-orang yang zalim",
+        "id": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِرُسُلِهِمۡ لَنُخۡرِجَنَّكُم مِّنۡ أَرۡضِنَآ أَوۡ لَتَعُودُنَّ فِي مِلَّتِنَاۖ فَأَوۡحَىٰٓ إِلَيۡهِمۡ رَبُّهُمۡ لَنُهۡلِكَنَّ ٱلظَّـٰلِمِينَ"
+      },
+      "transliteration": "Waqala allatheena kafaroo lirusulihim lanukhrijannakum min ardina aw lataAAoodunna fee millatina faawha ilayhim rabbuhum lanuhlikanna alththalimeena"
+    },
+    {
+      "surah": 14,
+      "ayah": 14,
+      "key": "14:14",
+      "arabic": "وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+      "translations": {
+        "en": "\"And verily We shall cause you to abide in the land, and succeed them. This for such as fear the Time when they shall stand before My tribunal,- such as fear the punishment denounced.\"",
+        "ms": "Dan demi sesungguhnya! kami akan tempatkan kamu di negeri itu sesudah binasanya kaum yang zalim itu; balasan baik yang demikian, adalah bagi orang-orang yang takut akan sikap keadilanKu (menghitung amalnya), dan takut akan janji-janji azabKu",
+        "id": "وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَٰلِكَ لِمَنۡ خَافَ مَقَامِي وَخَافَ وَعِيدِ"
+      },
+      "transliteration": "Walanuskinannakumu alarda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi"
+    },
+    {
+      "surah": 14,
+      "ayah": 15,
+      "key": "14:15",
+      "arabic": "وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ",
+      "translations": {
+        "en": "But they sought victory and decision (there and then), and frustration was the lot of every powerful obstinate transgressor.",
+        "ms": "Dan (Rasul-rasul serta umatnya yang beriman) memohon pertolongan (kepada Allah, untuk mendapat kemenangan); dan terkecewalah tiap-tiap orang yang sombong takbur, lagi bersikap degil (dalam keingkarannya)",
+        "id": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ"
+      },
+      "transliteration": "Waistaftahoo wakhaba kullu jabbarin AAaneedin"
+    },
+    {
+      "surah": 14,
+      "ayah": 16,
+      "key": "14:16",
+      "arabic": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسْقَىٰ مِن مَّآءٍ صَدِيدٍ",
+      "translations": {
+        "en": "In front of such a one is Hell, and he is given, for drink, boiling fetid water.",
+        "ms": "Di belakangnya disediakan neraka Jahannam, dan ia akan diberi minum dari air danur (yang keluar dari tubuh ahli neraka)",
+        "id": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسۡقَىٰ مِن مَّآءٖ صَدِيدٖ"
+      },
+      "transliteration": "Min waraihi jahannamu wayusqa min main sadeedin"
+    },
+    {
+      "surah": 14,
+      "ayah": 17,
+      "key": "14:17",
+      "arabic": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأْتِيهِ ٱلْمَوْتُ مِن كُلِّ مَكَانٍ وَمَا هُوَ بِمَيِّتٍ ۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٌ",
+      "translations": {
+        "en": "In gulps will he sip it, but never will he be near swallowing it down his throat: death will come to him from every quarter, yet will he not die: and in front of him will be a chastisement unrelenting.",
+        "ms": "Ia meminumnya dengan terpaksa dan hampir-hampir tidak dapat diterima oleh tekaknya (kerana busuknya), dan ia didatangi (penderitaan) maut dari segala arah, sedang ia tidak pula mati (supaya terlepas dari azab seksa itu); dan selain dari itu, ada lagi azab seksa yang lebih berat",
+        "id": "يَتَجَرَّعُهُۥ وَلَا يَكَادُ يُسِيغُهُۥ وَيَأۡتِيهِ ٱلۡمَوۡتُ مِن كُلِّ مَكَانٖ وَمَا هُوَ بِمَيِّتٖۖ وَمِن وَرَآئِهِۦ عَذَابٌ غَلِيظٞ"
+      },
+      "transliteration": "YatajarraAAuhu wala yakadu yuseeghuhu wayateehi almawtu min kulli makanin wama huwa bimayyitin wamin waraihi AAathabun ghaleethun"
+    },
+    {
+      "surah": 14,
+      "ayah": 18,
+      "key": "14:18",
+      "arabic": "مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍ ۖ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ",
+      "translations": {
+        "en": "The parable of those who reject their Lord is that their works are as ashes, on which the wind blows furiously on a tempestuous day: No power have they over aught that they have earned: that is the straying far, far (from the goal).",
+        "ms": "Bandingan (segala kebaikan amal dan usaha) orang-orang yang kufur ingkar terhadap Tuhannya ialah seperti abu yang diterbangkan angin pada hari ribut yang kencang; mereka tidak memperoleh sesuatu faedah pun dari apa yang mereka telah usahakan itu. Sia-sianya amalan itu ialah kesan kesesatan yang jauh dari dasar kebenaran",
+        "id": "مَّثَلُ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ أَعۡمَٰلُهُمۡ كَرَمَادٍ ٱشۡتَدَّتۡ بِهِ ٱلرِّيحُ فِي يَوۡمٍ عَاصِفٖۖ لَّا يَقۡدِرُونَ مِمَّا كَسَبُواْ عَلَىٰ شَيۡءٖۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ"
+      },
+      "transliteration": "Mathalu allatheena kafaroo birabbihim aAAmaluhum karamadin ishtaddat bihi alrreehu fee yawmin AAasifin la yaqdiroona mimma kasaboo AAala shayin thalika huwa alddalalu albaAAeedu"
+    },
+    {
+      "surah": 14,
+      "ayah": 19,
+      "key": "14:19",
+      "arabic": "أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+      "translations": {
+        "en": "Seest thou not that Allah created the heavens and the earth in Truth? If He so will, He can remove you and put (in your place) a new creation?",
+        "ms": "Tidakkah engkau telah nampak dan mengetahui bahawa Allah telah menciptakan langit dan bumi dengan cara yang sungguh layak dan berhikmat? Jika Ia kehendaki nescaya dibinasakanNya kamu (dengan sebab kekufuran kamu) dan didatangkan pula dengan makhluk-makhluk yang baharu",
+        "id": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ بِٱلۡحَقِّۚ إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ"
+      },
+      "transliteration": "Alam tara anna Allaha khalaqa alssamawati waalarda bialhaqqi in yasha yuthhibkum wayati bikhalqin jadeedin"
+    },
+    {
+      "surah": 14,
+      "ayah": 20,
+      "key": "14:20",
+      "arabic": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ",
+      "translations": {
+        "en": "Nor is that for Allah any great matter.",
+        "ms": "Dan yang demikian itu tidaklah sukar bagi Allah melakukannya",
+        "id": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ"
+      },
+      "transliteration": "Wama thalika AAala Allahi biAAazeezin"
+    },
+    {
+      "surah": 14,
+      "ayah": 21,
+      "key": "14:21",
+      "arabic": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَـٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ",
+      "translations": {
+        "en": "They will all be marshalled before Allah together: then will the weak say to those who were arrogant, \"For us, we but followed you; can ye then avail us to all against the wrath of Allah?\" They will reply, \"If we had received the Guidance of Allah, we should have given it to you: to us it makes no difference (now) whether we rage, or bear (these torments) with patience: for ourselves there is no way of escape.\"",
+        "ms": "Dan mereka sekalian tetap akan berhimpun mengadap Allah (untuk dihisab pada hari kiamat); kemudian orang-orang yang lemah (yang menjadi pengikut) kepada orang-orang yang sombong takbur itu akan berkata kepada mereka (yang menjadi pemimpinnya): \"Sesungguhnya kami telah menjadi pengikut kamu; maka adakah kamu dapat menolak daripada kami sedikit dari azab Allah? \" Mereka menjawab: \"Kalaulah Allah menunjukkan jalan selamat kepada kami, tentulah kami tunjukkan jalan itu kepada kamu. (Sekarang) sama sahaja kepada kita, sama ada kita menggelisah dan mengeluh atau kita bersabar, tiadalah sebarang jalan bagi kita untuk melepaskan diri (dari azab itu)",
+        "id": "وَبَرَزُواْ لِلَّهِ جَمِيعٗا فَقَالَ ٱلضُّعَفَـٰٓؤُاْ لِلَّذِينَ ٱسۡتَكۡبَرُوٓاْ إِنَّا كُنَّا لَكُمۡ تَبَعٗا فَهَلۡ أَنتُم مُّغۡنُونَ عَنَّا مِنۡ عَذَابِ ٱللَّهِ مِن شَيۡءٖۚ قَالُواْ لَوۡ هَدَىٰنَا ٱللَّهُ لَهَدَيۡنَٰكُمۡۖ سَوَآءٌ عَلَيۡنَآ أَجَزِعۡنَآ أَمۡ صَبَرۡنَا مَا لَنَا مِن مَّحِيصٖ"
+      },
+      "transliteration": "Wabarazoo lillahi jameeAAan faqala aldduAAafao lillatheena istakbaroo inna kunna lakum tabaAAan fahal antum mughnoona AAanna min AAathabi Allahi min shayin qaloo law hadana Allahu lahadaynakum sawaon AAalayna ajaziAAna am sabarna ma lana min maheesin"
+    },
+    {
+      "surah": 14,
+      "ayah": 22,
+      "key": "14:22",
+      "arabic": "وَقَالَ ٱلشَّيْطَـٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَـٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "translations": {
+        "en": "And Satan will say when the matter is decided: \"It was Allah Who gave you a promise of Truth: I too promised, but I failed in my promise to you. I had no authority over you except to call you but ye listened to me: then reproach not me, but reproach your own souls. I cannot listen to your cries, nor can ye listen to mine. I reject your former act in associating me with Allah. For wrong-doers there must be a grievous penalty.\"",
+        "ms": "Dan berkatalah pula Syaitan setelah selesai perkara itu: \"Sesungguhnya Allah telah menjanjikan kamu dengan janji yang benar dan aku telah menjanjikan kamu lalu aku mungkiri janjiku itu kepada kamu; dan tiadalah bagiku sebarang alasan dan kuasa mempengaruhi kamu selain daripada aku telah mengajak kamu lalu kamu terburu-buru menurut ajakanku itu; maka janganlah kamu salahkan daku tetapi salahkan diri kamu sendiri. Aku tidak dapat menyelamatkan kamu dan kamu juga tidak dapat menyelamatkan daku. Sesungguhnya dari dahulu lagi aku telah kufur ingkarkan (perintah Tuhan) yang kamu sekutukan daku denganNya\". Sesungguhnya orang-orang yang zalim (yang meletakkan sesuatu pada bukan tempatnya) beroleh azab yang tidak terperi sakitnya",
+        "id": "وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ"
+      },
+      "transliteration": "Waqala alshshaytanu lamma qudiya alamru inna Allaha waAAadakum waAAda alhaqqi wawaAAadtukum faakhlaftukum wama kana liya AAalaykum min sultanin illa an daAAawtukum faistajabtum lee fala taloomoonee waloomoo anfusakum ma ana bimusrikhikum wama antum bimusrikhiyya innee kafartu bima ashraktumooni min qablu inna alththalimeena lahum AAathabun aleemun"
+    },
+    {
+      "surah": 14,
+      "ayah": 23,
+      "key": "14:23",
+      "arabic": "وَأُدْخِلَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا بِإِذْنِ رَبِّهِمْ ۖ تَحِيَّتُهُمْ فِيهَا سَلَـٰمٌ",
+      "translations": {
+        "en": "But those who believe and work righteousness will be admitted to gardens beneath which rivers flow,- to dwell therein for aye with the leave of their Lord. Their greeting therein will be: \"Peace!\"",
+        "ms": "Dan dimasukkanlah orang-orang yang beriman dan beramal soleh, ke dalam Syurga-syurga yang mengalir di bawahnya beberapa sungai; mereka kekal di dalamnya dengan izin Tuhan mereka; ucapan selamat sentiasa mereka dapati (dari malaikat) di dalam Syurga-syurga itu",
+        "id": "وَأُدۡخِلَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا بِإِذۡنِ رَبِّهِمۡۖ تَحِيَّتُهُمۡ فِيهَا سَلَٰمٌ"
+      },
+      "transliteration": "Waodkhila allatheena amanoo waAAamiloo alssalihati jannatin tajree min tahtiha alanharu khalideena feeha biithni rabbihim tahiyyatuhum feeha salamun"
+    },
+    {
+      "surah": 14,
+      "ayah": 24,
+      "key": "14:24",
+      "arabic": "أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ",
+      "translations": {
+        "en": "Seest thou not how Allah sets forth a parable? - A goodly word like a goodly tree, whose root is firmly fixed, and its branches (reach) to the heavens,- of its Lord. So Allah sets forth parables for men, in order that they may receive admonition.",
+        "ms": "Tidakkah engkau melihat (wahai Muhammad) bagaimana Allah mengemukakan satu perbandingan, iaitu: kalimah yang baik adalah sebagai sebatang pohon yang baik, yang pangkalnya (akar tunjangnya) tetap teguh, dan cabang pucuknya menjulang ke langit",
+        "id": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ"
+      },
+      "transliteration": "Alam tara kayfa daraba Allahu mathalan kalimatan tayyibatan kashajaratin tayyibatin asluha thabitun wafarAAuha fee alssamai"
+    },
+    {
+      "surah": 14,
+      "ayah": 25,
+      "key": "14:25",
+      "arabic": "تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "translations": {
+        "en": "It brings forth its fruit at all times, by the leave of its Lord. So Allah sets forth parables for men, in order that they may receive admonition.",
+        "ms": "Dia mengeluarkan buahnya pada tiap-tiap masa dengan izin Tuhannya. Dan Allah mengemukakan perbandingan-perbandingan itu untuk manusia, supaya mereka beringat (mendapat pelajaran)",
+        "id": "تُؤۡتِيٓ أُكُلَهَا كُلَّ حِينِۭ بِإِذۡنِ رَبِّهَاۗ وَيَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ لِلنَّاسِ لَعَلَّهُمۡ يَتَذَكَّرُونَ"
+      },
+      "transliteration": "Tutee okulaha kulla heenin biithni rabbiha wayadribu Allahu alamthala lilnnasi laAAallahum yatathakkaroona"
+    },
+    {
+      "surah": 14,
+      "ayah": 26,
+      "key": "14:26",
+      "arabic": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن قَرَارٍ",
+      "translations": {
+        "en": "And the parable of an evil Word is that of an evil tree: It is torn up by the root from the surface of the earth: it has no stability.",
+        "ms": "Dan bandingan Kalimah yang jahat dan buruk samalah seperti sebatang pohon yang tidak berguna yang mudah tercabut akar-akarnya dari muka bumi; tidak ada tapak baginya untuk tetap hidup",
+        "id": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ"
+      },
+      "transliteration": "Wamathalu kalimatin khabeethatin kashajaratin khabeethatin ijtuththat min fawqi alardi ma laha min qararin"
+    },
+    {
+      "surah": 14,
+      "ayah": 27,
+      "key": "14:27",
+      "arabic": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْـَٔاخِرَةِ ۖ وَيُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِينَ ۚ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "translations": {
+        "en": "Allah will establish in strength those who believe, with the word that stands firm, in this world and in the Hereafter; but Allah will leave, to stray, those who do wrong: Allah doeth what He willeth.",
+        "ms": "Allah menetapkan (pendirian) orang-orang yang beriman dengan kalimah yang tetap teguh dalam kehidupan dunia dan akhirat; dan Allah menyesatkan orang-orang yang berlaku zalim (kepada diri mereka sendiri); dan Allah berkuasa melakukan apa yang dikehendakiNya",
+        "id": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَيُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِينَۚ وَيَفۡعَلُ ٱللَّهُ مَا يَشَآءُ"
+      },
+      "transliteration": "Yuthabbitu Allahu allatheena amanoo bialqawli alththabiti fee alhayati alddunya wafee alakhirati wayudillu Allahu alththalimeena wayafAAalu Allahu ma yashao"
+    },
+    {
+      "surah": 14,
+      "ayah": 28,
+      "key": "14:28",
+      "arabic": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ بَدَّلُوا۟ نِعْمَتَ ٱللَّهِ كُفْرًا وَأَحَلُّوا۟ قَوْمَهُمْ دَارَ ٱلْبَوَارِ",
+      "translations": {
+        "en": "Hast thou not turned thy vision to those who have changed the favour of Allah. Into blasphemy and caused their people to descend to the House of Perdition?-",
+        "ms": "Tidakkah engkau melihat (dan merasa ajaib) terhadap orang-orang kafir yang telah menukar kesyukuran nikmat Allah dengan kekufuran, dan yang telah menempatkan kaum mereka dalam kebinasaan",
+        "id": "۞أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ"
+      },
+      "transliteration": "Alam tara ila allatheena baddaloo niAAmata Allahi kufran waahalloo qawmahum dara albawari"
+    },
+    {
+      "surah": 14,
+      "ayah": 29,
+      "key": "14:29",
+      "arabic": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ",
+      "translations": {
+        "en": "Into Hell? They will burn therein,- an evil place to stay in!",
+        "ms": "(Iaitu) neraka Jahannam yang mereka akan menderita bakarannya; dan (ingatlah), seburuk-buruk tempat tetap ialah neraka Jahannam",
+        "id": "جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ"
+      },
+      "transliteration": "Jahannama yaslawnaha wabisa alqararu"
+    },
+    {
+      "surah": 14,
+      "ayah": 30,
+      "key": "14:30",
+      "arabic": "وَجَعَلُوا۟ لِلَّهِ أَندَادًا لِّيُضِلُّوا۟ عَن سَبِيلِهِۦ ۗ قُلْ تَمَتَّعُوا۟ فَإِنَّ مَصِيرَكُمْ إِلَى ٱلنَّارِ",
+      "translations": {
+        "en": "And they set up (idols) as equal to Allah, to mislead (men) from the Path! Say: \"Enjoy (your brief power)! But verily ye are making straightway for Hell!\"",
+        "ms": "Dan mereka mengadakan sekutu-sekutu bagi Allah untuk menyesatkan manusia dari jalanNya. Katakanlah (wahai Muhammad): \"Bersenang-senanglah kamu (bagi sementara di dunia), kerana sesungguhnya kesudahan kamu ke neraka",
+        "id": "وَجَعَلُواْ لِلَّهِ أَندَادٗا لِّيُضِلُّواْ عَن سَبِيلِهِۦۗ قُلۡ تَمَتَّعُواْ فَإِنَّ مَصِيرَكُمۡ إِلَى ٱلنَّارِ"
+      },
+      "transliteration": "WajaAAaloo lillahi andadan liyudilloo AAan sabeelihi qul tamattaAAoo fainna maseerakum ila alnnari"
+    },
+    {
+      "surah": 14,
+      "ayah": 31,
+      "key": "14:31",
+      "arabic": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَـٰهُمْ سِرًّا وَعَلَانِيَةً مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَـٰلٌ",
+      "translations": {
+        "en": "Speak to my servants who have believed, that they may establish regular prayers, and spend (in charity) out of the sustenance we have given them, secretly and openly, before the coming of a Day in which there will be neither mutual bargaining nor befriending.",
+        "ms": "Katakanlah kepada hamba-hambaKu yang beriman hendaklah mereka mendirikan sembahyang dan mendermakan dari apa yang kami kurniakan kepada mereka, sama ada dengan merahsiakan pemberiannya itu atau dengan terbuka; sebelum datangnya hari yang tidak ada jual beli padanya, dan tidak ada sahabat handai (yang dapat memberikan pertolongan)",
+        "id": "قُل لِّعِبَادِيَ ٱلَّذِينَ ءَامَنُواْ يُقِيمُواْ ٱلصَّلَوٰةَ وَيُنفِقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ مِّن قَبۡلِ أَن يَأۡتِيَ يَوۡمٞ لَّا بَيۡعٞ فِيهِ وَلَا خِلَٰلٌ"
+      },
+      "transliteration": "Qul liAAibadiya allatheena amanoo yuqeemoo alssalata wayunfiqoo mimma razaqnahum sirran waAAalaniyatan min qabli an yatiya yawmun la bayAAun feehi wala khilalun"
+    },
+    {
+      "surah": 14,
+      "ayah": 32,
+      "key": "14:32",
+      "arabic": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ ۖ وَسَخَّرَ لَكُمُ ٱلْأَنْهَـٰرَ",
+      "translations": {
+        "en": "It is Allah Who hath created the heavens and the earth and sendeth down rain from the skies, and with it bringeth out fruits wherewith to feed you; it is He Who hath made the ships subject to you, that they may sail through the sea by His command; and the rivers (also) hath He made subject to you.",
+        "ms": "Allah jualah yang menciptakan langit dan bumi, dan menurunkan hujan dari langit lalu mengeluarkan dengan air hujan itu buah-buahan untuk menjadi makanan bagi kamu; dan Ia yang memberi kemudahan kepada kamu menggunakan kapal-kapal untuk belayar di laut dengan perintahNya, juga yang memudahkan sungai-sungai untuk kamu (mengambil manfaat darinya)",
+        "id": "ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ لِتَجۡرِيَ فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَٰرَ"
+      },
+      "transliteration": "Allahu allathee khalaqa alssamawati waalarda waanzala mina alssamai maan faakhraja bihi mina alththamarati rizqan lakum wasakhkhara lakumu alfulka litajriya fee albahri biamrihi wasakhkhara lakumu alanhara"
+    },
+    {
+      "surah": 14,
+      "ayah": 33,
+      "key": "14:33",
+      "arabic": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "translations": {
+        "en": "And He hath made subject to you the sun and the moon, both diligently pursuing their courses; and the night and the day hath he (also) made subject to you.",
+        "ms": "Dan Ia juga yang menjadikan matahari dan bulan sentiasa beredar, untuk kepentingan kemudahan kamu, dan yang menjadikan malam dan siang bagi faedah hidup kamu",
+        "id": "وَسَخَّرَ لَكُمُ ٱلشَّمۡسَ وَٱلۡقَمَرَ دَآئِبَيۡنِۖ وَسَخَّرَ لَكُمُ ٱلَّيۡلَ وَٱلنَّهَارَ"
+      },
+      "transliteration": "Wasakhkhara lakumu alshshamsa waalqamara daibayni wasakhkhara lakumu allayla waalnnahara"
+    },
+    {
+      "surah": 14,
+      "ayah": 34,
+      "key": "14:34",
+      "arabic": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَـٰنَ لَظَلُومٌ كَفَّارٌ",
+      "translations": {
+        "en": "And He giveth you of all that ye ask for. But if ye count the favours of Allah, never will ye be able to number them. Verily, man is given up to injustice and ingratitude.",
+        "ms": "Dan Ia telah memberi kepada kamu sebahagian dari tiap-tiap apa jua yang kamu hajati. Dan jika kamu menghitung nikmat Allah nescaya lemahlah kamu menentukan bilangannya. Sesungguhnya manusia (yang ingkar) sangat suka menempatkan sesuatu pada bukan tempatnya lagi sangat tidak menghargai nikmat Tuhannya",
+        "id": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلۡتُمُوهُۚ وَإِن تَعُدُّواْ نِعۡمَتَ ٱللَّهِ لَا تُحۡصُوهَآۗ إِنَّ ٱلۡإِنسَٰنَ لَظَلُومٞ كَفَّارٞ"
+      },
+      "transliteration": "Waatakum min kulli ma saaltumoohu wain taAAuddoo niAAmata Allahi la tuhsooha inna alinsana lathaloomun kaffarun"
+    },
+    {
+      "surah": 14,
+      "ayah": 35,
+      "key": "14:35",
+      "arabic": "وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَـٰذَا ٱلْبَلَدَ ءَامِنًا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ",
+      "translations": {
+        "en": "Remember Abraham said: \"O my Lord! make this city one of peace and security: and preserve me and my sons from worshipping idols.",
+        "ms": "Dan (ingatlah) ketika Nabi Ibrahim berdoa dengan berkata: \"Wahai Tuhanku! jadikanlah negeri Makkah ini negeri yang aman, dan jauhkanlah daku dan anak-anakku dari perbuatan menyembah berhala",
+        "id": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا وَٱجۡنُبۡنِي وَبَنِيَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ"
+      },
+      "transliteration": "Waith qala ibraheemu rabbi ijAAal hatha albalada aminan waojnubnee wabaniyya an naAAbuda alasnama"
+    },
+    {
+      "surah": 14,
+      "ayah": 36,
+      "key": "14:36",
+      "arabic": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌ رَّحِيمٌ",
+      "translations": {
+        "en": "\"O my Lord! they have indeed led astray many among mankind; He then who follows my (ways) is of me, and he that disobeys me,- but Thou art indeed Oft-forgiving, Most Merciful.",
+        "ms": "Wahai Tuhanku, berhala-berhala itu telah menyebabkan sesat banyak di antara umat manusia. Oleh itu, sesiapa yang menurutku (dalam Islam yang menjadi peganganku) maka ia adalah dari golonganku; dan sesiapa yang menderhaka kepadaku (dengan menyalahi ugamaku), maka sesungguhnya engkau Maha Pengampun, lagi Maha Mengasihani (kiranya ia insaf dan bertaubat)",
+        "id": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ"
+      },
+      "transliteration": "Rabbi innahunna adlalna katheeran mina alnnasi faman tabiAAanee fainnahu minnee waman AAasanee fainnaka ghafoorun raheemun"
+    },
+    {
+      "surah": 14,
+      "ayah": 37,
+      "key": "14:37",
+      "arabic": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "translations": {
+        "en": "\"O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks.",
+        "ms": "Wahai Tuhan kami! Sesungguhnya aku telah menempatkan sebahagian dari zuriat keturunanku di sebuah lembah (Tanah Suci Makkah) yang tidak tanaman padanya, di sisi rumahMu yang diharamkan mencerobohinya. Wahai Tuhan kami, (mereka ditempatkan di situ) supaya mereka mendirikan sembahyang (dan memakmurkannya dengan ibadat). Oleh itu, jadikanlah hati sebahagian dari manusia tertarik gemar kepada mereka, (supaya datang beramai-ramai ke situ), dan kurniakanlah rezeki kepada mereka dari berbagai jenis buah-buahan dan hasil tanaman, semoga mereka bersyukur",
+        "id": "رَّبَّنَآ إِنِّيٓ أَسۡكَنتُ مِن ذُرِّيَّتِي بِوَادٍ غَيۡرِ ذِي زَرۡعٍ عِندَ بَيۡتِكَ ٱلۡمُحَرَّمِ رَبَّنَا لِيُقِيمُواْ ٱلصَّلَوٰةَ فَٱجۡعَلۡ أَفۡـِٔدَةٗ مِّنَ ٱلنَّاسِ تَهۡوِيٓ إِلَيۡهِمۡ وَٱرۡزُقۡهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَشۡكُرُونَ"
+      },
+      "transliteration": "Rabbana innee askantu min thurriyyatee biwadin ghayri thee zarAAin AAinda baytika almuharrami rabbana liyuqeemoo alssalata faijAAal afidatan mina alnnasi tahwee ilayhim waorzuqhum mina alththamarati laAAallahum yashkuroona"
+    },
+    {
+      "surah": 14,
+      "ayah": 38,
+      "key": "14:38",
+      "arabic": "رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+      "translations": {
+        "en": "\"O our Lord! truly Thou dost know what we conceal and what we reveal: for nothing whatever is hidden from Allah, whether on earth or in heaven.",
+        "ms": "Wahai Tuhan kami! Sesungguhnya Engkau mengetahui akan apa yang kami sembunyikan dan apa yang kami zahirkan; dan tiada sesuatupun di langit dan di bumi, yang tersembunyi kepada Allah",
+        "id": "رَبَّنَآ إِنَّكَ تَعۡلَمُ مَا نُخۡفِي وَمَا نُعۡلِنُۗ وَمَا يَخۡفَىٰ عَلَى ٱللَّهِ مِن شَيۡءٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ"
+      },
+      "transliteration": "Rabbana innaka taAAlamu ma nukhfee wama nuAAlinu wama yakhfa AAala Allahi min shayin fee alardi wala fee alssamai"
+    },
+    {
+      "surah": 14,
+      "ayah": 39,
+      "key": "14:39",
+      "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+      "translations": {
+        "en": "\"Praise be to Allah, Who hath granted unto me in old age Isma'il and Isaac: for truly my Lord is He, the Hearer of Prayer!",
+        "ms": "Segala puji tertentu bagi Allah Yang telah mengurniakan kepadaku semasa aku tua: Ismail dan Ishak. Sesungguhnya Tuhanku Maha Mendengar dan Memperkenan doa permohonan",
+        "id": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي وَهَبَ لِي عَلَى ٱلۡكِبَرِ إِسۡمَٰعِيلَ وَإِسۡحَٰقَۚ إِنَّ رَبِّي لَسَمِيعُ ٱلدُّعَآءِ"
+      },
+      "transliteration": "Alhamdu lillahi allathee wahaba lee AAala alkibari ismaAAeela waishaqa inna rabbee lasameeAAu aldduAAai"
+    },
+    {
+      "surah": 14,
+      "ayah": 40,
+      "key": "14:40",
+      "arabic": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+      "translations": {
+        "en": "O my Lord! make me one who establishes regular Prayer, and also (raise such) among my offspring O our Lord! and accept Thou my Prayer.",
+        "ms": "Wahai Tuhanku! Jadikanlah daku orang yang mendirikan sembahyang dan demikianlah juga zuriat keturunanku. Wahai Tuhan kami, perkenankanlah doa permohonanku",
+        "id": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ"
+      },
+      "transliteration": "Rabbi ijAAalnee muqeema alssalati wamin thurriyyatee rabbana wtaqabbal duAAai"
+    },
+    {
+      "surah": 14,
+      "ayah": 41,
+      "key": "14:41",
+      "arabic": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "translations": {
+        "en": "\"O our Lord! cover (us) with Thy Forgiveness - me, my parents, and (all) Believers, on the Day that the Reckoning will be established!",
+        "ms": "Wahai Tuhan kami! Berilah ampun bagiku dan bagi kedua ibu bapaku serta bagi orang-orang yang beriman, pada masa berlakunya hitungan amal dan pembalasan",
+        "id": "رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ"
+      },
+      "transliteration": "Rabbana ighfir lee waliwalidayya walilmumineena yawma yaqoomu alhisabu"
+    },
+    {
+      "surah": 14,
+      "ayah": 42,
+      "key": "14:42",
+      "arabic": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَـٰفِلًا عَمَّا يَعْمَلُ ٱلظَّـٰلِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلْأَبْصَـٰرُ",
+      "translations": {
+        "en": "Think not that Allah doth not heed the deeds of those who do wrong. He but giveth them respite against a Day when the eyes will fixedly stare in horror,-",
+        "ms": "Dan janganlah engkau (wahai Muhammad) menyangka Allah lalai akan apa yang dilakukan oleh orang-orang yang zalim; sesungguhnya Ia hanya melambatkan balasan mereka hingga ke suatu hari yang padanya terbeliak kaku pemandangan mereka, (kerana gerun gementar melihat keadaan yang berlaku)",
+        "id": "وَلَا تَحۡسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعۡمَلُ ٱلظَّـٰلِمُونَۚ إِنَّمَا يُؤَخِّرُهُمۡ لِيَوۡمٖ تَشۡخَصُ فِيهِ ٱلۡأَبۡصَٰرُ"
+      },
+      "transliteration": "Wala tahsabanna Allaha ghafilan AAamma yaAAmalu alththalimoona innama yuakhkhiruhum liyawmin tashkhasu feehi alabsaru"
+    },
+    {
+      "surah": 14,
+      "ayah": 43,
+      "key": "14:43",
+      "arabic": "مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌ",
+      "translations": {
+        "en": "They running forward with necks outstretched, their heads uplifted, their gaze returning not towards them, and their hearts a (gaping) void!",
+        "ms": "(Dalam pada itu) mereka terburu-buru (menyahut panggilan ke padang Mahsyar) sambil mendongakkan kepala mereka dengan mata tidak berkelip, dan hati mereka tidak bersemangat (kerana bingung dan cemas)",
+        "id": "مُهۡطِعِينَ مُقۡنِعِي رُءُوسِهِمۡ لَا يَرۡتَدُّ إِلَيۡهِمۡ طَرۡفُهُمۡۖ وَأَفۡـِٔدَتُهُمۡ هَوَآءٞ"
+      },
+      "transliteration": "MuhtiAAeena muqniAAee ruoosihim la yartaddu ilayhim tarfuhum waafidatuhum hawaon"
+    },
+    {
+      "surah": 14,
+      "ayah": 44,
+      "key": "14:44",
+      "arabic": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍ",
+      "translations": {
+        "en": "So warn mankind of the Day when the Wrath will reach them: then will the wrong-doers say: \"Our Lord! respite us (if only) for a short term: we will answer Thy call, and follow the messengers!\" \"What! were ye not wont to swear aforetime that ye should suffer no decline?",
+        "ms": "Dan berilah amaran (wahai Muhammad) kepada manusia yang ingkar itu jangan mereka lupakan hari kiamat yang padanya mereka akan didatangi azab, kerana pada saat itu, orang-orang yang berlaku zalim akan merayu dengan berkata: \"Wahai Tuhan kami, (kembalikanlah kami ke dunia dan) berilah tempoh kepada kami hingga ke suatu masa yang dekat, supaya kami menyahut seruanMu (untuk mengesakanMu dan mentaati perintahMu), dan supaya kami menurut ugama yang disampaikan oleh Rasul-rasul itu\". Dan (rayuan mereka akan ditolak dengan dikatakan kepada mereka): \"Tidakkah kamu telah diberikan tempoh untuk berbuat demikian, dan bukankah kamu telah bersumpah (semasa kamu dalam dunia) dahulu, bahawa keadaan kamu tidak akan mengalami sebarang perubahan",
+        "id": "وَأَنذِرِ ٱلنَّاسَ يَوۡمَ يَأۡتِيهِمُ ٱلۡعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُواْ رَبَّنَآ أَخِّرۡنَآ إِلَىٰٓ أَجَلٖ قَرِيبٖ نُّجِبۡ دَعۡوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَۗ أَوَلَمۡ تَكُونُوٓاْ أَقۡسَمۡتُم مِّن قَبۡلُ مَا لَكُم مِّن زَوَالٖ"
+      },
+      "transliteration": "Waanthiri alnnasa yawma yateehimu alAAathabu fayaqoolu allatheena thalamoo rabbana akhkhirna ila ajalin qareebin nujib daAAwataka wanattabiAAi alrrusula awalam takoonoo aqsamtum min qablu ma lakum min zawalin"
+    },
+    {
+      "surah": 14,
+      "ayah": 45,
+      "key": "14:45",
+      "arabic": "وَسَكَنتُمْ فِى مَسَـٰكِنِ ٱلَّذِينَ ظَلَمُوٓا۟ أَنفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ",
+      "translations": {
+        "en": "\"And ye dwelt in the dwellings of men who wronged their own souls; ye were clearly shown how We dealt with them; and We put forth (many) parables in your behoof!\"",
+        "ms": "Padahal kamu telah mendiami tempat-tempat tinggal orang-orang yang berlaku zalim kepada diri mereka sendiri, serta telah ternyata kepada kamu dengan bukti-buKti yang jelas bagaimana Kami telah mengubah keadaan mereka (dengan menimpakan mereka berbagai bencana), dan Kami pula telah nyatakan kepada kamu berbagai contoh perbandingan (di dalam Al-Quran dan melalui sabda Rasul)",
+        "id": "وَسَكَنتُمۡ فِي مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓاْ أَنفُسَهُمۡ وَتَبَيَّنَ لَكُمۡ كَيۡفَ فَعَلۡنَا بِهِمۡ وَضَرَبۡنَا لَكُمُ ٱلۡأَمۡثَالَ"
+      },
+      "transliteration": "Wasakantum fee masakini allatheena thalamoo anfusahum watabayyana lakum kayfa faAAalna bihim wadarabna lakumu alamthala"
+    },
+    {
+      "surah": 14,
+      "ayah": 46,
+      "key": "14:46",
+      "arabic": "وَقَدْ مَكَرُوا۟ مَكْرَهُمْ وَعِندَ ٱللَّهِ مَكْرُهُمْ وَإِن كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ ٱلْجِبَالُ",
+      "translations": {
+        "en": "Mighty indeed were the plots which they made, but their plots were (well) within the sight of Allah, even though they were such as to shake the hills!",
+        "ms": "Dan sesungguhnya mereka telah menjalankan rancangan jahat mereka (untuk menentang Islam), sedang di sisi Allah ada balasan bagi rancangan jahat mereka, walau rancangan jahat mereka itu, dapat melenyapkan gunung-ganang sekalipun",
+        "id": "وَقَدۡ مَكَرُواْ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ"
+      },
+      "transliteration": "Waqad makaroo makrahum waAAinda Allahi makruhum wain kana makruhum litazoola minhu aljibalu"
+    },
+    {
+      "surah": 14,
+      "ayah": 47,
+      "key": "14:47",
+      "arabic": "فَلَا تَحْسَبَنَّ ٱللَّهَ مُخْلِفَ وَعْدِهِۦ رُسُلَهُۥٓ ۗ إِنَّ ٱللَّهَ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "translations": {
+        "en": "Never think that Allah would fail his messengers in His promise: for Allah is Exalted in power, - the Lord of Retribution.",
+        "ms": "Oleh itu, janganlah engkau menyangka Allah memungkiri janjiNya kepada Rasul-rasulNya; sesungguhnya Allah Maha Kuasa, lagi Sedia Membalas (orang-orang yang menderhaka kepadaNya)",
+        "id": "فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥٓۚ إِنَّ ٱللَّهَ عَزِيزٞ ذُو ٱنتِقَامٖ"
+      },
+      "transliteration": "Fala tahsabanna Allaha mukhlifa waAAdihi rusulahu inna Allaha AAazeezun thoo intiqamin"
+    },
+    {
+      "surah": 14,
+      "ayah": 48,
+      "key": "14:48",
+      "arabic": "يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَـٰوَٰتُ ۖ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ",
+      "translations": {
+        "en": "One day the earth will be changed to a different earth, and so will be the heavens, and (men) will be marshalled forth, before Allah, the One, the Irresistible;",
+        "ms": "(Ingatlah) masa hari bumi ini diganti dengan yang lain, demikian juga langit; dan manusia semuanya keluar berhimpun mengadap Allah, Yang Maha Esa, lagi Maha Kuasa",
+        "id": "يَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَيۡرَ ٱلۡأَرۡضِ وَٱلسَّمَٰوَٰتُۖ وَبَرَزُواْ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ"
+      },
+      "transliteration": "Yawma tubaddalu alardu ghayra alardi waalssamawatu wabarazoo lillahi alwahidi alqahhari"
+    },
+    {
+      "surah": 14,
+      "ayah": 49,
+      "key": "14:49",
+      "arabic": "وَتَرَى ٱلْمُجْرِمِينَ يَوْمَئِذٍ مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+      "translations": {
+        "en": "And thou wilt see the sinners that day bound together in fetters;-",
+        "ms": "Dan engkau akan melihat orang-orang yang berdosa pada ketika itu diberkas dengan belenggu",
+        "id": "وَتَرَى ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ مُّقَرَّنِينَ فِي ٱلۡأَصۡفَادِ"
+      },
+      "transliteration": "Watara almujrimeena yawmaithin muqarraneena fee alasfadi"
+    },
+    {
+      "surah": 14,
+      "ayah": 50,
+      "key": "14:50",
+      "arabic": "سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ",
+      "translations": {
+        "en": "Their garments of liquid pitch, and their faces covered with Fire;",
+        "ms": "Pakaian mereka dari belangkin (minyak tar), dan muka (serta seluruh badan) mereka diliputi oleh jilatan api neraka",
+        "id": "سَرَابِيلُهُم مِّن قَطِرَانٖ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ"
+      },
+      "transliteration": "Sarabeeluhum min qatranin wataghsha wujoohahumu alnnaru"
+    },
+    {
+      "surah": 14,
+      "ayah": 51,
+      "key": "14:51",
+      "arabic": "لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "translations": {
+        "en": "That Allah may requite each soul according to its deserts; and verily Allah is swift in calling to account.",
+        "ms": "(Keluarnya manusia dari kubur masing-masing itu ialah) kerana Allah akan membalas tiap-tiap seorang apa yang ia telah usahakan; sesungguhnya Allah amat cepat hitungan hisabNya",
+        "id": "لِيَجۡزِيَ ٱللَّهُ كُلَّ نَفۡسٖ مَّا كَسَبَتۡۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ"
+      },
+      "transliteration": "Liyajziya Allahu kulla nafsin ma kasabat inna Allaha sareeAAu alhisabi"
+    },
+    {
+      "surah": 14,
+      "ayah": 52,
+      "key": "14:52",
+      "arabic": "هَـٰذَا بَلَـٰغٌ لِّلنَّاسِ وَلِيُنذَرُوا۟ بِهِۦ وَلِيَعْلَمُوٓا۟ أَنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَلِيَذَّكَّرَ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "translations": {
+        "en": "Here is a Message for mankind: Let them take warning therefrom, and let them know that He is (no other than) One Allah: let men of understanding take heed.",
+        "ms": "(Al-Quran) ini disampaikan kepada manusia supaya mereka diberi ingat dan diberi nasihat dengannya; dan supaya mereka mengetahui (dengan hujjah-hujjah yang tersebut di dalamnya) bahawa sesungguhnya Allah ialah Tuhan Yang Maha Esa; dan supaya orang-orang yang mempunyai fikiran, beringat dan insaf",
+        "id": "هَٰذَا بَلَٰغٞ لِّلنَّاسِ وَلِيُنذَرُواْ بِهِۦ وَلِيَعۡلَمُوٓاْ أَنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَلِيَذَّكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ"
+      },
+      "transliteration": "Hatha balaghun lilnnasi waliyuntharoo bihi waliyaAAlamoo annama huwa ilahun wahidun waliyaththakkara oloo alalbabi"
+    }
+  ]
+}

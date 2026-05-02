@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ar-tafsir-muyassar-110-1",
+    "bookId": "ar-tafsir-muyassar",
+    "language": "ar",
+    "surah": 110,
+    "fromAyah": 1,
+    "toAyah": 1,
+    "title": "Tafsir Muyassar — Arabic · 110:1",
+    "body": "إذا تمَّ لك -أيها الرسول- النصر على كفار قريش، وتم لك فتح \"مكة\".",
+    "sourceLabel": "Tafsir Muyassar — Arabic",
+    "tags": [
+      "ar-tafsir-muyassar",
+      "ar",
+      "intermediate"
+    ]
+  },
+  {
+    "id": "ar-tafsir-muyassar-110-2",
+    "bookId": "ar-tafsir-muyassar",
+    "language": "ar",
+    "surah": 110,
+    "fromAyah": 2,
+    "toAyah": 2,
+    "title": "Tafsir Muyassar — Arabic · 110:2",
+    "body": "ورأيت الكثير من الناس يدخلون في الإسلام جماعات جماعات.",
+    "sourceLabel": "Tafsir Muyassar — Arabic",
+    "tags": [
+      "ar-tafsir-muyassar",
+      "ar",
+      "intermediate"
+    ]
+  },
+  {
+    "id": "ar-tafsir-muyassar-110-3",
+    "bookId": "ar-tafsir-muyassar",
+    "language": "ar",
+    "surah": 110,
+    "fromAyah": 3,
+    "toAyah": 3,
+    "title": "Tafsir Muyassar — Arabic · 110:3",
+    "body": "إذا وقع ذلك فتهيأ للقاء ربك بالإكثار من التسبيح بحمده والإكثار من استغفاره، إنه كان توابًا على المسبحين والمستغفرين، يتوب عليهم ويرحمهم ويقبل توبتهم.",
+    "sourceLabel": "Tafsir Muyassar — Arabic",
+    "tags": [
+      "ar-tafsir-muyassar",
+      "ar",
+      "intermediate"
+    ]
+  }
+]

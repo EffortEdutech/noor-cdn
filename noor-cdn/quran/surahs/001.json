@@ -1,9 +1,9 @@
 {
   "surah": {
     "number": 1,
-    "slug": "al-fatihah",
+    "slug": "al-faatihah",
     "nameArabic": "الفاتحة",
-    "nameTransliteration": "Al-Fatihah",
+    "nameTransliteration": "Al-Faatihah",
     "nameEnglish": "The Opening",
     "revelation": "makki",
     "ayahCount": 7
@@ -13,41 +13,49 @@
       "surah": 1,
       "ayah": 1,
       "key": "1:1",
-      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
       "translations": {
-        "en": "In the name of Allah, the Most Compassionate, the Most Merciful.",
-        "ms": "Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang."
-      }
+        "en": "In the name of Allah, Most Gracious, Most Merciful.",
+        "ms": "Dengan nama Allah, Yang Maha Pemurah, lagi Maha Mengasihani",
+        "id": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+      },
+      "transliteration": "Bismi Allahi alrrahmani alrraheemi"
     },
     {
       "surah": 1,
       "ayah": 2,
       "key": "1:2",
-      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "arabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
       "translations": {
-        "en": "All praise is for Allah, Lord of all worlds.",
-        "ms": "Segala puji bagi Allah, Tuhan seluruh alam."
-      }
+        "en": "Praise be to Allah, the Cherisher and Sustainer of the worlds;",
+        "ms": "Segala puji tertentu bagi Allah, Tuhan yang memelihara dan mentadbirkan sekalian alam",
+        "id": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ"
+      },
+      "transliteration": "Alhamdu lillahi rabbi alAAalameena"
     },
     {
       "surah": 1,
       "ayah": 3,
       "key": "1:3",
-      "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "arabic": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
       "translations": {
-        "en": "The Most Compassionate, the Most Merciful.",
-        "ms": "Yang Maha Pemurah lagi Maha Penyayang."
-      }
+        "en": "Most Gracious, Most Merciful;",
+        "ms": "Yang Maha Pemurah, lagi Maha Mengasihani",
+        "id": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+      },
+      "transliteration": "Alrrahmani alrraheemi"
     },
     {
       "surah": 1,
       "ayah": 4,
       "key": "1:4",
-      "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+      "arabic": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
       "translations": {
-        "en": "Master of the Day of Recompense.",
-        "ms": "Pemilik Hari Pembalasan."
-      }
+        "en": "Master of the Day of Judgment.",
+        "ms": "Yang Menguasai pemerintahan hari Pembalasan (hari Akhirat)",
+        "id": "مَٰلِكِ يَوۡمِ ٱلدِّينِ"
+      },
+      "transliteration": "Maliki yawmi alddeeni"
     },
     {
       "surah": 1,
@@ -55,29 +63,35 @@
       "key": "1:5",
       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
       "translations": {
-        "en": "You alone we worship, and You alone we ask for help.",
-        "ms": "Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan."
-      }
+        "en": "Thee do we worship, and Thine aid we seek.",
+        "ms": "Engkaulah sahaja (Ya Allah) Yang Kami sembah, dan kepada Engkaulah sahaja kami memohon pertolongan",
+        "id": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ"
+      },
+      "transliteration": "Iyyaka naAAbudu waiyyaka nastaAAeenu"
     },
     {
       "surah": 1,
       "ayah": 6,
       "key": "1:6",
-      "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "arabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
       "translations": {
-        "en": "Guide us to the straight path.",
-        "ms": "Tunjukilah kami jalan yang lurus."
-      }
+        "en": "Show us the straight way,",
+        "ms": "Tunjukilah kami jalan yang lurus",
+        "id": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ"
+      },
+      "transliteration": "Ihdina alssirata almustaqeema"
     },
     {
       "surah": 1,
       "ayah": 7,
       "key": "1:7",
-      "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "arabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
       "translations": {
-        "en": "The path of those You have blessed, not of those who incur anger, nor of those who are astray.",
-        "ms": "Jalan orang-orang yang telah Engkau beri nikmat, bukan jalan mereka yang dimurkai dan bukan pula mereka yang sesat."
-      }
+        "en": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.",
+        "ms": "Iaitu jalan orang-orang yang Engkau telah kurniakan nikmat kepada mereka, bukan (jalan) orang-orang yang Engkau telah murkai, dan bukan pula (jalan) orang-orang yang sesat",
+        "id": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ"
+      },
+      "transliteration": "Sirata allatheena anAAamta AAalayhim ghayri almaghdoobi AAalayhim wala alddalleena"
     }
   ]
 }

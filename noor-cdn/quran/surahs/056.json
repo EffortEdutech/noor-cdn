@@ -1,0 +1,1165 @@
+{
+  "surah": {
+    "number": 56,
+    "slug": "al-waaqi-ah",
+    "nameArabic": "الواقعة",
+    "nameTransliteration": "Al-Waaqi'ah",
+    "nameEnglish": "The Inevitable",
+    "revelation": "makki",
+    "ayahCount": 96
+  },
+  "ayahs": [
+    {
+      "surah": 56,
+      "ayah": 1,
+      "key": "56:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+      "translations": {
+        "en": "When the Event inevitable cometh to pass,",
+        "ms": "Apabila berlaku hari kiamat itu",
+        "id": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ"
+      },
+      "transliteration": "Itha waqaAAati alwaqiAAatu"
+    },
+    {
+      "surah": 56,
+      "ayah": 2,
+      "key": "56:2",
+      "arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+      "translations": {
+        "en": "Then will no (soul) entertain falsehood concerning its coming.",
+        "ms": "Tiada sesiapapun yang dapat mendustakan kejadiannya",
+        "id": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ"
+      },
+      "transliteration": "Laysa liwaqAAatiha kathibatun"
+    },
+    {
+      "surah": 56,
+      "ayah": 3,
+      "key": "56:3",
+      "arabic": "خَافِضَةٌ رَّافِعَةٌ",
+      "translations": {
+        "en": "(Many) will it bring low; (many) will it exalt;",
+        "ms": "Kejadian hari kiamat itu merendahkan (golongan yang ingkar), dan meninggikan (golongan yang taat)",
+        "id": "خَافِضَةٞ رَّافِعَةٌ"
+      },
+      "transliteration": "Khafidatun rafiAAatun"
+    },
+    {
+      "surah": 56,
+      "ayah": 4,
+      "key": "56:4",
+      "arabic": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+      "translations": {
+        "en": "When the earth shall be shaken to its depths,",
+        "ms": "(Ia berlaku) semasa bumi bergoncang dengan sebebar-benar goncangan",
+        "id": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا"
+      },
+      "transliteration": "Itha rujjati alardu rajjan"
+    },
+    {
+      "surah": 56,
+      "ayah": 5,
+      "key": "56:5",
+      "arabic": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+      "translations": {
+        "en": "And the mountains shall be crumbled to atoms,",
+        "ms": "Dan gunung-ganang dihancur leburkan dengan selebur-leburnya",
+        "id": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا"
+      },
+      "transliteration": "Wabussati aljibalu bassan"
+    },
+    {
+      "surah": 56,
+      "ayah": 6,
+      "key": "56:6",
+      "arabic": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+      "translations": {
+        "en": "Becoming dust scattered abroad,",
+        "ms": "Lalu menjadilah ia debu yang bertebaran",
+        "id": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا"
+      },
+      "transliteration": "Fakanat habaan munbaththan"
+    },
+    {
+      "surah": 56,
+      "ayah": 7,
+      "key": "56:7",
+      "arabic": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+      "translations": {
+        "en": "And ye shall be sorted out into three classes.",
+        "ms": "Dan kamu pula menjadi tiga puak (yang berlainan keadaannya)",
+        "id": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ"
+      },
+      "transliteration": "Wakuntum azwajan thalathatan"
+    },
+    {
+      "surah": 56,
+      "ayah": 8,
+      "key": "56:8",
+      "arabic": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "translations": {
+        "en": "Then (there will be) the Companions of the Right Hand;- What will be the Companions of the Right Hand?",
+        "ms": "Iaitu puak pihak kanan; alangkah bahagianya keadaan puak pihak kanan itu",
+        "id": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ"
+      },
+      "transliteration": "Faashabu almaymanati ma ashabu almaymanati"
+    },
+    {
+      "surah": 56,
+      "ayah": 9,
+      "key": "56:9",
+      "arabic": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "translations": {
+        "en": "And the Companions of the Left Hand,- what will be the Companions of the Left Hand?",
+        "ms": "Dan puak pihak kiri; - alangkah seksanya keadaan puak pihak kiri itu",
+        "id": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ"
+      },
+      "transliteration": "Waashabu almashamati ma ashabu almashamati"
+    },
+    {
+      "surah": 56,
+      "ayah": 10,
+      "key": "56:10",
+      "arabic": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+      "translations": {
+        "en": "And those Foremost (in Faith) will be Foremost (in the Hereafter).",
+        "ms": "Dan (puak yang ketiga pula ialah) orang-orang yang telah mendahului (dalam mengerjakan kebaikan di dunia), - yang akan mendahului (mencapai balasan yang sebaik-baiknya di akhirat kelak)",
+        "id": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ"
+      },
+      "transliteration": "Waalssabiqoona alssabiqoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 11,
+      "key": "56:11",
+      "arabic": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "translations": {
+        "en": "These will be those Nearest to Allah:",
+        "ms": "Mereka itulah orang-orang yang didampingkan (di sisi Allah)",
+        "id": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ"
+      },
+      "transliteration": "Olaika almuqarraboona"
+    },
+    {
+      "surah": 56,
+      "ayah": 12,
+      "key": "56:12",
+      "arabic": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+      "translations": {
+        "en": "In Gardens of Bliss:",
+        "ms": "(Tinggal menetap) di dalam Syurga-syurga yang penuh nikmat",
+        "id": "فِي جَنَّـٰتِ ٱلنَّعِيمِ"
+      },
+      "transliteration": "Fee jannati alnnaAAeemi"
+    },
+    {
+      "surah": 56,
+      "ayah": 13,
+      "key": "56:13",
+      "arabic": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+      "translations": {
+        "en": "A number of people from those of old,",
+        "ms": "(Di antaranya) sekumpulan besar dari umat-umat manusia yang terdahulu",
+        "id": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ"
+      },
+      "transliteration": "Thullatun mina alawwaleena"
+    },
+    {
+      "surah": 56,
+      "ayah": 14,
+      "key": "56:14",
+      "arabic": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+      "translations": {
+        "en": "And a few from those of later times.",
+        "ms": "Dan sebilangan kecil dari orang-orang yang datang kemudian",
+        "id": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ"
+      },
+      "transliteration": "Waqaleelun mina alakhireena"
+    },
+    {
+      "surah": 56,
+      "ayah": 15,
+      "key": "56:15",
+      "arabic": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+      "translations": {
+        "en": "(They will be) on Thrones encrusted (with gold and precious stones),",
+        "ms": "(Mereka duduk di dalam Syurga itu) di atas takhta-takhta kebesaran yang bertatahkan permata",
+        "id": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ"
+      },
+      "transliteration": "AAala sururin mawdoonatin"
+    },
+    {
+      "surah": 56,
+      "ayah": 16,
+      "key": "56:16",
+      "arabic": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ",
+      "translations": {
+        "en": "Reclining on them, facing each other.",
+        "ms": "Sambil berbaring di atasnya dengan berhadap-hadapan",
+        "id": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ"
+      },
+      "transliteration": "Muttakieena AAalayha mutaqabileena"
+    },
+    {
+      "surah": 56,
+      "ayah": 17,
+      "key": "56:17",
+      "arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ",
+      "translations": {
+        "en": "Round about them will (serve) youths of perpetual (freshness),",
+        "ms": "Mereka dilayani oleh anak-anak muda lelaki yang tetap kekal (dalam keadaan mudanya), yang sentiasa beredar di sekitar mereka",
+        "id": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ"
+      },
+      "transliteration": "Yatoofu AAalayhim wildanun mukhalladoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 18,
+      "key": "56:18",
+      "arabic": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+      "translations": {
+        "en": "With goblets, (shining) beakers, and cups (filled) out of clear-flowing fountains:",
+        "ms": "Dengan membawa piala-piala minuman dan tekoh-tekoh serta piala atau gelas yang berisi arak (yang diambil) dari sungainya yang mengalir",
+        "id": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ"
+      },
+      "transliteration": "Biakwabin waabareeqa wakasin min maAAeenin"
+    },
+    {
+      "surah": 56,
+      "ayah": 19,
+      "key": "56:19",
+      "arabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+      "translations": {
+        "en": "No after-ache will they receive therefrom, nor will they suffer intoxication:",
+        "ms": "Mereka tidak merasa pening kepala dan tidak pula mabuk dengan sebab menikmatinya",
+        "id": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ"
+      },
+      "transliteration": "La yusaddaAAoona AAanha wala yunzifoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 20,
+      "key": "56:20",
+      "arabic": "وَفَـٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+      "translations": {
+        "en": "And with fruits, any that they may select:",
+        "ms": "Dan juga (dibawakan kepada mereka) buah-buahan dari jenis-jenis yang mereka pilih",
+        "id": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ"
+      },
+      "transliteration": "Wafakihatin mimma yatakhayyaroona"
+    },
+    {
+      "surah": 56,
+      "ayah": 21,
+      "key": "56:21",
+      "arabic": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+      "translations": {
+        "en": "And the flesh of fowls, any that they may desire.",
+        "ms": "Serta daging burung dari jenis-jenis yang mereka ingini",
+        "id": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ"
+      },
+      "transliteration": "Walahmi tayrin mimma yashtahoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 22,
+      "key": "56:22",
+      "arabic": "وَحُورٌ عِينٌ",
+      "translations": {
+        "en": "And (there will be) Companions with beautiful, big, and lustrous eyes,-",
+        "ms": "Dan (mereka dilayani) bidadari-bidadari yang cantik parasnya",
+        "id": "وَحُورٌ عِينٞ"
+      },
+      "transliteration": "Wahoorun AAeenun"
+    },
+    {
+      "surah": 56,
+      "ayah": 23,
+      "key": "56:23",
+      "arabic": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+      "translations": {
+        "en": "Like unto Pearls well-guarded.",
+        "ms": "Seperti mutiara yang tersimpan dengan sebaik-baiknya",
+        "id": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ"
+      },
+      "transliteration": "Kaamthali allului almaknooni"
+    },
+    {
+      "surah": 56,
+      "ayah": 24,
+      "key": "56:24",
+      "arabic": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "translations": {
+        "en": "A Reward for the deeds of their past (life).",
+        "ms": "(Semuanya itu) sebagai balasan bagi (amal-amal baik) yang mereka telah kerjakan",
+        "id": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ"
+      },
+      "transliteration": "Jazaan bima kanoo yaAAmaloona"
+    },
+    {
+      "surah": 56,
+      "ayah": 25,
+      "key": "56:25",
+      "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+      "translations": {
+        "en": "Not frivolity will they hear therein, nor any taint of ill,-",
+        "ms": "Mereka tidak akan mendengar dalam Syurga itu perkataan yang sia-sia dan tiada pula sesuatu yang menyebabkan dosa",
+        "id": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا"
+      },
+      "transliteration": "La yasmaAAoona feeha laghwan wala tatheeman"
+    },
+    {
+      "surah": 56,
+      "ayah": 26,
+      "key": "56:26",
+      "arabic": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+      "translations": {
+        "en": "Only the saying, \"Peace! Peace\".",
+        "ms": "Mereka hanya mendengar ucapan: \" Selamat! Selamat! \" (dari satu kepada yang lain)",
+        "id": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا"
+      },
+      "transliteration": "Illa qeelan salaman salaman"
+    },
+    {
+      "surah": 56,
+      "ayah": 27,
+      "key": "56:27",
+      "arabic": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+      "translations": {
+        "en": "The Companions of the Right Hand,- what will be the Companions of the Right Hand?",
+        "ms": "Dan puak kanan, - alangkah bahagianya keadaan puak kanan itu",
+        "id": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ"
+      },
+      "transliteration": "Waashabu alyameeni ma ashabu alyameeni"
+    },
+    {
+      "surah": 56,
+      "ayah": 28,
+      "key": "56:28",
+      "arabic": "فِى سِدْرٍ مَّخْضُودٍ",
+      "translations": {
+        "en": "(They will be) among Lote-trees without thorns,",
+        "ms": "Mereka bersenang-lenang di antara pohon-pohon bidara yang tidak berduri",
+        "id": "فِي سِدۡرٖ مَّخۡضُودٖ"
+      },
+      "transliteration": "Fee sidrin makhdoodin"
+    },
+    {
+      "surah": 56,
+      "ayah": 29,
+      "key": "56:29",
+      "arabic": "وَطَلْحٍ مَّنضُودٍ",
+      "translations": {
+        "en": "Among Talh trees with flowers (or fruits) piled one above another,-",
+        "ms": "Dan pokok-pokok pisang yang tersusun rapi buahnya",
+        "id": "وَطَلۡحٖ مَّنضُودٖ"
+      },
+      "transliteration": "Watalhin mandoodin"
+    },
+    {
+      "surah": 56,
+      "ayah": 30,
+      "key": "56:30",
+      "arabic": "وَظِلٍّ مَّمْدُودٍ",
+      "translations": {
+        "en": "In shade long-extended,",
+        "ms": "Dan naungan yang tetap terbentang",
+        "id": "وَظِلّٖ مَّمۡدُودٖ"
+      },
+      "transliteration": "Wathillin mamdoodin"
+    },
+    {
+      "surah": 56,
+      "ayah": 31,
+      "key": "56:31",
+      "arabic": "وَمَآءٍ مَّسْكُوبٍ",
+      "translations": {
+        "en": "By water flowing constantly,",
+        "ms": "Dan air yang sentiasa mengalir",
+        "id": "وَمَآءٖ مَّسۡكُوبٖ"
+      },
+      "transliteration": "Wamain maskoobin"
+    },
+    {
+      "surah": 56,
+      "ayah": 32,
+      "key": "56:32",
+      "arabic": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
+      "translations": {
+        "en": "And fruit in abundance.",
+        "ms": "Serta buah-buahan yang banyak",
+        "id": "وَفَٰكِهَةٖ كَثِيرَةٖ"
+      },
+      "transliteration": "Wafakihatin katheeratin"
+    },
+    {
+      "surah": 56,
+      "ayah": 33,
+      "key": "56:33",
+      "arabic": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+      "translations": {
+        "en": "Whose season is not limited, nor (supply) forbidden,",
+        "ms": "Yang tidak putus-putus dan tidak pula terlarang mendapatnya",
+        "id": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ"
+      },
+      "transliteration": "La maqtooAAatin wala mamnooAAatin"
+    },
+    {
+      "surah": 56,
+      "ayah": 34,
+      "key": "56:34",
+      "arabic": "وَفُرُشٍ مَّرْفُوعَةٍ",
+      "translations": {
+        "en": "And on Thrones (of Dignity), raised high.",
+        "ms": "Dan tempat-tempat tidur yang tertinggi keadaannya",
+        "id": "وَفُرُشٖ مَّرۡفُوعَةٍ"
+      },
+      "transliteration": "Wafurushin marfooAAatin"
+    },
+    {
+      "surah": 56,
+      "ayah": 35,
+      "key": "56:35",
+      "arabic": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً",
+      "translations": {
+        "en": "We have created (their Companions) of special creation.",
+        "ms": "Sesungguhnya Kami telah menciptakan isteri-isteri mereka dengan ciptaan istimewa",
+        "id": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ"
+      },
+      "transliteration": "Inna anshanahunna inshaan"
+    },
+    {
+      "surah": 56,
+      "ayah": 36,
+      "key": "56:36",
+      "arabic": "فَجَعَلْنَـٰهُنَّ أَبْكَارًا",
+      "translations": {
+        "en": "And made them virgin - pure (and undefiled), -",
+        "ms": "Serta Kami jadikan mereka sentiasa dara (yang tidak pernah disentuh)",
+        "id": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا"
+      },
+      "transliteration": "FajaAAalnahunna abkaran"
+    },
+    {
+      "surah": 56,
+      "ayah": 37,
+      "key": "56:37",
+      "arabic": "عُرُبًا أَتْرَابًا",
+      "translations": {
+        "en": "Beloved (by nature), equal in age,-",
+        "ms": "Yang tetap mencintai jodohnya, serta yang sebaya umurnya",
+        "id": "عُرُبًا أَتۡرَابٗا"
+      },
+      "transliteration": "AAuruban atraban"
+    },
+    {
+      "surah": 56,
+      "ayah": 38,
+      "key": "56:38",
+      "arabic": "لِّأَصْحَـٰبِ ٱلْيَمِينِ",
+      "translations": {
+        "en": "For the Companions of the Right Hand.",
+        "ms": "(Semuanya itu disediakan) bagi puak kanan",
+        "id": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ"
+      },
+      "transliteration": "Liashabi alyameeni"
+    },
+    {
+      "surah": 56,
+      "ayah": 39,
+      "key": "56:39",
+      "arabic": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+      "translations": {
+        "en": "A (goodly) number from those of old,",
+        "ms": "Iaitu sebilangan besar dari orang-orang yang terdahulu",
+        "id": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ"
+      },
+      "transliteration": "Thullatun mina alawwaleena"
+    },
+    {
+      "surah": 56,
+      "ayah": 40,
+      "key": "56:40",
+      "arabic": "وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ",
+      "translations": {
+        "en": "And a (goodly) number from those of later times.",
+        "ms": "Dan sebilangan besar dari orang-orang yang datang kemudian",
+        "id": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ"
+      },
+      "transliteration": "Wathullatun mina alakhireena"
+    },
+    {
+      "surah": 56,
+      "ayah": 41,
+      "key": "56:41",
+      "arabic": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+      "translations": {
+        "en": "The Companions of the Left Hand,- what will be the Companions of the Left Hand?",
+        "ms": "Dan puak kiri, - alangkah seksanya keadaan puak kiri itu",
+        "id": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ"
+      },
+      "transliteration": "Waashabu alshshimali ma ashabu alshshimali"
+    },
+    {
+      "surah": 56,
+      "ayah": 42,
+      "key": "56:42",
+      "arabic": "فِى سَمُومٍ وَحَمِيمٍ",
+      "translations": {
+        "en": "(They will be) in the midst of a Fierce Blast of Fire and in Boiling Water,",
+        "ms": "Mereka diseksa dalam angin yang membakar dan air yang menggelegak",
+        "id": "فِي سَمُومٖ وَحَمِيمٖ"
+      },
+      "transliteration": "Fee samoomin wahameemin"
+    },
+    {
+      "surah": 56,
+      "ayah": 43,
+      "key": "56:43",
+      "arabic": "وَظِلٍّ مِّن يَحْمُومٍ",
+      "translations": {
+        "en": "And in the shades of Black Smoke:",
+        "ms": "Serta naungan dari asap hitam",
+        "id": "وَظِلّٖ مِّن يَحۡمُومٖ"
+      },
+      "transliteration": "Wathillin min yahmoomin"
+    },
+    {
+      "surah": 56,
+      "ayah": 44,
+      "key": "56:44",
+      "arabic": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+      "translations": {
+        "en": "Nothing (will there be) to refresh, nor to please:",
+        "ms": "Yang tidak sejuk, dan tidak pula memberi kesenangan",
+        "id": "لَّا بَارِدٖ وَلَا كَرِيمٍ"
+      },
+      "transliteration": "La baridin wala kareemin"
+    },
+    {
+      "surah": 56,
+      "ayah": 45,
+      "key": "56:45",
+      "arabic": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+      "translations": {
+        "en": "For that they were wont to be indulged, before that, in wealth (and luxury),",
+        "ms": "Sesungguhnya mereka sebelum itu dilalaikan oleh kemewahan (dunia, dari mengingati hukum Tuhan)",
+        "id": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ"
+      },
+      "transliteration": "Innahum kanoo qabla thalika mutrafeena"
+    },
+    {
+      "surah": 56,
+      "ayah": 46,
+      "key": "56:46",
+      "arabic": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "translations": {
+        "en": "And persisted obstinately in wickedness supreme!",
+        "ms": "Dan mereka pula sentiasa melakukan dosa yang besar",
+        "id": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ"
+      },
+      "transliteration": "Wakanoo yusirroona AAala alhinthi alAAatheemi"
+    },
+    {
+      "surah": 56,
+      "ayah": 47,
+      "key": "56:47",
+      "arabic": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "translations": {
+        "en": "And they used to say, \"What! when we die and become dust and bones, shall we then indeed be raised up again?-",
+        "ms": "Dan juga mereka selalu berkata: \"Adakah sesudah kita mati serta menjadi tanah dan tulang, betulkah kita akan dibangkitkan hidup semula",
+        "id": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ"
+      },
+      "transliteration": "Wakanoo yaqooloona aitha mitna wakunna turaban waAAithaman ainna lamabAAoothoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 48,
+      "key": "56:48",
+      "arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "translations": {
+        "en": "\"(We) and our fathers of old?\"",
+        "ms": "Dan adakah juga datuk nenek kita yang telah lalu, (akan dibangkitkan hidup semula)",
+        "id": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ"
+      },
+      "transliteration": "Awa abaona alawwaloona"
+    },
+    {
+      "surah": 56,
+      "ayah": 49,
+      "key": "56:49",
+      "arabic": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ",
+      "translations": {
+        "en": "Say: \"Yea, those of old and those of later times,",
+        "ms": "Katakanlah (kepada mereka): \"Sesungguhnya orang-orang yang telah lalu dan orang-orang yang terkemudian",
+        "id": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ"
+      },
+      "transliteration": "Qul inna alawwaleena waalakhireena"
+    },
+    {
+      "surah": 56,
+      "ayah": 50,
+      "key": "56:50",
+      "arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+      "translations": {
+        "en": "\"All will certainly be gathered together for the meeting appointed for a Day well-known.",
+        "ms": "Tetap akan dihimpunkan pada masa yang ditentukan - pada hari kiamat yang termaklum",
+        "id": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ"
+      },
+      "transliteration": "LamajmooAAoona ila meeqati yawmin maAAloomin"
+    },
+    {
+      "surah": 56,
+      "ayah": 51,
+      "key": "56:51",
+      "arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+      "translations": {
+        "en": "\"Then will ye truly,- O ye that go wrong, and treat (Truth) as Falsehood!-",
+        "ms": "Kemudian, sesungguhnya kamu wahai orang-orang yang sesat yang mendustakan (kedatangan hari kiamat)",
+        "id": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ"
+      },
+      "transliteration": "Thumma innakum ayyuha alddalloona almukaththiboona"
+    },
+    {
+      "surah": 56,
+      "ayah": 52,
+      "key": "56:52",
+      "arabic": "لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+      "translations": {
+        "en": "\"Ye will surely taste of the Tree of Zaqqum.",
+        "ms": "Tetap akan memakan (pada hari itu) dari sebatang pokok, iaitu pokok zaqqum",
+        "id": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ"
+      },
+      "transliteration": "Laakiloona min shajarin min zaqqoomin"
+    },
+    {
+      "surah": 56,
+      "ayah": 53,
+      "key": "56:53",
+      "arabic": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "translations": {
+        "en": "\"Then will ye fill your insides therewith,",
+        "ms": "Maka kamu akan memenuhi perut kamu dari pokok (yang pahit buahnya) itu",
+        "id": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ"
+      },
+      "transliteration": "Famalioona minha albutoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 54,
+      "key": "56:54",
+      "arabic": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+      "translations": {
+        "en": "\"And drink Boiling Water on top of it:",
+        "ms": "Selepas itu kamu akan meminum pula dari air panas yang menggelegak",
+        "id": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ"
+      },
+      "transliteration": "Fashariboona AAalayhi mina alhameemi"
+    },
+    {
+      "surah": 56,
+      "ayah": 55,
+      "key": "56:55",
+      "arabic": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+      "translations": {
+        "en": "\"Indeed ye shall drink like diseased camels raging with thirst!\"",
+        "ms": "Iaitu kamu akan minum seperti unta yang berpenyakit sentiasa dahaga dan tidak puas-puas",
+        "id": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ"
+      },
+      "transliteration": "Fashariboona shurba alheemi"
+    },
+    {
+      "surah": 56,
+      "ayah": 56,
+      "key": "56:56",
+      "arabic": "هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+      "translations": {
+        "en": "Such will be their entertainment on the Day of Requital!",
+        "ms": "Inilah (jenis-jenis azab) yang disediakan untuk menyambut mereka pada hari Pembalasan itu",
+        "id": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ"
+      },
+      "transliteration": "Hatha nuzuluhum yawma alddeeni"
+    },
+    {
+      "surah": 56,
+      "ayah": 57,
+      "key": "56:57",
+      "arabic": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+      "translations": {
+        "en": "It is We Who have created you: why will ye not witness the Truth?",
+        "ms": "Kamilah yang telah menciptakan kamu (dari tiada kepada ada - wahai golongan yang ingkar), maka ada baiknya kalau kamu percaya (akan kebangkitan kamu hidup semula pada hari kiamat)",
+        "id": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ"
+      },
+      "transliteration": "Nahnu khalaqnakum falawla tusaddiqoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 58,
+      "key": "56:58",
+      "arabic": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+      "translations": {
+        "en": "Do ye then see?- The (human Seed) that ye throw out,-",
+        "ms": "(Mengapa kamu masih berdegil?) Tidakkah kamu memikirkan keadaan air mani yang kamu pancarkan (ke dalam rahim)",
+        "id": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ"
+      },
+      "transliteration": "Afaraaytum ma tumnoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 59,
+      "key": "56:59",
+      "arabic": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+      "translations": {
+        "en": "Is it ye who create it, or are We the Creators?",
+        "ms": "Adakah kamu yang menciptakannya atau Kami yang menciptakannya",
+        "id": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ"
+      },
+      "transliteration": "Aantum takhluqoonahu am nahnu alkhaliqoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 60,
+      "key": "56:60",
+      "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "translations": {
+        "en": "We have decreed Death to be your common lot, and We are not to be frustrated",
+        "ms": "Kamilah yang menentukan (dan menetapkan masa) kematian (tiap-tiap seorang) di antara kamu, dan Kami tidak sekali-kali dapat dikalahkan atau dilemahkan",
+        "id": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ"
+      },
+      "transliteration": "Nahnu qaddarna baynakumu almawta wama nahnu bimasbooqeena"
+    },
+    {
+      "surah": 56,
+      "ayah": 61,
+      "key": "56:61",
+      "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+      "translations": {
+        "en": "from changing your Forms and creating you (again) in (forms) that ye know not.",
+        "ms": "(Bahkan Kami berkuasa) menggantikan (kamu dengan) orang-orang yang serupa kamu (tetapi tidak seperti bawaan kamu), dan berkuasa menciptakan kamu dalam bentuk kejadian yang kamu tidak mengetahuinya",
+        "id": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ"
+      },
+      "transliteration": "AAala an nubaddila amthalakum wanunshiakum fee ma la taAAlamoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 62,
+      "key": "56:62",
+      "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+      "translations": {
+        "en": "And ye certainly know already the first form of creation: why then do ye not celebrate His praises?",
+        "ms": "Dan demi sesungguhnya, kamu telah sedia mengetahui tentang ciptaan diri kamu kali pertama, maka ada baiknya kalau kamu mengambil ingatan (bahawa Allah yang telah menciptakan kamu dari tiada kepada ada, berkuasa membangkitkan kamu hidup semula pada hari akhirat kelak)",
+        "id": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ"
+      },
+      "transliteration": "Walaqad AAalimtumu alnnashata aloola falawla tathakkaroona"
+    },
+    {
+      "surah": 56,
+      "ayah": 63,
+      "key": "56:63",
+      "arabic": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+      "translations": {
+        "en": "See ye the seed that ye sow in the ground?",
+        "ms": "Maka (mengapa kamu masih berdegil?) Tidakkah kamu melihat apa yang kamu tanam",
+        "id": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ"
+      },
+      "transliteration": "Afaraaytum ma tahruthoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 64,
+      "key": "56:64",
+      "arabic": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+      "translations": {
+        "en": "Is it ye that cause it to grow, or are We the Cause?",
+        "ms": "Kamukah yang menumbuhkannya atau Kami yang menumbuhkannya",
+        "id": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ"
+      },
+      "transliteration": "Aantum tazraAAoonahu am nahnu alzzariAAoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 65,
+      "key": "56:65",
+      "arabic": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "translations": {
+        "en": "Were it Our Will, We could crumble it to dry powder, and ye would be left in wonderment,",
+        "ms": "Kalau Kami kehendaki, sudah tentu Kami akan jadikan tanaman itu kering hancur (sebelum ia berbuah), maka dengan itu tinggalah kamu dalam keadaan hairan dan menyesal",
+        "id": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ"
+      },
+      "transliteration": "Law nashao lajaAAalnahu hutaman fathaltum tafakkahoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 66,
+      "key": "56:66",
+      "arabic": "إِنَّا لَمُغْرَمُونَ",
+      "translations": {
+        "en": "(Saying), \"We are indeed left with debts (for nothing):",
+        "ms": "(Sambil berkata): \"Sesungguhnya kami menanggung kerugian",
+        "id": "إِنَّا لَمُغۡرَمُونَ"
+      },
+      "transliteration": "Inna lamughramoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 67,
+      "key": "56:67",
+      "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "translations": {
+        "en": "\"Indeed are we shut out (of the fruits of our labour)\"",
+        "ms": "Bahkan kami hampa (dari mendapat sebarang hasil)",
+        "id": "بَلۡ نَحۡنُ مَحۡرُومُونَ"
+      },
+      "transliteration": "Bal nahnu mahroomoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 68,
+      "key": "56:68",
+      "arabic": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+      "translations": {
+        "en": "See ye the water which ye drink?",
+        "ms": "Selain dari itu, tidakkah kamu melihat air yang kamu minum",
+        "id": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ"
+      },
+      "transliteration": "Afaraaytumu almaa allathee tashraboona"
+    },
+    {
+      "surah": 56,
+      "ayah": 69,
+      "key": "56:69",
+      "arabic": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+      "translations": {
+        "en": "Do ye bring it down (in rain) from the cloud or do We?",
+        "ms": "Kamukah yang menurunkannya dari awan (sebagai hujan), atau Kami yang menurunkannya",
+        "id": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ"
+      },
+      "transliteration": "Aantum anzaltumoohu mina almuzni am nahnu almunziloona"
+    },
+    {
+      "surah": 56,
+      "ayah": 70,
+      "key": "56:70",
+      "arabic": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "translations": {
+        "en": "Were it Our Will, We could make it salt (and unpalatable): then why do ye not give thanks?",
+        "ms": "Kalau Kami kehendaki, Kami akan jadikan dia masin, maka ada baiknya kalau kamu bersyukur",
+        "id": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ"
+      },
+      "transliteration": "Law nashao jaAAalnahu ojajan falawla tashkuroona"
+    },
+    {
+      "surah": 56,
+      "ayah": 71,
+      "key": "56:71",
+      "arabic": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+      "translations": {
+        "en": "See ye the Fire which ye kindle?",
+        "ms": "Akhirnya, tidakkah kamu melihat api yang kamu nyalakan (dengan cara digesek)",
+        "id": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ"
+      },
+      "transliteration": "Afaraaytumu alnnara allatee tooroona"
+    },
+    {
+      "surah": 56,
+      "ayah": 72,
+      "key": "56:72",
+      "arabic": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+      "translations": {
+        "en": "Is it ye who grow the tree which feeds the fire, or do We grow it?",
+        "ms": "Kamukah yang menumbuhkan pokok kayunya, atau Kami yang menumbuhkannya",
+        "id": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ"
+      },
+      "transliteration": "Aantum anshatum shajarataha am nahnu almunshioona"
+    },
+    {
+      "surah": 56,
+      "ayah": 73,
+      "key": "56:73",
+      "arabic": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+      "translations": {
+        "en": "We have made it a memorial (of Our handiwork), and an article of comfort and convenience for the denizens of deserts.",
+        "ms": "Kami jadikan api (yang tercetus dari kayu basah) itu sebagai peringatan (bagi orang-orang yang lalaikan kebenaran hari akhirat) dan sebagai benda yang memberi kesenangan kepada orang-orang musafir",
+        "id": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ"
+      },
+      "transliteration": "Nahnu jaAAalnaha tathkiratan wamataAAan lilmuqweena"
+    },
+    {
+      "surah": 56,
+      "ayah": 74,
+      "key": "56:74",
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "translations": {
+        "en": "Then celebrate with praises the name of thy Lord, the Supreme!",
+        "ms": "Oleh yang demikian - (wahai orang yang lalai) - bertasbihlah dengan memuji nama Tuhanmu Yang Maha Besar (sebagai bersyukur akan nikmat-nikmatNya itu)",
+        "id": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
+      },
+      "transliteration": "Fasabbih biismi rabbika alAAatheemi"
+    },
+    {
+      "surah": 56,
+      "ayah": 75,
+      "key": "56:75",
+      "arabic": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "translations": {
+        "en": "Furthermore I call to witness the setting of the Stars,-",
+        "ms": "Maka Aku bersumpah: Demi tempat-tempat dan masa-masa turunnya bahagian-bahagian Al-Quran",
+        "id": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ"
+      },
+      "transliteration": "Fala oqsimu bimawaqiAAi alnnujoomi"
+    },
+    {
+      "surah": 56,
+      "ayah": 76,
+      "key": "56:76",
+      "arabic": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "translations": {
+        "en": "And that is indeed a mighty adjuration if ye but knew,-",
+        "ms": "Dan sebenarnya sumpah itu adalah sumpah yang besar, kalaulah kamu mengetahuinya",
+        "id": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ"
+      },
+      "transliteration": "Wainnahu laqasamun law taAAlamoona AAatheemun"
+    },
+    {
+      "surah": 56,
+      "ayah": 77,
+      "key": "56:77",
+      "arabic": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+      "translations": {
+        "en": "That this is indeed a qur'an Most Honourable,",
+        "ms": "Bahawa sesungguhnya (yang dibacakan kepada kamu) itu ialah Al-Quran yang mulia, (yang sentiasa memberi ajaran dan pimpinan)",
+        "id": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ"
+      },
+      "transliteration": "Innahu laquranun kareemun"
+    },
+    {
+      "surah": 56,
+      "ayah": 78,
+      "key": "56:78",
+      "arabic": "فِى كِتَـٰبٍ مَّكْنُونٍ",
+      "translations": {
+        "en": "In Book well-guarded,",
+        "ms": "Yang tersimpan dalam Kitab yang cukup terpelihara",
+        "id": "فِي كِتَٰبٖ مَّكۡنُونٖ"
+      },
+      "transliteration": "Fee kitabin maknoonin"
+    },
+    {
+      "surah": 56,
+      "ayah": 79,
+      "key": "56:79",
+      "arabic": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+      "translations": {
+        "en": "Which none shall touch but those who are clean:",
+        "ms": "Yang tidak disentuh melainkan oleh makhluk-makhluk yang diakui bersih suci",
+        "id": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ"
+      },
+      "transliteration": "La yamassuhu illa almutahharoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 80,
+      "key": "56:80",
+      "arabic": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+      "translations": {
+        "en": "A Revelation from the Lord of the Worlds.",
+        "ms": "Al-Quran itu diturunkan dari Allah Tuhan sekalian alam",
+        "id": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ"
+      },
+      "transliteration": "Tanzeelun min rabbi alAAalameena"
+    },
+    {
+      "surah": 56,
+      "ayah": 81,
+      "key": "56:81",
+      "arabic": "أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+      "translations": {
+        "en": "Is it such a Message that ye would hold in light esteem?",
+        "ms": "Patutkah kamu (wahai golongan yang kufur ingkar) bersikap sambilewa terhadap keterangan-keterangan Al-Quran ini",
+        "id": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ"
+      },
+      "transliteration": "Afabihatha alhadeethi antum mudhinoona"
+    },
+    {
+      "surah": 56,
+      "ayah": 82,
+      "key": "56:82",
+      "arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "translations": {
+        "en": "And have ye made it your livelihood that ye should declare it false?",
+        "ms": "Dan kamu jadikan sikap kamu mendustakannya (sebagai ganti) bahagian dan nasib kamu (menerima dan bersyukur akan ajarannya)",
+        "id": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ"
+      },
+      "transliteration": "WatajAAaloona rizqakum annakum tukaththiboona"
+    },
+    {
+      "surah": 56,
+      "ayah": 83,
+      "key": "56:83",
+      "arabic": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+      "translations": {
+        "en": "Then why do ye not (intervene) when (the soul of the dying man) reaches the throat,-",
+        "ms": "Maka alangkah eloknya kalau semasa (roh seseorang dari kamu yang hampir mati) sampai ke kerongkongnya",
+        "id": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ"
+      },
+      "transliteration": "Falawla itha balaghati alhulqooma"
+    },
+    {
+      "surah": 56,
+      "ayah": 84,
+      "key": "56:84",
+      "arabic": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+      "translations": {
+        "en": "And ye the while (sit) looking on,-",
+        "ms": "Sedang kamu pada masa itu (berada di sekelilingnya) menyaksikan keadaannya",
+        "id": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ"
+      },
+      "transliteration": "Waantum heenaithin tanthuroona"
+    },
+    {
+      "surah": 56,
+      "ayah": 85,
+      "key": "56:85",
+      "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+      "translations": {
+        "en": "But We are nearer to him than ye, and yet see not,-",
+        "ms": "Dan Kami lebih dekat kepadanya daripada kamu, tetapi kamu tidak melihat",
+        "id": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ"
+      },
+      "transliteration": "Wanahnu aqrabu ilayhi minkum walakin la tubsiroona"
+    },
+    {
+      "surah": 56,
+      "ayah": 86,
+      "key": "56:86",
+      "arabic": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+      "translations": {
+        "en": "Then why do ye not,- If you are exempt from (future) account,-",
+        "ms": "Maka bukankah elok kalau kamu orang-orang yang tidak dikuasai (dan tidak tunduk kepada kekuasaan Kami)",
+        "id": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ"
+      },
+      "transliteration": "Falawla in kuntum ghayra madeeneena"
+    },
+    {
+      "surah": 56,
+      "ayah": 87,
+      "key": "56:87",
+      "arabic": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "translations": {
+        "en": "Call back the soul, if ye are true (in the claim of independence)?",
+        "ms": "Kamu kembalikan roh itu (kepada keadaan sebelumnya) jika betul kamu orang-orang yang benar",
+        "id": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ"
+      },
+      "transliteration": "TarjiAAoonaha in kuntum sadiqeena"
+    },
+    {
+      "surah": 56,
+      "ayah": 88,
+      "key": "56:88",
+      "arabic": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "translations": {
+        "en": "Thus, then, if he be of those Nearest to Allah,",
+        "ms": "Kesudahannya: jika ia (yang mati itu) dari orang-orang \" Muqarrabiin",
+        "id": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ"
+      },
+      "transliteration": "Faamma in kana mina almuqarrabeena"
+    },
+    {
+      "surah": 56,
+      "ayah": 89,
+      "key": "56:89",
+      "arabic": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+      "translations": {
+        "en": "(There is for him) Rest and Satisfaction, and a Garden of Delights.",
+        "ms": "Maka (ia akan beroleh) rehat kesenangan, dan rahmat kesegaran, serta Syurga kenikmatan",
+        "id": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ"
+      },
+      "transliteration": "Farawhun warayhanun wajannatu naAAeemin"
+    },
+    {
+      "surah": 56,
+      "ayah": 90,
+      "key": "56:90",
+      "arabic": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "translations": {
+        "en": "And if he be of the Companions of the Right Hand,",
+        "ms": "Dan jika ia dari puak kanan",
+        "id": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ"
+      },
+      "transliteration": "Waamma in kana min ashabi alyameeni"
+    },
+    {
+      "surah": 56,
+      "ayah": 91,
+      "key": "56:91",
+      "arabic": "فَسَلَـٰمٌ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+      "translations": {
+        "en": "(For him is the salutation), \"Peace be unto thee\", from the Companions of the Right Hand.",
+        "ms": "Maka (akan dikatakan kepadanya):\" Selamat sejahtera kepadamu, (kerana engkau) dari puak kanan",
+        "id": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ"
+      },
+      "transliteration": "Fasalamun laka min ashabi alyameeni"
+    },
+    {
+      "surah": 56,
+      "ayah": 92,
+      "key": "56:92",
+      "arabic": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "translations": {
+        "en": "And if he be of those who treat (Truth) as Falsehood, who go wrong,",
+        "ms": "Dan jika ia dari (puak kiri) yang mendustakan (Rasulnya), lagi sesat",
+        "id": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ"
+      },
+      "transliteration": "Waamma in kana mina almukaththibeena alddalleena"
+    },
+    {
+      "surah": 56,
+      "ayah": 93,
+      "key": "56:93",
+      "arabic": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+      "translations": {
+        "en": "For him is Entertainment with Boiling Water.",
+        "ms": "Maka sambutan yang disediakan baginya adalah dari air panas yang menggelegak",
+        "id": "فَنُزُلٞ مِّنۡ حَمِيمٖ"
+      },
+      "transliteration": "Fanuzulun min hameemin"
+    },
+    {
+      "surah": 56,
+      "ayah": 94,
+      "key": "56:94",
+      "arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+      "translations": {
+        "en": "And burning in Hell-Fire.",
+        "ms": "Serta bakaran api neraka",
+        "id": "وَتَصۡلِيَةُ جَحِيمٍ"
+      },
+      "transliteration": "Watasliyatu jaheemin"
+    },
+    {
+      "surah": 56,
+      "ayah": 95,
+      "key": "56:95",
+      "arabic": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+      "translations": {
+        "en": "Verily, this is the Very Truth and Certainly.",
+        "ms": "Sesungguhnya (segala yang disebutkan) itu adalah kebenaran yang diyakini",
+        "id": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ"
+      },
+      "transliteration": "Inna hatha lahuwa haqqu alyaqeeni"
+    },
+    {
+      "surah": 56,
+      "ayah": 96,
+      "key": "56:96",
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "translations": {
+        "en": "So celebrate with praises the name of thy Lord, the Supreme.",
+        "ms": "Oleh itu, bertasbihlah dengan memuji nama Tuhanmu Yang Maha Besar",
+        "id": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
+      },
+      "transliteration": "Fasabbih biismi rabbika alAAatheemi"
+    }
+  ]
+}

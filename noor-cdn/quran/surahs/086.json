@@ -1,0 +1,217 @@
+{
+  "surah": {
+    "number": 86,
+    "slug": "at-taariq",
+    "nameArabic": "الطارق",
+    "nameTransliteration": "At-Taariq",
+    "nameEnglish": "The Morning Star",
+    "revelation": "makki",
+    "ayahCount": 17
+  },
+  "ayahs": [
+    {
+      "surah": 86,
+      "ayah": 1,
+      "key": "86:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "translations": {
+        "en": "By the Sky and the Night-Visitant (therein);-",
+        "ms": "Demi langit dan \"At-Taariq",
+        "id": "وَٱلسَّمَآءِ وَٱلطَّارِقِ"
+      },
+      "transliteration": "Waalssamai waalttariqi"
+    },
+    {
+      "surah": 86,
+      "ayah": 2,
+      "key": "86:2",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "translations": {
+        "en": "And what will explain to thee what the Night-Visitant is?-",
+        "ms": "Dan apa jalannya engkau dapat mengetahui apa dia \"At-Taariq\" itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ"
+      },
+      "transliteration": "Wama adraka ma alttariqu"
+    },
+    {
+      "surah": 86,
+      "ayah": 3,
+      "key": "86:3",
+      "arabic": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "translations": {
+        "en": "(It is) the Star of piercing brightness;-",
+        "ms": "(At-Taariq) ialah bintang yang menembusi (sinaran cahayanya)",
+        "id": "ٱلنَّجۡمُ ٱلثَّاقِبُ"
+      },
+      "transliteration": "Alnnajmu alththaqibu"
+    },
+    {
+      "surah": 86,
+      "ayah": 4,
+      "key": "86:4",
+      "arabic": "إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ",
+      "translations": {
+        "en": "There is no soul but has a protector over it.",
+        "ms": "Tiada sesuatu diri juapun melainkan ada malaikat yang menjaga (keadaannya serta menyimpan catitan mengenai segala bawaannya)",
+        "id": "إِن كُلُّ نَفۡسٖ لَّمَّا عَلَيۡهَا حَافِظٞ"
+      },
+      "transliteration": "In kullu nafsin lamma AAalayha hafithun"
+    },
+    {
+      "surah": 86,
+      "ayah": 5,
+      "key": "86:5",
+      "arabic": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ",
+      "translations": {
+        "en": "Now let man but think from what he is created!",
+        "ms": "(Setelah mengetahui yang demikian), maka hendaklah manusia memikirkan: dari apa ia diciptakan",
+        "id": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ مِمَّ خُلِقَ"
+      },
+      "transliteration": "Falyanthuri alinsanu mimma khuliqa"
+    },
+    {
+      "surah": 86,
+      "ayah": 6,
+      "key": "86:6",
+      "arabic": "خُلِقَ مِن مَّآءٍ دَافِقٍ",
+      "translations": {
+        "en": "He is created from a drop emitted-",
+        "ms": "Ia diciptakan dari air (mani) yang memancut (ke dalam rahim)",
+        "id": "خُلِقَ مِن مَّآءٖ دَافِقٖ"
+      },
+      "transliteration": "Khuliqa min main dafiqin"
+    },
+    {
+      "surah": 86,
+      "ayah": 7,
+      "key": "86:7",
+      "arabic": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "translations": {
+        "en": "Proceeding from between the backbone and the ribs:",
+        "ms": "Yang keluar dari \"tulang sulbi\" lelaki dan \"tulang dada\" perempuan",
+        "id": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ"
+      },
+      "transliteration": "Yakhruju min bayni alssulbi waalttaraibi"
+    },
+    {
+      "surah": 86,
+      "ayah": 8,
+      "key": "86:8",
+      "arabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+      "translations": {
+        "en": "Surely (Allah) is able to bring him back (to life)!",
+        "ms": "Sesungguhnya Allah Maha Kuasa untuk mengembalikannya (hidup semula sesudah mati)",
+        "id": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ"
+      },
+      "transliteration": "Innahu AAala rajAAihi laqadirun"
+    },
+    {
+      "surah": 86,
+      "ayah": 9,
+      "key": "86:9",
+      "arabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "translations": {
+        "en": "The Day that (all) things secret will be tested,",
+        "ms": "Pada hari didedahkan segala yang terpendam di hati (dari iktiqad, niat, dan lain-lainnya)",
+        "id": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ"
+      },
+      "transliteration": "Yawma tubla alssarairu"
+    },
+    {
+      "surah": 86,
+      "ayah": 10,
+      "key": "86:10",
+      "arabic": "فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ",
+      "translations": {
+        "en": "(Man) will have no power, and no helper.",
+        "ms": "Maka (pada saat itu) tidak ada bagi manusia sebarang kekuatan (untuk membela diri), dan tidak ada penolong (yang dapat memberikan pertolongan)",
+        "id": "فَمَا لَهُۥ مِن قُوَّةٖ وَلَا نَاصِرٖ"
+      },
+      "transliteration": "Fama lahu min quwwatin wala nasirin"
+    },
+    {
+      "surah": 86,
+      "ayah": 11,
+      "key": "86:11",
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "translations": {
+        "en": "By the Firmament which returns (in its round),",
+        "ms": "Demi langit yang berulang-ulang mencurahkan hujan",
+        "id": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ"
+      },
+      "transliteration": "Waalssamai thati alrrajAAi"
+    },
+    {
+      "surah": 86,
+      "ayah": 12,
+      "key": "86:12",
+      "arabic": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "translations": {
+        "en": "And by the Earth which opens out (for the gushing of springs or the sprouting of vegetation),-",
+        "ms": "Dan bumi yang merekah mengeluarkan tumbuh-tumbuhan",
+        "id": "وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ"
+      },
+      "transliteration": "Waalardi thati alssadAAi"
+    },
+    {
+      "surah": 86,
+      "ayah": 13,
+      "key": "86:13",
+      "arabic": "إِنَّهُۥ لَقَوْلٌ فَصْلٌ",
+      "translations": {
+        "en": "Behold this is the Word that distinguishes (Good from Evil):",
+        "ms": "Sesungguhnya keterangan Al-Quran adalah kata-kata pemutus (yang sebenar)",
+        "id": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ"
+      },
+      "transliteration": "Innahu laqawlun faslun"
+    },
+    {
+      "surah": 86,
+      "ayah": 14,
+      "key": "86:14",
+      "arabic": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "translations": {
+        "en": "It is not a thing for amusement.",
+        "ms": "Dan bukanlah ia kata-kata yang olok-olok",
+        "id": "وَمَا هُوَ بِٱلۡهَزۡلِ"
+      },
+      "transliteration": "Wama huwa bialhazli"
+    },
+    {
+      "surah": 86,
+      "ayah": 15,
+      "key": "86:15",
+      "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "translations": {
+        "en": "As for them, they are but plotting a scheme,",
+        "ms": "Sesungguhnya mereka (yang menentangmu, wahai Muhammad) bermati-mati menjalankan rancangan jahat",
+        "id": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا"
+      },
+      "transliteration": "Innahum yakeedoona kaydan"
+    },
+    {
+      "surah": 86,
+      "ayah": 16,
+      "key": "86:16",
+      "arabic": "وَأَكِيدُ كَيْدًا",
+      "translations": {
+        "en": "And I am planning a scheme.",
+        "ms": "Dan Aku pula tetap bertindak membalas rancangan jahat (mereka, dan menggagalkannya)",
+        "id": "وَأَكِيدُ كَيۡدٗا"
+      },
+      "transliteration": "Waakeedu kaydan"
+    },
+    {
+      "surah": 86,
+      "ayah": 17,
+      "key": "86:17",
+      "arabic": "فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "translations": {
+        "en": "Therefore grant a delay to the Unbelievers: Give respite to them gently (for awhile).",
+        "ms": "Oleh itu janganlah engkau hendakkan segera kebinasaan orang-orang kafir itu, berilah tempoh kepada mereka sedikit masa",
+        "id": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا"
+      },
+      "transliteration": "Famahhili alkafireena amhilhum ruwaydan"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "surah": {
+    "number": 93,
+    "slug": "ad-duhaa",
+    "nameArabic": "الضحى",
+    "nameTransliteration": "Ad-Duhaa",
+    "nameEnglish": "The Morning Hours",
+    "revelation": "makki",
+    "ayahCount": 11
+  },
+  "ayahs": [
+    {
+      "surah": 93,
+      "ayah": 1,
+      "key": "93:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "translations": {
+        "en": "By the Glorious Morning Light,",
+        "ms": "Demi waktu dhuha",
+        "id": "وَٱلضُّحَىٰ"
+      },
+      "transliteration": "Waaldduha"
+    },
+    {
+      "surah": 93,
+      "ayah": 2,
+      "key": "93:2",
+      "arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "translations": {
+        "en": "And by the Night when it is still,-",
+        "ms": "Dan malam apabila ia sunyi-sepi",
+        "id": "وَٱلَّيۡلِ إِذَا سَجَىٰ"
+      },
+      "transliteration": "Waallayli itha saja"
+    },
+    {
+      "surah": 93,
+      "ayah": 3,
+      "key": "93:3",
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translations": {
+        "en": "Thy Guardian-Lord hath not forsaken thee, nor is He displeased.",
+        "ms": "(Bahawa) Tuhanmu (wahai Muhammad) tidak meninggalkanmu, dan Ia tidak benci (kepadamu, sebagaimana yang dituduh oleh kaum musyrik)",
+        "id": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+      },
+      "transliteration": "Ma waddaAAaka rabbuka wama qala"
+    },
+    {
+      "surah": 93,
+      "ayah": 4,
+      "key": "93:4",
+      "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "translations": {
+        "en": "And verily the Hereafter will be better for thee than the present.",
+        "ms": "Dan sesungguhnya kesudahan keaadaanmu adalah lebih baik bagimu daripada permulaannya",
+        "id": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ"
+      },
+      "transliteration": "Walalakhiratu khayrun laka mina aloola"
+    },
+    {
+      "surah": 93,
+      "ayah": 5,
+      "key": "93:5",
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "translations": {
+        "en": "And soon will thy Guardian-Lord give thee (that wherewith) thou shalt be well-pleased.",
+        "ms": "Dan sesungguhnya Tuhanmu akan memberikanmu (kejayaan dan kebahagiaan di dunia dan di akhirat) sehingga engkau reda - berpuas hati",
+        "id": "وَلَسَوۡفَ يُعۡطِيكَ رَبُّكَ فَتَرۡضَىٰٓ"
+      },
+      "transliteration": "Walasawfa yuAAteeka rabbuka fatarda"
+    },
+    {
+      "surah": 93,
+      "ayah": 6,
+      "key": "93:6",
+      "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "translations": {
+        "en": "Did He not find thee an orphan and give thee shelter (and care)?",
+        "ms": "Bukankah dia mendapati engkau yatim piatu, lalu la memberikan perlindungan",
+        "id": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ"
+      },
+      "transliteration": "Alam yajidka yateeman faawa"
+    },
+    {
+      "surah": 93,
+      "ayah": 7,
+      "key": "93:7",
+      "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "translations": {
+        "en": "And He found thee wandering, and He gave thee guidance.",
+        "ms": "Dan didapatiNya engkau mencari-cari (jalan yang benar), lalu Ia memberikan hidayah petunjuk (dengan wahyu - Al-Quran)",
+        "id": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ"
+      },
+      "transliteration": "Wawajadaka dallan fahada"
+    },
+    {
+      "surah": 93,
+      "ayah": 8,
+      "key": "93:8",
+      "arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "translations": {
+        "en": "And He found thee in need, and made thee independent.",
+        "ms": "Dan didapatiNya engkau miskin, lalu Ia memberikan kekayaan",
+        "id": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ"
+      },
+      "transliteration": "Wawajadaka AAailan faaghna"
+    },
+    {
+      "surah": 93,
+      "ayah": 9,
+      "key": "93:9",
+      "arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "translations": {
+        "en": "Therefore, treat not the orphan with harshness,",
+        "ms": "Oleh itu, adapun anak yatim maka janganlah engkau berlaku kasar terhadapnya",
+        "id": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ"
+      },
+      "transliteration": "Faamma alyateema fala taqhar"
+    },
+    {
+      "surah": 93,
+      "ayah": 10,
+      "key": "93:10",
+      "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "translations": {
+        "en": "Nor repulse the petitioner (unheard);",
+        "ms": "Adapun orang yang meminta (bantuan pimpinan) maka janganlah engkau tengking herdik",
+        "id": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ"
+      },
+      "transliteration": "Waamma alssaila fala tanhar"
+    },
+    {
+      "surah": 93,
+      "ayah": 11,
+      "key": "93:11",
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "translations": {
+        "en": "But the bounty of the Lord - rehearse and proclaim!",
+        "ms": "Adapun nikmat Tuhanmu, maka hendaklah engkau sebut-sebutkan (dan zahirkan) sebagai bersyukur kepadaNya",
+        "id": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ"
+      },
+      "transliteration": "Waamma biniAAmati rabbika fahaddith"
+    }
+  ]
+}

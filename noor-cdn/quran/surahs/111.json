@@ -1,0 +1,73 @@
+{
+  "surah": {
+    "number": 111,
+    "slug": "al-masad",
+    "nameArabic": "المسد",
+    "nameTransliteration": "Al-Masad",
+    "nameEnglish": "The Palm Fibre",
+    "revelation": "makki",
+    "ayahCount": 5
+  },
+  "ayahs": [
+    {
+      "surah": 111,
+      "ayah": 1,
+      "key": "111:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "translations": {
+        "en": "Perish the hands of the Father of Flame! Perish he!",
+        "ms": "Binasalah kedua-dua tangan Abu lahab, dan binasalah ia bersama",
+        "id": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ"
+      },
+      "transliteration": "Tabbat yada abee lahabin watabba"
+    },
+    {
+      "surah": 111,
+      "ayah": 2,
+      "key": "111:2",
+      "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "translations": {
+        "en": "No profit to him from all his wealth, and all his gains!",
+        "ms": "Hartanya dan segala yang diusahakannya, tidak dapat menolongnya",
+        "id": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ"
+      },
+      "transliteration": "Ma aghna AAanhu maluhu wama kasaba"
+    },
+    {
+      "surah": 111,
+      "ayah": 3,
+      "key": "111:3",
+      "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "translations": {
+        "en": "Burnt soon will he be in a Fire of Blazing Flame!",
+        "ms": "Ia akan menderita bakaran api neraka yang marak menjulang",
+        "id": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ"
+      },
+      "transliteration": "Sayasla naran thata lahabin"
+    },
+    {
+      "surah": 111,
+      "ayah": 4,
+      "key": "111:4",
+      "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "translations": {
+        "en": "His wife shall carry the (crackling) wood - As fuel!-",
+        "ms": "Dan juga isterinya, seorang perempuan pemunggah kayu api",
+        "id": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ"
+      },
+      "transliteration": "Waimraatuhu hammalata alhatabi"
+    },
+    {
+      "surah": 111,
+      "ayah": 5,
+      "key": "111:5",
+      "arabic": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "translations": {
+        "en": "A twisted rope of palm-leaf fibre round her (own) neck!",
+        "ms": "Di lehernya sejenis tali, dari tali-tali yang dipintal",
+        "id": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ"
+      },
+      "transliteration": "Fee jeediha hablun min masadin"
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "surah": {
+    "number": 78,
+    "slug": "an-naba",
+    "nameArabic": "النبأ",
+    "nameTransliteration": "An-Naba'",
+    "nameEnglish": "The Tidings",
+    "revelation": "makki",
+    "ayahCount": 40
+  },
+  "ayahs": [
+    {
+      "surah": 78,
+      "ayah": 1,
+      "key": "78:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ",
+      "translations": {
+        "en": "Concerning what are they disputing?",
+        "ms": "Tentang apakah mereka bertanya-tanya",
+        "id": "عَمَّ يَتَسَآءَلُونَ"
+      },
+      "transliteration": "AAamma yatasaaloona"
+    },
+    {
+      "surah": 78,
+      "ayah": 2,
+      "key": "78:2",
+      "arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "translations": {
+        "en": "Concerning the Great News,",
+        "ms": "Tentang berita yang besar, (berita kebangkitan manusia hidup semula menerima balasannya)",
+        "id": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ"
+      },
+      "transliteration": "AAani alnnabai alAAatheemi"
+    },
+    {
+      "surah": 78,
+      "ayah": 3,
+      "key": "78:3",
+      "arabic": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+      "translations": {
+        "en": "About which they cannot agree.",
+        "ms": "Yang mereka (ragu-ragu dan) berselisihan mengenainya",
+        "id": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ"
+      },
+      "transliteration": "Allathee hum feehi mukhtalifoona"
+    },
+    {
+      "surah": 78,
+      "ayah": 4,
+      "key": "78:4",
+      "arabic": "كَلَّا سَيَعْلَمُونَ",
+      "translations": {
+        "en": "Verily, they shall soon (come to) know!",
+        "ms": "Jangan! (Janganlah mereka bersikap demikian!) Mereka akan mengetahui (dengan yakin tentang kebenaran hari balasan itu)",
+        "id": "كَلَّا سَيَعۡلَمُونَ"
+      },
+      "transliteration": "Kalla sayaAAlamoona"
+    },
+    {
+      "surah": 78,
+      "ayah": 5,
+      "key": "78:5",
+      "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "translations": {
+        "en": "Verily, verily they shall soon (come to) know!",
+        "ms": "Sekali lagi jangan! (Janganlah mereka berselisihan!) Mereka akan mengetahui kelak (tentang apa yang akan menimpa mereka)",
+        "id": "ثُمَّ كَلَّا سَيَعۡلَمُونَ"
+      },
+      "transliteration": "Thumma kalla sayaAAlamoona"
+    },
+    {
+      "surah": 78,
+      "ayah": 6,
+      "key": "78:6",
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+      "translations": {
+        "en": "Have We not made the earth as a wide expanse,",
+        "ms": "(Mengapa kamu ragu-ragukan kekuasaan Kami menghidupkan semula orang-orang yang telah mati?) Bukankah Kami telah menjadikan bumi (terbentang luas) sebagai hamparan",
+        "id": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا"
+      },
+      "transliteration": "Alam najAAali alarda mihadan"
+    },
+    {
+      "surah": 78,
+      "ayah": 7,
+      "key": "78:7",
+      "arabic": "وَٱلْجِبَالَ أَوْتَادًا",
+      "translations": {
+        "en": "And the mountains as pegs?",
+        "ms": "Dan gunung-ganang sebagai pancang pasaknya",
+        "id": "وَٱلۡجِبَالَ أَوۡتَادٗا"
+      },
+      "transliteration": "Waaljibala awtadan"
+    },
+    {
+      "surah": 78,
+      "ayah": 8,
+      "key": "78:8",
+      "arabic": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+      "translations": {
+        "en": "And (have We not) created you in pairs,",
+        "ms": "Dan Kami telah menciptakan kamu berpasang-pasang",
+        "id": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا"
+      },
+      "transliteration": "Wakhalaqnakum azwajan"
+    },
+    {
+      "surah": 78,
+      "ayah": 9,
+      "key": "78:9",
+      "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "translations": {
+        "en": "And made your sleep for rest,",
+        "ms": "Dan Kami telah menjadikan tidur kamu untuk berehat",
+        "id": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا"
+      },
+      "transliteration": "WajaAAalna nawmakum subatan"
+    },
+    {
+      "surah": 78,
+      "ayah": 10,
+      "key": "78:10",
+      "arabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "translations": {
+        "en": "And made the night as a covering,",
+        "ms": "Dan Kami telah menjadikan malam (dengan gelapnya) sebagai pakaian (yang melindungi)",
+        "id": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا"
+      },
+      "transliteration": "WajaAAalna allayla libasan"
+    },
+    {
+      "surah": 78,
+      "ayah": 11,
+      "key": "78:11",
+      "arabic": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+      "translations": {
+        "en": "And made the day as a means of subsistence?",
+        "ms": "Dan Kami telah menjadikan siang (dengan cahaya terangnya) - masa untuk mencari rezeki",
+        "id": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا"
+      },
+      "transliteration": "WajaAAalna alnnahara maAAashan"
+    },
+    {
+      "surah": 78,
+      "ayah": 12,
+      "key": "78:12",
+      "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "translations": {
+        "en": "And (have We not) built over you the seven firmaments,",
+        "ms": "Dan Kami telah membina di atas kamu tujuh petala (langit) yang kuat kukuh",
+        "id": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا"
+      },
+      "transliteration": "Wabanayna fawqakum sabAAan shidadan"
+    },
+    {
+      "surah": 78,
+      "ayah": 13,
+      "key": "78:13",
+      "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "translations": {
+        "en": "And placed (therein) a Light of Splendour?",
+        "ms": "Dan Kami telah mengadakan matahari menjadi lampu yang terang-benderang cahayanya",
+        "id": "وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا"
+      },
+      "transliteration": "WajaAAalna sirajan wahhajan"
+    },
+    {
+      "surah": 78,
+      "ayah": 14,
+      "key": "78:14",
+      "arabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+      "translations": {
+        "en": "And do We not send down from the clouds water in abundance,",
+        "ms": "Dan Kami telah menurunkan dari awan, air (hujan) yang mencurah-curah",
+        "id": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا"
+      },
+      "transliteration": "Waanzalna mina almuAAsirati maan thajjajan"
+    },
+    {
+      "surah": 78,
+      "ayah": 15,
+      "key": "78:15",
+      "arabic": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "translations": {
+        "en": "That We may produce therewith corn and vegetables,",
+        "ms": "Untuk Kami mengeluarkan dengan air itu, biji-bijian dan tumbuh-tumbuhan",
+        "id": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا"
+      },
+      "transliteration": "Linukhrija bihi habban wanabatan"
+    },
+    {
+      "surah": 78,
+      "ayah": 16,
+      "key": "78:16",
+      "arabic": "وَجَنَّـٰتٍ أَلْفَافًا",
+      "translations": {
+        "en": "And gardens of luxurious growth?",
+        "ms": "Serta kebun-kebun yang subur bertaut-taut pokoknya",
+        "id": "وَجَنَّـٰتٍ أَلۡفَافًا"
+      },
+      "transliteration": "Wajannatin alfafan"
+    },
+    {
+      "surah": 78,
+      "ayah": 17,
+      "key": "78:17",
+      "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+      "translations": {
+        "en": "Verily the Day of Sorting out is a thing appointed,",
+        "ms": "Sesungguhnya hari pemutusan hukum itu, adalah satu masa yang ditentukan",
+        "id": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا"
+      },
+      "transliteration": "Inna yawma alfasli kana meeqatan"
+    },
+    {
+      "surah": 78,
+      "ayah": 18,
+      "key": "78:18",
+      "arabic": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "translations": {
+        "en": "The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;",
+        "ms": "Iaitu masa ditiup sangkakala, lalu kamu (bangkit hidup) serta datang berpuak-puak (ke Padang Mahsyar)",
+        "id": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا"
+      },
+      "transliteration": "Yawma yunfakhu fee alssoori fatatoona afwajan"
+    },
+    {
+      "surah": 78,
+      "ayah": 19,
+      "key": "78:19",
+      "arabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "translations": {
+        "en": "And the heavens shall be opened as if there were doors,",
+        "ms": "Dan (pada masa itu) langit dipecah belahkan sehingga tiap-tiap belahannya menjadi ibarat pintu yang terbuka luas",
+        "id": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا"
+      },
+      "transliteration": "Wafutihati alssamao fakanat abwaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 20,
+      "key": "78:20",
+      "arabic": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+      "translations": {
+        "en": "And the mountains shall vanish, as if they were a mirage.",
+        "ms": "Dan gunung-ganang - setelah dihancurkan - diterbangkan ke angkasa, lalu menjadilah ia bayangan semata-mata seperti riak sinaran panas di padang pasir",
+        "id": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا"
+      },
+      "transliteration": "Wasuyyirati aljibalu fakanat saraban"
+    },
+    {
+      "surah": 78,
+      "ayah": 21,
+      "key": "78:21",
+      "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "translations": {
+        "en": "Truly Hell is as a place of ambush,",
+        "ms": "Sesungguhnya neraka Jahannam adalah disediakan",
+        "id": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا"
+      },
+      "transliteration": "Inna jahannama kanat mirsadan"
+    },
+    {
+      "surah": 78,
+      "ayah": 22,
+      "key": "78:22",
+      "arabic": "لِّلطَّـٰغِينَ مَـَٔابًا",
+      "translations": {
+        "en": "For the transgressors a place of destination:",
+        "ms": "Untuk orang-orang yang melampaui batas hukum Tuhan, sebagai tempat kembalinya",
+        "id": "لِّلطَّـٰغِينَ مَـَٔابٗا"
+      },
+      "transliteration": "Lilttagheena maaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 23,
+      "key": "78:23",
+      "arabic": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "translations": {
+        "en": "They will dwell therein for ages.",
+        "ms": "Mereka tinggal di dalamnya berkurun-kurun lamanya",
+        "id": "لَّـٰبِثِينَ فِيهَآ أَحۡقَابٗا"
+      },
+      "transliteration": "Labitheena feeha ahqaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 24,
+      "key": "78:24",
+      "arabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "translations": {
+        "en": "Nothing cool shall they taste therein, nor any drink,",
+        "ms": "Mereka tidak dapat merasai udara yang sejuk di dalamnya, dan tidak pula sebarang minuman",
+        "id": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا"
+      },
+      "transliteration": "La yathooqoona feeha bardan wala sharaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 25,
+      "key": "78:25",
+      "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "translations": {
+        "en": "Save a boiling fluid and a fluid, dark, murky, intensely cold,",
+        "ms": "Kecuali air panas yang menggelegak, dan air danur yang mengalir",
+        "id": "إِلَّا حَمِيمٗا وَغَسَّاقٗا"
+      },
+      "transliteration": "Illa hameeman waghassaqan"
+    },
+    {
+      "surah": 78,
+      "ayah": 26,
+      "key": "78:26",
+      "arabic": "جَزَآءً وِفَاقًا",
+      "translations": {
+        "en": "A fitting recompense (for them).",
+        "ms": "Sebagai balasan yang sesuai (dengan amal mereka yang buruk)",
+        "id": "جَزَآءٗ وِفَاقًا"
+      },
+      "transliteration": "Jazaan wifaqan"
+    },
+    {
+      "surah": 78,
+      "ayah": 27,
+      "key": "78:27",
+      "arabic": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "translations": {
+        "en": "For that they used not to fear any account (for their deeds),",
+        "ms": "Kerana sesungguhnya mereka dahulu tidak menaruh ingatan terhadap hari hitungan amal",
+        "id": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا"
+      },
+      "transliteration": "Innahum kanoo la yarjoona hisaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 28,
+      "key": "78:28",
+      "arabic": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+      "translations": {
+        "en": "But they (impudently) treated Our Signs as false.",
+        "ms": "Dan mereka telah mendustakan dengan sesungguh-sungguhnya akan ayat-ayat keterangan Kami",
+        "id": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا"
+      },
+      "transliteration": "Wakaththaboo biayatina kiththaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 29,
+      "key": "78:29",
+      "arabic": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+      "translations": {
+        "en": "And all things have We preserved on record.",
+        "ms": "Dan tiap-tiap sesuatu dari bawaan hidupnya, telah Kami hitung secara bertulis",
+        "id": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا"
+      },
+      "transliteration": "Wakulla shayin ahsaynahu kitaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 30,
+      "key": "78:30",
+      "arabic": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+      "translations": {
+        "en": "\"So taste ye (the fruits of your deeds); for no increase shall We grant you, except in Punishment.\"",
+        "ms": "(Setelah mereka masuk ke dalam neraka, dikatakan kepada mereka: \"Oleh sebab kamu telah mendustakan ayat-ayat Kami) maka rasalah kamu (azab yang disediakan), kerana Kami tidak akan melakukan selain dari menambah berbagai azab kepada kamu",
+        "id": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا"
+      },
+      "transliteration": "Fathooqoo falan nazeedakum illa AAathaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 31,
+      "key": "78:31",
+      "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "translations": {
+        "en": "Verily for the Righteous there will be a fulfilment of (the heart's) desires;",
+        "ms": "Sesungguhnya orang-orang yang bertaqwa, disediakan Syurga tempat mereka beroleh apa yang mereka ingini",
+        "id": "إِنَّ لِلۡمُتَّقِينَ مَفَازًا"
+      },
+      "transliteration": "Inna lilmuttaqeena mafazan"
+    },
+    {
+      "surah": 78,
+      "ayah": 32,
+      "key": "78:32",
+      "arabic": "حَدَآئِقَ وَأَعْنَـٰبًا",
+      "translations": {
+        "en": "Gardens enclosed, and grapevines;",
+        "ms": "(Mereka akan beroleh) taman-taman bunga dan kebun-kebun buah-buahan, terutama anggur",
+        "id": "حَدَآئِقَ وَأَعۡنَٰبٗا"
+      },
+      "transliteration": "Hadaiqa waaAAnaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 33,
+      "key": "78:33",
+      "arabic": "وَكَوَاعِبَ أَتْرَابًا",
+      "translations": {
+        "en": "And voluptuous women of equal age;",
+        "ms": "Dan perawan-perawan yang sebaya umurnya",
+        "id": "وَكَوَاعِبَ أَتۡرَابٗا"
+      },
+      "transliteration": "WakawaAAiba atraban"
+    },
+    {
+      "surah": 78,
+      "ayah": 34,
+      "key": "78:34",
+      "arabic": "وَكَأْسًا دِهَاقًا",
+      "translations": {
+        "en": "And a cup full (to the brim).",
+        "ms": "Serta piala atau gelas yang penuh dengan minuman",
+        "id": "وَكَأۡسٗا دِهَاقٗا"
+      },
+      "transliteration": "Wakasan dihaqan"
+    },
+    {
+      "surah": 78,
+      "ayah": 35,
+      "key": "78:35",
+      "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+      "translations": {
+        "en": "No vanity shall they hear therein, nor Untruth:-",
+        "ms": "Mereka tidak mendengar di dalam Syurga itu perkataan yang sia-sia, dan tiada pula perkataan yang dusta",
+        "id": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا كِذَّـٰبٗا"
+      },
+      "transliteration": "La yasmaAAoona feeha laghwan wala kiththaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 36,
+      "key": "78:36",
+      "arabic": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "translations": {
+        "en": "Recompense from thy Lord, a gift, (amply) sufficient,",
+        "ms": "Sebagai balasan dari Tuhanmu, iaitu satu limpah kurnia yang dikira cukup (menurut yang dijanjikanNya)",
+        "id": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا"
+      },
+      "transliteration": "Jazaan min rabbika AAataan hisaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 37,
+      "key": "78:37",
+      "arabic": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "translations": {
+        "en": "(From) the Lord of the heavens and the earth, and all between, (Allah) Most Gracious: None shall have power to argue with Him.",
+        "ms": "Tuhan yang mentadbirkan tujuh petala langit dan bumi serta apa yang ada di antara keduanya, Tuhan Yang Maha Pemurah, tidak ada sesiapapun diberi kuasa berkata-kata denganNya (untuk memohon pertimbangan tentang balasan atau pengurniaan itu)",
+        "id": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا يَمۡلِكُونَ مِنۡهُ خِطَابٗا"
+      },
+      "transliteration": "Rabbi alssamawati waalardi wama baynahuma alrrahmani la yamlikoona minhu khitaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 38,
+      "key": "78:38",
+      "arabic": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+      "translations": {
+        "en": "The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right.",
+        "ms": "(Tambahan pula) pada masa Jibril dan malaikat-malaikat yang lain berdiri bersaf-saf (menunggu perintah Tuhan), tidak ada yang berani berkata-kata (memohon pertimbangan) melainkan yang telah diizinkan baginya oleh Tuhan Yang Maha Pemurah, serta ia berkata benar",
+        "id": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَـٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا"
+      },
+      "transliteration": "Yawma yaqoomu alrroohu waalmalaikatu saffan la yatakallamoona illa man athina lahu alrrahmanu waqala sawaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 39,
+      "key": "78:39",
+      "arabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "translations": {
+        "en": "That Day will be the sure Reality: Therefore, whoso will, let him take a (straight) return to his Lord!",
+        "ms": "Itulah keterangan-keterangan mengenai hari (kiamat) yang sungguh tetap berlakunya; maka sesiapa yang mahukan kebaikan dirinya, dapatlah ia mengambil jalan dan cara kembali kepada Tuhannya (dengan iman dan amal yang soleh)",
+        "id": "ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا"
+      },
+      "transliteration": "Thalika alyawmu alhaqqu faman shaa ittakhatha ila rabbihi maaban"
+    },
+    {
+      "surah": 78,
+      "ayah": 40,
+      "key": "78:40",
+      "arabic": "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "translations": {
+        "en": "Verily, We have warned you of a Penalty near, the Day when man will see (the deeds) which his hands have sent forth, and the Unbeliever will say, \"Woe unto me! Would that I were (metre) dust!\"",
+        "ms": "Sesungguhnya (dengan keterangan-keterangan yang tersebut), Kami memberi amaran kepada kamu mengenai azab yang dekat (masa datangnya), - iaitu hari seseorang melihat apa yang telah diusahakannya; dan orang yang kafir akan berkata (pada hari itu): \"Alangkah baiknya kalau aku menjadi tanah (supaya aku tidak dibangkitkan untuk dihitung amalku dan menerima balasan)",
+        "id": "إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابٗا قَرِيبٗا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا"
+      },
+      "transliteration": "Inna antharnakum AAathaban qareeban yawma yanthuru almaro ma qaddamat yadahu wayaqoolu alkafiru ya laytanee kuntu turaban"
+    }
+  ]
+}

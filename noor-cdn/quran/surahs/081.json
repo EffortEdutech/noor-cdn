@@ -1,0 +1,361 @@
+{
+  "surah": {
+    "number": 81,
+    "slug": "at-takweer",
+    "nameArabic": "التكوير",
+    "nameTransliteration": "At-Takweer",
+    "nameEnglish": "The Overthrowing",
+    "revelation": "makki",
+    "ayahCount": 29
+  },
+  "ayahs": [
+    {
+      "surah": 81,
+      "ayah": 1,
+      "key": "81:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "translations": {
+        "en": "When the sun (with its spacious light) is folded up;",
+        "ms": "Apabila matahari dilingkari cahayanya (dan hilang lenyap)",
+        "id": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ"
+      },
+      "transliteration": "Itha alshshamsu kuwwirat"
+    },
+    {
+      "surah": 81,
+      "ayah": 2,
+      "key": "81:2",
+      "arabic": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "translations": {
+        "en": "When the stars fall, losing their lustre;",
+        "ms": "Dan apabila bintang-bintang gugur berselerak",
+        "id": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ"
+      },
+      "transliteration": "Waitha alnnujoomu inkadarat"
+    },
+    {
+      "surah": 81,
+      "ayah": 3,
+      "key": "81:3",
+      "arabic": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "translations": {
+        "en": "When the mountains vanish (like a mirage);",
+        "ms": "Dan apabila gunung-ganang di terbangkan ke angkasa (setelah dihancurkan menjadi debu)",
+        "id": "وَإِذَا ٱلۡجِبَالُ سُيِّرَتۡ"
+      },
+      "transliteration": "Waitha aljibalu suyyirat"
+    },
+    {
+      "surah": 81,
+      "ayah": 4,
+      "key": "81:4",
+      "arabic": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "translations": {
+        "en": "When the she-camels, ten months with young, are left untended;",
+        "ms": "Dan apabila unta-unta yang bunting terbiar",
+        "id": "وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ"
+      },
+      "transliteration": "Waitha alAAisharu AAuttilat"
+    },
+    {
+      "surah": 81,
+      "ayah": 5,
+      "key": "81:5",
+      "arabic": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "translations": {
+        "en": "When the wild beasts are herded together (in the human habitations);",
+        "ms": "Dan apabila binatang-binatang liar dihimpunkan",
+        "id": "وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ"
+      },
+      "transliteration": "Waitha alwuhooshu hushirat"
+    },
+    {
+      "surah": 81,
+      "ayah": 6,
+      "key": "81:6",
+      "arabic": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "translations": {
+        "en": "When the oceans boil over with a swell;",
+        "ms": "Dan apabila lautan meluap-luap bercampur-baur",
+        "id": "وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ"
+      },
+      "transliteration": "Waitha albiharu sujjirat"
+    },
+    {
+      "surah": 81,
+      "ayah": 7,
+      "key": "81:7",
+      "arabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "translations": {
+        "en": "When the souls are sorted out, (being joined, like with like);",
+        "ms": "Dan apabila tiap-tiap diri disatukan dengan pasangannya",
+        "id": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ"
+      },
+      "transliteration": "Waitha alnnufoosu zuwwijat"
+    },
+    {
+      "surah": 81,
+      "ayah": 8,
+      "key": "81:8",
+      "arabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "translations": {
+        "en": "When the female (infant), buried alive, is questioned -",
+        "ms": "Dan apabila anak perempuan yang ditanam hidup-hidup: ditanya",
+        "id": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ"
+      },
+      "transliteration": "Waitha almawoodatu suilat"
+    },
+    {
+      "surah": 81,
+      "ayah": 9,
+      "key": "81:9",
+      "arabic": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+      "translations": {
+        "en": "For what crime she was killed;",
+        "ms": "Dengan dosa apakah ia dibunuh",
+        "id": "بِأَيِّ ذَنۢبٖ قُتِلَتۡ"
+      },
+      "transliteration": "Biayyi thanbin qutilat"
+    },
+    {
+      "surah": 81,
+      "ayah": 10,
+      "key": "81:10",
+      "arabic": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "translations": {
+        "en": "When the scrolls are laid open;",
+        "ms": "Dan apabila surat-surat amal dibentangkan",
+        "id": "وَإِذَا ٱلصُّحُفُ نُشِرَتۡ"
+      },
+      "transliteration": "Waitha alssuhufu nushirat"
+    },
+    {
+      "surah": 81,
+      "ayah": 11,
+      "key": "81:11",
+      "arabic": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+      "translations": {
+        "en": "When the world on High is unveiled;",
+        "ms": "Dan apabila langit ditanggalkan dari tempatnya",
+        "id": "وَإِذَا ٱلسَّمَآءُ كُشِطَتۡ"
+      },
+      "transliteration": "Waitha alssamao kushitat"
+    },
+    {
+      "surah": 81,
+      "ayah": 12,
+      "key": "81:12",
+      "arabic": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+      "translations": {
+        "en": "When the Blazing Fire is kindled to fierce heat;",
+        "ms": "Dan apabila neraka dinyalakan menjulang",
+        "id": "وَإِذَا ٱلۡجَحِيمُ سُعِّرَتۡ"
+      },
+      "transliteration": "Waitha aljaheemu suAAAAirat"
+    },
+    {
+      "surah": 81,
+      "ayah": 13,
+      "key": "81:13",
+      "arabic": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+      "translations": {
+        "en": "And when the Garden is brought near;-",
+        "ms": "Dan apabila Syurga didekatkan",
+        "id": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ"
+      },
+      "transliteration": "Waitha aljannatu ozlifat"
+    },
+    {
+      "surah": 81,
+      "ayah": 14,
+      "key": "81:14",
+      "arabic": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+      "translations": {
+        "en": "(Then) shall each soul know what it has put forward.",
+        "ms": "(Setelah semuanya itu berlaku), tiap-tiap orang akan mengetahui tentang amal yang telah dibawanya",
+        "id": "عَلِمَتۡ نَفۡسٞ مَّآ أَحۡضَرَتۡ"
+      },
+      "transliteration": "AAalimat nafsun ma ahdarat"
+    },
+    {
+      "surah": 81,
+      "ayah": 15,
+      "key": "81:15",
+      "arabic": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+      "translations": {
+        "en": "So verily I call to witness the planets - that recede,",
+        "ms": "Oleh itu, Aku bersumpah dengan bintang-bintang yang tenggelam timbul",
+        "id": "فَلَآ أُقۡسِمُ بِٱلۡخُنَّسِ"
+      },
+      "transliteration": "Fala oqsimu bialkhunnasi"
+    },
+    {
+      "surah": 81,
+      "ayah": 16,
+      "key": "81:16",
+      "arabic": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+      "translations": {
+        "en": "Go straight, or hide;",
+        "ms": "Yang beredar, juga yang tetap pada tempatnya",
+        "id": "ٱلۡجَوَارِ ٱلۡكُنَّسِ"
+      },
+      "transliteration": "Aljawari alkunnasi"
+    },
+    {
+      "surah": 81,
+      "ayah": 17,
+      "key": "81:17",
+      "arabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "translations": {
+        "en": "And the Night as it dissipates;",
+        "ms": "Dan malam, apabila ia hampir habis",
+        "id": "وَٱلَّيۡلِ إِذَا عَسۡعَسَ"
+      },
+      "transliteration": "Waallayli itha AAasAAasa"
+    },
+    {
+      "surah": 81,
+      "ayah": 18,
+      "key": "81:18",
+      "arabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "translations": {
+        "en": "And the Dawn as it breathes away the darkness;-",
+        "ms": "Dan siang, apabila ia mulai terang",
+        "id": "وَٱلصُّبۡحِ إِذَا تَنَفَّسَ"
+      },
+      "transliteration": "Waalssubhi itha tanaffasa"
+    },
+    {
+      "surah": 81,
+      "ayah": 19,
+      "key": "81:19",
+      "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "translations": {
+        "en": "Verily this is the word of a most honourable Messenger,",
+        "ms": "Sebenarnya Al-Quran itu, sungguh-sungguh Kalamullah (yang disampaikan oleh Jibril) Utusan yang mulia",
+        "id": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ"
+      },
+      "transliteration": "Innahu laqawlu rasoolin kareemin"
+    },
+    {
+      "surah": 81,
+      "ayah": 20,
+      "key": "81:20",
+      "arabic": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+      "translations": {
+        "en": "Endued with Power, with rank before the Lord of the Throne,",
+        "ms": "Yang kuat gagah, lagi berkedudukan tinggi di sisi Allah yang mempunyai Arasy",
+        "id": "ذِي قُوَّةٍ عِندَ ذِي ٱلۡعَرۡشِ مَكِينٖ"
+      },
+      "transliteration": "Thee quwwatin AAinda thee alAAarshi makeenin"
+    },
+    {
+      "surah": 81,
+      "ayah": 21,
+      "key": "81:21",
+      "arabic": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "translations": {
+        "en": "With authority there, (and) faithful to his trust.",
+        "ms": "Yang ditaati di sana (dalam kalangan malaikat), lagi dipercayai",
+        "id": "مُّطَاعٖ ثَمَّ أَمِينٖ"
+      },
+      "transliteration": "MutaAAin thamma ameenin"
+    },
+    {
+      "surah": 81,
+      "ayah": 22,
+      "key": "81:22",
+      "arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "translations": {
+        "en": "And (O people!) your companion is not one possessed;",
+        "ms": "Dan sebenarnya sahabat kamu (Nabi Muhammad) itu (wahai golongan yang menentang Islam), bukanlah ia seorang gila (seperti yang kamu tuduh)",
+        "id": "وَمَا صَاحِبُكُم بِمَجۡنُونٖ"
+      },
+      "transliteration": "Wama sahibukum bimajnoonin"
+    },
+    {
+      "surah": 81,
+      "ayah": 23,
+      "key": "81:23",
+      "arabic": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+      "translations": {
+        "en": "And without doubt he saw him in the clear horizon.",
+        "ms": "Dan (Nabi Muhammad yakin bahawa yang disampaikan kepadanya ialah wahyu dari Tuhan, kerana) demi sesungguhnya! Nabi Muhammad telah mengenal dan melihat Jibril di kaki langit yang nyata",
+        "id": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ"
+      },
+      "transliteration": "Walaqad raahu bialofuqi almubeeni"
+    },
+    {
+      "surah": 81,
+      "ayah": 24,
+      "key": "81:24",
+      "arabic": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+      "translations": {
+        "en": "Neither doth he withhold grudgingly a knowledge of the Unseen.",
+        "ms": "Dan bukanlah Nabi Muhammad seorang yang boleh dituduh dan disangka buruk, terhadap penyampaiannya mengenai perkara-perkara yang ghaib",
+        "id": "وَمَا هُوَ عَلَى ٱلۡغَيۡبِ بِضَنِينٖ"
+      },
+      "transliteration": "Wama huwa AAala alghaybi bidaneenin"
+    },
+    {
+      "surah": 81,
+      "ayah": 25,
+      "key": "81:25",
+      "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+      "translations": {
+        "en": "Nor is it the word of an evil spirit accursed.",
+        "ms": "Dan sebenarnya Al-Quran itu bukanlah perkataan Syaitan yang kena rejam",
+        "id": "وَمَا هُوَ بِقَوۡلِ شَيۡطَٰنٖ رَّجِيمٖ"
+      },
+      "transliteration": "Wama huwa biqawli shaytanin rajeemin"
+    },
+    {
+      "surah": 81,
+      "ayah": 26,
+      "key": "81:26",
+      "arabic": "فَأَيْنَ تَذْهَبُونَ",
+      "translations": {
+        "en": "When whither go ye?",
+        "ms": "(Dengan yang demikian) maka ke manakah kamu hendak pergi (kiranya kamu masih menyeleweng dari jalan Al-Quran)",
+        "id": "فَأَيۡنَ تَذۡهَبُونَ"
+      },
+      "transliteration": "Faayna tathhaboona"
+    },
+    {
+      "surah": 81,
+      "ayah": 27,
+      "key": "81:27",
+      "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "translations": {
+        "en": "Verily this is no less than a Message to (all) the Worlds:",
+        "ms": "Al-Quran itu tidak lain hanyalah peringatan bagi seluruh penduduk alam",
+        "id": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ"
+      },
+      "transliteration": "In huwa illa thikrun lilAAalameena"
+    },
+    {
+      "surah": 81,
+      "ayah": 28,
+      "key": "81:28",
+      "arabic": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "translations": {
+        "en": "(With profit) to whoever among you wills to go straight:",
+        "ms": "Iaitu bagi sesiapa dari kamu yang mahu tetap teguh di atas jalan (Islam) yang betul",
+        "id": "لِمَن شَآءَ مِنكُمۡ أَن يَسۡتَقِيمَ"
+      },
+      "transliteration": "Liman shaa minkum an yastaqeema"
+    },
+    {
+      "surah": 81,
+      "ayah": 29,
+      "key": "81:29",
+      "arabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "translations": {
+        "en": "But ye shall not will except as Allah wills,- the Cherisher of the Worlds.",
+        "ms": "Dan kamu tidak dapat menentukan kemahuan kamu (mengenai sesuatupun), kecuali dengan cara yang diatur oleh Allah, Tuhan yang memelihara dan mentadbirkan seluruh alam",
+        "id": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلۡعَٰلَمِينَ"
+      },
+      "transliteration": "Wama tashaoona illa an yashaa Allahu rabbu alAAalameena"
+    }
+  ]
+}

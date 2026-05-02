@@ -1,0 +1,121 @@
+{
+  "surah": {
+    "number": 104,
+    "slug": "al-humazah",
+    "nameArabic": "الهمزة",
+    "nameTransliteration": "Al-Humazah",
+    "nameEnglish": "The Traducer",
+    "revelation": "makki",
+    "ayahCount": 9
+  },
+  "ayahs": [
+    {
+      "surah": 104,
+      "ayah": 1,
+      "key": "104:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "translations": {
+        "en": "Woe to every (kind of) scandal-monger and-backbiter,",
+        "ms": "Kecelakaan besar bagi tiap-tiap pencaci, pengeji",
+        "id": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ"
+      },
+      "transliteration": "Waylun likulli humazatin lumazatin"
+    },
+    {
+      "surah": 104,
+      "ayah": 2,
+      "key": "104:2",
+      "arabic": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "translations": {
+        "en": "Who pileth up wealth and layeth it by,",
+        "ms": "Yang mengumpulkan harta dan berulang-ulang menghitung kekayaannya",
+        "id": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ"
+      },
+      "transliteration": "Allathee jamaAAa malan waAAaddadahu"
+    },
+    {
+      "surah": 104,
+      "ayah": 3,
+      "key": "104:3",
+      "arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "translations": {
+        "en": "Thinking that his wealth would make him last for ever!",
+        "ms": "Ia menyangka bahawa hartanya itu dapat mengekalkannya (dalam dunia ini)",
+        "id": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ"
+      },
+      "transliteration": "Yahsabu anna malahu akhladahu"
+    },
+    {
+      "surah": 104,
+      "ayah": 4,
+      "key": "104:4",
+      "arabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "translations": {
+        "en": "By no means! He will be sure to be thrown into That which Breaks to Pieces,",
+        "ms": "Tidak! Sesungguhnya dia akan dicampakkan ke dalam \"Al-Hutamah",
+        "id": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ"
+      },
+      "transliteration": "Kalla layunbathanna fee alhutamati"
+    },
+    {
+      "surah": 104,
+      "ayah": 5,
+      "key": "104:5",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "translations": {
+        "en": "And what will explain to thee That which Breaks to Pieces?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Al-Hutamah\" itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ"
+      },
+      "transliteration": "Wama adraka ma alhutamatu"
+    },
+    {
+      "surah": 104,
+      "ayah": 6,
+      "key": "104:6",
+      "arabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "translations": {
+        "en": "(It is) the Fire of (the Wrath of) Allah kindled (to a blaze),",
+        "ms": "(Al-Hutamah) ialah api Allah yang dinyalakan (dengan perintahNya)",
+        "id": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ"
+      },
+      "transliteration": "Naru Allahi almooqadatu"
+    },
+    {
+      "surah": 104,
+      "ayah": 7,
+      "key": "104:7",
+      "arabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "translations": {
+        "en": "The which doth mount (Right) to the Hearts:",
+        "ms": "Yang naik menjulang ke hati",
+        "id": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ"
+      },
+      "transliteration": "Allatee tattaliAAu AAala alafidati"
+    },
+    {
+      "surah": 104,
+      "ayah": 8,
+      "key": "104:8",
+      "arabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "translations": {
+        "en": "It shall be made into a vault over them,",
+        "ms": "Sesungguhnnya api neraka itu ditutup rapat atas mereka",
+        "id": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ"
+      },
+      "transliteration": "lnnaha AAalayhim musadatun"
+    },
+    {
+      "surah": 104,
+      "ayah": 9,
+      "key": "104:9",
+      "arabic": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "translations": {
+        "en": "In columns outstretched.",
+        "ms": "(Mereka terikat di situ) pada batang-batang palang yang melintang panjang",
+        "id": "فِي عَمَدٖ مُّمَدَّدَةِۭ"
+      },
+      "transliteration": "Fee AAamadin mumaddadatin"
+    }
+  ]
+}

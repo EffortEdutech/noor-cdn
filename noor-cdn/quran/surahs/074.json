@@ -1,0 +1,685 @@
+{
+  "surah": {
+    "number": 74,
+    "slug": "al-muddaththir",
+    "nameArabic": "المدثر",
+    "nameTransliteration": "Al-Muddaththir",
+    "nameEnglish": "The Cloaked One",
+    "revelation": "makki",
+    "ayahCount": 56
+  },
+  "ayahs": [
+    {
+      "surah": 74,
+      "ayah": 1,
+      "key": "74:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+      "translations": {
+        "en": "O thou wrapped up (in the mantle)!",
+        "ms": "Wahai orang yang berselimut",
+        "id": "يَـٰٓأَيُّهَا ٱلۡمُدَّثِّرُ"
+      },
+      "transliteration": "Ya ayyuha almuddaththiru"
+    },
+    {
+      "surah": 74,
+      "ayah": 2,
+      "key": "74:2",
+      "arabic": "قُمْ فَأَنذِرْ",
+      "translations": {
+        "en": "Arise and deliver thy warning!",
+        "ms": "Bangunlah serta berilah peringatan dan amaran (kepada umat manusia)",
+        "id": "قُمۡ فَأَنذِرۡ"
+      },
+      "transliteration": "Qum faanthir"
+    },
+    {
+      "surah": 74,
+      "ayah": 3,
+      "key": "74:3",
+      "arabic": "وَرَبَّكَ فَكَبِّرْ",
+      "translations": {
+        "en": "And thy Lord do thou magnify!",
+        "ms": "Dan Tuhanmu, maka ucaplah dan ingatlah kebesaranNya",
+        "id": "وَرَبَّكَ فَكَبِّرۡ"
+      },
+      "transliteration": "Warabbaka fakabbir"
+    },
+    {
+      "surah": 74,
+      "ayah": 4,
+      "key": "74:4",
+      "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+      "translations": {
+        "en": "And thy garments keep free from stain!",
+        "ms": "Dan pakaianmu, maka hendaklah engkau bersihkan",
+        "id": "وَثِيَابَكَ فَطَهِّرۡ"
+      },
+      "transliteration": "Wathiyabaka fatahhir"
+    },
+    {
+      "surah": 74,
+      "ayah": 5,
+      "key": "74:5",
+      "arabic": "وَٱلرُّجْزَ فَٱهْجُرْ",
+      "translations": {
+        "en": "And all abomination shun!",
+        "ms": "Dan segala kejahatan, maka hendaklah engkau jauhi",
+        "id": "وَٱلرُّجۡزَ فَٱهۡجُرۡ"
+      },
+      "transliteration": "Waalrrujza faohjur"
+    },
+    {
+      "surah": 74,
+      "ayah": 6,
+      "key": "74:6",
+      "arabic": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+      "translations": {
+        "en": "Nor expect, in giving, any increase (for thyself)!",
+        "ms": "Dan janganlah engkau memberi (sesuatu, dengan tujuan hendak) mendapat lebih banyak daripadanya",
+        "id": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ"
+      },
+      "transliteration": "Wala tamnun tastakthiru"
+    },
+    {
+      "surah": 74,
+      "ayah": 7,
+      "key": "74:7",
+      "arabic": "وَلِرَبِّكَ فَٱصْبِرْ",
+      "translations": {
+        "en": "But, for thy Lord's (Cause), be patient and constant!",
+        "ms": "Dan bagi (menjalankan perintah) Tuhanmu, maka hendaklah engkau bersabar (terhadap tentangan musuh)",
+        "id": "وَلِرَبِّكَ فَٱصۡبِرۡ"
+      },
+      "transliteration": "Walirabbika faisbir"
+    },
+    {
+      "surah": 74,
+      "ayah": 8,
+      "key": "74:8",
+      "arabic": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+      "translations": {
+        "en": "Finally, when the Trumpet is sounded,",
+        "ms": "Kerana apabila telah ditiup sangkakala",
+        "id": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ"
+      },
+      "transliteration": "Faitha nuqira fee alnnaqoori"
+    },
+    {
+      "surah": 74,
+      "ayah": 9,
+      "key": "74:9",
+      "arabic": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+      "translations": {
+        "en": "That will be- that Day - a Day of Distress,-",
+        "ms": "Maka saat yang demikian adalah saat (berlakunya) hari yang sukar",
+        "id": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ"
+      },
+      "transliteration": "Fathalika yawmaithin yawmun AAaseerun"
+    },
+    {
+      "surah": 74,
+      "ayah": 10,
+      "key": "74:10",
+      "arabic": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
+      "translations": {
+        "en": "Far from easy for those without Faith.",
+        "ms": "Kepada orang-orang kafir, lagi tidak mudah (mengelak azabnya)",
+        "id": "عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرٖ"
+      },
+      "transliteration": "AAala alkafireena ghayru yaseerin"
+    },
+    {
+      "surah": 74,
+      "ayah": 11,
+      "key": "74:11",
+      "arabic": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+      "translations": {
+        "en": "Leave Me alone, (to deal) with the (creature) whom I created (bare and) alone!-",
+        "ms": "(Jangan engkau bimbang wahai Muhammad) biarkanlah Aku sahaja membalas orang (yang menentangmu) yang Aku ciptakan dia (dalam keadaan) seorang diri (tidak berharta dan anak pinak)",
+        "id": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا"
+      },
+      "transliteration": "Tharnee waman khalaqtu waheedan"
+    },
+    {
+      "surah": 74,
+      "ayah": 12,
+      "key": "74:12",
+      "arabic": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+      "translations": {
+        "en": "To whom I granted resources in abundance,",
+        "ms": "Dan Aku jadikan baginya harta kekayaan yang banyak",
+        "id": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا"
+      },
+      "transliteration": "WajaAAaltu lahu malan mamdoodan"
+    },
+    {
+      "surah": 74,
+      "ayah": 13,
+      "key": "74:13",
+      "arabic": "وَبَنِينَ شُهُودًا",
+      "translations": {
+        "en": "And sons to be by his side!-",
+        "ms": "Serta anak pinak (yang ramai), yang sentiasa ada di sisinya",
+        "id": "وَبَنِينَ شُهُودٗا"
+      },
+      "transliteration": "Wabaneena shuhoodan"
+    },
+    {
+      "surah": 74,
+      "ayah": 14,
+      "key": "74:14",
+      "arabic": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًا",
+      "translations": {
+        "en": "To whom I made (life) smooth and comfortable!",
+        "ms": "Dan Aku mudahkan baginya (mendapat kekayaan dan kekuasaan) dengan semudah-mudahnya",
+        "id": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا"
+      },
+      "transliteration": "Wamahhadtu lahu tamheedan"
+    },
+    {
+      "surah": 74,
+      "ayah": 15,
+      "key": "74:15",
+      "arabic": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+      "translations": {
+        "en": "Yet is he greedy-that I should add (yet more);-",
+        "ms": "Kemudian ia ingin sangat, supaya Aku tambahi lagi",
+        "id": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ"
+      },
+      "transliteration": "Thumma yatmaAAu an azeeda"
+    },
+    {
+      "surah": 74,
+      "ayah": 16,
+      "key": "74:16",
+      "arabic": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+      "translations": {
+        "en": "By no means! For to Our Signs he has been refractory!",
+        "ms": "Tidak sekali-kali (akan ditambahi) ! Kerana sesungguhnya dia menentang dengan degilnya akan ayat-ayat Kami (Al-Quran, yang disampaikan oleh Rasul Kami)",
+        "id": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدٗا"
+      },
+      "transliteration": "Kalla innahu kana liayatina AAaneedan"
+    },
+    {
+      "surah": 74,
+      "ayah": 17,
+      "key": "74:17",
+      "arabic": "سَأُرْهِقُهُۥ صَعُودًا",
+      "translations": {
+        "en": "Soon will I visit him with a mount of calamities!",
+        "ms": "Aku akan menyeksanya (dengan azab) yang memuncak beratnya",
+        "id": "سَأُرۡهِقُهُۥ صَعُودًا"
+      },
+      "transliteration": "Saorhiquhu saAAoodan"
+    },
+    {
+      "surah": 74,
+      "ayah": 18,
+      "key": "74:18",
+      "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "translations": {
+        "en": "For he thought and he plotted;-",
+        "ms": "Kerana sesungguhnya ia telah memikirkan dan mereka-reka berbagai tuduhan terhadap Al-Quran",
+        "id": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ"
+      },
+      "transliteration": "Innahu fakkara waqaddara"
+    },
+    {
+      "surah": 74,
+      "ayah": 19,
+      "key": "74:19",
+      "arabic": "فَقُتِلَ كَيْفَ قَدَّرَ",
+      "translations": {
+        "en": "And woe to him! How he plotted!-",
+        "ms": "Maka binasalah dia hendaknya! Bagaimanakah dia berani mereka-reka (yang demikian)",
+        "id": "فَقُتِلَ كَيۡفَ قَدَّرَ"
+      },
+      "transliteration": "Faqutila kayfa qaddara"
+    },
+    {
+      "surah": 74,
+      "ayah": 20,
+      "key": "74:20",
+      "arabic": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+      "translations": {
+        "en": "Yea, Woe to him; How he plotted!-",
+        "ms": "Sekali lagi: binasalah dia hendaknya! Bagaimana ia berani mereka-reka (tuduhan-tuduhan itu)",
+        "id": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ"
+      },
+      "transliteration": "Thumma qutila kayfa qaddara"
+    },
+    {
+      "surah": 74,
+      "ayah": 21,
+      "key": "74:21",
+      "arabic": "ثُمَّ نَظَرَ",
+      "translations": {
+        "en": "Then he looked round;",
+        "ms": "Kemudian ia merenung dan memikirkan (berkali-kali: jalan-jalan mencaci Al-Quran, tetapi ia gagal)",
+        "id": "ثُمَّ نَظَرَ"
+      },
+      "transliteration": "Thumma nathara"
+    },
+    {
+      "surah": 74,
+      "ayah": 22,
+      "key": "74:22",
+      "arabic": "ثُمَّ عَبَسَ وَبَسَرَ",
+      "translations": {
+        "en": "Then he frowned and he scowled;",
+        "ms": "Setelah itu ia memasamkan mukanya serta ia bertambah masam berkerut",
+        "id": "ثُمَّ عَبَسَ وَبَسَرَ"
+      },
+      "transliteration": "Thumma AAabasa wabasara"
+    },
+    {
+      "surah": 74,
+      "ayah": 23,
+      "key": "74:23",
+      "arabic": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+      "translations": {
+        "en": "Then he turned back and was haughty;",
+        "ms": "Kemudian ia berpaling (dari kebenaran) dan berlaku sombong angkuh",
+        "id": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ"
+      },
+      "transliteration": "Thumma adbara waistakbara"
+    },
+    {
+      "surah": 74,
+      "ayah": 24,
+      "key": "74:24",
+      "arabic": "فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ",
+      "translations": {
+        "en": "Then said he: \"This is nothing but magic, derived from of old;",
+        "ms": "Serta ia berkata: \" (Al-Quran) ini tidak lain hanyalah sihir yang dituntut serta dipelajari (dari ahli-ahlinya)",
+        "id": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ"
+      },
+      "transliteration": "Faqala in hatha illa sihrun yutharu"
+    },
+    {
+      "surah": 74,
+      "ayah": 25,
+      "key": "74:25",
+      "arabic": "إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+      "translations": {
+        "en": "\"This is nothing but the word of a mortal!\"",
+        "ms": "Ini tidak lain hanyalah kata-kata (rekaan) manusia",
+        "id": "إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ"
+      },
+      "transliteration": "In hatha illa qawlu albashari"
+    },
+    {
+      "surah": 74,
+      "ayah": 26,
+      "key": "74:26",
+      "arabic": "سَأُصْلِيهِ سَقَرَ",
+      "translations": {
+        "en": "Soon will I cast him into Hell-Fire!",
+        "ms": "(Disebabkan kekufurannya itu) Aku akan masukkan dia ke dalam neraka Saqar",
+        "id": "سَأُصۡلِيهِ سَقَرَ"
+      },
+      "transliteration": "Saosleehi saqara"
+    },
+    {
+      "surah": 74,
+      "ayah": 27,
+      "key": "74:27",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+      "translations": {
+        "en": "And what will explain to thee what Hell-Fire is?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui kedahsyatan neraka Saqar itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ"
+      },
+      "transliteration": "Wama adraka ma saqaru"
+    },
+    {
+      "surah": 74,
+      "ayah": 28,
+      "key": "74:28",
+      "arabic": "لَا تُبْقِى وَلَا تَذَرُ",
+      "translations": {
+        "en": "Naught doth it permit to endure, and naught doth it leave alone!-",
+        "ms": "Ia membakar mangsanya dengan tidak meninggalkan sisa, dan tidak membiarkannya (binasa terus)",
+        "id": "لَا تُبۡقِي وَلَا تَذَرُ"
+      },
+      "transliteration": "La tubqee wala tatharu"
+    },
+    {
+      "surah": 74,
+      "ayah": 29,
+      "key": "74:29",
+      "arabic": "لَوَّاحَةٌ لِّلْبَشَرِ",
+      "translations": {
+        "en": "Darkening and changing the colour of man!",
+        "ms": "Ia terus-menerus membakar kulit manusia",
+        "id": "لَوَّاحَةٞ لِّلۡبَشَرِ"
+      },
+      "transliteration": "Lawwahatun lilbashari"
+    },
+    {
+      "surah": 74,
+      "ayah": 30,
+      "key": "74:30",
+      "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+      "translations": {
+        "en": "Over it are Nineteen.",
+        "ms": "Pengawal dan penjaganya adalah sembilan belas (malaikat)",
+        "id": "عَلَيۡهَا تِسۡعَةَ عَشَرَ"
+      },
+      "transliteration": "AAalayha tisAAata AAashara"
+    },
+    {
+      "surah": 74,
+      "ayah": 31,
+      "key": "74:31",
+      "arabic": "وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "translations": {
+        "en": "And We have set none but angels as Guardians of the Fire; and We have fixed their number only as a trial for Unbelievers,- in order that the People of the Book may arrive at certainty, and the Believers may increase in Faith,- and that no doubts may be left for the People of the Book and the Believers, and that those in whose hearts is a disease and the Unbelievers may say, \"What symbol doth Allah intend by this?\" Thus doth Allah leave to stray whom He pleaseth, and guide whom He pleaseth: and none can know the forces of thy Lord, except He and this is no other than a warning to mankind.",
+        "ms": "Dan (ketahuilah bahawa hikmat) Kami tidak menjadikan pengawal-pengawal neraka itu melainkan (dari kalangan) malaikat, (kerana merekalah sekuat-kuat dan sebenar-benar makhluk yang menjalankan perintah Kami); dan (hikmat) Kami tidak menerangkan bilangan mereka melainkan dengan satu bilangan yang menyebabkan kesesatan dan kesengsaraan orang-orang kafir itu, supaya orang-orang yang diberi Kitab (Yahudi dan Nasrani) boleh percaya dengan yakin (akan kebenaran Al-Quran), dan supaya orang-orang yang beriman bertambah imannya; dan juga supaya orang-orang yang diberi Kitab dan orang-orang yang beriman itu tidak ragu-ragu (tentang kebenaran keterangan itu); dan (sebaliknya) supaya orang-orang (munafik) yang ada penyakit (ragu-ragu) dalam hatinya dan orang-orang kafir berkata: \"Apakah yang di maksudkan oleh Allah dengan menyebutkan bilangan ganjil ini?\" Demikianlah Allah menyesatkan sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya), dan memberi hidayah petunjuk kepada sesiapa yang dikehendakiNya (menurut undang-undang peraturanNya); dan tiada yang mengetahui tentera Tuhanmu melainkan Dia lah sahaja. Dan (ingatlah, segala yang diterangkan berkenaan dengan) neraka itu tidak lain hanyalah menjadi peringatan bagi manusia",
+        "id": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ"
+      },
+      "transliteration": "Wama jaAAalna ashaba alnnari illa malaikatan wama jaAAalna AAiddatahum illa fitnatan lillatheena kafaroo liyastayqina allatheena ootoo alkitaba wayazdada allatheena amanoo eemanan wala yartaba allatheena ootoo alkitaba waalmuminoona waliyaqoola allatheena fee quloobihim maradun waalkafiroona matha arada Allahu bihatha mathalan kathalika yudillu Allahu man yashao wayahdee man yashao wama yaAAlamu junooda rabbika illa huwa wama hiya illa thikra lilbashari"
+    },
+    {
+      "surah": 74,
+      "ayah": 32,
+      "key": "74:32",
+      "arabic": "كَلَّا وَٱلْقَمَرِ",
+      "translations": {
+        "en": "Nay, verily: By the Moon,",
+        "ms": "Sebenarnya! Demi bulan",
+        "id": "كَلَّا وَٱلۡقَمَرِ"
+      },
+      "transliteration": "Kalla waalqamari"
+    },
+    {
+      "surah": 74,
+      "ayah": 33,
+      "key": "74:33",
+      "arabic": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+      "translations": {
+        "en": "And by the Night as it retreateth,",
+        "ms": "Dan malam apabila ia balik melenyapkan diri",
+        "id": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ"
+      },
+      "transliteration": "Waallayli ith adbara"
+    },
+    {
+      "surah": 74,
+      "ayah": 34,
+      "key": "74:34",
+      "arabic": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+      "translations": {
+        "en": "And by the Dawn as it shineth forth,-",
+        "ms": "Dan waktu subuh apabila ia terang-benderang",
+        "id": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ"
+      },
+      "transliteration": "Waalssubhi itha asfara"
+    },
+    {
+      "surah": 74,
+      "ayah": 35,
+      "key": "74:35",
+      "arabic": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+      "translations": {
+        "en": "This is but one of the mighty (portents),",
+        "ms": "Sesungguhnya neraka Saqar itu adalah salah satu (malapetaka) yang amat besar",
+        "id": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ"
+      },
+      "transliteration": "Innaha laihda alkubari"
+    },
+    {
+      "surah": 74,
+      "ayah": 36,
+      "key": "74:36",
+      "arabic": "نَذِيرًا لِّلْبَشَرِ",
+      "translations": {
+        "en": "A warning to mankind,-",
+        "ms": "Yang menjadi amaran bagi umat manusia",
+        "id": "نَذِيرٗا لِّلۡبَشَرِ"
+      },
+      "transliteration": "Natheeran lilbashari"
+    },
+    {
+      "surah": 74,
+      "ayah": 37,
+      "key": "74:37",
+      "arabic": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+      "translations": {
+        "en": "To any of you that chooses to press forward, or to follow behind;-",
+        "ms": "(Iaitu) bagi sesiapa di antara kamu yang mahu maju (dalam mengerjakan kebaikan) atau yang mahu mundur (daripada mengerjakannya)",
+        "id": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ"
+      },
+      "transliteration": "Liman shaa minkum an yataqaddama aw yataakhkhara"
+    },
+    {
+      "surah": 74,
+      "ayah": 38,
+      "key": "74:38",
+      "arabic": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+      "translations": {
+        "en": "Every soul will be (held) in pledge for its deeds.",
+        "ms": "Tiap-tiap diri terikat, tidak terlepas daripada (balasan buruk bagi amal jahat) yang dikerjakannya",
+        "id": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ"
+      },
+      "transliteration": "Kullu nafsin bima kasabat raheenatun"
+    },
+    {
+      "surah": 74,
+      "ayah": 39,
+      "key": "74:39",
+      "arabic": "إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ",
+      "translations": {
+        "en": "Except the Companions of the Right Hand.",
+        "ms": "Kecuali puak Kanan",
+        "id": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ"
+      },
+      "transliteration": "Illa ashaba alyameeni"
+    },
+    {
+      "surah": 74,
+      "ayah": 40,
+      "key": "74:40",
+      "arabic": "فِى جَنَّـٰتٍ يَتَسَآءَلُونَ",
+      "translations": {
+        "en": "(They will be) in Gardens (of Delight): they will question each other,",
+        "ms": "(Mereka ditempatkan) di dalam Syurga (yang penuh nikmat), mereka bertanya-tanya",
+        "id": "فِي جَنَّـٰتٖ يَتَسَآءَلُونَ"
+      },
+      "transliteration": "Fee jannatin yatasaaloona"
+    },
+    {
+      "surah": 74,
+      "ayah": 41,
+      "key": "74:41",
+      "arabic": "عَنِ ٱلْمُجْرِمِينَ",
+      "translations": {
+        "en": "And (ask) of the Sinners:",
+        "ms": "Tentang (tempat tinggal) orang-orang yang bersalah",
+        "id": "عَنِ ٱلۡمُجۡرِمِينَ"
+      },
+      "transliteration": "AAani almujrimeena"
+    },
+    {
+      "surah": 74,
+      "ayah": 42,
+      "key": "74:42",
+      "arabic": "مَا سَلَكَكُمْ فِى سَقَرَ",
+      "translations": {
+        "en": "\"What led you into Hell Fire?\"",
+        "ms": "(Setelah melihat orang-orang yang bersalah itu, mereka berkata): \"Apakah yang menyebabkan kamu masuk ke dalam (neraka) Saqar",
+        "id": "مَا سَلَكَكُمۡ فِي سَقَرَ"
+      },
+      "transliteration": "Ma salakakum fee saqara"
+    },
+    {
+      "surah": 74,
+      "ayah": 43,
+      "key": "74:43",
+      "arabic": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+      "translations": {
+        "en": "They will say: \"We were not of those who prayed;",
+        "ms": "Orang-orang yang bersalah itu menjawab: \"Kami tidak termasuk dalam kumpulan orang-orang yang mengerjakan sembahyang",
+        "id": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ"
+      },
+      "transliteration": "Qaloo lam naku mina almusalleena"
+    },
+    {
+      "surah": 74,
+      "ayah": 44,
+      "key": "74:44",
+      "arabic": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+      "translations": {
+        "en": "\"Nor were we of those who fed the indigent;",
+        "ms": "Dan kami tidak pernah memberi makan orang-orang miskin",
+        "id": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ"
+      },
+      "transliteration": "Walam naku nutAAimu almiskeena"
+    },
+    {
+      "surah": 74,
+      "ayah": 45,
+      "key": "74:45",
+      "arabic": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+      "translations": {
+        "en": "\"But we used to talk vanities with vain talkers;",
+        "ms": "Dan kami dahulu selalu mengambil bahagian memperkatakan perkara yang salah, bersama-sama orang-orang yang memperkatakannya",
+        "id": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ"
+      },
+      "transliteration": "Wakunna nakhoodu maAAa alkhaideena"
+    },
+    {
+      "surah": 74,
+      "ayah": 46,
+      "key": "74:46",
+      "arabic": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+      "translations": {
+        "en": "\"And we used to deny the Day of Judgment,",
+        "ms": "Dan kami sentiasa mendustakan hari pembalasan",
+        "id": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ"
+      },
+      "transliteration": "Wakunna nukaththibu biyawmi alddeeni"
+    },
+    {
+      "surah": 74,
+      "ayah": 47,
+      "key": "74:47",
+      "arabic": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+      "translations": {
+        "en": "\"Until there came to us (the Hour) that is certain.\"",
+        "ms": "Sehinggalah kami didatangi oleh perkara yang tetap diyakini",
+        "id": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ"
+      },
+      "transliteration": "Hatta atana alyaqeenu"
+    },
+    {
+      "surah": 74,
+      "ayah": 48,
+      "key": "74:48",
+      "arabic": "فَمَا تَنفَعُهُمْ شَفَـٰعَةُ ٱلشَّـٰفِعِينَ",
+      "translations": {
+        "en": "Then will no intercession of (any) intercessors profit them.",
+        "ms": "Maka tidak akan berguna kepada mereka sebarang syafaat pertolongan (kalaulah ditakdirkan ada) sesiapa yang boleh memberikan syafaat itu",
+        "id": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّـٰفِعِينَ"
+      },
+      "transliteration": "Fama tanfaAAuhum shafaAAatu alshshafiAAeena"
+    },
+    {
+      "surah": 74,
+      "ayah": 49,
+      "key": "74:49",
+      "arabic": "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ",
+      "translations": {
+        "en": "Then what is the matter with them that they turn away from admonition?-",
+        "ms": "(Kalau demikianlah halnya orang-orang yang bersalah), maka mengapa mereka berpaling lari dari peringatan (Al-Quran)",
+        "id": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ"
+      },
+      "transliteration": "Fama lahum AAani alttathkirati muAArideena"
+    },
+    {
+      "surah": 74,
+      "ayah": 50,
+      "key": "74:50",
+      "arabic": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+      "translations": {
+        "en": "As if they were affrighted asses,",
+        "ms": "Seolah-olah mereka sekawan keldai liar yang lari",
+        "id": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ"
+      },
+      "transliteration": "Kaannahum humurun mustanfiratun"
+    },
+    {
+      "surah": 74,
+      "ayah": 51,
+      "key": "74:51",
+      "arabic": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+      "translations": {
+        "en": "Fleeing from a lion!",
+        "ms": "Melarikan diri (ketakutan) dari singa",
+        "id": "فَرَّتۡ مِن قَسۡوَرَةِۭ"
+      },
+      "transliteration": "Farrat min qaswaratin"
+    },
+    {
+      "surah": 74,
+      "ayah": 52,
+      "key": "74:52",
+      "arabic": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+      "translations": {
+        "en": "Forsooth, each one of them wants to be given scrolls (of revelation) spread out!",
+        "ms": "(Mereka tidak merasa cukup dengan peringatan itu) bahkan tiap-tiap seorang di antaranya mahu supaya diberi kepadanya lembaran surat yang terbuka (yang diturunkan dari langit untuk dibaca oleh mereka sendiri)",
+        "id": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ"
+      },
+      "transliteration": "Bal yureedu kullu imriin minhum an yuta suhufan munashsharatan"
+    },
+    {
+      "surah": 74,
+      "ayah": 53,
+      "key": "74:53",
+      "arabic": "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ",
+      "translations": {
+        "en": "By no means! But they fear not the Hereafter,",
+        "ms": "Sebenarnya! (Bukan kerana kemahuan mereka tidak berhasil), bahkan mereka (tidak percaya dan) tidak takut akan hari akhirat",
+        "id": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ"
+      },
+      "transliteration": "Kalla bal la yakhafoona alakhirata"
+    },
+    {
+      "surah": 74,
+      "ayah": 54,
+      "key": "74:54",
+      "arabic": "كَلَّآ إِنَّهُۥ تَذْكِرَةٌ",
+      "translations": {
+        "en": "Nay, this surely is an admonition:",
+        "ms": "Ketahuilah! Sesungguhnya Al-Quran itu adalah satu peringatan (yang sangat besar pengajarannya)",
+        "id": "كَلَّآ إِنَّهُۥ تَذۡكِرَةٞ"
+      },
+      "transliteration": "Kalla innahu tathkiratun"
+    },
+    {
+      "surah": 74,
+      "ayah": 55,
+      "key": "74:55",
+      "arabic": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "translations": {
+        "en": "Let any who will, keep it in remembrance!",
+        "ms": "Oleh itu sesiapa yang mahu (beringat) dapatlah ia mengambil peringatan daripadanya",
+        "id": "فَمَن شَآءَ ذَكَرَهُۥ"
+      },
+      "transliteration": "Faman shaa thakarahu"
+    },
+    {
+      "surah": 74,
+      "ayah": 56,
+      "key": "74:56",
+      "arabic": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+      "translations": {
+        "en": "But none will keep it in remembrance except as Allah wills: He is the Lord of Righteousness, and the Lord of Forgiveness.",
+        "ms": "Dan (dalam pada itu) tiadalah mereka dapat beringat melainkan jika dikehendaki Allah; Dia lah Tuhan yang berhak dipatuhi perintahNya, dan Dia lah jua yang berhak memberi keampunan (kepada orang-orang yang beriman dan taat)",
+        "id": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ"
+      },
+      "transliteration": "Wama yathkuroona illa an yashaa Allahu huwa ahlu alttaqwa waahlu almaghfirati"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "surah": {
+    "number": 71,
+    "slug": "nooh",
+    "nameArabic": "نوح",
+    "nameTransliteration": "Nooh",
+    "nameEnglish": "Noah",
+    "revelation": "makki",
+    "ayahCount": 28
+  },
+  "ayahs": [
+    {
+      "surah": 71,
+      "ayah": 1,
+      "key": "71:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+      "translations": {
+        "en": "We sent Noah to his People (with the Command): \"Do thou warn thy People before there comes to them a grievous Penalty.\"",
+        "ms": "Sesungguhnya Kami telah mengutus Nabi Nuh kepada kaumnya, (dengan berfirman kepadanya): \"Berikanlah peringatan dan amaran kepada kaummu sebelum mereka didatangi azab yang tidak terperi sakitnya",
+        "id": "إِنَّآ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ أَنۡ أَنذِرۡ قَوۡمَكَ مِن قَبۡلِ أَن يَأۡتِيَهُمۡ عَذَابٌ أَلِيمٞ"
+      },
+      "transliteration": "Inna arsalna noohan ila qawmihi an anthir qawmaka min qabli an yatiyahum AAathabun aleemun"
+    },
+    {
+      "surah": 71,
+      "ayah": 2,
+      "key": "71:2",
+      "arabic": "قَالَ يَـٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "translations": {
+        "en": "He said: \"O my People! I am to you a Warner, clear and open:",
+        "ms": "dia pun (menyeru mereka dengan) berkata: \"Wahai kaumku! Sesungguhnya aku ini diutus kepada kamu, sebagai pemberi ingatan dan amaran yang nyata",
+        "id": "قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ"
+      },
+      "transliteration": "Qala ya qawmi innee lakum natheerun mubeenun"
+    },
+    {
+      "surah": 71,
+      "ayah": 3,
+      "key": "71:3",
+      "arabic": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "translations": {
+        "en": "\"That ye should worship Allah, fear Him and obey me:",
+        "ms": "Iaitu sembahlah kamu akan Allah dan bertaqwalah kepadaNya, serta taatlah kamu kepadaku",
+        "id": "أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ"
+      },
+      "transliteration": "Ani oAAbudoo Allaha waittaqoohu waateeAAooni"
+    },
+    {
+      "surah": 71,
+      "ayah": 4,
+      "key": "71:4",
+      "arabic": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ",
+      "translations": {
+        "en": "\"So He may forgive you your sins and give you respite for a stated Term: for when the Term given by Allah is accomplished, it cannot be put forward: if ye only knew.\"",
+        "ms": "Supaya Allah mengampunkan bagi kamu sebahagian dari dosa-dosa kamu, dan memberi kamu hidup (dengan tidak terkena azab) hingga ke suatu masa yang tertentu; (maka segeralah beribadat dan bertaqwa) kerana sesungguhnya ajal (yang telah ditetapkan) Allah, apabila sampai masanya, tidak dapat ditangguhkan; kalaulah kamu mengetahui (hakikat ini tentulah kamu segera beriman)",
+        "id": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ"
+      },
+      "transliteration": "Yaghfir lakum min thunoobikum wayuakhkhirkum ila ajalin musamman inna ajala Allahi itha jaa la yuakhkharu law kuntum taAAlamoona"
+    },
+    {
+      "surah": 71,
+      "ayah": 5,
+      "key": "71:5",
+      "arabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+      "translations": {
+        "en": "He said: \"O my Lord! I have called to my People night and day:",
+        "ms": "(Setelah puas menyeru mereka), Nabi Nuh berdoa dengan berkata: \"Wahai Tuhanku, sesungguhnya aku telah menyeru kaumku siang dan malam (supaya mereka beriman)",
+        "id": "قَالَ رَبِّ إِنِّي دَعَوۡتُ قَوۡمِي لَيۡلٗا وَنَهَارٗا"
+      },
+      "transliteration": "Qala rabbi innee daAAawtu qawmee laylan wanaharan"
+    },
+    {
+      "surah": 71,
+      "ayah": 6,
+      "key": "71:6",
+      "arabic": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًا",
+      "translations": {
+        "en": "\"But my call only increases (their) flight (from the Right).",
+        "ms": "Maka seruanku itu tidak memberikan mereka (sesuatu faedah pun) selain daripada menambahi mereka melarikan diri (dari kebenaran)",
+        "id": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا"
+      },
+      "transliteration": "Falam yazidhum duAAaee illa firaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 7,
+      "key": "71:7",
+      "arabic": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًا",
+      "translations": {
+        "en": "\"And every time I have called to them, that Thou mightest forgive them, they have (only) thrust their fingers into their ears, covered themselves up with their garments, grown obstinate, and given themselves up to arrogance.",
+        "ms": "Dan sesungguhnya aku, tiap-tiap kali menyeru mereka (beriman) supaya Engkau mengampunkan dosa-dosa mereka, - mereka menyumbatkan telinganya dengan jari masing-masing, dan berselubung dengan pakaiannya, serta berdegil dengan keingkarannya, dan berlaku sombong takbur dengan melampau",
+        "id": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا"
+      },
+      "transliteration": "Wainnee kullama daAAawtuhum litaghfira lahum jaAAaloo asabiAAahum fee athanihim waistaghshaw thiyabahum waasarroo waistakbaroo istikbaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 8,
+      "key": "71:8",
+      "arabic": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًا",
+      "translations": {
+        "en": "\"So I have called to them aloud;",
+        "ms": "Kemudian aku telah menyeru mereka dengan terang-terang",
+        "id": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا"
+      },
+      "transliteration": "Thumma innee daAAawtuhum jiharan"
+    },
+    {
+      "surah": 71,
+      "ayah": 9,
+      "key": "71:9",
+      "arabic": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+      "translations": {
+        "en": "\"Further I have spoken to them in public and secretly in private,",
+        "ms": "Selain dari itu, aku (berulang-ulang) menyeru mereka secara beramai-ramai dengan berterus-terang, dan menyeru mereka lagi secara berseorangan dengan perlahan-lahan",
+        "id": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا"
+      },
+      "transliteration": "Thumma innee aAAlantu lahum waasrartu lahum israran"
+    },
+    {
+      "surah": 71,
+      "ayah": 10,
+      "key": "71:10",
+      "arabic": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا",
+      "translations": {
+        "en": "\"Saying, 'Ask forgiveness from your Lord; for He is Oft-Forgiving;",
+        "ms": "Sehingga aku berkata (kepada mereka): `Pohonkanlah ampun kepada Tuhan kamu, sesungguhnya adalah Ia Maha Pengampun",
+        "id": "فَقُلۡتُ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ إِنَّهُۥ كَانَ غَفَّارٗا"
+      },
+      "transliteration": "Faqultu istaghfiroo rabbakum innahu kana ghaffaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 11,
+      "key": "71:11",
+      "arabic": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+      "translations": {
+        "en": "\"'He will send rain to you in abundance;",
+        "ms": "(Sekiranya kamu berbuat demikian), Ia akan menghantarkan hujan lebat mencurah-curah, kepada kamu",
+        "id": "يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا"
+      },
+      "transliteration": "Yursili alssamaa AAalaykum midraran"
+    },
+    {
+      "surah": 71,
+      "ayah": 12,
+      "key": "71:12",
+      "arabic": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّـٰتٍ وَيَجْعَل لَّكُمْ أَنْهَـٰرًا",
+      "translations": {
+        "en": "\"'Give you increase in wealth and sons; and bestow on you gardens and bestow on you rivers (of flowing water).",
+        "ms": "Dan Ia akan memberi kepada kamu dengan banyaknya harta kekayaan serta anak-pinak; dan Ia akan mengadakan bagi kamu kebun-kebun tanaman, serta mengadakan bagi kamu sungai-sungai (yang mengalir di dalamnya)",
+        "id": "وَيُمۡدِدۡكُم بِأَمۡوَٰلٖ وَبَنِينَ وَيَجۡعَل لَّكُمۡ جَنَّـٰتٖ وَيَجۡعَل لَّكُمۡ أَنۡهَٰرٗا"
+      },
+      "transliteration": "Wayumdidkum biamwalin wabaneena wayajAAal lakum jannatin wayajAAal lakum anharan"
+    },
+    {
+      "surah": 71,
+      "ayah": 13,
+      "key": "71:13",
+      "arabic": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+      "translations": {
+        "en": "\"'What is the matter with you, that ye place not your hope for kindness and long-suffering in Allah,-",
+        "ms": "Mengapa kamu berkeadaan tidak menghargai kebesaran Allah (dan kekuasaanNya)",
+        "id": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا"
+      },
+      "transliteration": "Ma lakum la tarjoona lillahi waqaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 14,
+      "key": "71:14",
+      "arabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+      "translations": {
+        "en": "\"'Seeing that it is He that has created you in diverse stages?",
+        "ms": "Padahal sesungguhnya Ia telah menciptakan kamu dengan kejadian yang berperingkat-peringkat",
+        "id": "وَقَدۡ خَلَقَكُمۡ أَطۡوَارًا"
+      },
+      "transliteration": "Waqad khalaqakum atwaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 15,
+      "key": "71:15",
+      "arabic": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا",
+      "translations": {
+        "en": "\"'See ye not how Allah has created the seven heavens one above another,",
+        "ms": "Tidakkah kamu mengetahui dan memikirkan bagaimana Allah telah menciptakan tujuh petala langit bertingkat-tingkat",
+        "id": "أَلَمۡ تَرَوۡاْ كَيۡفَ خَلَقَ ٱللَّهُ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗا"
+      },
+      "transliteration": "Alam taraw kayfa khalaqa Allahu sabAAa samawatin tibaqan"
+    },
+    {
+      "surah": 71,
+      "ayah": 16,
+      "key": "71:16",
+      "arabic": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا",
+      "translations": {
+        "en": "\"'And made the moon a light in their midst, and made the sun as a (Glorious) Lamp?",
+        "ms": "Dan Ia menjadikan padanya bulan sebagai cahaya serta menjadikan matahari sebagai lampu (yang terang-benderang)",
+        "id": "وَجَعَلَ ٱلۡقَمَرَ فِيهِنَّ نُورٗا وَجَعَلَ ٱلشَّمۡسَ سِرَاجٗا"
+      },
+      "transliteration": "WajaAAala alqamara feehinna nooran wajaAAala alshshamsa sirajan"
+    },
+    {
+      "surah": 71,
+      "ayah": 17,
+      "key": "71:17",
+      "arabic": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+      "translations": {
+        "en": "\"'And Allah has produced you from the earth growing (gradually),",
+        "ms": "Dan Allah telah menumbuhkan kamu (hidup dari benda-benda yang berasal) dari bumi, dengan pertumbuhan yang sungguh-sungguh sempurna",
+        "id": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا"
+      },
+      "transliteration": "WaAllahu anbatakum mina alardi nabatan"
+    },
+    {
+      "surah": 71,
+      "ayah": 18,
+      "key": "71:18",
+      "arabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+      "translations": {
+        "en": "\"'And in the End He will return you into the (earth), and raise you forth (again at the Resurrection)?",
+        "ms": "Kemudian Ia mengembalikan kamu ke dalam bumi (sesudah mati), dan mengeluarkan kamu daripadanya (sesudah dihidupkan semula untuk dihitung amal kamu dan diberi balasan), dengan pengeluaran yang sesungguh-sungguhnya",
+        "id": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا"
+      },
+      "transliteration": "Thumma yuAAeedukum feeha wayukhrijukum ikhrajan"
+    },
+    {
+      "surah": 71,
+      "ayah": 19,
+      "key": "71:19",
+      "arabic": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًا",
+      "translations": {
+        "en": "\"'And Allah has made the earth for you as a carpet (spread out),",
+        "ms": "Dan Allah telah menjadikan bumi bagi kamu sebagai hamparan",
+        "id": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلۡأَرۡضَ بِسَاطٗا"
+      },
+      "transliteration": "WaAllahu jaAAala lakumu alarda bisatan"
+    },
+    {
+      "surah": 71,
+      "ayah": 20,
+      "key": "71:20",
+      "arabic": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا",
+      "translations": {
+        "en": "\"'That ye may go about therein, in spacious roads.'\"",
+        "ms": "Supaya kamu melalui jalan-jalan yang luas padanya",
+        "id": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا"
+      },
+      "transliteration": "Litaslukoo minha subulan fijajan"
+    },
+    {
+      "surah": 71,
+      "ayah": 21,
+      "key": "71:21",
+      "arabic": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "translations": {
+        "en": "Noah said: \"O my Lord! They have disobeyed me, but they follow (men) whose wealth and children give them no increase but only Loss.",
+        "ms": "Nabi Nuh (merayu lagi dengan) berkata: \"Wahai Tuhanku! Sesungguhnya, mereka telah menderhaka kepadaku, dan mereka telah menurut orang yang harta bendanya dan anak-pinaknya tidak menambahinya melainkan kerugian (di akhirat kelak)",
+        "id": "قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا"
+      },
+      "transliteration": "Qala noohun rabbi innahum AAasawnee waittabaAAoo man lam yazidhu maluhu wawaladuhu illa khasaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 22,
+      "key": "71:22",
+      "arabic": "وَمَكَرُوا۟ مَكْرًا كُبَّارًا",
+      "translations": {
+        "en": "\"And they have devised a tremendous Plot.",
+        "ms": "Dan mereka telah menjalankan tipu daya dengan merancangkan rancangan yang amat besar jahatnya (untuk menentang seruanku)",
+        "id": "وَمَكَرُواْ مَكۡرٗا كُبَّارٗا"
+      },
+      "transliteration": "Wamakaroo makran kubbaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 23,
+      "key": "71:23",
+      "arabic": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+      "translations": {
+        "en": "\"And they have said (to each other), 'Abandon not your gods: Abandon neither Wadd nor Suwa', neither Yaguth nor Ya'uq, nor Nasr';-",
+        "ms": "Dan (ketua-ketua) mereka (menghasut dengan) berkata: `Jangan kamu meninggalkan (penyembahan) tuhan-tuhan kamu, terutama (penyembahan) Wadd, dan Suwaa', dan Yaghuth, dan Ya'uuq, serta Nasr",
+        "id": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا"
+      },
+      "transliteration": "Waqaloo la tatharunna alihatakum wala tatharunna waddan wala suwaAAan wala yaghootha wayaAAooqa wanasran"
+    },
+    {
+      "surah": 71,
+      "ayah": 24,
+      "key": "71:24",
+      "arabic": "وَقَدْ أَضَلُّوا۟ كَثِيرًا ۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَـٰلًا",
+      "translations": {
+        "en": "\"They have already misled many; and grant Thou no increase to the wrong-doers but in straying (from their mark).\"",
+        "ms": "Dan sesungguhnya ketua-ketua itu telah menyesatkan kebanyakan (dari umat manusia); dan (dengan yang demikian) janganlah Engkau (wahai Tuhanku) menambahi orang-orang yang zalim itu melainkan kesesatan jua",
+        "id": "وَقَدۡ أَضَلُّواْ كَثِيرٗاۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا ضَلَٰلٗا"
+      },
+      "transliteration": "Waqad adalloo katheeran wala tazidi alththalimeena illa dalalan"
+    },
+    {
+      "surah": 71,
+      "ayah": 25,
+      "key": "71:25",
+      "arabic": "مِّمَّا خَطِيٓـَٔـٰتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+      "translations": {
+        "en": "Because of their sins they were drowned (in the flood), and were made to enter the Fire (of Punishment): and they found- in lieu of Allah- none to help them.",
+        "ms": "Disebabkan dosa-dosa dan kesalahan mereka, mereka ditenggelamkan (dengan banjir dan taufan), kemudian (pada hari akhirat) dimasukkan ke dalam neraka; maka mereka tidak akan beroleh sebarang penolong yang lain dari Allah (yang dapat memberikan pertolongan)",
+        "id": "مِّمَّا خَطِيٓـَٰٔتِهِمۡ أُغۡرِقُواْ فَأُدۡخِلُواْ نَارٗا فَلَمۡ يَجِدُواْ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارٗا"
+      },
+      "transliteration": "Mimma khateeatihim oghriqoo faodkhiloo naran falam yajidoo lahum min dooni Allahi ansaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 26,
+      "key": "71:26",
+      "arabic": "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَـٰفِرِينَ دَيَّارًا",
+      "translations": {
+        "en": "And Noah, said: \"O my Lord! Leave not of the Unbelievers, a single one on earth!",
+        "ms": "Dan Nabi Nuh (merayu lagi dengan) berkata: \"Wahai Tuhanku! Janganlah Engkau biarkan seorangpun dari orang-orang kafir itu hidup di atas muka bumi",
+        "id": "وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا"
+      },
+      "transliteration": "Waqala noohun rabbi la tathar AAala alardi mina alkafireena dayyaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 27,
+      "key": "71:27",
+      "arabic": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا",
+      "translations": {
+        "en": "\"For, if Thou dost leave (any of) them, they will but mislead Thy devotees, and they will breed none but wicked ungrateful ones.",
+        "ms": "Kerana sesungguhnya jika Engkau biarkan mereka (hidup), nescaya mereka akan menyesatkan hamba-hambaMu, dan mereka tidak akan melahirkan anak melainkan yang berbuat dosa lagi kufur ingkar",
+        "id": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا كَفَّارٗا"
+      },
+      "transliteration": "Innaka in tatharhum yudilloo AAibadaka wala yalidoo illa fajiran kaffaran"
+    },
+    {
+      "surah": 71,
+      "ayah": 28,
+      "key": "71:28",
+      "arabic": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارًۢا",
+      "translations": {
+        "en": "\"O my Lord! Forgive me, my parents, all who enter my house in Faith, and (all) believing men and believing women: and to the wrong-doers grant Thou no increase but in perdition!\"",
+        "ms": "Wahai Tuhanku! Ampunkanlah bagiku, dan bagi kedua ibu bapaku, serta bagi sesiapa yang masuk ke rumahku dengan keadaan beriman; dan (ampunkanlah) bagi sekalian orang-orang yang beriman, lelaki dan perempuan (dalam segala zaman); dan janganlah Engkau tambahi orang-orang yang zalim melainkan kebinasaan",
+        "id": "رَّبِّ ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِمَن دَخَلَ بَيۡتِيَ مُؤۡمِنٗا وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۖ وَلَا تَزِدِ ٱلظَّـٰلِمِينَ إِلَّا تَبَارَۢا"
+      },
+      "transliteration": "Rabbi ighfir lee waliwalidayya waliman dakhala baytiya muminan walilmumineena waalmuminati wala tazidi alththalimeena illa tabaran"
+    }
+  ]
+}

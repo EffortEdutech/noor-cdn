@@ -1,9 +1,9 @@
 {
   "surah": {
     "number": 114,
-    "slug": "an-nas",
+    "slug": "an-naas",
     "nameArabic": "الناس",
-    "nameTransliteration": "An-Nas",
+    "nameTransliteration": "An-Naas",
     "nameEnglish": "Mankind",
     "revelation": "makki",
     "ayahCount": 6
@@ -13,61 +13,73 @@
       "surah": 114,
       "ayah": 1,
       "key": "114:1",
-      "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
       "translations": {
-        "en": "Say, I seek refuge in the Lord of mankind.",
-        "ms": "Katakanlah: Aku berlindung kepada Tuhan manusia."
-      }
+        "en": "Say: I seek refuge with the Lord and Cherisher of Mankind,",
+        "ms": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Pemulihara sekalian manusia",
+        "id": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ"
+      },
+      "transliteration": "Qul aAAoothu birabbi alnnasi"
     },
     {
       "surah": 114,
       "ayah": 2,
       "key": "114:2",
-      "arabic": "مَلِكِ النَّاسِ",
+      "arabic": "مَلِكِ ٱلنَّاسِ",
       "translations": {
-        "en": "The Sovereign of mankind.",
-        "ms": "Raja manusia."
-      }
+        "en": "The King (or Ruler) of Mankind,",
+        "ms": "Yang Menguasai sekalian manusia",
+        "id": "مَلِكِ ٱلنَّاسِ"
+      },
+      "transliteration": "Maliki alnnasi"
     },
     {
       "surah": 114,
       "ayah": 3,
       "key": "114:3",
-      "arabic": "إِلَٰهِ النَّاسِ",
+      "arabic": "إِلَـٰهِ ٱلنَّاسِ",
       "translations": {
-        "en": "The God of mankind.",
-        "ms": "Sembahan manusia."
-      }
+        "en": "The god (or judge) of Mankind,-",
+        "ms": "Tuhan yang berhak disembah oleh sekalian manusia",
+        "id": "إِلَٰهِ ٱلنَّاسِ"
+      },
+      "transliteration": "Ilahi alnnasi"
     },
     {
       "surah": 114,
       "ayah": 4,
       "key": "114:4",
-      "arabic": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
       "translations": {
-        "en": "From the evil of the retreating whisperer.",
-        "ms": "Daripada kejahatan pembisik yang bersembunyi."
-      }
+        "en": "From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),-",
+        "ms": "Dari kejahatan pembisik penghasut yang timbul tenggelam",
+        "id": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ"
+      },
+      "transliteration": "Min sharri alwaswasi alkhannasi"
     },
     {
       "surah": 114,
       "ayah": 5,
       "key": "114:5",
-      "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "arabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
       "translations": {
-        "en": "Who whispers into the hearts of mankind.",
-        "ms": "Yang membisikkan ke dalam dada manusia."
-      }
+        "en": "(The same) who whispers into the hearts of Mankind,-",
+        "ms": "Yang melemparkan bisikan dan hasutannya ke dalam hati manusia",
+        "id": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ"
+      },
+      "transliteration": "Allathee yuwaswisu fee sudoori alnnasi"
     },
     {
       "surah": 114,
       "ayah": 6,
       "key": "114:6",
-      "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "arabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
       "translations": {
-        "en": "From among jinn and mankind.",
-        "ms": "Daripada kalangan jin dan manusia."
-      }
+        "en": "Among Jinns and among men.",
+        "ms": "(Iaitu pembisik dan penghasut) dari kalangan jin dan manusia",
+        "id": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ"
+      },
+      "transliteration": "Mina aljinnati wa alnnasm"
     }
   ]
 }

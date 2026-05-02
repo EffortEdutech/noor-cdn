@@ -1,0 +1,241 @@
+{
+  "surah": {
+    "number": 96,
+    "slug": "al-alaq",
+    "nameArabic": "العلق",
+    "nameTransliteration": "Al-'Alaq",
+    "nameEnglish": "The Clot",
+    "revelation": "makki",
+    "ayahCount": 19
+  },
+  "ayahs": [
+    {
+      "surah": 96,
+      "ayah": 1,
+      "key": "96:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "translations": {
+        "en": "Proclaim! (or read!) in the name of thy Lord and Cherisher, Who created-",
+        "ms": "Bacalah (wahai Muhammad) dengan nama Tuhanmu yang menciptakan (sekalian makhluk)",
+        "id": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ"
+      },
+      "transliteration": "Iqra biismi rabbika allathee khalaqa"
+    },
+    {
+      "surah": 96,
+      "ayah": 2,
+      "key": "96:2",
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "translations": {
+        "en": "Created man, out of a (mere) clot of congealed blood:",
+        "ms": "Ia menciptakan manusia dari sebuku darah beku",
+        "id": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ"
+      },
+      "transliteration": "Khalaqa alinsana min AAalaqin"
+    },
+    {
+      "surah": 96,
+      "ayah": 3,
+      "key": "96:3",
+      "arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "translations": {
+        "en": "Proclaim! And thy Lord is Most Bountiful,-",
+        "ms": "Bacalah, dan Tuhanmu Yang Maha Pemurah",
+        "id": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ"
+      },
+      "transliteration": "Iqra warabbuka alakramu"
+    },
+    {
+      "surah": 96,
+      "ayah": 4,
+      "key": "96:4",
+      "arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "translations": {
+        "en": "He Who taught (the use of) the pen,-",
+        "ms": "Yang mengajar manusia melalui pena dan tulisan",
+        "id": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ"
+      },
+      "transliteration": "Allathee AAallama bialqalami"
+    },
+    {
+      "surah": 96,
+      "ayah": 5,
+      "key": "96:5",
+      "arabic": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "translations": {
+        "en": "Taught man that which he knew not.",
+        "ms": "Ia mengajarkan manusia apa yang tidak diketahuinya",
+        "id": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ"
+      },
+      "transliteration": "AAallama alinsana ma lam yaAAlam"
+    },
+    {
+      "surah": 96,
+      "ayah": 6,
+      "key": "96:6",
+      "arabic": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "translations": {
+        "en": "Nay, but man doth transgress all bounds,",
+        "ms": "Ingatlah! Sesungguhnya jenis manusia tetap melampaui batas (yang sepatutnya atau yang sewajibnya)",
+        "id": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ"
+      },
+      "transliteration": "Kalla inna alinsana layatgha"
+    },
+    {
+      "surah": 96,
+      "ayah": 7,
+      "key": "96:7",
+      "arabic": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "translations": {
+        "en": "In that he looketh upon himself as self-sufficient.",
+        "ms": "Dengan sebab ia melihat dirinya sudah cukup apa yang dihajatinya",
+        "id": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ"
+      },
+      "transliteration": "An raahu istaghna"
+    },
+    {
+      "surah": 96,
+      "ayah": 8,
+      "key": "96:8",
+      "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "translations": {
+        "en": "Verily, to thy Lord is the return (of all).",
+        "ms": "(Ingatlah) sesungguhnya kepada Tuhanmu lah tempat kembali (untuk menerima balasan)",
+        "id": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ"
+      },
+      "transliteration": "Inna ila rabbika alrrujAAa"
+    },
+    {
+      "surah": 96,
+      "ayah": 9,
+      "key": "96:9",
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "translations": {
+        "en": "Seest thou one who forbids-",
+        "ms": "Adakah engkau nampak (baiknya) orang yang melarang (dan menghalang)",
+        "id": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ"
+      },
+      "transliteration": "Araayta allathee yanha"
+    },
+    {
+      "surah": 96,
+      "ayah": 10,
+      "key": "96:10",
+      "arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "translations": {
+        "en": "A votary when he (turns) to pray?",
+        "ms": "Seorang hamba Allah apabila ia mengerjakan sembahyang",
+        "id": "عَبۡدًا إِذَا صَلَّىٰٓ"
+      },
+      "transliteration": "AAabdan itha salla"
+    },
+    {
+      "surah": 96,
+      "ayah": 11,
+      "key": "96:11",
+      "arabic": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "translations": {
+        "en": "Seest thou if he is on (the road of) Guidance?-",
+        "ms": "Adakah engkau nampak (buruknya) jika ia berada di atas jalan yang betul",
+        "id": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ"
+      },
+      "transliteration": "Araayta in kana AAala alhuda"
+    },
+    {
+      "surah": 96,
+      "ayah": 12,
+      "key": "96:12",
+      "arabic": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "translations": {
+        "en": "Or enjoins Righteousness?",
+        "ms": "Atau ia menyuruh orang bertaqwa (jangan melakukan syirik)",
+        "id": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ"
+      },
+      "transliteration": "Aw amara bialttaqwa"
+    },
+    {
+      "surah": 96,
+      "ayah": 13,
+      "key": "96:13",
+      "arabic": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "translations": {
+        "en": "Seest thou if he denies (Truth) and turns away?",
+        "ms": "Adakah engkau nampak (terlepasnya dari azab) jika ia mendustakan (apa yang disampaikan oleh Nabi Muhammad kepadanya) serta ia berpaling ingkar",
+        "id": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ"
+      },
+      "transliteration": "Araayta in kaththaba watawalla"
+    },
+    {
+      "surah": 96,
+      "ayah": 14,
+      "key": "96:14",
+      "arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "translations": {
+        "en": "Knoweth he not that Allah doth see?",
+        "ms": "Tidakkah ia mengetahui bahawa sesungguhnya Allah melihat (segala amal perbuatannya dan membalasnya)",
+        "id": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ"
+      },
+      "transliteration": "Alam yaAAlam bianna Allaha yara"
+    },
+    {
+      "surah": 96,
+      "ayah": 15,
+      "key": "96:15",
+      "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "translations": {
+        "en": "Let him beware! If he desist not, We will drag him by the forelock,-",
+        "ms": "Jangan sekali-kali berlaku derhaka! Demi sesungguhnya jika ia tidak berhenti (dari perbuatannya yang buruk itu), nescaya Kami akan menyentap ubun-ubunnya (dan menyeretnya ke dalam neraka)",
+        "id": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ"
+      },
+      "transliteration": "Kalla lain lam yantahi lanasfaAAan bialnnasiyati"
+    },
+    {
+      "surah": 96,
+      "ayah": 16,
+      "key": "96:16",
+      "arabic": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "translations": {
+        "en": "A lying, sinful forelock!",
+        "ms": "Ubun-ubun (orang) yang berdusta, yang bersalah",
+        "id": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ"
+      },
+      "transliteration": "Nasiyatin kathibatin khatiatin"
+    },
+    {
+      "surah": 96,
+      "ayah": 17,
+      "key": "96:17",
+      "arabic": "فَلْيَدْعُ نَادِيَهُۥ",
+      "translations": {
+        "en": "Then, let him call (for help) to his council (of comrades):",
+        "ms": "Kemudian biarlah ia memanggil kumpulannya (untuk menyelamatkannya)",
+        "id": "فَلۡيَدۡعُ نَادِيَهُۥ"
+      },
+      "transliteration": "FalyadAAu nadiyahu"
+    },
+    {
+      "surah": 96,
+      "ayah": 18,
+      "key": "96:18",
+      "arabic": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "translations": {
+        "en": "We will call on the angels of punishment (to deal with him)!",
+        "ms": "Kami pula akan memanggil malaikat Zabaniyah (untuk menyeksanya)",
+        "id": "سَنَدۡعُ ٱلزَّبَانِيَةَ"
+      },
+      "transliteration": "SanadAAu alzzabaniyata"
+    },
+    {
+      "surah": 96,
+      "ayah": 19,
+      "key": "96:19",
+      "arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "translations": {
+        "en": "Nay, heed him not: But bow down in adoration, and bring thyself the closer (to Allah)!",
+        "ms": "Ingatlah! Janganlah engkau (wahai Muhammad) menurut kehendaknya, dan (sebaliknya) sujudlah dan dampingkanlah dirimu kepada Allah (dengan taat dan beramal soleh)",
+        "id": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩"
+      },
+      "transliteration": "Kalla la tutiAAhu waosjud waiqtarib"
+    }
+  ]
+}

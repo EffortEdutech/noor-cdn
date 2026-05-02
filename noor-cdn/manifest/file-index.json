@@ -1,85 +1,4695 @@
 {
-  "generatedAt": "2026-05-01T06:49:06.924Z",
+  "generatedAt": "2026-05-01T09:59:21.372Z",
   "files": [
     {
-      "path": "hadith/collections.json",
-      "bytes": 192,
-      "sha256": "e9142f4dbdd1459b37e74d780ae774237b953ec50931fd4822884b03e4459f89"
+      "path": "hadith/01/items.json",
+      "bytes": 276681,
+      "sha256": "9270608dd4d707a9f3d4de8d7a4e47fa4937a17ebbde145193484c2ac735468b"
     },
     {
-      "path": "hadith/demo-nawawi/items.json",
-      "bytes": 1161,
-      "sha256": "432261cdb28bd6e94414a34269d0d057cd917e76d42e2d6df73013579682713b"
+      "path": "hadith/02/items.json",
+      "bytes": 545602,
+      "sha256": "15aef8a5fd7b036d12b4d8319d226b44d20aea0ae0cf9b2e9e52e129e55c7f29"
+    },
+    {
+      "path": "hadith/03/items.json",
+      "bytes": 65915,
+      "sha256": "6c1d2e77c683467a3c768693c1738933ec08457cbd41f247d111a0789b5956ab"
+    },
+    {
+      "path": "hadith/04/items.json",
+      "bytes": 71580,
+      "sha256": "78a1f48ab6bbe8fb0ba8b49736895f0be6f413c9ed82d76abb9701cadba057a3"
+    },
+    {
+      "path": "hadith/05/items.json",
+      "bytes": 22066,
+      "sha256": "0aabb1eaffe8495bec833d716465e5556dcea3166568b8ffaa1dcfac26017009"
+    },
+    {
+      "path": "hadith/06/items.json",
+      "bytes": 114503,
+      "sha256": "3bca5f53d5f9b74393f7882a06bf813cd6a342adf5eb0d16d908c0e71e682516"
+    },
+    {
+      "path": "hadith/07/items.json",
+      "bytes": 115732,
+      "sha256": "1a7fee37a9b97dc28fd5b58779fd686f08f77c7d41136e138491a8cc8b11e17a"
+    },
+    {
+      "path": "hadith/08/items.json",
+      "bytes": 206090,
+      "sha256": "03ceb3bd65857c0e228552e4b29a08660a95038d25258ac6921292e026b7c83c"
+    },
+    {
+      "path": "hadith/09/items.json",
+      "bytes": 243645,
+      "sha256": "09fd60f9dfa2fb14338683e5b7971653d652fda3a2eb4180d61bc981ffc0517a"
+    },
+    {
+      "path": "hadith/10/items.json",
+      "bytes": 185373,
+      "sha256": "093cd6d12c848c351066d2597f435c8339f8e84ecc7fd0356fba46efa7ee300a"
+    },
+    {
+      "path": "hadith/11/items.json",
+      "bytes": 128004,
+      "sha256": "366d9a098eea7addfaf91b2b1e0e3d5ec518f2c9c77c24aaeccaa30bc82997e5"
+    },
+    {
+      "path": "hadith/12/items.json",
+      "bytes": 51243,
+      "sha256": "d840ff10ee5f58902de658040c7a1ac5b7a40394ac14232d0bc94434d3b9b02a"
+    },
+    {
+      "path": "hadith/13/items.json",
+      "bytes": 66613,
+      "sha256": "dd2c118af98cdfdf4b5abf7ff5da4d5ea691d649c719c5df68eec2aa10f30aa3"
+    },
+    {
+      "path": "hadith/14/items.json",
+      "bytes": 196979,
+      "sha256": "ff458b36106ff555b34ff63cedf5a26cbd6345b0595ce4af823fafb527c724be"
+    },
+    {
+      "path": "hadith/15/items.json",
+      "bytes": 114687,
+      "sha256": "d89b6e2f31dd471126addedb1a899fb47829339f074e4ff6852825521e2de975"
+    },
+    {
+      "path": "hadith/16/items.json",
+      "bytes": 60869,
+      "sha256": "eea24d33c9dbacfe8b292ae7045c0cac22e9bd8c22fdde9a68457c3e723714e0"
+    },
+    {
+      "path": "hadith/17/items.json",
+      "bytes": 89081,
+      "sha256": "8a6a3c7644e5f70277fb8b79eb587e46dd6ce94fa1cfd1928ecb3534eb384a90"
+    },
+    {
+      "path": "hadith/18/items.json",
+      "bytes": 48033,
+      "sha256": "d1e8bb56cf177fe9066ec8a97ab914deedbc8c48dc1657fd140e8ffa6d1002f1"
+    },
+    {
+      "path": "hadith/19/items.json",
+      "bytes": 50482,
+      "sha256": "b4b8b55a076c865ce9eb4eb3f7696a27069def7b866e7157bfe96e37912a463e"
+    },
+    {
+      "path": "hadith/1/items.json",
+      "bytes": 135634,
+      "sha256": "821157520289b0bb34b08d54827ef2d6af10f368fb7f7811fd1c4febc6c9414a"
+    },
+    {
+      "path": "hadith/20/items.json",
+      "bytes": 40976,
+      "sha256": "bbb1762e3f64f9ec54bd70de0820d285b3d1d778262aca60becb50072c4bffe8"
+    },
+    {
+      "path": "hadith/21/items.json",
+      "bytes": 123306,
+      "sha256": "c4c64c3e3325151a7565d22bd58fde240b5000175894f9eae35f4b99bac4008d"
+    },
+    {
+      "path": "hadith/22/items.json",
+      "bytes": 73390,
+      "sha256": "58f1472b610fcec55ccb438a797f4b57c069fac28f7ce524c353ae6e36cb96d4"
+    },
+    {
+      "path": "hadith/23/items.json",
+      "bytes": 70521,
+      "sha256": "129074ad6422e71392c63fe1b2def8a2ecf77d1a75ef24ff95b29478da55cd85"
+    },
+    {
+      "path": "hadith/24/items.json",
+      "bytes": 89113,
+      "sha256": "041da0a8f643e46c2a75ab3e85601baa38b2093c695368b4c3129123a4e9be47"
+    },
+    {
+      "path": "hadith/25/items.json",
+      "bytes": 103918,
+      "sha256": "e203ed0dc18f64ba7940cafb05dbba1ac0409fd1c0cd04d23bfae2b6e6fc3bb9"
+    },
+    {
+      "path": "hadith/26/items.json",
+      "bytes": 45224,
+      "sha256": "9dae9629364299490420b56f1f5e524a8a9c3cd45662b713de08f6a19b65df50"
+    },
+    {
+      "path": "hadith/27/items.json",
+      "bytes": 187366,
+      "sha256": "0b5da6e56543833595bf61a01ce44dbf5f8a7e6a3955733c818532435dcf25d7"
+    },
+    {
+      "path": "hadith/28/items.json",
+      "bytes": 78398,
+      "sha256": "0add9e71819a019c570b6465eb19208d204f2bf8732a06f6e6e77ba27f6872c5"
+    },
+    {
+      "path": "hadith/29/items.json",
+      "bytes": 40188,
+      "sha256": "21d0540a775179556b23ac39362d5e200961e7a61a9809720f32c64b7b0b000a"
+    },
+    {
+      "path": "hadith/2/items.json",
+      "bytes": 440255,
+      "sha256": "bf2fd6f21a3c4a2d80b21787ada3b3ad211fe901f4e9ff434fbcfddc22566b17"
+    },
+    {
+      "path": "hadith/30/items.json",
+      "bytes": 17817,
+      "sha256": "8caf42b7c2716ff510d4438cdddfcedef191ede79551284af3911a5ed9535d3b"
+    },
+    {
+      "path": "hadith/31/items.json",
+      "bytes": 14195,
+      "sha256": "5055e75cd61cf06e1b8e40b148c556252d292c15d4e028fc96a5bfdf1734627d"
+    },
+    {
+      "path": "hadith/32/items.json",
+      "bytes": 44680,
+      "sha256": "c5f144893ecbaa7d550e2183ddfea453edc9fab521e9767cea9e556de5809ec9"
+    },
+    {
+      "path": "hadith/33/items.json",
+      "bytes": 189468,
+      "sha256": "597e240a66c9337b01bb1264dad83e75d3f744871eea1c8b6bf199f2696c277e"
+    },
+    {
+      "path": "hadith/34/items.json",
+      "bytes": 35037,
+      "sha256": "8a7f2b4dab68422d61d91bfe74a77f26f805c91392ac8ad0589bd1979b36b004"
+    },
+    {
+      "path": "hadith/35/items.json",
+      "bytes": 16498,
+      "sha256": "41629c7fea5b6743216757be1d3d3afeb458af8562b63729eb2838cbf108c7e4"
+    },
+    {
+      "path": "hadith/35b/items.json",
+      "bytes": 99402,
+      "sha256": "81c8cb8f435d66a31564ea3f07fe4e10a3716d716c726f3defd2c92cbe51cfd0"
+    },
+    {
+      "path": "hadith/36/items.json",
+      "bytes": 164456,
+      "sha256": "ae476c07cbeb2185b50b116b81a2b091216ddbd0c57339b992e00e7be719c888"
+    },
+    {
+      "path": "hadith/37/items.json",
+      "bytes": 174185,
+      "sha256": "5918828829e806a3958ba11ed2bc15977828054f6702f556ceb825ad72a1aa72"
+    },
+    {
+      "path": "hadith/38/items.json",
+      "bytes": 89131,
+      "sha256": "867864db2a0fc25274e85358c20f07eb117742453edd0d4c840f22460a3248c8"
+    },
+    {
+      "path": "hadith/39/items.json",
+      "bytes": 49898,
+      "sha256": "f455f7e3acbb7f3c18b89b09b3099bcde38b613784d017ebaad28de1eea6aad6"
+    },
+    {
+      "path": "hadith/3/items.json",
+      "bytes": 20425,
+      "sha256": "c4b82125dac04f9cff152eafb461201b8c0448d0d9eae6d6f1446b22e26e7d1d"
+    },
+    {
+      "path": "hadith/40/items.json",
+      "bytes": 70876,
+      "sha256": "69c1d07df21de2fa79cb4db6b85e093bc4bb0cc119220345017b3a7a2c7f7ac3"
+    },
+    {
+      "path": "hadith/41/items.json",
+      "bytes": 68680,
+      "sha256": "d40fa0cecd7b294c660a9bc909789cf46f2bc125e5d0370bb3b6de8aff3835a6"
+    },
+    {
+      "path": "hadith/42/items.json",
+      "bytes": 70714,
+      "sha256": "34e857868511ca651a88a0c8c1b5d0a8c4b9c0990f07be63fc5767b0e88a5bf4"
+    },
+    {
+      "path": "hadith/43/items.json",
+      "bytes": 164364,
+      "sha256": "9cbe14814faed6117b8c3a01c7bc7e43a895787c44e51b268456568b19bfe725"
+    },
+    {
+      "path": "hadith/44/items.json",
+      "bytes": 31910,
+      "sha256": "4a76ad772f413a51e87fab0544af47ee912ea779984d050c2be65aa34a5942bd"
+    },
+    {
+      "path": "hadith/45/items.json",
+      "bytes": 88440,
+      "sha256": "8de78688377379674e20be199b76b8eafde2f75a678c6a1bb994cf037c2b44b8"
+    },
+    {
+      "path": "hadith/46/items.json",
+      "bytes": 38902,
+      "sha256": "4eb43911423e31780be3cc50e9911b14d88960ea4316454f793a5b830543da6b"
+    },
+    {
+      "path": "hadith/47/items.json",
+      "bytes": 827907,
+      "sha256": "09199783ff174e9a69f4eeda5ff8bd22ea94eb61a38b38f76007233c48887282"
+    },
+    {
+      "path": "hadith/48/items.json",
+      "bytes": 392514,
+      "sha256": "5abbcf49f5e55329a9bf99d97701cac16cca8a6d4e4496a4bd539bbba63eb6cb"
+    },
+    {
+      "path": "hadith/49/items.json",
+      "bytes": 504188,
+      "sha256": "f5032e23799c14292b2bf709b6268e6979e14f5764cef645e5f0f20caf5d8f77"
+    },
+    {
+      "path": "hadith/4/items.json",
+      "bytes": 207389,
+      "sha256": "c8f82c5f53de336265f00739c7ee81eabd89be27d19c1469f2135c1db677bde1"
+    },
+    {
+      "path": "hadith/50/items.json",
+      "bytes": 120491,
+      "sha256": "fe89aa8d1e39a7fa30161e8e6920daf64c68d1ac41eda921dd90a89cc6ee4efa"
+    },
+    {
+      "path": "hadith/51/items.json",
+      "bytes": 199928,
+      "sha256": "ff7c81e3df08970880e8609a3ec51f5a3d476357d8f9a71d62f0b575e181c92d"
+    },
+    {
+      "path": "hadith/52/items.json",
+      "bytes": 98372,
+      "sha256": "5aedc0677a2ebf87c7f1556d24696d924f77afcb8e97bec27b7a8ec19b433be3"
+    },
+    {
+      "path": "hadith/53/items.json",
+      "bytes": 126524,
+      "sha256": "e224af6482e1c783d7933374d0463c4c20b85a4604d59761b4d0419022e4518a"
+    },
+    {
+      "path": "hadith/54/items.json",
+      "bytes": 245109,
+      "sha256": "b5dbaeffe4d8ed3f431309c2a19f775b5c0d15dc0c3ddf91c9b89a3797eb77e9"
+    },
+    {
+      "path": "hadith/55/items.json",
+      "bytes": 146839,
+      "sha256": "4741fdb1c069f5356c78cc8ce426aeda1d4aadcde80bcfae3537510b333f10e0"
+    },
+    {
+      "path": "hadith/56/items.json",
+      "bytes": 47930,
+      "sha256": "814a334a9af082843b826158ebb03970bf2897a9af8133527e165c5650212d1f"
+    },
+    {
+      "path": "hadith/57/items.json",
+      "bytes": 1535,
+      "sha256": "ffd9a4a05ddfc86a70ae346e4ebd44cb01532c36e1a89186a990c81fcdf2beee"
+    },
+    {
+      "path": "hadith/58/items.json",
+      "bytes": 17590,
+      "sha256": "f20d68e817b35b3f9342dadf735af3979e981f1fb171a98b5e300580feed2efb"
+    },
+    {
+      "path": "hadith/59/items.json",
+      "bytes": 798,
+      "sha256": "b4bbc5eed0cce0cf1252c071f509a336856245c3a32be80d528f4cc5ff2c4802"
+    },
+    {
+      "path": "hadith/5/items.json",
+      "bytes": 962333,
+      "sha256": "b048212d793bfa772555af03fa72d243f39ab14a2ec7b4fb61a1dda658c9ecca"
+    },
+    {
+      "path": "hadith/60/items.json",
+      "bytes": 2208,
+      "sha256": "b1c756131d5e6887ca83bfad11344b115911368dec536c2ba990a2676adfe7c8"
+    },
+    {
+      "path": "hadith/61/items.json",
+      "bytes": 834,
+      "sha256": "dfa8d7540dafdbc7aa7bd2fe119b2b48fa6c054dcfefc2dfcb21a265d843d392"
+    },
+    {
+      "path": "hadith/62/items.json",
+      "bytes": 177093,
+      "sha256": "e278e6e9a3028b4f53f554c14ba03b0718d5413434b7414185176a8f0c88524e"
+    },
+    {
+      "path": "hadith/63/items.json",
+      "bytes": 265131,
+      "sha256": "2f400539f0d201696adbf8886f7f8a2bb9fddce88800393511c844f86ed68eb4"
+    },
+    {
+      "path": "hadith/64/items.json",
+      "bytes": 772797,
+      "sha256": "c22e58babe89e810bed04b8673efdbb66e5387387f43a4c678ff6333a5539e11"
+    },
+    {
+      "path": "hadith/65/items.json",
+      "bytes": 767132,
+      "sha256": "3c73e031ff74cbd1b59e5abbfd1f8f707a78820c728068040ed5dd06bf9efc0c"
+    },
+    {
+      "path": "hadith/66/items.json",
+      "bytes": 107760,
+      "sha256": "5e7ce9cff13a979fda5d38aece524777d5a0cdcec63206cf647d4a19d7356535"
+    },
+    {
+      "path": "hadith/67/items.json",
+      "bytes": 240194,
+      "sha256": "c59716a49c4efdb5d473eb0618d82047eeea6d614d72d3999d2643d1cbbfc5d7"
+    },
+    {
+      "path": "hadith/68/items.json",
+      "bytes": 119654,
+      "sha256": "beebb84d41a30079e3e5ecb2379fd5f3082623f9da6010d0143e2fad71ca5462"
+    },
+    {
+      "path": "hadith/69/items.json",
+      "bytes": 32342,
+      "sha256": "1fcafc644b1e247678f8bf55b845a3429d490a7f4128ede88cf4e408eacc8386"
+    },
+    {
+      "path": "hadith/6/items.json",
+      "bytes": 35095,
+      "sha256": "1e36289d6557651c38cdd1135367c52a19efcc83a4aa505a4865580df44dc86c"
+    },
+    {
+      "path": "hadith/70/items.json",
+      "bytes": 109493,
+      "sha256": "74d9d220176a7be68814709af1c68145b48c61e446a1e0220103c415368235a2"
+    },
+    {
+      "path": "hadith/71/items.json",
+      "bytes": 10302,
+      "sha256": "a7490a2a608952fc89a87baeba731a5433f7df407c37887cb0cec5d5ec16affd"
+    },
+    {
+      "path": "hadith/72/items.json",
+      "bytes": 79449,
+      "sha256": "15fac34c79599c664203b57487f310af5bd069836448aa6f35c93608fcf529dc"
+    },
+    {
+      "path": "hadith/73/items.json",
+      "bytes": 34107,
+      "sha256": "819f3dcde034fe093a906d358659352477eebf3e3e25251ff46314d60aba66e9"
+    },
+    {
+      "path": "hadith/74/items.json",
+      "bytes": 68923,
+      "sha256": "56ffc8a34ddd7ace696c2b15515ef5ee3ad465e863fdd2d51ed0507f785beff8"
+    },
+    {
+      "path": "hadith/75/items.json",
+      "bytes": 49554,
+      "sha256": "f000850a5beb0a08118f0942bbd3748f871089e79ab56d88e416e25e6a75f50b"
+    },
+    {
+      "path": "hadith/76/items.json",
+      "bytes": 119094,
+      "sha256": "970632da81c0eb482ae4525e011841112412e20099375d94824ea6e7a71d907a"
+    },
+    {
+      "path": "hadith/77/items.json",
+      "bytes": 198630,
+      "sha256": "d82352242a413da1daa5f7427d30b7ce9c9411ee2e42e55e43efc5b8f3559df5"
+    },
+    {
+      "path": "hadith/78/items.json",
+      "bytes": 306349,
+      "sha256": "f4f6b9c4b060393bea049dfa39fbb84ac0929291704d6d81146ce60314f19817"
+    },
+    {
+      "path": "hadith/79/items.json",
+      "bytes": 98060,
+      "sha256": "a0e06bb04aea817638d16432b986e5daa7d694500e390cdd8d2d7f73d52923e7"
+    },
+    {
+      "path": "hadith/7/items.json",
+      "bytes": 41228,
+      "sha256": "c4dc95c41a58ab5b7f28469ae9f80566a0d3a144306e2b0b466d483d03d96b5c"
+    },
+    {
+      "path": "hadith/80/items.json",
+      "bytes": 134652,
+      "sha256": "0c466ec9b45d58888ffee6322183ec661e88a6092b232b1a9d0020163f8a2126"
+    },
+    {
+      "path": "hadith/81/items.json",
+      "bytes": 222941,
+      "sha256": "747110b799807fe658917849a9285c68a00bf138df508a28e27f555b8eee4611"
+    },
+    {
+      "path": "hadith/82/items.json",
+      "bytes": 32560,
+      "sha256": "9c968128961ad6673cf7c4b18962218f904df9a6cc98482d0462ac157df6a17d"
+    },
+    {
+      "path": "hadith/83/items.json",
+      "bytes": 102389,
+      "sha256": "c9230dc1fba43c21b0e058a3677a174fb65043e216bcb689d5066750137d5d7b"
+    },
+    {
+      "path": "hadith/84/items.json",
+      "bytes": 22934,
+      "sha256": "c9cb0d3d80cb093a402bdde0b573ae5628db4f33487139fbf8b5459da67994ff"
+    },
+    {
+      "path": "hadith/85/items.json",
+      "bytes": 52138,
+      "sha256": "9274497c86c216c438da33b802dd349b7859c37a11339f06096dbe5be1fa661b"
+    },
+    {
+      "path": "hadith/86/items.json",
+      "bytes": 111640,
+      "sha256": "f9b81c994df23849aa4e16d9069291fac0565dfb3acd621c2295a138523b1172"
+    },
+    {
+      "path": "hadith/87/items.json",
+      "bytes": 69596,
+      "sha256": "9468edb095cb246731faf2d8a223302f9c99b9bd390de3a8f36f5d0d7ba1d207"
+    },
+    {
+      "path": "hadith/88/items.json",
+      "bytes": 34028,
+      "sha256": "bd858d7a3f19ed40eb6e796cbd871884e5fe4c86d50577a74618dd5462bb263c"
+    },
+    {
+      "path": "hadith/89/items.json",
+      "bytes": 15577,
+      "sha256": "1512c08fefcf76ecb32f9b70fb74e97cbee99693a34e0b9d7e6aba1bb316f0a4"
+    },
+    {
+      "path": "hadith/8/items.json",
+      "bytes": 14220,
+      "sha256": "32a8eee804d08851c5163d0806b443f51f06f87942bba45e84a6a5cf45c06805"
+    },
+    {
+      "path": "hadith/8b/items.json",
+      "bytes": 1900,
+      "sha256": "725c3981e6b710a9ba6f4048f6c792b27d3a38fcc7c5e390f198265a96423683"
+    },
+    {
+      "path": "hadith/90/items.json",
+      "bytes": 38970,
+      "sha256": "eabd19df023d60f56c1f454f803fadfa26551ad142ba6e69faa45be019773242"
+    },
+    {
+      "path": "hadith/91/items.json",
+      "bytes": 95161,
+      "sha256": "89417a8489d87cb853030750fc471303dd8b1a6943e4b9ec4d961b9a515b5975"
+    },
+    {
+      "path": "hadith/92/items.json",
+      "bytes": 100205,
+      "sha256": "c1d1c6d93883112cef2bd5b01bda6f5da3da7bd55c9be05b1acc318f06f1b96f"
+    },
+    {
+      "path": "hadith/93/items.json",
+      "bytes": 115355,
+      "sha256": "1e14bfaab32724e0bd8ef23443218f5a94c4a89879ebd322553a19b3db41547b"
+    },
+    {
+      "path": "hadith/94/items.json",
+      "bytes": 24449,
+      "sha256": "9c89533696631ff522391cc69ce862effdb7151cada6faed3ed187f6e4a91acc"
+    },
+    {
+      "path": "hadith/95/items.json",
+      "bytes": 26795,
+      "sha256": "2acbdb4239857532956235ebd7a72c34bc4c2f24c74a5690f03f1288c054b574"
+    },
+    {
+      "path": "hadith/96/items.json",
+      "bytes": 135239,
+      "sha256": "b6ab22530cb8809c98a4c8c3fa8e35326256d3cb0976aeb5c06bc2ca50168ec1"
+    },
+    {
+      "path": "hadith/97/items.json",
+      "bytes": 280215,
+      "sha256": "423361f79bf364b63cf9b6fadeaa850242d2a53dc0646b86b0c8f8416365aa03"
+    },
+    {
+      "path": "hadith/9/items.json",
+      "bytes": 2043,
+      "sha256": "c2a46d759eb03da86bd98dd948b220842c7a551018ce71e6ef95a29e3e7a6729"
+    },
+    {
+      "path": "hadith/abudawud/items.json",
+      "bytes": 6508714,
+      "sha256": "930906bc6d1f7bbbcc43688336a479188b1e5931bfcc80b34dc71ae553a7764f"
+    },
+    {
+      "path": "hadith/ahmed/items.json",
+      "bytes": 1906174,
+      "sha256": "3113a3379a55c140b6c5b0ae7303d75d0143d0591e1e49c8f1c5e5ed07e2f944"
+    },
+    {
+      "path": "hadith/aladab-almufrad/items.json",
+      "bytes": 1516701,
+      "sha256": "7d21cb919fb80518ce2a51d8be24b3855c15be52549680c63ffb90d229e5580f"
+    },
+    {
+      "path": "hadith/all/items.json",
+      "bytes": 12562,
+      "sha256": "09001d345eadc461995b7635058bfabd6379bd9a1e0bb8d96b1a92b372cc054e"
+    },
+    {
+      "path": "hadith/ara-nawawi40/items.json",
+      "bytes": 53421,
+      "sha256": "69e670bd80a260a9b8584217dabeb85aef7f192b106862d28528c87eaeb693b2"
+    },
+    {
+      "path": "hadith/ara-qudsi40/items.json",
+      "bytes": 60988,
+      "sha256": "5b9b9e5a17b5a3264bc106f5ccf586114e3a48bc9f440c89d14a745b5db6f3c7"
+    },
+    {
+      "path": "hadith/ara-shahwaliullah40/items.json",
+      "bytes": 17242,
+      "sha256": "de914263e9575932fc82186c08e4993f0d1b30893e1e4e28d0e9c4198b58859a"
+    },
+    {
+      "path": "hadith/bukhari/items.json",
+      "bytes": 9933225,
+      "sha256": "40267ba6b7df5a178dcd60f5eafd27c799799f7cd300a6afbb7afcd03a70ace9"
+    },
+    {
+      "path": "hadith/bulugh-almaram/items.json",
+      "bytes": 1893642,
+      "sha256": "a0f04daf29a91885acbe2a4e874ab3d173b88170adca3fd11b662c2e36f6a72f"
+    },
+    {
+      "path": "hadith/collections.json",
+      "bytes": 108238,
+      "sha256": "221569f1116bd1eb833b9032cfefdc481229578208d8251be80a9206345a21cd"
+    },
+    {
+      "path": "hadith/darimi/items.json",
+      "bytes": 3522858,
+      "sha256": "75a2c91a59e82ba0326ea28ee8f6ef80c26ab5b4f54f9385cce4f15f0626aa64"
+    },
+    {
+      "path": "hadith/eng-nawawi40/items.json",
+      "bytes": 84959,
+      "sha256": "eaf3d4b9f9ca9b7593603f7a81f8a3229259b09c17fe72fd48136cac075ea445"
+    },
+    {
+      "path": "hadith/eng-qudsi40/items.json",
+      "bytes": 96077,
+      "sha256": "c0a0263c0f427e5b5269a9e64eafa401a16920e937fa79e16e5c498c6e87d1fe"
+    },
+    {
+      "path": "hadith/eng-shahwaliullah40/items.json",
+      "bytes": 20502,
+      "sha256": "e4bbe7c5add1d63addce87a9da47d00deedf271835ec526ae00a1676229ed588"
+    },
+    {
+      "path": "hadith/ibnmajah/items.json",
+      "bytes": 4900441,
+      "sha256": "c3fce1426bdc1f4353fafc10af04d2dd7127e0d32997d95bcf6afe1e56ebfd88"
+    },
+    {
+      "path": "hadith/introduction/items.json",
+      "bytes": 90312,
+      "sha256": "35ab71ebf54db420756b76fd15f382b7b0edc39467861ff45b973fdabed12cbd"
+    },
+    {
+      "path": "hadith/malik/items.json",
+      "bytes": 2266250,
+      "sha256": "cf29c95af85e08b4b548a64870b47a9b0eb21dcd2d6094eaa793a06088434361"
+    },
+    {
+      "path": "hadith/mishkat-almasabih/items.json",
+      "bytes": 4248789,
+      "sha256": "832767189525be17f2520523cf995ad1d40de6befc95023dd5079094621ccf7f"
+    },
+    {
+      "path": "hadith/muslim/items.json",
+      "bytes": 9349439,
+      "sha256": "e4ebd2bc28dacde45076ba540b5d310c55fa37a3ff2e611776dfe38d20f45ec9"
+    },
+    {
+      "path": "hadith/nasai/items.json",
+      "bytes": 6639576,
+      "sha256": "a02bbe19b104506abc6702c2f6a548e57e7efa6792cb825028ef3a85df61ce91"
+    },
+    {
+      "path": "hadith/nawawi40/items.json",
+      "bytes": 50943,
+      "sha256": "4d56c83ef945098ff8c7ec9d35ff198b3b1da543a9dd365ff8305ac64f776938"
+    },
+    {
+      "path": "hadith/qudsi40/items.json",
+      "bytes": 58708,
+      "sha256": "484b6a0cf8c43cb87455ba9dcd7e12bbf33962fd4c9faa7fde11a0f53a6741d2"
+    },
+    {
+      "path": "hadith/riyad-assalihin/items.json",
+      "bytes": 1638779,
+      "sha256": "1e6a72ac53bea313200ba49e9b44fc20465a97f48881fffab3682c49fc0576f2"
+    },
+    {
+      "path": "hadith/shahwaliullah40/items.json",
+      "bytes": 13842,
+      "sha256": "d058571f20bfebd338f00d42378fb323089a88a041a5057c527da0b797f9707a"
+    },
+    {
+      "path": "hadith/shamail-muhammadiyah/items.json",
+      "bytes": 460271,
+      "sha256": "a9b5eff3d35a5be2ded24462941d4c97899982aead22eee2aba8086c1303667a"
+    },
+    {
+      "path": "hadith/tirmidhi/items.json",
+      "bytes": 6693324,
+      "sha256": "d7a53c2702f1bce6f052627ea4487d3929d3cd1b35c46db27319248634bcfd72"
     },
     {
       "path": "manifest/noor-content-manifest.json",
-      "bytes": 1525,
-      "sha256": "13b1c5ac587e8d2406adeb0f91227603b7d855df3b778dc6ae664e5859df5fac"
+      "bytes": 1481,
+      "sha256": "53b28f31eb8a9e21d29096072092a51c8d7f82b673d3631d50e41faa129a9256"
     },
     {
       "path": "manifest/noor-source-registry.json",
-      "bytes": 1285,
-      "sha256": "ceda157ee8327b24ee5a5a152215568d6bad7433d49ddd19e4c5623e77eab9a1"
+      "bytes": 788,
+      "sha256": "bdb64db518f95d7912492091631ddf4371cce6d99c770718d1e2674d696acc05"
     },
     {
       "path": "manifest/search-index-manifest.json",
-      "bytes": 355,
-      "sha256": "75c86b9ebf262ec52de24907a00716b400594fb130f931d043354098d976d893"
+      "bytes": 498,
+      "sha256": "264c1eb0e5159966e4021a6b7ec66a22af0c93f9b56efe81116a268ccb6bcd90"
     },
     {
       "path": "metadata/surah-index.json",
-      "bytes": 818,
-      "sha256": "6436844c289a133f89bf4f23104af7804b920f12dab6eac371b4771bcdaf17cd"
+      "bytes": 23739,
+      "sha256": "180e64882c63096e758a4613b540d4c8f1c09bddefe26064a37dd7946bd61f25"
+    },
+    {
+      "path": "quran/meta/juz_info.json",
+      "bytes": 8914,
+      "sha256": "773cc8473948367601da5e51124c11418ebb9105b2040c050dc5fa5003a6e353"
     },
     {
       "path": "quran/surahs/001.json",
-      "bytes": 2612,
-      "sha256": "a3722019e6dec75e81e0d5b6cd5782530f164ed5c66ecb3e69815ba50245c98e"
+      "bytes": 3910,
+      "sha256": "3101f485cfd7ced51393b88737cb0f9c3b49f117630e34880da5bd429743b1a6"
+    },
+    {
+      "path": "quran/surahs/002.json",
+      "bytes": 497064,
+      "sha256": "9b91ea26b4df05403c076d2d73a2f39377a79fe133f166cb13bbd08dc9e59195"
+    },
+    {
+      "path": "quran/surahs/003.json",
+      "bytes": 292797,
+      "sha256": "ab16cb0c6cd255149ece2d8babc037a52ef51e57e0028b5d4ccc6655bf2528ae"
+    },
+    {
+      "path": "quran/surahs/004.json",
+      "bytes": 305963,
+      "sha256": "b88683804d1dc89463c023b12b78219322a881f627de10abc698bb8944324c58"
+    },
+    {
+      "path": "quran/surahs/005.json",
+      "bytes": 225592,
+      "sha256": "a0d503e4f42166bbdb4a6310189da7ed05eb63dc8c08750d3c0fa0247843b51d"
+    },
+    {
+      "path": "quran/surahs/006.json",
+      "bytes": 251856,
+      "sha256": "950b5277ba524fb8f7a5b0a477dd8cb647d66fdcceb0f321d63e54a3ae593712"
+    },
+    {
+      "path": "quran/surahs/007.json",
+      "bytes": 281828,
+      "sha256": "32719bf5b016839d0bfb40712f18f8970c7ff157c6a9c1ee9551c40810de5477"
+    },
+    {
+      "path": "quran/surahs/008.json",
+      "bytes": 105409,
+      "sha256": "baa4854cdf2cc470e78a8551d95e05cdad8d964f2aed16d2e0adb063c2dbb1ed"
+    },
+    {
+      "path": "quran/surahs/009.json",
+      "bytes": 208064,
+      "sha256": "c24ab6c34a027c8eefdc2ce5c8d909b2e0025b77086857a894168c6c56afb9a7"
+    },
+    {
+      "path": "quran/surahs/010.json",
+      "bytes": 153088,
+      "sha256": "0cc0e34ef7b6077dbb2960f2698ddbe99e0dc8c10c7725f7fca4ba8af7b0f2f1"
+    },
+    {
+      "path": "quran/surahs/011.json",
+      "bytes": 160710,
+      "sha256": "fe9e24ee9451681ae5f87d124cbee1ee95ca35cb056eccf9abb47132a454cfc8"
+    },
+    {
+      "path": "quran/surahs/012.json",
+      "bytes": 148722,
+      "sha256": "95ea01aac017d266f6cf91b6e8e82a408e35ad7671bfa8838242d611396205d6"
+    },
+    {
+      "path": "quran/surahs/013.json",
+      "bytes": 70264,
+      "sha256": "180bd2be2e54fd760bbb2861f5f4a3b3acaf7ece6b118957e3c2711d8c59b121"
+    },
+    {
+      "path": "quran/surahs/014.json",
+      "bytes": 71007,
+      "sha256": "920f33413103eff6752da19d4f1d3378995b28766f5669e9a17cf8c25c4041be"
+    },
+    {
+      "path": "quran/surahs/015.json",
+      "bytes": 70309,
+      "sha256": "57365f04503d57c12a5d449717e70a88f1da236d71fc8106d3e1585b9742610a"
+    },
+    {
+      "path": "quran/surahs/016.json",
+      "bytes": 158550,
+      "sha256": "db9bac47e28333b1fafb17c1e6c26911ce77bd2e4f25c8acfb866b05bdfe0017"
+    },
+    {
+      "path": "quran/surahs/017.json",
+      "bytes": 135206,
+      "sha256": "55065431c7b8741596673072b9f9f52515bffa8db7fb3adee19116d409a83006"
+    },
+    {
+      "path": "quran/surahs/018.json",
+      "bytes": 133506,
+      "sha256": "865ba6b4a95f4d6748a1798660751fa42a2bae328ab8dab9328e8efa3c7313aa"
+    },
+    {
+      "path": "quran/surahs/019.json",
+      "bytes": 88040,
+      "sha256": "b08b6e8d7f03556c595b1bc1aa350f8263df83473083b9d61fba948d4246519b"
+    },
+    {
+      "path": "quran/surahs/020.json",
+      "bytes": 121646,
+      "sha256": "b0016a541353d39405020bd04c80c493b2a1de919479b2ee13f7fc592a08fc66"
+    },
+    {
+      "path": "quran/surahs/021.json",
+      "bytes": 109651,
+      "sha256": "ecf2de7714fa9dbb6881ea3294f3537baa88d525e28a59627e5e588fe35af0ea"
+    },
+    {
+      "path": "quran/surahs/022.json",
+      "bytes": 105753,
+      "sha256": "2e7a0330afb4c61aee663993dcd56895e32251f1eca2523a7aa3c7ccbbc626c6"
+    },
+    {
+      "path": "quran/surahs/023.json",
+      "bytes": 99145,
+      "sha256": "d7aa798dbc51cb119c677304ebc677dfc2c41a47cfb11e5e9d20a019b814f921"
+    },
+    {
+      "path": "quran/surahs/024.json",
+      "bytes": 108384,
+      "sha256": "8388c691e37a9fea79860991e66304a5a445b09e13104390d740c3d8240cde4f"
+    },
+    {
+      "path": "quran/surahs/025.json",
+      "bytes": 81362,
+      "sha256": "cf418b54206fb4fcfe1a3c9130321bb9f16e527ef4acf2b2f83daf97a6794a80"
+    },
+    {
+      "path": "quran/surahs/026.json",
+      "bytes": 142493,
+      "sha256": "6a510d9a47002b13a1b02380a4703c808ad91a52f5519ce51d5e3c9772937d15"
+    },
+    {
+      "path": "quran/surahs/027.json",
+      "bytes": 100950,
+      "sha256": "da164eb93aae9b257c4f55bb63456d0944cfb7507e65936be87d62d85d1b4bb5"
+    },
+    {
+      "path": "quran/surahs/028.json",
+      "bytes": 118965,
+      "sha256": "8509d2a70c24dcba1f1985761d8fd0ad15d41f37a97b74eccb70087f66b6318b"
+    },
+    {
+      "path": "quran/surahs/029.json",
+      "bytes": 86411,
+      "sha256": "3fe6b545f88cd50e74fcec26cc2b8fb1538c2d621436dfcd2a4443610656a178"
+    },
+    {
+      "path": "quran/surahs/030.json",
+      "bytes": 72394,
+      "sha256": "98cd7ab656c658178d37ac022441f780e4408b97b822d58a5841a5b5718f7437"
+    },
+    {
+      "path": "quran/surahs/031.json",
+      "bytes": 44861,
+      "sha256": "2d76dd5573310ce6779191174c173a06b951dc48ffe06ec1ad1dbd7805526855"
+    },
+    {
+      "path": "quran/surahs/032.json",
+      "bytes": 33680,
+      "sha256": "a4ed6d696dbfb00e917ef950cf67dd22ba90a249ed41982f3990927adf7cadc9"
+    },
+    {
+      "path": "quran/surahs/033.json",
+      "bytes": 110208,
+      "sha256": "67c0e576fc13be03778054ca0ddf811a25cf47aa1931f07b4092cbdfe1d72ee5"
+    },
+    {
+      "path": "quran/surahs/034.json",
+      "bytes": 74103,
+      "sha256": "59187ff44ffb07e5a6aef7309323a6381c905536fbd89f06c23d99591fc79e0b"
+    },
+    {
+      "path": "quran/surahs/035.json",
+      "bytes": 65019,
+      "sha256": "792b70040e9e960870a95b51786152ab77dd85198da1d38b81707e2ca64341dc"
+    },
+    {
+      "path": "quran/surahs/036.json",
+      "bytes": 71304,
+      "sha256": "e58be4bd33ad68f02a12ee9ff7de72b4d6d68f90b8265f4ff696f9d87bf68107"
+    },
+    {
+      "path": "quran/surahs/037.json",
+      "bytes": 106730,
+      "sha256": "2926937ebd84ec590c424da2932a6c7621a817a26ab59f7e5c3b6f7a9afd7e59"
+    },
+    {
+      "path": "quran/surahs/038.json",
+      "bytes": 73544,
+      "sha256": "4a334ba28188dfe34737d64925d6615b68bbd8ae2f2f4ec165522b66f1aa617c"
+    },
+    {
+      "path": "quran/surahs/039.json",
+      "bytes": 100138,
+      "sha256": "f98f3cf0131b7ff1636599e00451a1977044b7394cbd88da88a9fb2308916f6d"
+    },
+    {
+      "path": "quran/surahs/040.json",
+      "bytes": 104824,
+      "sha256": "b4528c3753eb406341723ad815869deea8a11cd5cab04d0e9d775e35cdd67b3e"
+    },
+    {
+      "path": "quran/surahs/041.json",
+      "bytes": 70244,
+      "sha256": "4dc79250a354192330a19c14f8ec5bd2c56eebdac7392070c4c31e943610af1c"
+    },
+    {
+      "path": "quran/surahs/042.json",
+      "bytes": 73205,
+      "sha256": "08bc558a09a8eff43ea57ae4061a5bbf288bd5d65d56a91a14f3d686e1ec7e2d"
+    },
+    {
+      "path": "quran/surahs/043.json",
+      "bytes": 82975,
+      "sha256": "a83f4808dfe3a714274bc9bcad17385d60a553ed188f9eb10216331c4c6b21f9"
+    },
+    {
+      "path": "quran/surahs/044.json",
+      "bytes": 39196,
+      "sha256": "809f2c4444338eca2ef3aba8bfe3c1ff816e483d41f51d7e9d539ecedf356ad3"
+    },
+    {
+      "path": "quran/surahs/045.json",
+      "bytes": 43302,
+      "sha256": "d340fa31f3471ac53ce492cebe6aa3a9b1914d6b7261fd1edd77bc0f3e4594a1"
+    },
+    {
+      "path": "quran/surahs/046.json",
+      "bytes": 53964,
+      "sha256": "e6b4858f8b47d29d5c648c45f55d9644d5e6af61e0bc95ba50c6bd37e82d86b5"
+    },
+    {
+      "path": "quran/surahs/047.json",
+      "bytes": 50659,
+      "sha256": "1d26f47d27d5d979fa3da3613073ee4d3cbbc74364b50eed63262ff29915e960"
+    },
+    {
+      "path": "quran/surahs/048.json",
+      "bytes": 49884,
+      "sha256": "e04c55e2b85cee0e0a5cd8f1641a3ed25ff07591f326c0dc273f9731f06752e7"
+    },
+    {
+      "path": "quran/surahs/049.json",
+      "bytes": 29587,
+      "sha256": "cfdb42ec62bc93c615562dd14d515cf6a2151352d15daf15d367d55473b795bf"
+    },
+    {
+      "path": "quran/surahs/050.json",
+      "bytes": 37981,
+      "sha256": "2448383098452648c097fb010e9b9e0bf7b2c9a1f7ce268599b3eb70fe4eddc4"
+    },
+    {
+      "path": "quran/surahs/051.json",
+      "bytes": 40640,
+      "sha256": "0378d215e9d14c1166c8c247ca2aef1873366a1d30fcc0898abdc00848157cdb"
+    },
+    {
+      "path": "quran/surahs/052.json",
+      "bytes": 34565,
+      "sha256": "bb17d03a70a180af662db18776b9ee10402090255e449b84b94a82381a3048c6"
+    },
+    {
+      "path": "quran/surahs/053.json",
+      "bytes": 39224,
+      "sha256": "284fae9add046eea32e9a0891978bc0d00e1ab65c5c023fd1cc630b826f36ee6"
+    },
+    {
+      "path": "quran/surahs/054.json",
+      "bytes": 39066,
+      "sha256": "10319faf3ec0e8041949c70f2cba7bbaa160e98c73bd20ae992e1c743752d79a"
+    },
+    {
+      "path": "quran/surahs/055.json",
+      "bytes": 44783,
+      "sha256": "1adc34ad866f720aa45fca1c0cc1688245b9ae50aa2222f5565c42e2f8b45a67"
+    },
+    {
+      "path": "quran/surahs/056.json",
+      "bytes": 50107,
+      "sha256": "bac430417b3339bed610c10f10c8c9367ed779f0bf8f7aa035ae3f83c5ac2017"
+    },
+    {
+      "path": "quran/surahs/057.json",
+      "bytes": 49215,
+      "sha256": "cd3f64502e3e115ceab893838197b630a9f653299a9a81be4fb7bd16af769a52"
+    },
+    {
+      "path": "quran/surahs/058.json",
+      "bytes": 39073,
+      "sha256": "9f8466849f9f85de3b22efc804a920461d68db2d1ca2e355acba2941f7b15329"
+    },
+    {
+      "path": "quran/surahs/059.json",
+      "bytes": 38462,
+      "sha256": "54d8c48bc59d2f6811a18cf476cde10c43fe64ebd45216223c1b049ad3e05756"
+    },
+    {
+      "path": "quran/surahs/060.json",
+      "bytes": 29024,
+      "sha256": "3ab48dcd06b9c37f6408828212bf71edc1fcfaf73a26a393e3f53c8c5448893f"
+    },
+    {
+      "path": "quran/surahs/061.json",
+      "bytes": 18523,
+      "sha256": "6dc9a806bb7dd657cf86d1181bd11742f09879c8cc738b767f7765ed8fc559fb"
+    },
+    {
+      "path": "quran/surahs/062.json",
+      "bytes": 15705,
+      "sha256": "f30688a2b95cb93d0735d802ee86a1aad7dfcbd303a54da89fd3c85ca0f96954"
+    },
+    {
+      "path": "quran/surahs/063.json",
+      "bytes": 16651,
+      "sha256": "bb8cf5120f814fcfb5173e88f9871361067421a2c95499e9965d69c351c93306"
+    },
+    {
+      "path": "quran/surahs/064.json",
+      "bytes": 22432,
+      "sha256": "de0e75e96caa4d5b1870519ea1b0e204d5ad92a2a8638b7a6aa72a4126df494f"
+    },
+    {
+      "path": "quran/surahs/065.json",
+      "bytes": 23633,
+      "sha256": "18fe33bef98c4b3bbd89496325a33eeb1a4e89165af24b49662df7b72cb7634a"
+    },
+    {
+      "path": "quran/surahs/066.json",
+      "bytes": 21983,
+      "sha256": "cbaed030cd08882157a8a66d423a2894772d87e61f9c14ef65dcef5822ca7519"
+    },
+    {
+      "path": "quran/surahs/067.json",
+      "bytes": 30375,
+      "sha256": "5afde3ffdfa7d822e0e3a8ce404dc3824e7dee783799cc07f6ab86682df16d5d"
+    },
+    {
+      "path": "quran/surahs/068.json",
+      "bytes": 34573,
+      "sha256": "91b8f9c35f55c582903f3278daed8269137c3e75e4aca1fb60728dd4583b89f9"
+    },
+    {
+      "path": "quran/surahs/069.json",
+      "bytes": 31013,
+      "sha256": "36ae594c7cbd63a395dc18b5387b4d1b282599e7c5345b0ed13902000bdd90cd"
+    },
+    {
+      "path": "quran/surahs/070.json",
+      "bytes": 25955,
+      "sha256": "836991344780bd217412761b92e174d40ffd9013162aae6226c1a22d5b8bf7d7"
+    },
+    {
+      "path": "quran/surahs/071.json",
+      "bytes": 22549,
+      "sha256": "40b484ee32b64cac8ed1e291246920aa5db755556c4f260df7a751fc1bae2c79"
+    },
+    {
+      "path": "quran/surahs/072.json",
+      "bytes": 26825,
+      "sha256": "800c288e24029d92ae1d7296f3510993cc6a6c8e828aa3ecc42eed27061d1db6"
+    },
+    {
+      "path": "quran/surahs/073.json",
+      "bytes": 19412,
+      "sha256": "266b9d304c076086c668a303f6b89c63c59e996844c11c3746f167b9dfe67279"
+    },
+    {
+      "path": "quran/surahs/074.json",
+      "bytes": 30812,
+      "sha256": "485303b9b445cf7a665668a1c6a3eafd266d2b09c8fc074e4b12555143e5c140"
+    },
+    {
+      "path": "quran/surahs/075.json",
+      "bytes": 21242,
+      "sha256": "91ac5950034d399943e5c378be9c5c296cfcc3721cbefdc101982d9f430016b7"
+    },
+    {
+      "path": "quran/surahs/076.json",
+      "bytes": 25971,
+      "sha256": "5318d707d7a78abfccdae675b7e1538212e0f1accfeb24250758904dc5c70a85"
+    },
+    {
+      "path": "quran/surahs/077.json",
+      "bytes": 26199,
+      "sha256": "20395ea863d3a791e453f42bfd20f23a15364496d37d7f95bec376c48d422304"
+    },
+    {
+      "path": "quran/surahs/078.json",
+      "bytes": 22393,
+      "sha256": "5e6ad23ae5cbbb05e5f974b3907978e0faf95c2724f57b99b95ffef95b0fd9f1"
+    },
+    {
+      "path": "quran/surahs/079.json",
+      "bytes": 24396,
+      "sha256": "4e28e9b52cb6501b4efee5eea6f331afa1478f3b5e499d45c93b83f4c32ad535"
+    },
+    {
+      "path": "quran/surahs/080.json",
+      "bytes": 19330,
+      "sha256": "7ad7deee9dd9f2623d19e39b6ed8d3c24d7dbc780839caace69c285429981308"
+    },
+    {
+      "path": "quran/surahs/081.json",
+      "bytes": 13961,
+      "sha256": "0ba5e884712f1f105457701d8b71558b0efbd6d42e6ab79d9ca77c2755e4c4d8"
+    },
+    {
+      "path": "quran/surahs/082.json",
+      "bytes": 10251,
+      "sha256": "b2866bed93d5b781da00e9555feda0f73252a4fa93dfe5f7f18947bb0ff6971e"
+    },
+    {
+      "path": "quran/surahs/083.json",
+      "bytes": 20625,
+      "sha256": "9d30025d03ed6e3ed0c0dd5325fc1b816e29a16f138df44fedfc4b3f7e78f129"
+    },
+    {
+      "path": "quran/surahs/084.json",
+      "bytes": 13269,
+      "sha256": "ec7738aa3617cc91f9cc698c15ac7edfcf7844af7362848ed3204ddcf4a1bd3b"
+    },
+    {
+      "path": "quran/surahs/085.json",
+      "bytes": 12865,
+      "sha256": "4df48b2b6d39135ae319b6fce9e145092d904c5694c77dc24e6e7537c92eefd8"
+    },
+    {
+      "path": "quran/surahs/086.json",
+      "bytes": 8430,
+      "sha256": "2abb5519064f56ecece32cf5fbfd73abf9aec3c5bd5db31cece25299470a4db3"
+    },
+    {
+      "path": "quran/surahs/087.json",
+      "bytes": 10098,
+      "sha256": "ad11c5b0a4e2042e2d4b80e0432b46485a7019168b5c2ce937595d29ad6b5415"
+    },
+    {
+      "path": "quran/surahs/088.json",
+      "bytes": 12353,
+      "sha256": "7f9801bf7226b7dfd52934b5e55a345b6c936ba119a63ecbd2888b5835bcc12b"
+    },
+    {
+      "path": "quran/surahs/089.json",
+      "bytes": 17256,
+      "sha256": "96e6246b167637706574982308d68013f9496d7b50c04e7a64645a052d332e64"
+    },
+    {
+      "path": "quran/surahs/090.json",
+      "bytes": 10861,
+      "sha256": "4f48792941c5d14a91b89736cd7600206634b67abb21ef15eb286626dd13851e"
+    },
+    {
+      "path": "quran/surahs/091.json",
+      "bytes": 8294,
+      "sha256": "27f19be1bbecf534760d257b923a6ebb51dfd8666da163202dbae0695cdd3717"
+    },
+    {
+      "path": "quran/surahs/092.json",
+      "bytes": 10585,
+      "sha256": "02b8cba75ec89254585c5f24b7ef4c1a79acd6c3cf3d67f641efc4a9cb15006b"
+    },
+    {
+      "path": "quran/surahs/093.json",
+      "bytes": 5695,
+      "sha256": "6a0933344f927d3d6a6400585169357bcc6c6043b4a7a5abdf24587371007c31"
+    },
+    {
+      "path": "quran/surahs/094.json",
+      "bytes": 4109,
+      "sha256": "2a113442ddfe2d29a26bdf6e70731a24d7a954fe78d3f3f7cb9a96c3b6f64c85"
+    },
+    {
+      "path": "quran/surahs/095.json",
+      "bytes": 4579,
+      "sha256": "3c8598595485d135433d82b8953d99d14bbb93869220c51c62f2c763b59e1b66"
+    },
+    {
+      "path": "quran/surahs/096.json",
+      "bytes": 9453,
+      "sha256": "62c89e5fccb545dc9716ff718c1a1dc33294e915d1c31219b67f05821c9bd910"
+    },
+    {
+      "path": "quran/surahs/097.json",
+      "bytes": 3186,
+      "sha256": "e24696cb55af051b01b8330ca4edc9c772d430d4aa2b639aabbdeab12600cf34"
+    },
+    {
+      "path": "quran/surahs/098.json",
+      "bytes": 8434,
+      "sha256": "01e02bf776704bda0ccdc148afc6bad766f7ef9082d8a784512d82e2d1148013"
+    },
+    {
+      "path": "quran/surahs/099.json",
+      "bytes": 4574,
+      "sha256": "1f62cb6852d4fc6f0be96625c1df506e83d2dc7d3d2f2e984580e9fa77797368"
+    },
+    {
+      "path": "quran/surahs/100.json",
+      "bytes": 5611,
+      "sha256": "7bcff5af61c5ac227fd84823a2100b6b9b25e7ff7f974f2824b813638add3156"
+    },
+    {
+      "path": "quran/surahs/101.json",
+      "bytes": 5320,
+      "sha256": "1be18e433ae9679e5eef0955caa6b3bd5ac138c4cfd220a2351e6d62589e52ce"
+    },
+    {
+      "path": "quran/surahs/102.json",
+      "bytes": 4623,
+      "sha256": "c1aca6615c7016268dcad10631a6ae7b99e24b93e355c3ad5d578577020bbe26"
+    },
+    {
+      "path": "quran/surahs/103.json",
+      "bytes": 1997,
+      "sha256": "a4cf10fa05aad8b939eed923d75edee856832a3d38ab3948a07c93d73c148c2e"
+    },
+    {
+      "path": "quran/surahs/104.json",
+      "bytes": 4534,
+      "sha256": "621b85d556c0569e9d10daba61c43b89047e4a3cb793d717c38eea88a9495aeb"
+    },
+    {
+      "path": "quran/surahs/105.json",
+      "bytes": 3089,
+      "sha256": "5b666c6b9dc4e5583f8217da0828bb17cb48dca1bd7061550a3b360fde4849eb"
+    },
+    {
+      "path": "quran/surahs/106.json",
+      "bytes": 2532,
+      "sha256": "a03369a8e60643d71015cc0c5ad82c6ceb2f4b43fa7aabed53872d762fbb4c35"
+    },
+    {
+      "path": "quran/surahs/107.json",
+      "bytes": 3800,
+      "sha256": "d9f92fba15b5d3b8dd76833c38c3b98f2d045aea060d443d4bc94de6db8c07c5"
+    },
+    {
+      "path": "quran/surahs/108.json",
+      "bytes": 1854,
+      "sha256": "5c7fe14837e23016148b8aace4f35fbca4f4801cbb7eb8a8da09d75c23488705"
+    },
+    {
+      "path": "quran/surahs/109.json",
+      "bytes": 3059,
+      "sha256": "bc4fafc3692e7cbb67941086d799fe1d80d2b64456c9c7b06d58f5fa90c1c68e"
+    },
+    {
+      "path": "quran/surahs/110.json",
+      "bytes": 2216,
+      "sha256": "14c1a9f6ec8dbdb5cc7d1faffb36d1d78c52b59cfc02da4170773063457ca5aa"
+    },
+    {
+      "path": "quran/surahs/111.json",
+      "bytes": 2714,
+      "sha256": "b610ec47d26a1f95fe784c8f8ec4e264a1e74cb5b33d17cfe895263c91a25773"
     },
     {
       "path": "quran/surahs/112.json",
-      "bytes": 1348,
-      "sha256": "361ddefb99a19793c1770dd511690f31e7fd0ddb90d17c6b80d0ef8871ba2c73"
+      "bytes": 1985,
+      "sha256": "cda54aaab4a43a8de98856a2315375f0126864d1995db88ea409d014e317502f"
     },
     {
       "path": "quran/surahs/113.json",
-      "bytes": 1809,
-      "sha256": "9ae51fed13873dd69d1075b9d52dd5b92cbeb24eeb124bc2b21280e1547a3db1"
+      "bytes": 2672,
+      "sha256": "83d5f77fbce4635702b3bb121846bd33f600efb37d3cc0dbc4e0b28fa07204c3"
     },
     {
       "path": "quran/surahs/114.json",
-      "bytes": 1874,
-      "sha256": "180f1ccc71053dbfb1e55a44e8c030d8b531ff1185d215f9edfbdd811c45ae76"
-    },
-    {
-      "path": "search/index.json",
-      "bytes": 2711,
-      "sha256": "5562ce9ef185b5a2a7ec006318e9d9233e56d2d9cdf8c83e6d5dd63ab2498e45"
+      "bytes": 2919,
+      "sha256": "77330b1f2e044d764298423eabbfbb7790618dedf23f00483eeb20ab4833c6b2"
     },
     {
       "path": "search/search-index.json",
-      "bytes": 21125,
-      "sha256": "bb6d000d74e17b54f1167b9e130dad22e103307ebf10d6d1a0ecf2d6c88be490"
+      "bytes": 347697861,
+      "sha256": "25f24b15bd738fde5ec7dcd9b5405748e10a56cf5e7715eb9049ce7ab714d709"
     },
     {
-      "path": "tafseer/demo-tafseer/surahs/001.json",
-      "bytes": 1397,
-      "sha256": "0ac85da1d3bc1c382a786c087fcd2bf6c50d190f50d6f313b975b574ec077c44"
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/001.json",
+      "bytes": 129558,
+      "sha256": "56123d4da75e04f1b8cc4db0f74764ef3556c1b540c00e42a54559b5d43206ad"
     },
     {
-      "path": "tafseer/demo-tafseer/surahs/112.json",
-      "bytes": 405,
-      "sha256": "ab9cc3dd8dfdefebcd68566b979919b974d9bbe58bdc91bb4953507328c0c120"
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/002.json",
+      "bytes": 1973821,
+      "sha256": "37664c65dc14c9736c532a7994fcda6ad3a4d3982cb99622691d2e14d8ce500b"
     },
     {
-      "path": "tafseer/demo-tafseer/surahs/113.json",
-      "bytes": 452,
-      "sha256": "de92ecb8596a411464e58826f49f30f688976cd6fa253939c1fe9ebb8ed6921a"
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/003.json",
+      "bytes": 704944,
+      "sha256": "e8b6bd387d2e3a8e8547e3262bb56d7697a30572e268073e9c7f36e08a39e898"
     },
     {
-      "path": "tafseer/demo-tafseer/surahs/114.json",
-      "bytes": 458,
-      "sha256": "6a72dce7397896b6bef3978ea8fed2169b3b7bf190edb2e6099487349eb06a35"
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/004.json",
+      "bytes": 960068,
+      "sha256": "41ead4f8a6743b95b81ea495da7f90430a7f8de0f3d8fd1497e44a94c1dff688"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/005.json",
+      "bytes": 905374,
+      "sha256": "3aef4b6a1b8457094e0b6f124c41a90a6d75ea4f43e46fef383fa2cbcb71457f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/006.json",
+      "bytes": 509685,
+      "sha256": "5d18e60e0bd469fe6dacd3a98c49e53b5d4f85dc7f7beb28d53a908947360f62"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/007.json",
+      "bytes": 684885,
+      "sha256": "1ff0d3c3f3e14d0554ac8401a7079e2ef6139643ccf7fef661dfbd4cd908fae7"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/008.json",
+      "bytes": 318983,
+      "sha256": "6c2b35d870f1a0094539c6c63cdbf125472c2c123902caab368503121dae199d"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/009.json",
+      "bytes": 525579,
+      "sha256": "8c6dbac3de6b737999c4df201d0a5b12514ea6e5515e46dd2b66ae09d83f2d0f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/010.json",
+      "bytes": 201894,
+      "sha256": "f1c9b61a53ffac5956f8607e860fa0e670ea61fe75e3bec0c63afd692ba2c53e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/011.json",
+      "bytes": 294580,
+      "sha256": "06153c7ddbadfd32ff35877c78ab202541159e550c5e5b2d3101a9c742d4ff88"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/012.json",
+      "bytes": 224783,
+      "sha256": "2115aceb81d1f937ad413b06af52c6f5bf10b8a544abfbf58848ffd23764e6de"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/013.json",
+      "bytes": 172261,
+      "sha256": "e0d63190089618124c5808397f6d2c1e5c001816baf7044320c6db0504247c02"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/014.json",
+      "bytes": 173568,
+      "sha256": "0363fc3e3c38eedcc0c145d964fdbeb3be4d639431588efd760f2883f0592793"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/015.json",
+      "bytes": 152943,
+      "sha256": "2a7159c913990d4f8ae41e6bc0d3e0a7be7fd16cc8d4e1612395796cc09d4809"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/016.json",
+      "bytes": 218752,
+      "sha256": "8bb3e3e71d3ae04ac3e0b34492a16885824f523d0b534515c2083569ff635287"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/017.json",
+      "bytes": 342688,
+      "sha256": "08cffa3ba33e41ee07ecea69970176e8806dd616a3bfba7c3518de75a10dc93b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/018.json",
+      "bytes": 266741,
+      "sha256": "a978354813b83f655991a16a7a286590454c91b6164dfeb18fa7e816c238c7e4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/019.json",
+      "bytes": 227842,
+      "sha256": "cd0d198ed345dc5aa78b48c088a232b0cb3c0b7a052e6f255e48b03a58afed9f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/020.json",
+      "bytes": 231418,
+      "sha256": "d137da87aa9437ea1c0fb019abcf398323737d38e6ff9c1143c1472da8fec166"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/021.json",
+      "bytes": 222247,
+      "sha256": "61e33ef368d9b8648e09a030b9053aab2f65f3374348346e45698fa4d08ab725"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/022.json",
+      "bytes": 221777,
+      "sha256": "58bf7ec3c59ded41dbc8cabdf7f70c901ef5bbcec440da908804003780de790f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/023.json",
+      "bytes": 190428,
+      "sha256": "e5760f26b65814d8a55d6b8f9060c1090b795c945a165795310671179dccb30b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/024.json",
+      "bytes": 303063,
+      "sha256": "56874e9b48149d0f81db47c819d3479ba90d533709277404d263c18864325c1c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/025.json",
+      "bytes": 154666,
+      "sha256": "71ced2dbfbaec9e686137ebe191785812ad1cbf5df744b0606d8bde77047e737"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/026.json",
+      "bytes": 290291,
+      "sha256": "61c9c1521a8178de61d43e3fb47906ba0e0bbc9f5f0967016be09a90370a8d3a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/027.json",
+      "bytes": 161640,
+      "sha256": "d40e601760097c7d66880a4abf405f4e2949e4561b98318aefaf92aa05f9b5cb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/028.json",
+      "bytes": 183168,
+      "sha256": "f8d549a7bf631988de95066ba4f3f06d9e0d140e5d2da0a5844e3e1beb06add8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/029.json",
+      "bytes": 141369,
+      "sha256": "f73592eae0273199be5762a5409c73d348e28214cbc7efccde3eea0f588d9fc5"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/030.json",
+      "bytes": 172606,
+      "sha256": "454ba9917a7b16218f2273be8333ecca4513aa5648d8e31bc7bd920665976381"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/031.json",
+      "bytes": 114725,
+      "sha256": "96ddf3c6d902a59f74182fb1a932d305f9801fa818d24b93441c4ac242a1ad1f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/032.json",
+      "bytes": 76802,
+      "sha256": "acdeec909ac13c5e9f24cae0bd2c2c6675a24eb8b7c7e59ce27b29f71a933faf"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/033.json",
+      "bytes": 389415,
+      "sha256": "c82da67df8849e2726fb787b1ecd1457f6181627c817ba61bc634382271c474b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/034.json",
+      "bytes": 143973,
+      "sha256": "835732e3bb635a15eafe21850479b76416d6cb8d9c561036a6ea5aea997a1ed8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/035.json",
+      "bytes": 111459,
+      "sha256": "5e3c27565f15a81cf77edb40f5044555abb09c23dba4a441244b1b9288ee1f43"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/036.json",
+      "bytes": 146373,
+      "sha256": "a464da1184e4e47cd3e62b2df78f62290dc0d94d2ff6e55d861fecf774109556"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/037.json",
+      "bytes": 298709,
+      "sha256": "0b465ce0cb43d5e4214ca3f8454b9b63c4368b26a4ec8195ef855caa106b8406"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/038.json",
+      "bytes": 257299,
+      "sha256": "b42a89e1baa1e09a2e30dc171ff0e99bd4e9c9d35ad48cff2d40fbc3bcfbd9a4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/039.json",
+      "bytes": 160800,
+      "sha256": "7b78c8c83867501161560c2f06af5a4292a107e4b1583d78721131ce505f704b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/040.json",
+      "bytes": 138406,
+      "sha256": "48d32c9aa13e63ef01603c6367b428406f399c4e0e9fa612cc06b2ca1e92a2a2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/041.json",
+      "bytes": 105196,
+      "sha256": "a699f9acae04ed0d69cfbf104e4127c1da67f98d7ec06e95ba966a0d81d2ab76"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/042.json",
+      "bytes": 111078,
+      "sha256": "9745108c27ec482f9451179c4b36b2eecc6aaf623a9a1b4386865ae1c3e21db0"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/043.json",
+      "bytes": 109368,
+      "sha256": "82917d395513da32cd966408169b34b179f6b7e8b1c0ab9ced45d96e0705b084"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/044.json",
+      "bytes": 81152,
+      "sha256": "9dc4ee846c7d4993d239243efa4e4b8cbfb584712407040385fa36fe5fd813b3"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/045.json",
+      "bytes": 43179,
+      "sha256": "6f30a7b8bf3d375284351d730fa8d642b73608ed9d56fd3addc15aa5e2ab63cf"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/046.json",
+      "bytes": 123403,
+      "sha256": "e5e97f353219ad8225f4fe75f8ed44bcdd198623aa7c146fb4e4dce470acd6c2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/047.json",
+      "bytes": 65086,
+      "sha256": "5dfe113010eae99d4dfd259fe4ccb1cb75a17c8fb439bf4640b66ee6076904a6"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/048.json",
+      "bytes": 151049,
+      "sha256": "68d68937d646da6ddbc70646869d03574ff601929976b0aaaf59ecbf295c031a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/049.json",
+      "bytes": 94726,
+      "sha256": "231e497a180a5d909febb871bc45f6bce275b01b04ab77fb0b5285c1ebfbda44"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/050.json",
+      "bytes": 81433,
+      "sha256": "2be0b24cabfc6fbb1e57cb89793bcd0193a270cf92a1053e15b1a898f8838afe"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/051.json",
+      "bytes": 61052,
+      "sha256": "7819bc625491db9116f6462f1097ca969fa0ccf11d6821864e0e404fbbc3c68f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/052.json",
+      "bytes": 66678,
+      "sha256": "a130f54e019916d3c101b3da631c5fcfde0e807950262179b1914a8efc26b62f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/053.json",
+      "bytes": 103570,
+      "sha256": "5a14fe3067f8169a533c07385213bce575d4827ef12e6fcc53af59a219bd4355"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/054.json",
+      "bytes": 71060,
+      "sha256": "ea6021448ff309bf4ce1992b1e3e8958b5d1813a67d3ef33ad6bea76fd9637dc"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/055.json",
+      "bytes": 127386,
+      "sha256": "14c02cbc9a101f85605c95a4e28aefc0edd2761e356e0b5a7992d7466cd51479"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/056.json",
+      "bytes": 219398,
+      "sha256": "9dd7d3b056a4e175f31a7ced0e631cf8d1736ecb74d4341844704e9a965537ef"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/057.json",
+      "bytes": 104822,
+      "sha256": "9d1b672eed52d7a0fea9b34bfe23591c3eb8fa3032ea32ee69b1a309b0b1f017"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/058.json",
+      "bytes": 74955,
+      "sha256": "f123f7526b401fa7d458f1ea743dfd3f65fe8c9311a08ba46ca0d97aa2b00c4d"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/059.json",
+      "bytes": 89544,
+      "sha256": "d6310a6b4c50748006fb6d28395dca054f131a2ff9d8dbdf1d89fffce5a3c72b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/060.json",
+      "bytes": 75153,
+      "sha256": "105dd480107c87a0bfacedb5a72803fa3a88349e15b7ab46af7135e691e9ace1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/061.json",
+      "bytes": 44993,
+      "sha256": "54e36aa3dab847e3f465fa320726aa487455f9dbbe0e21bc78c785f964344b5b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/062.json",
+      "bytes": 33188,
+      "sha256": "46a0cc435c37fd04f46db5c3995da5ee3bcb6382676859adf77bdf53790a2522"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/063.json",
+      "bytes": 36705,
+      "sha256": "9ba13146cd1949aca8229a16956f2e657dea4163289f0714c0a476f1c21ea654"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/064.json",
+      "bytes": 24934,
+      "sha256": "a644d173a27b058fd09371dfb65bbea2cc41dd6ed247216e9008f9ad514e76cb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/065.json",
+      "bytes": 52951,
+      "sha256": "94395ec86486d8da6f0eaa89dce864caba3a27f2e752621d56c36952497ec23a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/066.json",
+      "bytes": 56734,
+      "sha256": "c67247381c3b3f9202617ec29c5a815ab1a5250464a23a23b7a8f50797ac5d34"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/067.json",
+      "bytes": 37418,
+      "sha256": "d507069b9845e6ebcde9a5c30a2df8ddb4738aecb285371497771c4fe8d6a80a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/068.json",
+      "bytes": 73572,
+      "sha256": "f44dfda53b6258265b9500bdb3dc1e2bc658253bd6cbee32e8e4d18e950ec985"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/069.json",
+      "bytes": 50708,
+      "sha256": "9ea13101a7df1f0e33c43201775228077b14cdade789a423a1014da477d30f33"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/070.json",
+      "bytes": 57354,
+      "sha256": "df9658d36f3d444befbced75da87a4add054b0fcf9f4f11e9af0ff39b8462d12"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/071.json",
+      "bytes": 46318,
+      "sha256": "faf850ce49518d0c92501164c5d4148ec7b6fe6ce4d643c25ef9d1833796fc12"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/072.json",
+      "bytes": 40565,
+      "sha256": "d7469c3f57332442c1c105d54bd08d63b38864eb838387044444ed7cece45aad"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/073.json",
+      "bytes": 40763,
+      "sha256": "3330bdf4d5ace7d766ae56ed5e4d85f7869818a5aba18764777d90f72b1358be"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/074.json",
+      "bytes": 62689,
+      "sha256": "fc53a5ae2ba93ba495c447b6aa96629cb22feb80f84025817e52d41ccfc2623b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/075.json",
+      "bytes": 45251,
+      "sha256": "7053d5b91776238921eeb6f7a1238ead5bb449822cadbbf356ff128d8f2653eb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/076.json",
+      "bytes": 39451,
+      "sha256": "87af989c00a48d493f45ccd09c01acff0c8d8c14af7942299ffc733bffb2ccff"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/077.json",
+      "bytes": 34323,
+      "sha256": "c5a3fb09462f9614c7725e42d9fb98e39da97ac32d9159cc641c5529180d88ca"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/078.json",
+      "bytes": 38806,
+      "sha256": "69c4f05fa5299b14027a1641f9117ab492409c1532e19bc5627e31280ef6f0f1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/079.json",
+      "bytes": 38024,
+      "sha256": "74120ed254fed977a47c518be568faa9ae4b839e67d307b35fe339270449ba93"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/080.json",
+      "bytes": 41173,
+      "sha256": "779720139d6d36e3d95c9c4bcb68ce1bd8f0ac956e780267edb8365a39fb123e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/081.json",
+      "bytes": 49304,
+      "sha256": "9c2dfd412204eaabcd063f2a768d24b9fc06be8a0000745dc4601c982a2d7d0f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/082.json",
+      "bytes": 19777,
+      "sha256": "b020938c3869a5685150a22096149b839682028ae4266526a68e8a235ea3b289"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/083.json",
+      "bytes": 36592,
+      "sha256": "6e5aa553e51957155a946bfeb363a9ca1c92e1c6e1a348bf872369880e120b98"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/084.json",
+      "bytes": 28455,
+      "sha256": "fff1c2c6f22839bec47f82d62074e9e62261ac08b8af0c6ff96c0e7a1925e601"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/085.json",
+      "bytes": 51333,
+      "sha256": "6bca93f89d04f57291d4b8df3d0f8a69d8058ed553e9857f8bf23499f12bcad8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/086.json",
+      "bytes": 13338,
+      "sha256": "7c97c0eafba987c23c5b5587d82214b47ab111505134bbf44be5d9349546c864"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/087.json",
+      "bytes": 30188,
+      "sha256": "75b14c86a8e0f1da98606a3c1f24fd0f06ee5e56937f2b6adc039460b8e9d0b8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/088.json",
+      "bytes": 23645,
+      "sha256": "4965828f8e2a394c1d78b49f7b55eb7f04feab696b3299d7206aadfaeb05bf39"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/089.json",
+      "bytes": 47274,
+      "sha256": "91a36f2e5c7bb1c6a966296a881aadfea7de17fa4ae5aeeaf366468846470793"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/090.json",
+      "bytes": 29503,
+      "sha256": "ce815d072ce6b2bce7fd27fb14138c37b101d9da0284d03110aa818398b2ce6e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/091.json",
+      "bytes": 19664,
+      "sha256": "5f2007d3e17ef00dedf1b94154f3d2e1595f55f88ef00d4aa2493d8c784ffe76"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/092.json",
+      "bytes": 29999,
+      "sha256": "c621d8b900e659eb8f598523bab4d6d8fcc3b8b77bc23ee8aab767586f91e38d"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/093.json",
+      "bytes": 21011,
+      "sha256": "9ad7e68aa1a7e81165a3e8a0df575d2ae25a9ce71353a4bb3fdaa8f01713541b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/094.json",
+      "bytes": 18819,
+      "sha256": "958b48c9df5bb4dd1a5e2f160ef9484ec71b35dece992df2f3a924ed833e804f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/095.json",
+      "bytes": 8043,
+      "sha256": "58c3680deb95c4433dc9fa2dfc62ecad0721f085d976d06d4965aeab2317cc26"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/096.json",
+      "bytes": 20029,
+      "sha256": "9852748d9eb60d1ce98df38cd94bb735fe57c3865c43ab3d0edcbf23891b774b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/097.json",
+      "bytes": 41783,
+      "sha256": "455f98fef69803f93f3e0bae00218d95173f6ffa38bdb725d729987ef0d2e6d0"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/098.json",
+      "bytes": 16589,
+      "sha256": "2c09d60bb5a0199ead208d5f6ed3715d89b5542a72831a2c5df0bc1e6798f693"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/099.json",
+      "bytes": 29339,
+      "sha256": "554077d4f0a1470fa93564f680b673e04e2d4545547b1a66310fa779e2733d79"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/100.json",
+      "bytes": 11624,
+      "sha256": "2370952564cfbecf7c28ac20adad8d626a68b974397cf209cae2e933a674d4db"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/101.json",
+      "bytes": 11626,
+      "sha256": "f2ce829b6b293b9bc73cb33538cfb03ba5e6d03573f4df2d55dde61f544527d4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/102.json",
+      "bytes": 23514,
+      "sha256": "541b0594d1e52e78357b518318c7a05c9f8c443525548b555f3dc8afea3ad6cb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/103.json",
+      "bytes": 3536,
+      "sha256": "669fef1967bebb92201eea88771a770ac7197e2999bdc20c019f9ebb746a4cb2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/104.json",
+      "bytes": 7333,
+      "sha256": "3d66fe25b7ac29c81d4d048f5e989e45130a0fe08e789f1562fe0b22e1879fee"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/105.json",
+      "bytes": 26569,
+      "sha256": "b3ba791d3f0c31513752b2edc93c31e3ec2b8b575f534207fec99aef3122e438"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/106.json",
+      "bytes": 6807,
+      "sha256": "368db859a516a1418c994f6e6d9112a491773fe511fccbf0e806f96e4d70cd43"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/107.json",
+      "bytes": 16358,
+      "sha256": "eab8ecbff4f4948788a0cd1c757a2056e788297b042012126b3d927c77577563"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/108.json",
+      "bytes": 21651,
+      "sha256": "a118b03f10005e4341f35038801c5ebe8c74456e9256a54c8c0de1f01beac796"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/109.json",
+      "bytes": 10568,
+      "sha256": "c299652505420686f208e5f540d4958ffd5aba98b27df029e0a7c21bd273acdb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/110.json",
+      "bytes": 15744,
+      "sha256": "9669fc5a35eb81d23d9d024bbcf1fee268c10b1690f75ccb0b6e495b6031c3e1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/111.json",
+      "bytes": 12105,
+      "sha256": "e29338f5713bf73d59a8f4e957f93dd4a96cc2e7e19a6ad4aa71a03a9e893c85"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/112.json",
+      "bytes": 36809,
+      "sha256": "32e3d4567f6e4a9ec57e7f63447016172dc1d24a7c1c9237f9cbc4068a7c08fc"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/113.json",
+      "bytes": 35377,
+      "sha256": "de6e4bbc6274e22eb2df6c3efe982463fecbc1a6e2e8a85da2c4a5f681133e3e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-ibn-kathir/surahs/114.json",
+      "bytes": 15997,
+      "sha256": "bfe2a64a26d94eaf87c5e18246fbc39a0317ae495ce5824fda50c73c7a0a94de"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/001.json",
+      "bytes": 6648,
+      "sha256": "33ed87d692e07d7a06c0b19f120f6700cc0260d5a04e3ff303d505006d58c1a1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/002.json",
+      "bytes": 256417,
+      "sha256": "f8d7fc37505f4eecfcad33e00f4f979ca1465d9c90b7a8fb7e12633ca5dbe3c9"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/003.json",
+      "bytes": 156887,
+      "sha256": "6457dfa08ee042cc6eb8c46a06848335911844c72f1ca8cf50f5bcae1a1ab023"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/004.json",
+      "bytes": 147617,
+      "sha256": "058303f9501f3ffeccf59eec0b866952af87324651cf488a6c6a3b16d284e594"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/005.json",
+      "bytes": 108168,
+      "sha256": "c0689a788892f6ea99f0f238b8f3276017ed90b0a9cb787cb37d40da7342b495"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/006.json",
+      "bytes": 136485,
+      "sha256": "e87b57ed456622776740bdb8799a307a3a3d89f42ce9dd9435d75972209ba4e8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/007.json",
+      "bytes": 159025,
+      "sha256": "c003324a248f65008b72e4d6757fba5c6746d2845f888e25e4c0ec5a84061117"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/008.json",
+      "bytes": 58662,
+      "sha256": "4257e6c9e06cd88ceba64d7145a5f8382bbec367cceaee4995bd77e314f58c76"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/009.json",
+      "bytes": 105193,
+      "sha256": "a04b8cb1d122f0ee4f8cab42bc5840dd8b977c97f1fb5b0766f4c59f60704c9e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/010.json",
+      "bytes": 83280,
+      "sha256": "ae773ba9e775f497c9aaae801ef03777151cd85f800362872a5c7d953ad6bbaa"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/011.json",
+      "bytes": 89865,
+      "sha256": "b4e790d2eb0f4a42abc35af1cb73eec1c50baab04507a4917f302939826a09ff"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/012.json",
+      "bytes": 77709,
+      "sha256": "7663c4cff1d7cfd068fabac84b42dd25c2f6279289588e5fb2184d1491cd5771"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/013.json",
+      "bytes": 35072,
+      "sha256": "adcdd8d2d628b9539440305f5e7f95a07d9847aadbd639495466251161a75daf"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/014.json",
+      "bytes": 38323,
+      "sha256": "4aecba8bb1770c04a3376c3addee194bc94706ec3349f150dee8582690883df6"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/015.json",
+      "bytes": 63262,
+      "sha256": "ea27d8f61cf7f4595840fb8fd68d181fc733c67b0a291477f69ad36a8be99512"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/016.json",
+      "bytes": 96510,
+      "sha256": "1a5cd9118f20d88c0c43595108c4d5fa2981013de271e5e04bea9f93024852ec"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/017.json",
+      "bytes": 79693,
+      "sha256": "83da38afe06c1146a84981153de592df41a33c6997a3100fcc251262f9876ddf"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/018.json",
+      "bytes": 76617,
+      "sha256": "4b6ec2b1e9d439b3444a2cbf345d761c4efbfb8215686d5dd9453c7e62df209c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/019.json",
+      "bytes": 57279,
+      "sha256": "9af766e013863be418f17d5510347d461d5adcf9f7adf9d3eb90e22d5cce773a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/020.json",
+      "bytes": 87185,
+      "sha256": "0462412baabc2eea2148df322a126ae1d2306b141f3ee4049bff7efbae480eef"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/021.json",
+      "bytes": 73131,
+      "sha256": "fdfc03acd4fbe1a9489421432bf2315646d103b30c391144142a84ec2ef93f9b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/022.json",
+      "bytes": 70995,
+      "sha256": "d18f89ca95a1c38a33423be8f6aae6754a9a344097698dcdc0ee47412e8a3b74"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/023.json",
+      "bytes": 68366,
+      "sha256": "2fae8e00da9a151776675e8bd5218b3d9b138c34d227f9574b21c89db044234c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/024.json",
+      "bytes": 53170,
+      "sha256": "316eafa75730cfce320a9fa0398bc6eb981d01e000eff66c49edfddc41f6f7ea"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/025.json",
+      "bytes": 59013,
+      "sha256": "350b6cdea8ce8605ddbaa4c37389746cfa5a054c110637065284e0f841e3d589"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/026.json",
+      "bytes": 161050,
+      "sha256": "6f33f679d11c42927ed93cfea9ed2608271f7ccc02ce9c89ac5960f6b438621e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/027.json",
+      "bytes": 73675,
+      "sha256": "d234fa8ed9f295e65ff2aa5bd387d3085c9264f19c64c077ad63d3d3746fff4a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/028.json",
+      "bytes": 62635,
+      "sha256": "2267788eb49c84784e358b4c54c2299a6a4cb2ad90b31313240755663f35cd20"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/029.json",
+      "bytes": 50695,
+      "sha256": "912c1a3181692d760c3f214926bcd95b250a4e23d315f465525eafee102dea79"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/030.json",
+      "bytes": 45060,
+      "sha256": "213e7a02ff49b9a9878492c397a491c533424f146912956b2d2806772d885d9a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/031.json",
+      "bytes": 24341,
+      "sha256": "888b3be367337d4a30ab6275fa3bdaba0646ff92fee185b222fef568cf5ff6a4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/032.json",
+      "bytes": 20733,
+      "sha256": "d0cca8dde9dd40fecee7662e2e62d5969d056a04c9ce7bacdffc6974072dd3c7"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/033.json",
+      "bytes": 62635,
+      "sha256": "9550889be3dd7c2a86396095864475689ca895eb828a4f291af042a0ae85fa3f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/034.json",
+      "bytes": 41236,
+      "sha256": "c880435cd0317757ccd6f569dcb7eedf5376da24b8ecd7a303b08e0abad2e0d2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/035.json",
+      "bytes": 40243,
+      "sha256": "15c427ccb46c0a8619adbb405a6ca59e9acca18bff3b293c0a167a184fe5fcfd"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/036.json",
+      "bytes": 51816,
+      "sha256": "8574e4337db75f014f6a0f78ca2aa2da078370ae38c47497089b5ee06cd6ede1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/037.json",
+      "bytes": 107765,
+      "sha256": "2468cf04096ad364f946545ca45da4bc22554fdf5f9db94faf2ae84c54ef06a4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/038.json",
+      "bytes": 57474,
+      "sha256": "9c576bb125ce443f06f88abfb5b1db2758919b66e0b00568f6993ff2d14b27c4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/039.json",
+      "bytes": 59457,
+      "sha256": "c7964e208b609db4bc89f434ab7d3bfb8d04e98fd2742377a52183ca92755927"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/040.json",
+      "bytes": 63927,
+      "sha256": "1a606622168b5e318c7bc8b9b3c22de523da59c575cad9243458e07522193699"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/041.json",
+      "bytes": 42208,
+      "sha256": "0c1bfad9cef774746e355d0943890dcb2f4d816f9744c5f0d52aca5a1f7f9de5"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/042.json",
+      "bytes": 42297,
+      "sha256": "c33ff0b4451fae06f9f16905b747d66fc19da53dc592e9377babe0f6b61c764e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/043.json",
+      "bytes": 60812,
+      "sha256": "d4665720336ff4a52414c739db2bcd88de30095164547b4ef6e1e1c58ca514f9"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/044.json",
+      "bytes": 45194,
+      "sha256": "57b69c4459e1cb69d63d7a41884435d61dfa6e9ec80fe031537dc7a19ddc6479"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/045.json",
+      "bytes": 25885,
+      "sha256": "ea7a2089389e6f7276fc9f9a65f35341319904a2406fd1d237e60532bb50d8be"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/046.json",
+      "bytes": 26048,
+      "sha256": "45649a6c157eeacaa937056159ca7c251c565717826e6894e555b4dc3bc260b3"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/047.json",
+      "bytes": 31415,
+      "sha256": "d1593e1cd26432fe9acacae7f660f21d3e6146dd879c7dcf375313947fdb4be5"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/048.json",
+      "bytes": 29159,
+      "sha256": "59818a2d76309b17d89ba58aa51c2382340ae073a0f4679bc81dd5eab2eaf4be"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/049.json",
+      "bytes": 14294,
+      "sha256": "19a198d086b0cbc4c1e824e15ad70586b5c8e8edb274414d9eb9a7ddebb205b7"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/050.json",
+      "bytes": 28485,
+      "sha256": "7e5d2087b3ed80841b5ce76c36e5908c7adf15eaf3f64ea5a0d5fcebb9a5ef73"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/051.json",
+      "bytes": 38062,
+      "sha256": "296abf2c9210dfdc69c6e480f759ad388734b7cd18d3ee08efca491f8b5cbe6c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/052.json",
+      "bytes": 34583,
+      "sha256": "d5b885088654077575fe1d233d2296b80583ee7f2f6244e03f5068f5ed855d3c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/053.json",
+      "bytes": 51774,
+      "sha256": "f164ff0f5cc93f8c4cdfcc16baadc66baf286225a6ed99defca2a996d50fea91"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/054.json",
+      "bytes": 32862,
+      "sha256": "beb0ccd87e4a1131441a4c0829bcab591393ac3a84021c328bb9f632bad6e193"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/055.json",
+      "bytes": 40203,
+      "sha256": "7d2f7f03877e7f9bd8e0126e8290f732b3dea335e3fa95ba0395e9d660428794"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/056.json",
+      "bytes": 59585,
+      "sha256": "b40fa0e17bbe584e631d698c85f944df021e66d1a9cc9a9c7d029ce7dc887ecd"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/057.json",
+      "bytes": 22981,
+      "sha256": "1a81f56e41cd8e30ac81b80cd35fd9b69312af721022af208491e24d5a95228e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/058.json",
+      "bytes": 18828,
+      "sha256": "fa37d2f3a258d298304a6c768ed8df1693768f7cfb06cf8b4d112f410ca1b334"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/059.json",
+      "bytes": 19496,
+      "sha256": "5804d93e2b8a00c5645687ee12eb7838fa313138c0541a43db760068969b22b5"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/060.json",
+      "bytes": 12326,
+      "sha256": "e88fe545be8de1d4d5a5bce99df4f92712d705b3f43c4f2fdd2aed1be6711d53"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/061.json",
+      "bytes": 10289,
+      "sha256": "8a6cdb72853fc96d850aa7e071358d4e8dc9a9ddb7721430ccd7e35d1b24fcf8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/062.json",
+      "bytes": 8732,
+      "sha256": "64ef247c2a7c0bb3143105464ce8c562c9ccf44f679e32e2f0da239a82c88cd7"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/063.json",
+      "bytes": 8747,
+      "sha256": "f99e3e0a737c3185598e168d8c405b1684b6b8485ef1d9cf9db6aaddc0a4dd36"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/064.json",
+      "bytes": 12552,
+      "sha256": "82ebaef4fefc034eb106499c72218f3f583acea352ec554ffec77c16a94163f2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/065.json",
+      "bytes": 12771,
+      "sha256": "8f2135c3725c4b749f2b9e573cf59b6a106a0137dd884fb5fd6df52175254d25"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/066.json",
+      "bytes": 10186,
+      "sha256": "a60b921a1e2b505068dfcd60dc689cb76d03cc618836be7180fffe3cd8b2b0bf"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/067.json",
+      "bytes": 22399,
+      "sha256": "a38deb9d7a731f777d8c021e0199c0c75fce9a1ed901d2a60485711e3d88431b"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/068.json",
+      "bytes": 49444,
+      "sha256": "d3f843477fd1bcaeb0cc7b99d9c08fb8487328c660431feaa10a3c815b5874b9"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/069.json",
+      "bytes": 44972,
+      "sha256": "bbc62f603b9968f5dad69e045f4b840d907e8c9f2c010cc3c9f91be04133d937"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/070.json",
+      "bytes": 42405,
+      "sha256": "4d87b68b5c88240dc916c970af8242a313db9ab83f005cbcaad2e14014ed8522"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/071.json",
+      "bytes": 36977,
+      "sha256": "33063b45485395f6ee9a4ecaf51eca9fa3f6072f4026d8fab2a774dca0bb5844"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/072.json",
+      "bytes": 22537,
+      "sha256": "5e1e8bbff66ab078d7f587448018e0d4ecc39191b27113f101391fe43bc945a4"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/073.json",
+      "bytes": 14159,
+      "sha256": "bc6d7a1833d8bd6a4f0d29fd1a909b5aff7e9b7affdfc8f039d37e473ad7fed5"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/074.json",
+      "bytes": 55586,
+      "sha256": "4d7c6b7c1b5c06dce6363dab976dacc5fddb65fe36a6dfb6b11112ed8d3b5ca7"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/075.json",
+      "bytes": 29936,
+      "sha256": "ef59be152a1cfb170e49a6b141b75b4ebf7ce1336ee651b67cf66fb8b9a6e4bb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/076.json",
+      "bytes": 27193,
+      "sha256": "4b6318687b1da90a94768167abb6744523e68873627e32688808a1dcdd8344b3"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/077.json",
+      "bytes": 41625,
+      "sha256": "fd5cff2a7735e1585f0de70bcc5a98d3f122ac28db395d5d22cdd8f9f6ceffb5"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/078.json",
+      "bytes": 27470,
+      "sha256": "5b0a1e02fb97953e97d44a633e6483cbb7de3e452b35045190b7b9862012018f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/079.json",
+      "bytes": 37175,
+      "sha256": "17fd6f46a8507a1a965b3ea86556039e783f2724d41b1038c448649e3d31f9a7"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/080.json",
+      "bytes": 34449,
+      "sha256": "726feda03db7276f3591f0e5d5a2b69fdce5e3e260fe0bdeb770b6bbb86b0d8a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/081.json",
+      "bytes": 32027,
+      "sha256": "c9ce93397558232f76de7a2cd5a81d9bc9b15ffb41ea61617dc9ee12401e5ac2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/082.json",
+      "bytes": 13139,
+      "sha256": "8f4865c3c25c054041f15a4e1b0a7413c2b334921e6f4e1798cbb0ec3356f6a3"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/083.json",
+      "bytes": 36824,
+      "sha256": "7b850e85654615b2b743c8a678c3f45ccea854ad46dd183130872810b34ddd8c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/084.json",
+      "bytes": 22511,
+      "sha256": "6d4dee0f49c368afcf0d252abf076475521165909146622626e752abbc1175ea"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/085.json",
+      "bytes": 24439,
+      "sha256": "4dba15cc3942d955b425aaf4978c9382c719a6cd4fadc247b108f93bcea5967e"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/086.json",
+      "bytes": 12396,
+      "sha256": "8c4cf62b1e26ea816b2630704913aa0867548f7fa3271a4e10db42d601e179ac"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/087.json",
+      "bytes": 12126,
+      "sha256": "8d87825a7333017b502dbb8c4b4869460843c3bf989bb55509a5fafcc0725ad0"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/088.json",
+      "bytes": 18630,
+      "sha256": "b3a9d27cdd39c1870d0dd17707fe3db757ff9e884eb3d387cd2c5cbed083e5f1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/089.json",
+      "bytes": 20127,
+      "sha256": "026d16ff107c5f14140712ce2f861daeaa09741ccd3c4ac37d3d34b7c2294ce0"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/090.json",
+      "bytes": 10951,
+      "sha256": "14cce5acf6ad0d86ec65768c6ce5960e5b31f3a099140c711be986e1110a096d"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/091.json",
+      "bytes": 15732,
+      "sha256": "eed3d879fa48c13d979987bb23981270e5340ba502ed986849fb836cec4e8d8f"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/092.json",
+      "bytes": 13642,
+      "sha256": "c3e4c3308e0bc14df66310be8064c355b9fd27a6aae01753c7e098c9039603a6"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/093.json",
+      "bytes": 7196,
+      "sha256": "5b2743520c99f2b3479009679b994a2b09a55c7e719f32acdbe4251493586654"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/094.json",
+      "bytes": 4743,
+      "sha256": "20497cfc6cbceb95eec9bfaaa0e57d512f268666fd67ac793451e979f734c6f0"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/095.json",
+      "bytes": 6841,
+      "sha256": "fb58c0a42ca4818e3483ae430a69b705a44e45e187484c837984f986b03de45a"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/096.json",
+      "bytes": 23209,
+      "sha256": "8296115ede3929cb0c58a33bfd584ee77df7efa714a4805d8d005a770a1fe538"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/097.json",
+      "bytes": 2317,
+      "sha256": "4ee04c128eacc7c2ad5b907d1657fe123eccfb2684e81c14f38356264c82b22c"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/098.json",
+      "bytes": 4788,
+      "sha256": "f5f25514d8eda0478061b476c9ea65a993870ed140b567835a88004dc2e76b24"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/099.json",
+      "bytes": 4333,
+      "sha256": "92e6301e7e27a27a92e09027272ea3dd6fe2c0e8449c5d4e5b76b33000c149c3"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/100.json",
+      "bytes": 5196,
+      "sha256": "b39ece272673f5b6818312797cd069ecec06de451db353262f0bf3cd5641c0d0"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/101.json",
+      "bytes": 4932,
+      "sha256": "f83d93e87d7a5b6e724a87a70e0993ed421d3f0b6df00ac2b368a91d8efc8dd8"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/102.json",
+      "bytes": 4711,
+      "sha256": "8c9c34e447c2fe70b5d4fc97c23c296a0de09d8a62a66fdcb91819adf356e2fc"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/103.json",
+      "bytes": 1662,
+      "sha256": "c398efe65740ac52a8a589c653c7aa78a0a674db1981b56d5366a47a407cce61"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/104.json",
+      "bytes": 4124,
+      "sha256": "42c460cd1f2da3324271d34282a39962f0c8fc51833345de42c3ae28dba083d1"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/105.json",
+      "bytes": 2415,
+      "sha256": "90e6a1a258bc4549369a7b16eb2d7576b32a4dc3a84798228d2bab57fd4dd444"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/106.json",
+      "bytes": 2199,
+      "sha256": "b7f43986ff678c61860fd4313e7999b9e957722f4efabac52992e038c3bfa673"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/107.json",
+      "bytes": 3358,
+      "sha256": "e361e2ac1ebce2d45791f1f66270b22fb787319b281991e555f881343587b251"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/108.json",
+      "bytes": 1548,
+      "sha256": "17be2b6e35dd99cccbda7ae11607f718bb28c8fdd624003e6462710cb99dabb2"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/109.json",
+      "bytes": 2889,
+      "sha256": "e6780c15247ef853d2c551868ab84da23e589c76eb8244981db84ffc579a5599"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/110.json",
+      "bytes": 1560,
+      "sha256": "22895e1c8d90e13f62614326df0db4b2a009a62102f48d231f5124aa0e66dd93"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/111.json",
+      "bytes": 2613,
+      "sha256": "b4ee23a9a650bac4cac4d746e2f0459007bd11b60389c356cbb5bdf73660e929"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/112.json",
+      "bytes": 1919,
+      "sha256": "5b18a8e80141f13cd96b7840d053120ad1c22ca1354c507faf0db4be6809fcdf"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/113.json",
+      "bytes": 2330,
+      "sha256": "5010ce2599486a0f40a60570f192fc96cc4c9932eec42b120d6b32b9a2b4f3eb"
+    },
+    {
+      "path": "tafseer/ar-tafsir-muyassar/surahs/114.json",
+      "bytes": 2630,
+      "sha256": "944cc70d904b6ac12291f4bcc80dbaa19a2e15002f2cfa7d52455afd67537f4f"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/001.json",
+      "bytes": 6559,
+      "sha256": "8b00fc205af872b1687ae3550b3ea1b405bd5e09a77007ad8997b8e2ff2b38b8"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/002.json",
+      "bytes": 291155,
+      "sha256": "8d657d00b0875e2ac8bccacff20276c90e3d9298efdcb15eb4c35de60d4da1a7"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/003.json",
+      "bytes": 171874,
+      "sha256": "d1e6efb1c3682f4caedbd80892d5fb5f19844020ffcaaf3b8e16ea80277da9d0"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/004.json",
+      "bytes": 166224,
+      "sha256": "ff1a01fd4a8439db0bd70c14865d297f2a7db012b560aa8b8422ea8abf4e9a79"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/005.json",
+      "bytes": 117251,
+      "sha256": "40c3dbb6379d9fd2f3cc6edb3545d20565ddc288b6f644554146f0f37a7538d2"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/006.json",
+      "bytes": 136271,
+      "sha256": "f0eb33c58e362154706faca3902a7901272eed38e9b01b544326b0217142605d"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/007.json",
+      "bytes": 152126,
+      "sha256": "45dd10fbc02f7fb343a2b904cea30e3db85438678e46e6881bb84091aabae8fb"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/008.json",
+      "bytes": 57058,
+      "sha256": "4de0522532a53f95816c6483d257b6488714cd79c9fb3606acd519ca4679f7d7"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/009.json",
+      "bytes": 107173,
+      "sha256": "c7e81904febe88ce33f1a3fd1dff7389f4a7dc1c67c75e23cab1cb1c129e0615"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/010.json",
+      "bytes": 79209,
+      "sha256": "cbd15a9ff0814748fc8118f9ba257525b9bc54412613e00605c90ca39f25a1f5"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/011.json",
+      "bytes": 87043,
+      "sha256": "996ddb6648949c3001455588137d2491c1ac040e60374c59cf98f6fc79c6b368"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/012.json",
+      "bytes": 85613,
+      "sha256": "4ce109bcd86fdb7fa76f3f84565fd655a66d17382126cd043d415f289160c4f1"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/013.json",
+      "bytes": 37853,
+      "sha256": "e4b85abc59204b2cebd88b1970068f91eb4316157d6cf1fbe6e02d713e0e3aa3"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/014.json",
+      "bytes": 38027,
+      "sha256": "d51d44bfff2821b13f577d2b3c14fdadaab0a80750efe3c483014f8d0573102a"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/015.json",
+      "bytes": 51475,
+      "sha256": "b4ff4763467b0a00d8cd869ffbc7e9a72a0ab0b0bea8d9e8c2e34a088286add9"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/016.json",
+      "bytes": 94922,
+      "sha256": "8c1a3f2c6e834a69e4dde851b032d0d23294ddddc193c2a2cca26b9dff026ebd"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/017.json",
+      "bytes": 82090,
+      "sha256": "80c076cf865380554b1fb42e4c9e0801021b7bef3884749d0f00fc08fe6a5231"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/018.json",
+      "bytes": 90464,
+      "sha256": "c712c2a1d5e0a2968bf3b71df12c352bae9f7846d88346c3731e8177598c2f3e"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/019.json",
+      "bytes": 66644,
+      "sha256": "9dfa3452d651078fa39bef7e1490a6bc276a2a627a0857f963271f3f4488a4fd"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/020.json",
+      "bytes": 88498,
+      "sha256": "19f836fbbcc62460d85aaf4687100fb89d8fe469a64f627e2458e8d215ea0c97"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/021.json",
+      "bytes": 75230,
+      "sha256": "691b8d52ad7c0605e3bf9330ee87faaeff635bef64056dde31c9a91342060f59"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/022.json",
+      "bytes": 62828,
+      "sha256": "751d40cf58536ab3f270c5b93bb913fe561434ab9d9d4f9b3f7ab87a2cafad48"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/023.json",
+      "bytes": 70909,
+      "sha256": "dddb4da14cbc2b1c595cbd1013d79e2cfdd103961acf1a2cf36b40f39943c7b3"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/024.json",
+      "bytes": 59415,
+      "sha256": "76d513e03e2de85a81eb9ddaa4d5571817a45f76651b648f49b08c0ec471669c"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/025.json",
+      "bytes": 55129,
+      "sha256": "60e46ad53deda1079621da23fc7fbd465d006154e7f978842383c0a06eed8e3d"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/026.json",
+      "bytes": 110683,
+      "sha256": "12a07e503fd13c9aea645942dfe3753a265507454a2a67764dd72647fb60356d"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/027.json",
+      "bytes": 69493,
+      "sha256": "ac587303078679b8600f0d7c635e58aae1190b35aa252ef55cbabaa033b04d51"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/028.json",
+      "bytes": 67894,
+      "sha256": "c360485c0e7e08910770fa953e4d4455128ffe7bf334f4877b92727df52b78fe"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/029.json",
+      "bytes": 47910,
+      "sha256": "341d51534789d19e1d1ccd081bdd195c2bfb880f8d28755779aa9c70dc4577c8"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/030.json",
+      "bytes": 42093,
+      "sha256": "117c3077b069b7ffd1a4735b9165b7494999b62d58e58089b780541aac3e0a6c"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/031.json",
+      "bytes": 25661,
+      "sha256": "a92c9c6531afa9fa059978861c5935958db9b23449e751d04bbae78255add7c4"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/032.json",
+      "bytes": 19421,
+      "sha256": "11360dcd47ea800d680c4629e13944cd6f930045a7135ee1aa8b73a027c2bdd2"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/033.json",
+      "bytes": 57911,
+      "sha256": "15a18aee7f7f1a59dfbeb0385175c374df4566d14a4d29a6c3e201a8fb09e3ed"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/034.json",
+      "bytes": 42611,
+      "sha256": "248b30ba273408fe07f7b1bce63002ea51163a57202cf71a2ebd755a9b8edaa2"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/035.json",
+      "bytes": 33882,
+      "sha256": "f1ac87c5cad799c28a6a2a4844f41c15a7c388d8f758f2813fb34c38ecd13205"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/036.json",
+      "bytes": 52942,
+      "sha256": "90d6d9dc7b572626b3bd5ac7759328647c10e0faeec229b7cf5b0a32eaf2d112"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/037.json",
+      "bytes": 95548,
+      "sha256": "6cf98a1e3da0ac13d6f5fd3a450d198fef2018d617a087ac5553c5258605ecc3"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/038.json",
+      "bytes": 55799,
+      "sha256": "0b10930e7a07a0e9012b255df2c5970932ebdbd559d1e997feb2d419d1765237"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/039.json",
+      "bytes": 52617,
+      "sha256": "2e2366c64cbbab1ef243bfd7eac11ab6495b305e53482143fd0568cfec522aed"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/040.json",
+      "bytes": 57442,
+      "sha256": "79e452e368eeadd943c4be526bf304811b639687d7b4640686a727fa9a54db68"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/041.json",
+      "bytes": 39074,
+      "sha256": "4c199ee82062bc72f1d9e03f54e1e94c2ed2d3a34dffccb7ca98ced2f240d3cf"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/042.json",
+      "bytes": 39566,
+      "sha256": "48b7a5acc39894e988ed07d2118db8623e5140c071b87c46efe0689c13319ad5"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/043.json",
+      "bytes": 54504,
+      "sha256": "187da27bfadee30ecf8efef6874f6b007ca185cddcb9a8c0661481fb4c520811"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/044.json",
+      "bytes": 31825,
+      "sha256": "f692cc3f7ce3ec86dffafbea2c4979cfea9c773a98f88b2dbb38daaec6d102f3"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/045.json",
+      "bytes": 25837,
+      "sha256": "38c35bfae4c7e98b34384f99d7fbd6d05a2eab0c7d14d94e922298291691a57e"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/046.json",
+      "bytes": 30531,
+      "sha256": "13047a93816e41bd80e79be02856ab310818002193fdde124e15fab407aac51b"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/047.json",
+      "bytes": 30496,
+      "sha256": "35d29d22d864070121195f6b6145c2df43c63baaea4f211eec9ed495824637a9"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/048.json",
+      "bytes": 28221,
+      "sha256": "ac0952d53eae6284e0a3ac8fc4cd9395991a371b595e706f34c006e396ef24d4"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/049.json",
+      "bytes": 18242,
+      "sha256": "13b449daa96d07dc88623390b3f6f97a377896af180501e96c0b5dd19ee36950"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/050.json",
+      "bytes": 29496,
+      "sha256": "eb9b63d0f96f1531cd5e14d2850d491dc17791db07a204fe4c12dad8d063a971"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/051.json",
+      "bytes": 32997,
+      "sha256": "a69904334230d1dd78cfb2362d149e0658f35ea3f9571b57f2da59eb10dbe69f"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/052.json",
+      "bytes": 28352,
+      "sha256": "9a66b31a9521764921dcabb77068809c05062edb517c74273f3eafd4fba08359"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/053.json",
+      "bytes": 34932,
+      "sha256": "05a08c8a6d489cabd1f81327f84af27c74ed80f54969c65361bc3d871dad252b"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/054.json",
+      "bytes": 35468,
+      "sha256": "28fa15318b239b1e567a83102fb68df559b240ef1abc37e788de7ab878a85112"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/055.json",
+      "bytes": 37541,
+      "sha256": "501aff4601877a30cc1b2055c3f705b61463b0c3901b9e0dd3a0bb3a56f991bd"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/056.json",
+      "bytes": 46178,
+      "sha256": "e54f857fdacd8ec449a7eefd58a01efb83b0a59ea70397685370d30f8ee0e48b"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/057.json",
+      "bytes": 24455,
+      "sha256": "89919fc16750546c792e8985f850b49f40083a713c1b10b2e10024864a7ffdee"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/058.json",
+      "bytes": 17375,
+      "sha256": "6bef3182e7fe4114aa5f30e61ac7d17e8d6998f344c6c51699398475c22c57f5"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/059.json",
+      "bytes": 18519,
+      "sha256": "d55037cffbb75f3984c6d43af0a0f7ec63420e430f6d593f3146c130c7e9bfcd"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/060.json",
+      "bytes": 14482,
+      "sha256": "26344772eb3e387fb5f991eb431dbd990d1f4e34621849ac4a175fb0f83b0415"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/061.json",
+      "bytes": 10119,
+      "sha256": "d5663669687bd5211e4b77e66c6a5e74afbcbaf0535c9b115a190895bdffea18"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/062.json",
+      "bytes": 8586,
+      "sha256": "c0373839e0050cf226eb2e8ce941fb85b2ea98f3ec90f516a16fab8061b79ee1"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/063.json",
+      "bytes": 7768,
+      "sha256": "93e025ef86aa7a3d1b10518a3bb7f0aea3597b0cdbab7d65e983e7d06385d32f"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/064.json",
+      "bytes": 11358,
+      "sha256": "2a7d8209a131b1461fc139d73f9904ab825f90a0f34fe03d9c12d2107504d42c"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/065.json",
+      "bytes": 11492,
+      "sha256": "54d4c5278ce0f3ba88f55a727a51073263a342c643c08917ee88125e1c22c627"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/066.json",
+      "bytes": 11948,
+      "sha256": "eacbe82a5cb69f6deff844a9e53dd2831adf79739cba60a257e0763594324588"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/067.json",
+      "bytes": 20081,
+      "sha256": "676f068f9d06b8e0c8792a01fa582a4a08e94901809a20c8324bc313e80c9bfa"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/068.json",
+      "bytes": 28037,
+      "sha256": "26f19effe733c21f7f4b11136a3259ef2d1147c7e6947a0f816c558af41c05a4"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/069.json",
+      "bytes": 26457,
+      "sha256": "8229ab522afd0d332a9fc6dc519b9cc71eae248722974b93df79f860dff981ce"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/070.json",
+      "bytes": 21785,
+      "sha256": "dbdbde958297709a92d72de76aba97cd82150ba9650875695e5f78573ae40a21"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/071.json",
+      "bytes": 15214,
+      "sha256": "2e42a0b0f5f01d0efd6fec5f24357a25e3ee667593f427f2bbbbf62f8351c2e6"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/072.json",
+      "bytes": 18760,
+      "sha256": "5eef4f5b70c953a967d83fa1202d62b089e783fc68e8bcd418c7fbc54e8a36c2"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/073.json",
+      "bytes": 13624,
+      "sha256": "bb8a4199d4c9f1ac89630206b0a37e1e6a987e64fa29947a94f558b4d6f621c5"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/074.json",
+      "bytes": 28340,
+      "sha256": "91e9e48ceac1724947dc82e0f25fb1147877e29ed51043b86aa515b47c48ffe7"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/075.json",
+      "bytes": 19818,
+      "sha256": "8e142eadd06ada22ce9644843109af7bc1ddb0ddeb7efd377b83c56c1030f254"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/076.json",
+      "bytes": 19955,
+      "sha256": "95bc8cf2eeb71436cdadbf4619b3389cc0e7a4bd78fbcac0ebcae9c2b77201fc"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/077.json",
+      "bytes": 23882,
+      "sha256": "9a0e97158842ae9811a8a3114e5f51422fedb157caa050ed9489509c64a2a325"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/078.json",
+      "bytes": 21010,
+      "sha256": "26060500521105c9d983d5506a1ae5b15845c759ec2547e12fff435ad7d1c9da"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/079.json",
+      "bytes": 23719,
+      "sha256": "9649a9adf1d23325bbe4cf4085a59f2055ded69ee3f5b0bb8529a92c7224bf05"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/080.json",
+      "bytes": 19372,
+      "sha256": "518748056acb777af8239b2cb5e1f818467a8af2aa29e4fba6dcd691d2bcb5d6"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/081.json",
+      "bytes": 14384,
+      "sha256": "aa9aba98f8c378b0d1225ee3348a5b8ea38bf010bd84b6d22dae7c60cf64c00c"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/082.json",
+      "bytes": 8890,
+      "sha256": "58409b446080a9c36308e3282b4eed5d16ab33f5b6851e19dee4e7e488651161"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/083.json",
+      "bytes": 17638,
+      "sha256": "850935553439e1eadb91ca253bad533960bba0c358fae3487b410fec099d4cee"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/084.json",
+      "bytes": 12655,
+      "sha256": "f2f5bb3c8f3f82f69f0c17611e4ccef8fa9d0c168abc23fff649214ac95b0d4a"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/085.json",
+      "bytes": 11384,
+      "sha256": "7a4fdd5a3f7fb061cd05c6c09e4cac2dac431f4aef1bf50673675fa8edd5dd70"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/086.json",
+      "bytes": 8779,
+      "sha256": "fdd238bcf94cbe6f7ff23bd12e998d5cb32d88eecf7c3c6f9706e06cd2f6c527"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/087.json",
+      "bytes": 9276,
+      "sha256": "6efd40ec78e15ebf982ca4f828ba13dddf834f8ca60d3699b2e41dc7f9be8943"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/088.json",
+      "bytes": 11973,
+      "sha256": "3d742e51bd3e76eb08ea5744201b327938dbf1a460e63b04d77e10acf5e1e6a4"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/089.json",
+      "bytes": 15372,
+      "sha256": "44ba1802f45fd2d4fdc9690f956c1ca0321d23a03923d87ace1b2842391cd357"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/090.json",
+      "bytes": 10215,
+      "sha256": "b2038353b7410e948924ddaef2e747e89fb2b5d0417bff52e67ec2511821c540"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/091.json",
+      "bytes": 7387,
+      "sha256": "ccf648e250d88f4da894f620eb62d9b51beabae208306f1c3c16a8ee4399ab26"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/092.json",
+      "bytes": 11114,
+      "sha256": "227361dd8eb8bf515e9684a1742dd9bfa3d6fcca7c100b65438185ed915448e9"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/093.json",
+      "bytes": 5845,
+      "sha256": "acc1a56fd208ce910f46dd00fe44cdc0d9591c6c2abb68bb9be69dcd171f834f"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/094.json",
+      "bytes": 3785,
+      "sha256": "b8f592ba7698047c961e33d17ad7da4ce5b361288a8a579d774c9c7f9baf564b"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/095.json",
+      "bytes": 4574,
+      "sha256": "c8999ce83658cf5e6de046440af3e77edcf1042a496f9d33164a0a3f61ce4cad"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/096.json",
+      "bytes": 9935,
+      "sha256": "68d8fe53b35803b8d1acae7d5edd22bdfe0a49d15583183765c6accf13b042ba"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/097.json",
+      "bytes": 2939,
+      "sha256": "fc69669a72b2a9d5aac3c4f55ae984c46d0df953fe8b2f0773656f39bb080030"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/098.json",
+      "bytes": 5194,
+      "sha256": "195d20305ee5bea0cbbf6fa130151fd3e934a1d433cdc4c9e78282df2c153631"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/099.json",
+      "bytes": 4047,
+      "sha256": "f5ee85edc7fe12cbea9ee1122faad18658ba7609ef4a971cb08432899ec58b3e"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/100.json",
+      "bytes": 5811,
+      "sha256": "82e766d45c388e505cc61fdb1560d14af09273220b1cf56c589ae8977cd377d0"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/101.json",
+      "bytes": 5544,
+      "sha256": "8fddb8753bd7f775ef965c01be7662aab3f8c588f7149c56e9e7babc8a4bfba7"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/102.json",
+      "bytes": 4344,
+      "sha256": "cec39a47d4c4e273e761c61bf356e9d591c5d1b3985418595b35ac5bb0e2fe9f"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/103.json",
+      "bytes": 1500,
+      "sha256": "b0a33cd95e53a6a5f8770b4554914c5c3d6009a76dba5f59538b5f798c2eeb4c"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/104.json",
+      "bytes": 4499,
+      "sha256": "02bf91f0973e300b03b8366e36814636bbf207c45cdbdaf8da2534c1dde0319b"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/105.json",
+      "bytes": 3308,
+      "sha256": "9e298d2d8cf12a0262273d1f905e44075ca2d29a2fc0e36dcf880896af77cd09"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/106.json",
+      "bytes": 2203,
+      "sha256": "0c4d75bdcdc8a4ea6602cc69d4e9555900138edadcda2b795c4ce8d88283fc77"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/107.json",
+      "bytes": 3164,
+      "sha256": "bd45c1b070af7f075d9b2ea7079c60179e2c58144dd3a2fb5b460a06a187451f"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/108.json",
+      "bytes": 1766,
+      "sha256": "b7119377cabb17d67fb70998bdb73f173a949e451b1d42c3f07c9c2dff81c670"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/109.json",
+      "bytes": 2876,
+      "sha256": "13f8a802a24a8bf953f10984be67eaaaccd6c5292a563783f5afc0b8aa23a03e"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/110.json",
+      "bytes": 2008,
+      "sha256": "8216ffc3745b8b6dee62af97e1f457603570d20c133792c038b70d345c6b8ac3"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/111.json",
+      "bytes": 3247,
+      "sha256": "e433f0a869694d392b271c4c7685cde04ec170b240a54c9f45e588d91f45d702"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/112.json",
+      "bytes": 2195,
+      "sha256": "33c2103f9169fac3972209eb15cc50873323ce3bd07efba214bef2a99a7ba816"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/113.json",
+      "bytes": 2701,
+      "sha256": "64677034dd4f0983270d0c8e51a601062162a2641f320b8934f44a8e8424bbda"
+    },
+    {
+      "path": "tafseer/en-al-jalalayn/surahs/114.json",
+      "bytes": 4082,
+      "sha256": "6f056bd7435dfd6047081a1ac61d5e363672d960307b1abd3837a39877885054"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/001.json",
+      "bytes": 266708,
+      "sha256": "91420d1fb088d9a0c211de0f99bf9c1776ecf098a073e1b5d58cac114bdf521d"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/002.json",
+      "bytes": 3313558,
+      "sha256": "46cda5fbdde9476a3e958c087ae741257c0891620493f170b882395152af495b"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/003.json",
+      "bytes": 2383172,
+      "sha256": "b7fa64b75a3bee029c27ae876112789316d5663180335694efeb318197334625"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/004.json",
+      "bytes": 2030983,
+      "sha256": "a033a72d64c7663ea2f34093e1e4ce83dca75e806a1cc3f53d9492b0d11babcf"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/005.json",
+      "bytes": 1644304,
+      "sha256": "140e0ad39a7bb0ffb5338b200279892da159ff7f16accae384e1a683da24fc3b"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/006.json",
+      "bytes": 1690722,
+      "sha256": "ff39b90e67f940d2b3b897430835e301d06b0bec2ba82990d582229b45fd822c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/007.json",
+      "bytes": 1415490,
+      "sha256": "d594f3a62c62a10754c66fbaad48409cec6c1e2b62ec99c0a5c3d34360954723"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/008.json",
+      "bytes": 647629,
+      "sha256": "d990be58dadf18abd7a2b53dac1aef58374ef1e2fec7d54a62d4a400aa2c44f0"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/009.json",
+      "bytes": 802395,
+      "sha256": "088f76b59e9c2e1be3ee2fd3fca62cf9b675deb44b15e4061c7053ffd0900990"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/010.json",
+      "bytes": 684497,
+      "sha256": "24ec6f4119c9458acc916d899a776d6adba9ef4e348408a4aba7eb5ef3ef3bb7"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/011.json",
+      "bytes": 728728,
+      "sha256": "90f01c1e2373986618a9881c2fdae2083edc74f1623069924e1c902a2ae58819"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/012.json",
+      "bytes": 627677,
+      "sha256": "4bbb608c0e7dfd7d5a385a4b77787b8a21a2b8b6f8d3c852e24a4866ba992731"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/013.json",
+      "bytes": 333810,
+      "sha256": "25a40bebdf15211e793e6d791fe6916cd5681e9a8feb88e58a469661b8d43d03"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/014.json",
+      "bytes": 449323,
+      "sha256": "7d5c92ff5cf1a9a2d7d075756faf1fba55a583fd2617429aaf34d9004feaaaf8"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/015.json",
+      "bytes": 535577,
+      "sha256": "fee98955cbb44409b5995428532724ba6420f7af38de1b5a53bf50638757feae"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/016.json",
+      "bytes": 796516,
+      "sha256": "75ebadb71f841556114b66b2a08744b64f6cd57b1641477c8c57476cdc8ac2bb"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/017.json",
+      "bytes": 815865,
+      "sha256": "3000a612fcf25193046b00a96916a7fdc042c9b849616c6da8ce7d2ac4bca41a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/018.json",
+      "bytes": 869418,
+      "sha256": "bde460b6d6b69890871f1a335fdbd7d0ad97bad6cbb723ef795759922f8ccc8c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/019.json",
+      "bytes": 834186,
+      "sha256": "61be8aa29fe60d6aaa90e7fec077ca44702adfb09f7dddd52ac59b1ec92d7b2f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/020.json",
+      "bytes": 1127358,
+      "sha256": "dbdc8d42b58fa5a01f49bb356f6ce4e738145170262cce5c14601f0c8142424d"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/021.json",
+      "bytes": 908708,
+      "sha256": "7c00ea36ce4334803fd4a42af3a9ba78f87e8a60ad735348ffded5326baa390c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/022.json",
+      "bytes": 601290,
+      "sha256": "ee34b88fed4b60f98c27868a5ecf0231726dfc33c77f8f5d2d88ba12b0c08e3c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/023.json",
+      "bytes": 1046923,
+      "sha256": "d760f79bbe988ae5cc265c6ff7c844c79faa31ab3ee0e50fbf2a5e20afe1224b"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/024.json",
+      "bytes": 619609,
+      "sha256": "0e29f17910a48db401550c82a73534e4400954f066d53c4f7a7a77246b6458b3"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/025.json",
+      "bytes": 700638,
+      "sha256": "d74166e36f7a4ee1c5f2cdae517127d422f32634443c3bbb38acdbbe68cf0f31"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/026.json",
+      "bytes": 1713439,
+      "sha256": "859ef9755d2201e7043271bd0dc5436bf6ed112051bc3a852501d2f2b94a1f81"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/027.json",
+      "bytes": 712947,
+      "sha256": "596936c594b18c150dfd84a9715ae6337c170dacfe5090241dbcfe4572004a8e"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/028.json",
+      "bytes": 693896,
+      "sha256": "f87e7c6e4ccc6e38a9de7f80dcacfe8cc77def82aecb8cc0b1d77f46220c5731"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/029.json",
+      "bytes": 424327,
+      "sha256": "9a8abd411b639ff37da44dd1b73c39d28d26a214c9fcafb3fac3f4162b5d5659"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/030.json",
+      "bytes": 410265,
+      "sha256": "76a92f60bdf5db5bbb0c6b8c4b21563771c6718b66a5632c797c008dd88bda7c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/031.json",
+      "bytes": 188804,
+      "sha256": "03d368d957a37c9e9b0cdbb582a90ef833b7bd8566315a80369cb789be16b563"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/032.json",
+      "bytes": 189660,
+      "sha256": "a786f11e4068bbf389c3fdcb79c38f816dcb4312410e89609df126b3cd3c7e66"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/033.json",
+      "bytes": 650719,
+      "sha256": "894904716f7a78098f4292fa38e0a9d69035c49ae24efaa03b44d2f510b57a9d"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/034.json",
+      "bytes": 474088,
+      "sha256": "d987f68e7a3fac2aa948b30bea376efc76195474810867a8d68de6d1c51e54ab"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/035.json",
+      "bytes": 294640,
+      "sha256": "ba241c39baa51a150a74c7b416a4d09f9e97e0cb538022d6b5bd4e22450f1a7d"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/036.json",
+      "bytes": 648303,
+      "sha256": "ac10b90d4351ddcbc63ec65175592e47a1ff8575902550f17e69700ddf90a7ac"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/037.json",
+      "bytes": 1713259,
+      "sha256": "f01037f07368530dc722ba7582339cb1ffaba18abe7067f4e7aa574d97651b74"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/038.json",
+      "bytes": 735610,
+      "sha256": "919505a2498c85277adf8b5e827f5932c84bce4181e182802321c014c9319394"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/039.json",
+      "bytes": 684979,
+      "sha256": "bdcaa6e94061ac884a445c11b3eda376e2b9f5cd1cd7805a0c0865b356faf3fc"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/040.json",
+      "bytes": 704040,
+      "sha256": "57e20a6828d3a7cf561ac2fcfabd7d6ac7b4ac11ea3cbf062220a6962c5de606"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/041.json",
+      "bytes": 486914,
+      "sha256": "2cc72766b99b866715079201da391cbce0f08ffba739f400d697b8f92fdf95d3"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/042.json",
+      "bytes": 403393,
+      "sha256": "df5f12d2f78270319ff889acc6d3d176078e386259058eb2e5378eebfa5cfd81"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/043.json",
+      "bytes": 982531,
+      "sha256": "a36392e66d4c4ce4751152aeeef78eacf4221216c3acea007abdb2fd47fc7ab7"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/044.json",
+      "bytes": 697904,
+      "sha256": "d51bba68f10bc4460cf71fecc9078bf7eec93ad1bf6c8c70b98de67026f71618"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/045.json",
+      "bytes": 282744,
+      "sha256": "e9745ca28191bd738e86ed729b5f6e9817584c62720ffa808818bf56e2ed8912"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/046.json",
+      "bytes": 390672,
+      "sha256": "8a6920d9fca39ea65c169d50ec535914df7c0f95990286ee4f71c87fd544f159"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/047.json",
+      "bytes": 382999,
+      "sha256": "fc3bf70ab14b36db46fccc1b1fbde25aadf820be0de397f2f412c6e97c174977"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/048.json",
+      "bytes": 364649,
+      "sha256": "a76adff60356a9a1ce409e752391defda5b9d6b928b760329b88ab8cf52a1045"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/049.json",
+      "bytes": 209630,
+      "sha256": "f04c0df660ad6a534b2c56cc165ea5058eee4ae031d0d840a45d825ad2d1d3f3"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/050.json",
+      "bytes": 511249,
+      "sha256": "ec9ad2eafaf04e5070567af668cb1ac68e43ac6650f9d78ca84ffac609b1bb5b"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/051.json",
+      "bytes": 539178,
+      "sha256": "149ab261e889d4891bf5fc649115483d9e1194b12b4e8191513986888bcdeeec"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/052.json",
+      "bytes": 548766,
+      "sha256": "53a19dbd101ca287f9c236f72a9b96db9872a85b1d4af9ac1896d27d3548bf9a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/053.json",
+      "bytes": 801573,
+      "sha256": "fdf242c00d4961a6379f3a2de92782f30015c954c429a7b108ad0845f02ad497"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/054.json",
+      "bytes": 512163,
+      "sha256": "bea6ba8c8b0db8a7a4a40c1afae976bced65613df6d98ddfb49ab1873ca06fb4"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/055.json",
+      "bytes": 819448,
+      "sha256": "c418396574c6a3ed6011b5a16a30fb9a96cc59c4b3f2893c8c8ef09a0015773f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/056.json",
+      "bytes": 1438338,
+      "sha256": "bd02e1455faeb3d6eba64adc9d98dc87b96a5619bf2e30f07ab2b2f0baff4c2a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/057.json",
+      "bytes": 357244,
+      "sha256": "74e497289f18f0da0a85e3df9e73ec1370dc4bcde6704a28239600643fa549dc"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/058.json",
+      "bytes": 227860,
+      "sha256": "01b23c81175fda1856c3fd2eac2715df61ae5a7834316243c11d0d081a45400e"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/059.json",
+      "bytes": 383806,
+      "sha256": "1f5ded1de52f62a512ca14369df8c2f9de4c9d0915eb6c01474f84b59bcc2824"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/060.json",
+      "bytes": 169344,
+      "sha256": "d595cf799f59bb6054ae4fc6253d9d4635434efd35c78548ba7c9ef9d3599fde"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/061.json",
+      "bytes": 104863,
+      "sha256": "42304287c477d3add1a9380bd9bfbc0c6a7f9c1e912aebd44b7ea1c13379af48"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/062.json",
+      "bytes": 137769,
+      "sha256": "88e9abb32ec23c90be4a113dbfc32f921400ddccb1b71e772d049665d7e21c21"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/063.json",
+      "bytes": 106596,
+      "sha256": "f4382b088de37ff8585a7417af24a53813c697bfcf71dc7c00fbdd72dee5136f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/064.json",
+      "bytes": 142659,
+      "sha256": "c76e45e3f993cf6a553c874e53c2b428738c2ef4383b26c3ef5cb1b38843d311"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/065.json",
+      "bytes": 112154,
+      "sha256": "4344808796f368a4917c8e48c330f47a56e45e4bbc6cc92e04be62a3db25bf12"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/066.json",
+      "bytes": 185021,
+      "sha256": "fe0bf15d492559ae1249fbb7332438ca89083f67b30e66fe620be17068a18395"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/067.json",
+      "bytes": 271298,
+      "sha256": "7472392feec3013cd1e631e4017992c4423b20253b841e909f0ecc4f748d8614"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/068.json",
+      "bytes": 620280,
+      "sha256": "073fc2e68d054b7d02545d23082f773adf08881d0d9eb086a18e4efc4dbaf0a2"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/069.json",
+      "bytes": 483899,
+      "sha256": "d4deccb654922f32194a2271030a2e494c046d1e9157a34b3e7ac116c65e350d"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/070.json",
+      "bytes": 616610,
+      "sha256": "fd84ef3d697b7068e033731e9617ab6ce89df30cdbc2289586abc357038298ac"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/071.json",
+      "bytes": 323267,
+      "sha256": "b1b4ed70ca9a8750ac093a2aadc8a077271c4bfe04eedb6a3b9e275eca3d377b"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/072.json",
+      "bytes": 318420,
+      "sha256": "34da998189e14029a852747f2299b2515438f2cb50d4d08bd30611b531fbb571"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/073.json",
+      "bytes": 373572,
+      "sha256": "dfa3668fa3070df09335eca0d2ba92d78888421ec075541956fb8a4c29a105c3"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/074.json",
+      "bytes": 666793,
+      "sha256": "9d7066515d8755e02eb8ec069effdfd0a27d2422bfb1a742885983f276f32a30"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/075.json",
+      "bytes": 695607,
+      "sha256": "4247f625d8523ac26c5f089d5cf0d0c7c09a128bc2c84ebb72632fdedc36ecfa"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/076.json",
+      "bytes": 402913,
+      "sha256": "5f3a78eebf2bfe361da14445553e990251554cb430bba98d053a2aeb7d687234"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/077.json",
+      "bytes": 476337,
+      "sha256": "c6d641cf5b68dae32c0ec5c17c1681199cc3d0d09fc189867963944cbaaa890f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/078.json",
+      "bytes": 565233,
+      "sha256": "49c3195bcf007973ac131625456d6941fa7f2f66fd5e6607d1a89e03941640e8"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/079.json",
+      "bytes": 593190,
+      "sha256": "07b048d316a7956101639e7efe7459016aa1f47329aea3006dbae49c5ea1c863"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/080.json",
+      "bytes": 483617,
+      "sha256": "2894e6559bfa4566b27897e929e9bbfa7ce82ff828f81da0694d4bf36c97b167"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/081.json",
+      "bytes": 576536,
+      "sha256": "4fa58bc966b03658d45a8abeeb98934948b0f4b55bcef054e289b5c551918963"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/082.json",
+      "bytes": 209017,
+      "sha256": "a91c0f691d9cbe5f0fa54a742037c40ce86eedc47f6f88b09d593dc78beac4d8"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/083.json",
+      "bytes": 346985,
+      "sha256": "3121d6d20263e2f442ac941ed7a66943bbdbd97aa137a7147a2c06ffbfda755f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/084.json",
+      "bytes": 280247,
+      "sha256": "1a70e0c644a40115c3139e289712fdb391b0d727eda1a8f953818bd681ae226a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/085.json",
+      "bytes": 393977,
+      "sha256": "fe7cf6232b8e3fadbdf23a0b0941d46a743604f8373206340015c838882d9814"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/086.json",
+      "bytes": 128770,
+      "sha256": "cbc17d63c183b40ea82482b476cf8c1031fbc742b3a1f1c2452721f267506463"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/087.json",
+      "bytes": 313830,
+      "sha256": "ffdc0cfa6177a97b7ad9a45554955712145ade82f2ab09f4563279994561b247"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/088.json",
+      "bytes": 218629,
+      "sha256": "c0800e698e009e2832f7fc49a9da891b57fd90d4ed1f3ba41e40c0624772ae26"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/089.json",
+      "bytes": 381419,
+      "sha256": "9fb3a8cb416e0869cfe5da5340295817ab74c8dc06a8fa0e1b2008b3277fba44"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/090.json",
+      "bytes": 544087,
+      "sha256": "508193313950fd12d0df636235b44c718d30543ccdd55255f9b216c3f411c56a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/091.json",
+      "bytes": 204932,
+      "sha256": "6fceba93ddaf2605bf72703339205df582ba015a9da85c96478f1b191c040850"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/092.json",
+      "bytes": 321058,
+      "sha256": "1a7fe9af5522e167c6baa4c2911c2f58c2f456999b67321d492841d53f97427c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/093.json",
+      "bytes": 191367,
+      "sha256": "97f7bbaf2f0a2861bc59d0228eb7880cfbfdd22257b0bcddd2722a6edb34135c"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/094.json",
+      "bytes": 55539,
+      "sha256": "b22cf08ad0dd7df040bada516cc0a5a7e60c1ba44d57126b09aa9b91edd9e968"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/095.json",
+      "bytes": 72363,
+      "sha256": "b2d0f7af0c7e618c99695b2d4bdcbd121d1750e05eb09784ba38c7fa6cdf0661"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/096.json",
+      "bytes": 158486,
+      "sha256": "6832b23133830b5bdd94a4508092ec69e3aac06f2a49cc1c8d0200ef68eddc34"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/097.json",
+      "bytes": 101253,
+      "sha256": "53b58efd53e4ac1d21030892dad56b34d1abe65854a1c9f08feb24dfb70e98f7"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/098.json",
+      "bytes": 74648,
+      "sha256": "8b307f242fa529500d7476dfff6246a1ac7b84011bc2ecb61c94c5c6d774091a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/099.json",
+      "bytes": 170771,
+      "sha256": "44400aca0900eecc0014bafb56ca0d2f31f066be6b785419c72f3e88006c83c7"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/100.json",
+      "bytes": 100254,
+      "sha256": "2fec8414816ccd1bc3463c2105b5cdbdb7a2f3ddf55bf033a39aa1a94b218fb6"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/101.json",
+      "bytes": 113839,
+      "sha256": "bda77140e18ae5aae96b90bb704ea8bb67e85e5b6cfe4bf13df63ef0965bf0ef"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/102.json",
+      "bytes": 115163,
+      "sha256": "43124e3fd6ec8eb75647d26e4c4df9e20f1348df0e2236a4f329428069b31704"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/103.json",
+      "bytes": 15618,
+      "sha256": "11c6f6b1ebe172c63fa7ea3c99afc59eaecd8102e1c9ada1aa414d6fa8161db1"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/104.json",
+      "bytes": 58881,
+      "sha256": "d41e5eff8147ca1e011dd46f51d99503eabf146591e165c989d961abda5987d5"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/105.json",
+      "bytes": 135933,
+      "sha256": "ec8908afaf5a84a35bc9ee1a974fd6abdd3f68c86dff3df90e75aeac2200358f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/106.json",
+      "bytes": 29499,
+      "sha256": "67b9ac8306e356d7a5e17627ccd7fceff9ed91f2cae068f01368452fdcc8c86d"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/107.json",
+      "bytes": 68134,
+      "sha256": "c6c17c91c73eb66f2c3f42d77d6545cf542a1c7495d63c53d0a7ca28427e3dcf"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/108.json",
+      "bytes": 42834,
+      "sha256": "0cb410bfe2a8fd308998af830236bf5903ead93d37fc8f21f46bfb190a94cc13"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/109.json",
+      "bytes": 58527,
+      "sha256": "1eaa3ab9d723f7124f6a1a25eb1f0cad31ac947690d8b3e13e1dc6a6ec751eb2"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/110.json",
+      "bytes": 31407,
+      "sha256": "9f290acda9849483386f4d09504453b398b860f55738f5e3719b7d8565956c53"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/111.json",
+      "bytes": 62398,
+      "sha256": "f92e736d757207d9c4d15cc811b9b9ac8b443adf1857ee51960ac53b7a030d07"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/112.json",
+      "bytes": 87759,
+      "sha256": "0c17b599012220bcd1f43041b7636cd86d62a8a5d09175e52361aea51966381f"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/113.json",
+      "bytes": 93703,
+      "sha256": "99059df65c03802ab46baa2fcae88bcdfe7d17324399199a576253892366cd2a"
+    },
+    {
+      "path": "tafseer/en-tafisr-ibn-kathir/surahs/114.json",
+      "bytes": 50259,
+      "sha256": "8532aafb15157cd4e2f42e583d25a9190269f2ae67c54c4f356f0b52620aecba"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/001.json",
+      "bytes": 79651,
+      "sha256": "383e5ee9b9d7850b84f4c8726640c93555ed1919da47526f4fabdeadfc7515a2"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/002.json",
+      "bytes": 1823933,
+      "sha256": "c1989e0cff70517ab19b52a9e14e469919e7729505da4c4980da98ba360eb947"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/003.json",
+      "bytes": 877747,
+      "sha256": "1e0ca7b173ee8a52f6b22152110caba36d75cbd39c2d82855871d7ab39c2ece5"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/004.json",
+      "bytes": 1004424,
+      "sha256": "383aeb33e1258fce90fe3f8a493a43011372e80e21b575bdb4e899272501e375"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/005.json",
+      "bytes": 910930,
+      "sha256": "13b3b3246e849b926f9697d3dcb9289d0c5a510bcec685672ce0294282bc41d3"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/006.json",
+      "bytes": 958494,
+      "sha256": "7cfc5f7328588342570cd2751c02839e0aaa85820cd24467e8cffae6c9f3084c"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/007.json",
+      "bytes": 863598,
+      "sha256": "729648b4920e37f4cef14c0b2e11fd531dd375841f04ca41954095c31bd1623d"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/008.json",
+      "bytes": 396436,
+      "sha256": "d30c5d9525b51699cc8f10451704dd7980fc5366cd3b4025d61d2cf38d8576ea"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/009.json",
+      "bytes": 567211,
+      "sha256": "d7d61bf594c8c7fd0e1a8b5c3264c78286d35f755f025163e66b9769f106a900"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/010.json",
+      "bytes": 631687,
+      "sha256": "397c1d9988ed94e27511217c28905272ac70934206999b035546086e1efa38de"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/011.json",
+      "bytes": 406160,
+      "sha256": "abd1689887e87ec953335c49f8aadbfce19cf6f1ae06eaa3fc98701e44d98851"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/012.json",
+      "bytes": 421924,
+      "sha256": "24864362b15fd9aa4e49ca742c054bb9b8ef5035e05137eb8c30f74e8230c8d6"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/013.json",
+      "bytes": 205518,
+      "sha256": "74ee20faa60f39cdf60343ac5007aa81f3a664c27452d8b97ede541f9ee53973"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/014.json",
+      "bytes": 246208,
+      "sha256": "4d3b8b8d9137a5ab0633dbd8e8375303de5064906f4ebaa0cfc808819db54f93"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/015.json",
+      "bytes": 272096,
+      "sha256": "f564c97937292a842e181cfc5672a84dfbe482788caafd0b1bfa88bc0851d939"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/016.json",
+      "bytes": 429237,
+      "sha256": "4fd7f9f85b1f0b1276d79f3c2322ef35a094a647438d9a1bc69c7b6062df9ad1"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/017.json",
+      "bytes": 464756,
+      "sha256": "75bdee64d05239246d9fb5fd88f21d921128fe32448cdc528d7c79748ea28804"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/018.json",
+      "bytes": 670192,
+      "sha256": "fe50a348cf3d682757f92b3f75c851a1f084ab559c456aa1022af866e1dbdcb2"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/019.json",
+      "bytes": 166440,
+      "sha256": "f346991825707ab7507d22d5088075e003a612b3488bccdf6f530f0f1a98d363"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/020.json",
+      "bytes": 489527,
+      "sha256": "421b75743a14925172958e95a7b236897b26341c22ebfca9a37f14be2641a822"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/021.json",
+      "bytes": 340365,
+      "sha256": "24bdf042a8c73ac9698a707abbca40503216b1827a1a03b0b04ffe2aa6cf621f"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/022.json",
+      "bytes": 247116,
+      "sha256": "4bac86ed1971ae873c0b6e091a5d63911a3967fb5c8368c26697f5dbec4d71cc"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/023.json",
+      "bytes": 255680,
+      "sha256": "21f3cb9070ba8b2c1bbee29588258e47a3bbb94d08a652f06b790d725d639c90"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/024.json",
+      "bytes": 423719,
+      "sha256": "2be18bc613ae8b5a3e3f1fcb603d695e762adc536bfb11c39fd26a2517fb7694"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/025.json",
+      "bytes": 203230,
+      "sha256": "d50b04fac32139897d4c80f9e9adbca2a8e354f06f455d98ce315d4fe37c0a04"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/026.json",
+      "bytes": 740333,
+      "sha256": "64ad2289bac658fb745b9157b1d195b0985e35d6526700c00986e6ebeffa363e"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/027.json",
+      "bytes": 304777,
+      "sha256": "521220b8872944401ff1918b60beaab32502cb9a4932657bd45b960f09fdf3b2"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/028.json",
+      "bytes": 207571,
+      "sha256": "7871319e3ae515fa2ce86a0dc62ca840d4ede03e623a521a9da9a40b7ef91a68"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/029.json",
+      "bytes": 184781,
+      "sha256": "f959c4cdcc8bb44ebf2e2ba6f70e8fbd56549cb2582abd8b439da82b2d180534"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/030.json",
+      "bytes": 247558,
+      "sha256": "544179d12067ec946f7b396900044a1271534525b64fba979b89f986fa9308a6"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/031.json",
+      "bytes": 229399,
+      "sha256": "2d61c1f0326f61b29cfc2342f2f32aea7fb42c00e1fd45d69ce9e138533c46f9"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/032.json",
+      "bytes": 138280,
+      "sha256": "67de97578bcbd5af149eb5e4635bb21f8864da6815233da52038d5986a437887"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/033.json",
+      "bytes": 565043,
+      "sha256": "5a23d4d3d8145606d72716e2d08193ff49f1a1d8bb92ed07c0c9ee7fdd20fa72"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/034.json",
+      "bytes": 243259,
+      "sha256": "6a71826a4a729768b60e5e4e1099c7e831b2c1a7faef958c7e992cc986655e98"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/035.json",
+      "bytes": 165408,
+      "sha256": "40d378e7f43b697873d03ca5cb634d2c1a2cf26515a98a8550ddf2acdd658e2a"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/036.json",
+      "bytes": 249060,
+      "sha256": "792ad5bc7c03e51f0f4baaa288e1b5ef2df33308ac4a0c280304e9ed833a247f"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/037.json",
+      "bytes": 698783,
+      "sha256": "9589872c955e58b83adc207395107fb95894359098c11598db32e2b3359ec3aa"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/038.json",
+      "bytes": 217776,
+      "sha256": "84bdf80af6cc32075930ca401fe0c874887c950f72f12ac10e1865ae6a42abc5"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/039.json",
+      "bytes": 212631,
+      "sha256": "a4d9532d0b36d5a949d48ec31295c6468abe63d06c1aa19514590f85e8aceddf"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/040.json",
+      "bytes": 216046,
+      "sha256": "34d2932f761cc63428610c5c0666e35e3286010533a59f16d5162febe34759f1"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/041.json",
+      "bytes": 152167,
+      "sha256": "7df7047970798f30556faa9a1e0298b1b45e78fdad1ffdad7fd36a2fdde9d71a"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/042.json",
+      "bytes": 154833,
+      "sha256": "486b9f19f538d49d9b1d6a1b44b8eab680b1d03e7d433059af03079e2bd69533"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/043.json",
+      "bytes": 187242,
+      "sha256": "f631ebdfb4f9c2a517162b9a676f3d43237265acc7f4d1e0c8f7ba1f8bf3cc59"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/044.json",
+      "bytes": 278832,
+      "sha256": "ff4e0d2b5df64930747f9f506f3ccc8555860109f4102d7bc872566edd05ea7e"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/045.json",
+      "bytes": 91148,
+      "sha256": "c84ec57538f7053e55beb4d1c7a26f4c1b572946761b7534ef31f86aeb77ae19"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/046.json",
+      "bytes": 96194,
+      "sha256": "d57d4d0413ed5696fc7d14bbc18a99f9072d275438293b6460835c653248771d"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/047.json",
+      "bytes": 110092,
+      "sha256": "c4eb59579c1859a402d54dbcdd72d0213c5e15341a432e73213674ad2b25d716"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/048.json",
+      "bytes": 144623,
+      "sha256": "a097eddac8c44c331941e785e99aa0678ad029c817f8f0926c364baef20f4451"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/049.json",
+      "bytes": 127232,
+      "sha256": "d06ebc5c6018b83d4fc2eb3b60d4534fa96fc2e1421b1a74349e5b19f4e5bd59"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/050.json",
+      "bytes": 80925,
+      "sha256": "849fc4b69b046565ba8c5d78e2a8a50879d071e29d43495718dd8d4f3fc22b22"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/051.json",
+      "bytes": 89463,
+      "sha256": "e663f32d822b906918dbf04e9bc0cd835bcfa841aa4e35f69f8224c5fb46e2da"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/052.json",
+      "bytes": 94055,
+      "sha256": "dd8d00116f44dde5a52c66c3b96836db763b63d9d7b5cc6d43c0523b727349ae"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/053.json",
+      "bytes": 142217,
+      "sha256": "8c58e42894f234f21f6299438250c26718e1325a1b35df1ba9268ad105f22952"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/054.json",
+      "bytes": 169846,
+      "sha256": "bbd4e3555c4dc882f92071acf47666ae2a3013b3fc0969f0d48903bce62a8441"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/055.json",
+      "bytes": 131208,
+      "sha256": "a3a3b07c46d02d472bdfabda34c2571762b61919803b07a0cd05d754d286ca62"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/056.json",
+      "bytes": 234773,
+      "sha256": "ae70e7115d7153aa844c46decd3e6c9224a4cdf0d9d46683fb5911ee074dc728"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/057.json",
+      "bytes": 132701,
+      "sha256": "5bb5a9e583fcd144a32ee942503edf94699756d1528a9b8d0c42f81eef00de76"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/058.json",
+      "bytes": 80949,
+      "sha256": "300250da018a7ad2b1b626441efbc29253877d12c15ac29493e26082b5ce6c51"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/059.json",
+      "bytes": 136155,
+      "sha256": "aed0e9b7a684c2bd5e36d497610e59ba6b2fc92e0502f1f54919d08248eed839"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/060.json",
+      "bytes": 70596,
+      "sha256": "ee6c6f756d8e8e2a9a254554672836501a5b4fc787d14129be720cdcb428efa1"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/061.json",
+      "bytes": 60168,
+      "sha256": "62b6ecc5f32ddc050a9482bbcd20cc62ea45fba15b0c91bac26387adf2d19033"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/062.json",
+      "bytes": 40303,
+      "sha256": "e1b4881402285624ed3781c36070382738bc5edabe1481b94757fef37ff2f4a8"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/063.json",
+      "bytes": 111796,
+      "sha256": "dd284a964fd6f2e441af6b2b6cfc05b9ec2224205fede7844e9265d2e935e4a8"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/064.json",
+      "bytes": 44055,
+      "sha256": "7ff0b89e447e14de5e78f6861b3b5c525d176dfe80b2dba30643ea0b5621140f"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/065.json",
+      "bytes": 72705,
+      "sha256": "e8f551b9178e6600f485df8b8bf38aeb7e9600308218a9a9b3bcfff1e8c0b9dd"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/066.json",
+      "bytes": 33074,
+      "sha256": "43ebeac4da0fc6cdd6b7547d63df33c4620b366b08973d818dda0839523110fc"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/067.json",
+      "bytes": 72903,
+      "sha256": "b9cc004d2cfe0214a0de72b6340983f141ef06451e392c991411d9d69dd25173"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/068.json",
+      "bytes": 114976,
+      "sha256": "ea9ebd2ca51c7430c176d0e49c5ae218f87175b9d4e5b3a6b51d8e0d1baf7a89"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/069.json",
+      "bytes": 84078,
+      "sha256": "a2a2e2a7f649eaa6934c8d90600ed5346c50812bea73e075e643372a0380b139"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/070.json",
+      "bytes": 74283,
+      "sha256": "6828845e6951084989171d927d5633c86410fa94056a8bb1e9dc8da8573f7fed"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/071.json",
+      "bytes": 52964,
+      "sha256": "7bdac8bbaddbac0bbc5180e53f1be3385d3f89cbca11c081aab4a7d1a4ece7bc"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/072.json",
+      "bytes": 77275,
+      "sha256": "dddaac17530c4561254fabf23d87ac7f5906d0b712bd3b763e3092b61fe5d466"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/073.json",
+      "bytes": 68516,
+      "sha256": "b66d327785abf90382d68c01604a9dd94456f20cb64213030b03a48c9176b5e5"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/074.json",
+      "bytes": 272907,
+      "sha256": "84d3c30c0f6fffcca7fb302957520520ebd5c3b84b18105f246cbad3d5bcd6e4"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/075.json",
+      "bytes": 93029,
+      "sha256": "d8f6a28c5b649ff5dbfe875067e35de37ea64204f643fc4cb15503e1bf7741e8"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/076.json",
+      "bytes": 81361,
+      "sha256": "b0d21d666cd90544ef3cfacec6279ee80815fb2dd198f811c8896c143593f325"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/077.json",
+      "bytes": 73311,
+      "sha256": "c11d640f1b158fea54b3966dc8433f851c6b1688956c0e2ac314cc9092e7b610"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/078.json",
+      "bytes": 70703,
+      "sha256": "06a7db9e9f700ebe46207b378028cf78471033bad3976706f100d40871715fde"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/079.json",
+      "bytes": 197452,
+      "sha256": "ff1e92b88b703e99d988ffa024db4aea36b6785e041bb2a65a85c471f57dff7d"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/080.json",
+      "bytes": 99745,
+      "sha256": "230d619cc33df7bebf03db18fe59524c6b961987cc7069084b01863d27da2a07"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/081.json",
+      "bytes": 69795,
+      "sha256": "0d17159017ad96d423344e8ec3eb5fc81067653cb57d0e57b58dabfa4013c72e"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/082.json",
+      "bytes": 39208,
+      "sha256": "b646ce7b6425b4ef25999e27a3d60c17ced4942da2ed94086ba6ff6833b4a9ce"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/083.json",
+      "bytes": 129568,
+      "sha256": "dd761d7bda9ae27e1e8d7c973b110c96a6dc4d1353dd079aad811a3d94ddf9ab"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/084.json",
+      "bytes": 98218,
+      "sha256": "4d5369f8ccf81379b3783b4ad6ad70fc9e75a32d6b98e31db6edbe236c075018"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/085.json",
+      "bytes": 91698,
+      "sha256": "fb1c04b93f0b5e9160d16a3da54968ac0354bc94101149c45110ecdf4bbf7751"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/086.json",
+      "bytes": 30509,
+      "sha256": "daafb7daa96dbffb158ea285566c85d6f05491d93472e87082c1aa3f90bdb81d"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/087.json",
+      "bytes": 58464,
+      "sha256": "8a0754bbc7bb3e22b7a8ec956f984df57400f5ff56d813720d8aa2a7f060e76b"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/088.json",
+      "bytes": 65420,
+      "sha256": "5345f7da1435e89dfc673e446380d1108c3ef65179364df4bc1a14f42aa0fee0"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/089.json",
+      "bytes": 69957,
+      "sha256": "22c65c009fe8d085481aea07d35116c097b325831bf5997ea1646f9f205fcc18"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/090.json",
+      "bytes": 55316,
+      "sha256": "12b118f965743a34fc650cfc421c737e1d3b665f384075634a814f37380cb53d"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/091.json",
+      "bytes": 23482,
+      "sha256": "50520f86963361cc18fed19f09b08ab8a863a3e192ee2f6e32fec9f627770f11"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/092.json",
+      "bytes": 48215,
+      "sha256": "ec136d3b19e3fffdbcdc91efecb779d11c26bf919b284495fa8471641cad40c1"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/093.json",
+      "bytes": 19735,
+      "sha256": "fd05bcd468f6500331f0bb87867bf2758d5d764c3db7301d9308ed7d8e37d57e"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/094.json",
+      "bytes": 21697,
+      "sha256": "909efea7c5c747e029403bb11a681e0ad80b3a42aff14a71b212dfd434eaf3ab"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/095.json",
+      "bytes": 18016,
+      "sha256": "1cd10b0fae62e9d5043ed924e0cc43f19ccdec378c30f79054abbb24f5c09f1e"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/096.json",
+      "bytes": 57524,
+      "sha256": "4d7605fadc3c381f50ee0ebc19d4e79e0e4f086f8228436f7c9627f53d58100e"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/097.json",
+      "bytes": 30786,
+      "sha256": "ce6c2dc852cf3a591d646f78e033b2914819517bbfa49326a914ddedf130c479"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/098.json",
+      "bytes": 19452,
+      "sha256": "d93e844d18a74426c28ab1c716dc531ac80f5a7513c8377396ad736c778ff988"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/099.json",
+      "bytes": 9684,
+      "sha256": "a1b5800416258be57ae3c6c9bcb8e7fc3826122c372005ec1fc76a6f6548de83"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/100.json",
+      "bytes": 20882,
+      "sha256": "a234dcc70d5d6af8d02677acce769c06e2a5bf2c56cff1e54fc0b99555030aca"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/101.json",
+      "bytes": 26378,
+      "sha256": "14cbb28f660a0f1c65c017dce2e3714b280f266cd3e114cf602c30842640a0f0"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/102.json",
+      "bytes": 17783,
+      "sha256": "3d9b59ee1b3b95a81ebe1a970f278425d88281df2388238038ed284bd656a101"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/103.json",
+      "bytes": 28335,
+      "sha256": "e29e3a7606b491a951a27f752ce13ed881008bcb25f08bce48604012a4294d19"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/104.json",
+      "bytes": 12861,
+      "sha256": "afaa97540a502969ecec49d3f23ab56e140d60dd6da5348ebaf82da2f685fa14"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/105.json",
+      "bytes": 34270,
+      "sha256": "3a9f368aa7c899612dcc419a63cb3daebecc8a74fb017e8ecb94ed2938dfc510"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/106.json",
+      "bytes": 10792,
+      "sha256": "6b7df56a9237d49f2e5b670b1c1715b396a463c8ab2df8833e83a174edc14214"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/107.json",
+      "bytes": 37726,
+      "sha256": "d887bdbc3a67bafce73ee2f40752cdbf61eb80e43195a9e0177b48f6ae31b59b"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/108.json",
+      "bytes": 13089,
+      "sha256": "42659fbd2969b9019a6c5382facadbd9c79905e61eb28ff356d51008aef7bfe8"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/109.json",
+      "bytes": 78681,
+      "sha256": "3c67e5b54bd9d80fef82f85312ff506a199142e1d9334db4fbbc9cb55c6fd65b"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/110.json",
+      "bytes": 8646,
+      "sha256": "3c27a5271d80e9bb4bcfb72a11be19b1b448866a15f1c000b66b7cf4118f57c1"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/111.json",
+      "bytes": 19023,
+      "sha256": "ed822689c7cd89ecdf721d60caaa6716ebe29e438950ef3f1e9d49bab16d9e8b"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/112.json",
+      "bytes": 8216,
+      "sha256": "e14b525e463be3801aaa77597d879bf864f2a91e8619cdc0f33bed418e5e0194"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/113.json",
+      "bytes": 38574,
+      "sha256": "3270c0ff61da777a34ac1fa54945e968c3fe713a72bd9122972ada1708eefd42"
+    },
+    {
+      "path": "tafseer/en-tafsir-maarif-ul-quran/surahs/114.json",
+      "bytes": 29465,
+      "sha256": "8709d26ae907e9a48f3cb7fd9901e110b70036ee369f11df7d9250a4e04ec6aa"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/001.json",
+      "bytes": 138728,
+      "sha256": "83fb65ee188493462c407f0374726d21a23345d1b3d312c92cc962632e2f3b23"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/002.json",
+      "bytes": 2555203,
+      "sha256": "4f57157bea6cc8f253fccb8dc6b9a1bc21c0a77a87c7826b1242141a7ab4a8a8"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/003.json",
+      "bytes": 2320543,
+      "sha256": "c6bbfcc801210536ef8289acdcbef08ced006125ecdfb9c8d4afcd3e999f9a35"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/004.json",
+      "bytes": 2139933,
+      "sha256": "9ad20a78f2d01a495dda06d67d7193b7c4b42b80a14af745d881bdf7b8bcf2d1"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/005.json",
+      "bytes": 1776810,
+      "sha256": "2cc79cb6ea6c7f0334a70cf1c66c61ee895864e0b4b830c7fbe2ddeefe8e5b76"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/006.json",
+      "bytes": 1376842,
+      "sha256": "9e83674a0240ef30e28b39c3b7de239a18e059f7e5d3c15632916e7ea751d5ce"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/007.json",
+      "bytes": 1230736,
+      "sha256": "8afeaa6b73f7217d30379ae5c4062fd52ceec5d3e31b19c515ecf7056c3b4006"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/008.json",
+      "bytes": 667450,
+      "sha256": "26abd5d9d028e46903b4ccd30d80b305e0d6e8fc277109bbc38a02cad603c7ff"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/009.json",
+      "bytes": 836474,
+      "sha256": "ed8093d39065a9be12f48fae758b754f68f2b5055e31f14b703d3558a79f79db"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/010.json",
+      "bytes": 408690,
+      "sha256": "5592f8472e04fbd4ff5e6c917dd3d0e04b15e851ec4f5fe3a619c8b9ec246903"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/011.json",
+      "bytes": 439868,
+      "sha256": "b003d082e6161295f464fe27c9fc94ece39ea5adfe8bf4c3042f6ed351a1abc0"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/012.json",
+      "bytes": 558405,
+      "sha256": "50ba1352b2cf25c00eb469a23176e09dd8b1a49639df0443579ebfae85c9e1cd"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/013.json",
+      "bytes": 284545,
+      "sha256": "6413e6202aca81f5848690ed1d0fae6449c62e99b14060d3c98a1fc8344b8c67"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/014.json",
+      "bytes": 313149,
+      "sha256": "8f435a5f63cf8342ce0111dafbcd95fae63f9f21267809689762825b5548c4ad"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/015.json",
+      "bytes": 407389,
+      "sha256": "c8fabb93f17c34f1eb2552ee2ae597cf0fab6f8a07e9a014c384a1110c4d5658"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/016.json",
+      "bytes": 590840,
+      "sha256": "8b622b0fb5a5a6c4219d17da07a5fbbd4d2ca10fd849189205a1688806cd561a"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/017.json",
+      "bytes": 663113,
+      "sha256": "a2ddd301078ee1954980385c7892c15dd39028cd4cbea1fcdb000ce7f027c28b"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/018.json",
+      "bytes": 701461,
+      "sha256": "7ec41debd36c43750d3774cf1b24424786194f48e7e477fb412c59260bec8d39"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/019.json",
+      "bytes": 655386,
+      "sha256": "0d2be13d24c6ecf4b7e54944d03b99808a381b871fa90cd1c9a414c56d0c4a54"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/020.json",
+      "bytes": 896645,
+      "sha256": "48be6d8490325e27ef2d0dd8eca5efc56bb31fbdf7fcad51724f31b57c01294b"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/021.json",
+      "bytes": 770844,
+      "sha256": "1225f3848ff0a9211dffd23eacccb8e811fb8ac891897d54d9f64658ac54ce12"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/022.json",
+      "bytes": 478595,
+      "sha256": "04dbe637bbaa7cd15b5594d515a212dad20271a3127c76e8e9d3bfd0ac44e727"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/023.json",
+      "bytes": 819138,
+      "sha256": "c5d4e7ac2d9727dbaf6b4c676193abb79da07f063771617e5a46017b2f322cca"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/024.json",
+      "bytes": 529895,
+      "sha256": "2293dd9d518292a0502c2c1ab532fba96e39a4e044410f74c55781e1b105095c"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/025.json",
+      "bytes": 585618,
+      "sha256": "28bc076a928673e4ab2080a257c61510084e1cd2d05920715594a8df4993525b"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/026.json",
+      "bytes": 1237577,
+      "sha256": "5dfe642186681257bd62855ae2243e8dcf2e3a2693d37fee01a3aa1b0cb4858f"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/027.json",
+      "bytes": 527478,
+      "sha256": "166598812bba83f8aa6e1c7f0490a8a72b50d98662a5ae84a525a5d5799ae4d7"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/028.json",
+      "bytes": 548144,
+      "sha256": "1a1f6f7bf2dcb636bcb50a73d67bdf05f06a1314826f0752c9d3e47e91456aa6"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/029.json",
+      "bytes": 329162,
+      "sha256": "9236fa8de8459642d7f40391fd15666af26c15224b9c9eb3529c421447c74fa4"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/030.json",
+      "bytes": 423187,
+      "sha256": "d26db1c28b2dcbe48033a0e182c28a258319b5784c29e16ac59481a61d68e278"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/031.json",
+      "bytes": 236900,
+      "sha256": "3b130339372403e974cc976c7ed2d3df491742190cc5a3753ee2dfaf2acb5112"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/032.json",
+      "bytes": 172236,
+      "sha256": "fae8e71ca4d20cde162378f27942d8dad94375abf28ba0074bd9e16d8dba464c"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/033.json",
+      "bytes": 645222,
+      "sha256": "fb29c785ca4d8b7d180b7f8568b0365c85382b11b27e609b97d567d322b3a7f9"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/034.json",
+      "bytes": 386073,
+      "sha256": "9a8988c17ef43ed4f973abf423a275d0781ff03529a87844547bb603caa3762d"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/035.json",
+      "bytes": 219042,
+      "sha256": "7b06ef180800e484c35e269c083f55cb46a4bdc481117719b40c0454047e7218"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/036.json",
+      "bytes": 504282,
+      "sha256": "d285cd391d6f9c95df72d790514bcae29d17eb6d7dcbc2788760f322f3b1a6cc"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/037.json",
+      "bytes": 1434387,
+      "sha256": "47a6d29e1ee6520652a64ab83a18c433d8214a83716e9db3a7369bd6f718845f"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/038.json",
+      "bytes": 725374,
+      "sha256": "9f7a6090b87b4a00da04343448366808165cf456bceea581462156c2efc0d107"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/039.json",
+      "bytes": 522218,
+      "sha256": "f049422016e837182e6d4b6016cb6df40f0318cab7e5c7e9dad9a4442e622720"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/040.json",
+      "bytes": 564468,
+      "sha256": "ea9c5fbcb8be9444a4932f3028594c98fe5549fcf5fdfb8b0524aa3ef63ff922"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/041.json",
+      "bytes": 410193,
+      "sha256": "f7120b7e60f9a1090dd9d593c1dc6b60176ce76dae109c8a2d56241b7c379717"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/042.json",
+      "bytes": 354721,
+      "sha256": "0528a083cafe0b0d275a38ddf369cd051e869fa8312e198b718a28a5f3d7bc70"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/043.json",
+      "bytes": 768641,
+      "sha256": "a57d83ae7ab96817cccd3ad07b2fd242f3df679fcbacf1b9685d58f375339bd6"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/044.json",
+      "bytes": 631117,
+      "sha256": "7ae4600c4641f1bc1a18c5138a91cb791ce07784b0543724ab185d03056f4d7e"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/045.json",
+      "bytes": 162457,
+      "sha256": "642117f046f59736c3e2e025f2cc4c33de2a0cf8665b079ec2fa1938d3db35a3"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/046.json",
+      "bytes": 376162,
+      "sha256": "42090e9ba638c1b8752938c6dc679afcdf1f1bbbd7cb1fb5dcdeb929d089e66e"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/047.json",
+      "bytes": 269197,
+      "sha256": "d309aedb390bdd6f724608e582766c2d2554f9f45e6654d332aaadfad804d8b5"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/048.json",
+      "bytes": 328346,
+      "sha256": "af4a99923f666309eadea2c02f74116cdce313ea851c5800fb005da803dd1ed4"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/049.json",
+      "bytes": 214786,
+      "sha256": "e84c6b20caab9caf26986c88a8df3698dd50d65727590fbe286d0e34bd477ef2"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/050.json",
+      "bytes": 403893,
+      "sha256": "e41ff4e40cee6d060de8d7e78e0c0eb4b4f35465e17463044e7b72420e4eb15e"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/051.json",
+      "bytes": 459808,
+      "sha256": "f86307dbd4c18b7a17477dbad62a905d0dabc6d1a9aa97926c7252f44f41804b"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/052.json",
+      "bytes": 412386,
+      "sha256": "22f897ad1341c7d7c8e0274167b3a2cda899a9bf78ab63882eb5d96840966c4d"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/053.json",
+      "bytes": 917065,
+      "sha256": "863cb6f52d283388b487aed0da93eeeff8b348e5e6529f6964a1dbaf3eb7d381"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/054.json",
+      "bytes": 372610,
+      "sha256": "61087c517198386a6072371ab1d380d25c789d166d5e8f607a7e0b5c3f792cb6"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/055.json",
+      "bytes": 765252,
+      "sha256": "4f9ab961c614eb4955db7048fad795474013da8f4315bad377c4397195082da0"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/056.json",
+      "bytes": 1381595,
+      "sha256": "8207128705574a526efdf2e2df9c9038789857a0cebc5f0ae4ecc777b002874b"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/057.json",
+      "bytes": 332349,
+      "sha256": "8a7d56e13ee0573e32f346aa86b3cf9e895d996cb301320d9f6f58e6f21f97eb"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/058.json",
+      "bytes": 203444,
+      "sha256": "6f46d9e4048f4018581bdd23b179550d7aee9c76cc44c5504001d666fd39f57a"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/059.json",
+      "bytes": 390302,
+      "sha256": "11cad7f7f52c0ea723935ef46bacbaa473df74d14bb7843c68a5ffb3640ac50a"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/060.json",
+      "bytes": 164131,
+      "sha256": "44808429a79b728cc0cbf645e6b7514579cfdad1570975b91b80f0c165d6f6db"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/061.json",
+      "bytes": 107765,
+      "sha256": "47026bd6d5d17aac2052210fd164dcb5298286d52441eaa1178c6e00adb1c933"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/062.json",
+      "bytes": 85189,
+      "sha256": "a43659e9762b66de8f64384b2aa4807ec70835d98de389140ef30675f15e6953"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/063.json",
+      "bytes": 136752,
+      "sha256": "e2833b096a81682dd923d6719b443b9d45469a2eb5eb8dafc239f5d62817d9e4"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/064.json",
+      "bytes": 83065,
+      "sha256": "aad9a32219f56fe96d1c300d0076af167cbab8137e4db79d5409b928f380999f"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/065.json",
+      "bytes": 98637,
+      "sha256": "65ec048e31c07787599a7a846712b1a5e9e0da5359e9a447c7f638aaea64b61c"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/066.json",
+      "bytes": 218429,
+      "sha256": "a2f75bd522cd8b534120e33dba3e5341592de6af1012f981185162101aeef260"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/067.json",
+      "bytes": 151220,
+      "sha256": "44a8bf694ca7a40a205b5f609a6268aca5b6b3a9005035d5a998146cf90cb4c5"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/068.json",
+      "bytes": 489111,
+      "sha256": "aabb64babbbccf125d72786267ed4eb0b8fef1071212760b8033f49d3df9a24f"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/069.json",
+      "bytes": 368219,
+      "sha256": "342fe84cf0793b609d46347a4f1d44d17624e321204f4a3418c397b4ddbcb450"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/070.json",
+      "bytes": 394507,
+      "sha256": "97570665c0c247a3268baedbd79e2171a3c1d04c2c4183ffd6fe21132620d16e"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/071.json",
+      "bytes": 259047,
+      "sha256": "07f5bf573b4dfd442810a3e715e42248e97f99f710a6e1b9e3b10cec89afd2cb"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/072.json",
+      "bytes": 203150,
+      "sha256": "d4eb45315dd9e11c6cccb86b4ea0438025e0338cfa234401a8c47d18687bdde0"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/073.json",
+      "bytes": 283098,
+      "sha256": "a9f727e254b6cd6ad31800fba9845d3cc26ba15719116ee463edb403a2866d02"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/074.json",
+      "bytes": 605461,
+      "sha256": "a4224205993ff2b4886bc9c87786d96574025b70881341e341d793b0c153e9b7"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/075.json",
+      "bytes": 489987,
+      "sha256": "e180d32afdc60d93fbd4765359b53525849346f9178b1c2b98bd133a61851f22"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/076.json",
+      "bytes": 309155,
+      "sha256": "79d61f991f7d8c227488d04187f2960aaab91ecb63acb1bfc5a8654db1c07919"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/077.json",
+      "bytes": 283921,
+      "sha256": "b95bdf278d2fcb79a186b701322ab1199078f56fe9a70050b6224c02d212a977"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/078.json",
+      "bytes": 367279,
+      "sha256": "8280a748b0ecdc0e0eb804d5949875f27964eaf5cc5dfdfb7aee18930d2b24d5"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/079.json",
+      "bytes": 279257,
+      "sha256": "367918d21bac1ca795581dd44b96a391ca57bce9fdaa4080562962ce88c3198c"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/080.json",
+      "bytes": 366181,
+      "sha256": "e6805015aae5163448b726644f424df886bb804926dc89f9a1771b1420dfac40"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/081.json",
+      "bytes": 411324,
+      "sha256": "bef1c98bc4986d0bf4c41ee7975c38eca3bf5483ac12e59ac7417a42d5af6ebb"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/082.json",
+      "bytes": 132215,
+      "sha256": "cb459028feb2b5c9dabe3a8e624b37867140093798181692b7d74c931e984906"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/083.json",
+      "bytes": 230023,
+      "sha256": "68404f708e390acac082ed468add26e2253a7937ab5729b26a632fb75bd78142"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/084.json",
+      "bytes": 223017,
+      "sha256": "dc05ea9c2309bfd6e34a5ec33f6df01a4fafabba9c497d8939d124636e3f0064"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/085.json",
+      "bytes": 458175,
+      "sha256": "593c46bfe156567242300122ea50774eb07c7a0ca7e3783e48021d4b98330a80"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/086.json",
+      "bytes": 57971,
+      "sha256": "6d4eb7beb60294d4b1571a27937e530ed507aaafce03348ccc3be43723331b45"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/087.json",
+      "bytes": 123738,
+      "sha256": "1718863a11c4660343fa7345005eb476fb6f417daf0c267a6ef5e269321a2f63"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/088.json",
+      "bytes": 152294,
+      "sha256": "8c5b0210b5bc8d016560fce4fa8d2ac82d3ff6710cdf7d823d66d6e314ea3cff"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/089.json",
+      "bytes": 408589,
+      "sha256": "5fc5f284b19a8fab586743ebfa04951f8ae159c6a7df21416d90eb8239ec1d52"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/090.json",
+      "bytes": 185447,
+      "sha256": "dbd929fa7bf434e7673646d5b5caa7a7944eefb0b07529b6429dfa3f24de28dd"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/091.json",
+      "bytes": 135217,
+      "sha256": "63c177ebc81eb8894f1bd78b11938d88df8559a82ffc5aabfad8f7f4cf235ee7"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/092.json",
+      "bytes": 214184,
+      "sha256": "4f0d62ba1aed7f5bad139792cf6086782eab1af1d2b75518b4f9385324360610"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/093.json",
+      "bytes": 163592,
+      "sha256": "3ebc6f4a05a4b221c1a05b711aab2bcce3469d8980f337e6c2df68944d0513bd"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/094.json",
+      "bytes": 127171,
+      "sha256": "80eb6a811094b030b7434522f134c78b6cd5790fda300cb75d119b8694f89329"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/095.json",
+      "bytes": 42259,
+      "sha256": "b5cc5ed7958f58dbf8cf006600efa6bc45307da85ebc5cdaaec30ca578201885"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/096.json",
+      "bytes": 158769,
+      "sha256": "1bf60f89f6ba15011e5578e4d887515c0533c8f9342c8826d95bebb318b044f4"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/097.json",
+      "bytes": 249328,
+      "sha256": "86e08a3d9d761b1a53e619ee8d0f4aaa9f30ae76bde2f59ef7afba77c09c36af"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/098.json",
+      "bytes": 34730,
+      "sha256": "27e87c11de6ef87d59e9d51a3036d6172f9f4ea8b569883217f5e2c7bca46339"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/099.json",
+      "bytes": 100715,
+      "sha256": "4d15f6a12ff791654f7c501c51daadfda5a2f4ff45b9caa0c0957bf714eb446a"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/100.json",
+      "bytes": 101112,
+      "sha256": "33e1ad0e3fdcb1793f994d40a857b07a3416f513d4f4d51c35f1a728c9dc499d"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/101.json",
+      "bytes": 62392,
+      "sha256": "0f795491ea42260634f45fc6a1e5b2c149bbcbd5909fa1284895fc631f0dfe4a"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/102.json",
+      "bytes": 137283,
+      "sha256": "b2715cdd9d1732024067aa53c9f4b4ff677d2633895f6d33e5302442f5974a40"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/103.json",
+      "bytes": 5361,
+      "sha256": "079a58bed9b5beca956715d3f0f38d660e67f7ffe1f8321aae07623d5147157f"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/104.json",
+      "bytes": 33735,
+      "sha256": "8df3611a436fd6ead2220ac199243914d7344d2c29fe71241e0d2b9abbcf470f"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/105.json",
+      "bytes": 140113,
+      "sha256": "30d363aba740f465bc6bab7b746324b6543374cd798d7434f71d1a34c463cfb2"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/106.json",
+      "bytes": 22251,
+      "sha256": "21e9c42239014b18c7736dc292a6685c07e77ca26b14e889a8983336645594cb"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/107.json",
+      "bytes": 78690,
+      "sha256": "e01ef9f42d4f769147b876aaf457cd1585ea46ad7abd88f214ed7bc3cc889421"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/108.json",
+      "bytes": 49461,
+      "sha256": "272186babe35d36ba4682514b351791917e8c9b4e12d1202b0f43b3cc3c3ef22"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/109.json",
+      "bytes": 45855,
+      "sha256": "c1c3f8d992e579e8da8a343ec1245c9964d5094031f9db616fbe8047bc2dcdbb"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/110.json",
+      "bytes": 38301,
+      "sha256": "baf7377549640e429f16e612bfc9f61a1d54c2fa0dc817b19f1a1440997ea3bf"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/111.json",
+      "bytes": 58968,
+      "sha256": "abb38e0b9f34e8b8d34a529b24846a0ea2e7c4cf58ac4d11706fce0f77526b77"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/112.json",
+      "bytes": 32415,
+      "sha256": "a023894ac0f6a6f485af9c450aa24d8cd7cb51feb7bb52d20e0e18228448c5f4"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/113.json",
+      "bytes": 47353,
+      "sha256": "b1e523f7ea9ac317d6478d8c218ca35c1bcb92eaf7b02c85994691da4163a477"
+    },
+    {
+      "path": "tafseer/ur-tafseer-ibn-e-kaseer/surahs/114.json",
+      "bytes": 71487,
+      "sha256": "a710b45a197c9a844b41f7f23588cb290b248cd63993e5c63bbea2873c8bdfab"
     }
   ]
 }

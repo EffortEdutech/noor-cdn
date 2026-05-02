@@ -1,0 +1,313 @@
+{
+  "surah": {
+    "number": 84,
+    "slug": "al-inshiqaaq",
+    "nameArabic": "الانشقاق",
+    "nameTransliteration": "Al-Inshiqaaq",
+    "nameEnglish": "The Splitting Open",
+    "revelation": "makki",
+    "ayahCount": 25
+  },
+  "ayahs": [
+    {
+      "surah": 84,
+      "ayah": 1,
+      "key": "84:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "translations": {
+        "en": "When the sky is rent asunder,",
+        "ms": "Apabila langit terbelah",
+        "id": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ"
+      },
+      "transliteration": "Itha alssamao inshaqqat"
+    },
+    {
+      "surah": 84,
+      "ayah": 2,
+      "key": "84:2",
+      "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "translations": {
+        "en": "And hearkens to (the Command of) its Lord, and it must needs (do so);-",
+        "ms": "Serta mematuhi perintah Tuhannya, dan sudah semestinya ia patuh",
+        "id": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ"
+      },
+      "transliteration": "Waathinat lirabbiha wahuqqat"
+    },
+    {
+      "surah": 84,
+      "ayah": 3,
+      "key": "84:3",
+      "arabic": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "translations": {
+        "en": "And when the earth is flattened out,",
+        "ms": "Dan apabila bumi diratakan",
+        "id": "وَإِذَا ٱلۡأَرۡضُ مُدَّتۡ"
+      },
+      "transliteration": "Waitha alardu muddat"
+    },
+    {
+      "surah": 84,
+      "ayah": 4,
+      "key": "84:4",
+      "arabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "translations": {
+        "en": "And casts forth what is within it and becomes (clean) empty,",
+        "ms": "Serta mengeluarkan apa yang di dalamnya, dan menjadi kosong",
+        "id": "وَأَلۡقَتۡ مَا فِيهَا وَتَخَلَّتۡ"
+      },
+      "transliteration": "Waalqat ma feeha watakhallat"
+    },
+    {
+      "surah": 84,
+      "ayah": 5,
+      "key": "84:5",
+      "arabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "translations": {
+        "en": "And hearkens to (the Command of) its Lord,- and it must needs (do so);- (then will come Home the full reality).",
+        "ms": "Serta mematuhi perintah Tuhannya, dan sudah semestinya ia patuh; - (Maka pada saat itu tiap-tiap seorang akan mengetahui apa yang telah dilakukannya)",
+        "id": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ"
+      },
+      "transliteration": "Waathinat lirabbiha wahuqqat"
+    },
+    {
+      "surah": 84,
+      "ayah": 6,
+      "key": "84:6",
+      "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+      "translations": {
+        "en": "O thou man! Verily thou art ever toiling on towards thy Lord- painfully toiling,- but thou shalt meet Him.",
+        "ms": "Wahai manusia! Sesungguhnya engkau sentiasa berpenat-lelah (menjalankan keadaan hidupmu) dengan sedaya upayamu hinggalah (semasa engkau) kembali kepada Tuhanmu, kemudian engkau tetap menemui balasan apa yang engkau telah usahakan itu (tercatit semuanya)",
+        "id": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحٗا فَمُلَٰقِيهِ"
+      },
+      "transliteration": "Ya ayyuha alinsanu innaka kadihun ila rabbika kadhan famulaqeehi"
+    },
+    {
+      "surah": 84,
+      "ayah": 7,
+      "key": "84:7",
+      "arabic": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+      "translations": {
+        "en": "Then he who is given his Record in his right hand,",
+        "ms": "Kemudian sesiapa yang diberi menerima surat amalnya dengan tangan kanannya",
+        "id": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ"
+      },
+      "transliteration": "Faama man ootiya kitabahu biyameenihi"
+    },
+    {
+      "surah": 84,
+      "ayah": 8,
+      "key": "84:8",
+      "arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "translations": {
+        "en": "Soon will his account be taken by an easy reckoning,",
+        "ms": "Maka ia akan dihisab dengan cara yang mudah dan ringan",
+        "id": "فَسَوۡفَ يُحَاسَبُ حِسَابٗا يَسِيرٗا"
+      },
+      "transliteration": "Fasawfa yuhasabu hisaban yaseeran"
+    },
+    {
+      "surah": 84,
+      "ayah": 9,
+      "key": "84:9",
+      "arabic": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "translations": {
+        "en": "And he will turn to his people, rejoicing!",
+        "ms": "Dan ia akan pergi kepada keluarganya (yang beriman) dengan sukacita",
+        "id": "وَيَنقَلِبُ إِلَىٰٓ أَهۡلِهِۦ مَسۡرُورٗا"
+      },
+      "transliteration": "Wayanqalibu ila ahlihi masrooran"
+    },
+    {
+      "surah": 84,
+      "ayah": 10,
+      "key": "84:10",
+      "arabic": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "translations": {
+        "en": "But he who is given his Record behind his back,-",
+        "ms": "Dan sesiapa yang diberi menerima surat amalnya (dengan tangan kiri), dari sebelah belakangnya",
+        "id": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ"
+      },
+      "transliteration": "Waamma man ootiya kitabahu waraa thahrihi"
+    },
+    {
+      "surah": 84,
+      "ayah": 11,
+      "key": "84:11",
+      "arabic": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "translations": {
+        "en": "Soon will he cry for perdition,",
+        "ms": "Maka ia akan meraung menyebut-nyebut kebinasaannya",
+        "id": "فَسَوۡفَ يَدۡعُواْ ثُبُورٗا"
+      },
+      "transliteration": "Fasawfa yadAAoo thubooran"
+    },
+    {
+      "surah": 84,
+      "ayah": 12,
+      "key": "84:12",
+      "arabic": "وَيَصْلَىٰ سَعِيرًا",
+      "translations": {
+        "en": "And he will enter a Blazing Fire.",
+        "ms": "Dan ia akan menderita bakaran neraka yang marak menjulang",
+        "id": "وَيَصۡلَىٰ سَعِيرًا"
+      },
+      "transliteration": "Wayasla saAAeeran"
+    },
+    {
+      "surah": 84,
+      "ayah": 13,
+      "key": "84:13",
+      "arabic": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "translations": {
+        "en": "Truly, did he go about among his people, rejoicing!",
+        "ms": "Sebenarnya ia semasa di dunia dahulu bersukaria dalam kalangan keluarganya (yang juga kufur ingkar)",
+        "id": "إِنَّهُۥ كَانَ فِيٓ أَهۡلِهِۦ مَسۡرُورًا"
+      },
+      "transliteration": "Innahu kana fee ahlihi masrooran"
+    },
+    {
+      "surah": 84,
+      "ayah": 14,
+      "key": "84:14",
+      "arabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "translations": {
+        "en": "Truly, did he think that he would not have to return (to Us)!",
+        "ms": "Sesungguhnya ia menyangka bahawa ia tidak sekali-kali akan kembali (kepada Kami untuk menerima balasan)",
+        "id": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ"
+      },
+      "transliteration": "Innahu thanna an lan yahoora"
+    },
+    {
+      "surah": 84,
+      "ayah": 15,
+      "key": "84:15",
+      "arabic": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "translations": {
+        "en": "Nay, nay! for his Lord was (ever) watchful of him!",
+        "ms": "(Sangkaannya itu tidak betul) bahkan ia tetap kembali! Sesungguhnya Tuhannya sentiasa Melihat dan Mengetahui keadaannya",
+        "id": "بَلَىٰٓۚ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرٗا"
+      },
+      "transliteration": "Bala inna rabbahu kana bihi baseeran"
+    },
+    {
+      "surah": 84,
+      "ayah": 16,
+      "key": "84:16",
+      "arabic": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "translations": {
+        "en": "So I do call to witness the ruddy glow of Sunset;",
+        "ms": "Maka Aku bersumpah, demi mega",
+        "id": "فَلَآ أُقۡسِمُ بِٱلشَّفَقِ"
+      },
+      "transliteration": "Fala oqsimu bialshshafaqi"
+    },
+    {
+      "surah": 84,
+      "ayah": 17,
+      "key": "84:17",
+      "arabic": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "translations": {
+        "en": "The Night and its Homing;",
+        "ms": "Dan malam serta segala yang dihimpunkannya",
+        "id": "وَٱلَّيۡلِ وَمَا وَسَقَ"
+      },
+      "transliteration": "Waallayli wama wasaqa"
+    },
+    {
+      "surah": 84,
+      "ayah": 18,
+      "key": "84:18",
+      "arabic": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "translations": {
+        "en": "And the Moon in her fullness:",
+        "ms": "Dan bulan apabila (penuh cahayanya) menjadi purnama",
+        "id": "وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ"
+      },
+      "transliteration": "Waalqamari itha ittasaqa"
+    },
+    {
+      "surah": 84,
+      "ayah": 19,
+      "key": "84:19",
+      "arabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "translations": {
+        "en": "Ye shall surely travel from stage to stage.",
+        "ms": "Sesungguhnya kamu tetap melalui beberapa keadaan yang bertingkat-tingkat baik buruknya, (sebelum kamu menemui Tuhan - menerima kesenangan dan kebahagiaan atau sebaliknya)",
+        "id": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ"
+      },
+      "transliteration": "Latarkabunna tabaqan AAan tabaqin"
+    },
+    {
+      "surah": 84,
+      "ayah": 20,
+      "key": "84:20",
+      "arabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "translations": {
+        "en": "What then is the matter with them, that they believe not?-",
+        "ms": "Maka apakah alasan bagi mereka bersikap tidak mahu beriman",
+        "id": "فَمَا لَهُمۡ لَا يُؤۡمِنُونَ"
+      },
+      "transliteration": "Fama lahum la yuminoona"
+    },
+    {
+      "surah": 84,
+      "ayah": 21,
+      "key": "84:21",
+      "arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "translations": {
+        "en": "And when the Qur'an is read to them, they fall not prostrate,",
+        "ms": "Dan (apakah pula alasannya) apabila dibacakan Al-Quran kepada mereka, mereka tidak mahu taat dan sujud",
+        "id": "وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩"
+      },
+      "transliteration": "Waitha quria AAalayhimu alquranu la yasjudoona"
+    },
+    {
+      "surah": 84,
+      "ayah": 22,
+      "key": "84:22",
+      "arabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "translations": {
+        "en": "But on the contrary the Unbelievers reject (it).",
+        "ms": "(Tidak ada satu alasan pun) bahkan orang-orang yang kafir, semata-mata mendustakannya",
+        "id": "بَلِ ٱلَّذِينَ كَفَرُواْ يُكَذِّبُونَ"
+      },
+      "transliteration": "Bali allatheena kafaroo yukaththiboona"
+    },
+    {
+      "surah": 84,
+      "ayah": 23,
+      "key": "84:23",
+      "arabic": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "translations": {
+        "en": "But Allah has full knowledge of what they secrete (in their breasts)",
+        "ms": "Sedang Allah mengetahui apa yang mereka rahsiakan dalam hati",
+        "id": "وَٱللَّهُ أَعۡلَمُ بِمَا يُوعُونَ"
+      },
+      "transliteration": "WaAllahu aAAlamu bima yooAAoona"
+    },
+    {
+      "surah": 84,
+      "ayah": 24,
+      "key": "84:24",
+      "arabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "translations": {
+        "en": "So announce to them a Penalty Grievous,",
+        "ms": "Maka khabarkanlah kepada mereka dengan azab yang tidak terperi sakitnya",
+        "id": "فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ"
+      },
+      "transliteration": "Fabashshirhum biAAathabin aleemin"
+    },
+    {
+      "surah": 84,
+      "ayah": 25,
+      "key": "84:25",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "translations": {
+        "en": "Except to those who believe and work righteous deeds: For them is a Reward that will never fail.",
+        "ms": "Tetapi orang-orang yang beriman dan beramal soleh mereka beroleh pahala balasan yang tidak putus-putus",
+        "id": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونِۭ"
+      },
+      "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati lahum ajrun ghayru mamnoonin"
+    }
+  ]
+}

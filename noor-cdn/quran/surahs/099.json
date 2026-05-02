@@ -1,0 +1,109 @@
+{
+  "surah": {
+    "number": 99,
+    "slug": "az-zalzalah",
+    "nameArabic": "الزلزلة",
+    "nameTransliteration": "Az-Zalzalah",
+    "nameEnglish": "The Earthquake",
+    "revelation": "madani",
+    "ayahCount": 8
+  },
+  "ayahs": [
+    {
+      "surah": 99,
+      "ayah": 1,
+      "key": "99:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "translations": {
+        "en": "When the earth is shaken to her (utmost) convulsion,",
+        "ms": "Apabila bumi digegarkan dengan gegaran yang sedahsyat-dahsyatnya",
+        "id": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا"
+      },
+      "transliteration": "Itha zulzilati alardu zilzalaha"
+    },
+    {
+      "surah": 99,
+      "ayah": 2,
+      "key": "99:2",
+      "arabic": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "translations": {
+        "en": "And the earth throws up her burdens (from within),",
+        "ms": "Serta bumi itu mengeluarkan segala isinya",
+        "id": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا"
+      },
+      "transliteration": "Waakhrajati alardu athqalaha"
+    },
+    {
+      "surah": 99,
+      "ayah": 3,
+      "key": "99:3",
+      "arabic": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "translations": {
+        "en": "And man cries (distressed): 'What is the matter with her?'-",
+        "ms": "Dan berkatalah manusia (dengan perasaan gerun); \"Apa yang sudah terjadi kepada bumi",
+        "id": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا"
+      },
+      "transliteration": "Waqala alinsanu ma laha"
+    },
+    {
+      "surah": 99,
+      "ayah": 4,
+      "key": "99:4",
+      "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "translations": {
+        "en": "On that Day will she declare her tidings:",
+        "ms": "Pada hari itu bumipun menceritakan khabar beritanya",
+        "id": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا"
+      },
+      "transliteration": "Yawmaithin tuhaddithu akhbaraha"
+    },
+    {
+      "surah": 99,
+      "ayah": 5,
+      "key": "99:5",
+      "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "translations": {
+        "en": "For that thy Lord will have given her inspiration.",
+        "ms": "Bahawa Tuhanmu telah memerintahnya (berlaku demikian)",
+        "id": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا"
+      },
+      "transliteration": "Bianna rabbaka awha laha"
+    },
+    {
+      "surah": 99,
+      "ayah": 6,
+      "key": "99:6",
+      "arabic": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "On that Day will men proceed in companies sorted out, to be shown the deeds that they (had done).",
+        "ms": "Pada hari itu manusia akan keluar berselerak (dari kubur masing-masing) - untuk diperlihatkan kepada mereka (balasan) amal-amal mereka",
+        "id": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Yawmaithin yasduru alnnasu ashtatan liyuraw aAAmalahum"
+    },
+    {
+      "surah": 99,
+      "ayah": 7,
+      "key": "99:7",
+      "arabic": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "translations": {
+        "en": "Then shall anyone who has done an atom's weight of good, see it!",
+        "ms": "Maka sesiapa berbuat kebajikan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)",
+        "id": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ"
+      },
+      "transliteration": "Faman yaAAmal mithqala tharratin khayran yarahu"
+    },
+    {
+      "surah": 99,
+      "ayah": 8,
+      "key": "99:8",
+      "arabic": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "translations": {
+        "en": "And anyone who has done an atom's weight of evil, shall see it.",
+        "ms": "Dan sesiapa berbuat kejahatan seberat zarah, nescaya akan dilihatnya (dalam surat amalnya)",
+        "id": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ"
+      },
+      "transliteration": "Waman yaAAmal mithqala tharratin sharran yarahu"
+    }
+  ]
+}

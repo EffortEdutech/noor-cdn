@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ar-tafsir-muyassar-108-1",
+    "bookId": "ar-tafsir-muyassar",
+    "language": "ar",
+    "surah": 108,
+    "fromAyah": 1,
+    "toAyah": 1,
+    "title": "Tafsir Muyassar — Arabic · 108:1",
+    "body": "إنا أعطيناك -أيها النبي- الخير الكثير في الدنيا والآخرة، ومن ذلك نهر الكوثر في الجنة الذي حافتاه خيام اللؤلؤ المجوَّف، وطينه المسك.",
+    "sourceLabel": "Tafsir Muyassar — Arabic",
+    "tags": [
+      "ar-tafsir-muyassar",
+      "ar",
+      "intermediate"
+    ]
+  },
+  {
+    "id": "ar-tafsir-muyassar-108-2",
+    "bookId": "ar-tafsir-muyassar",
+    "language": "ar",
+    "surah": 108,
+    "fromAyah": 2,
+    "toAyah": 2,
+    "title": "Tafsir Muyassar — Arabic · 108:2",
+    "body": "فأخلص لربك صلاتك كلها، واذبح ذبيحتك له وعلى اسمه وحده.",
+    "sourceLabel": "Tafsir Muyassar — Arabic",
+    "tags": [
+      "ar-tafsir-muyassar",
+      "ar",
+      "intermediate"
+    ]
+  },
+  {
+    "id": "ar-tafsir-muyassar-108-3",
+    "bookId": "ar-tafsir-muyassar",
+    "language": "ar",
+    "surah": 108,
+    "fromAyah": 3,
+    "toAyah": 3,
+    "title": "Tafsir Muyassar — Arabic · 108:3",
+    "body": "إن مبغضك ومبغض ما جئت به من الهدى والنور، هو المنقطع أثره، المقطوع من كل خير.",
+    "sourceLabel": "Tafsir Muyassar — Arabic",
+    "tags": [
+      "ar-tafsir-muyassar",
+      "ar",
+      "intermediate"
+    ]
+  }
+]

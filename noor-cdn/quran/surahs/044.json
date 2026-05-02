@@ -1,0 +1,721 @@
+{
+  "surah": {
+    "number": 44,
+    "slug": "ad-dukhaan",
+    "nameArabic": "الدخان",
+    "nameTransliteration": "Ad-Dukhaan",
+    "nameEnglish": "The Smoke",
+    "revelation": "makki",
+    "ayahCount": 59
+  },
+  "ayahs": [
+    {
+      "surah": 44,
+      "ayah": 1,
+      "key": "44:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ حمٓ",
+      "translations": {
+        "en": "Ha-Mim.",
+        "ms": "Haa, Miim",
+        "id": "حمٓ"
+      },
+      "transliteration": "Hameem"
+    },
+    {
+      "surah": 44,
+      "ayah": 2,
+      "key": "44:2",
+      "arabic": "وَٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "translations": {
+        "en": "By the Book that makes things clear;-",
+        "ms": "Demi Al-Quran Kitab yang menerangkan kebenaran",
+        "id": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ"
+      },
+      "transliteration": "Waalkitabi almubeeni"
+    },
+    {
+      "surah": 44,
+      "ayah": 3,
+      "key": "44:3",
+      "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةٍ مُّبَـٰرَكَةٍ ۚ إِنَّا كُنَّا مُنذِرِينَ",
+      "translations": {
+        "en": "We sent it down during a Blessed Night: for We (ever) wish to warn (against Evil).",
+        "ms": "Sesungguhnya Kami telah menurunkan Al-Quran itu pada malam yang berkat; (Kami berbuat demikian) kerana sesungguhnya Kami sentiasa memberi peringatan dan amaran (jangan hamba-hamba Kami ditimpa azab)",
+        "id": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ"
+      },
+      "transliteration": "Inna anzalnahu fee laylatin mubarakatin inna kunna munthireena"
+    },
+    {
+      "surah": 44,
+      "ayah": 4,
+      "key": "44:4",
+      "arabic": "فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ",
+      "translations": {
+        "en": "In the (Night) is made distinct every affair of wisdom,",
+        "ms": "(Kami menurunkan Al-Quran pada malam yang tersebut, kerana) pada malam yang berkat itu, dijelaskan (kepada malaikat) tiap-tiap perkara yang mengandungi hikmat serta tetap berlaku, (tidak berubah atau bertukar)",
+        "id": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ"
+      },
+      "transliteration": "Feeha yufraqu kullu amrin hakeemin"
+    },
+    {
+      "surah": 44,
+      "ayah": 5,
+      "key": "44:5",
+      "arabic": "أَمْرًا مِّنْ عِندِنَآ ۚ إِنَّا كُنَّا مُرْسِلِينَ",
+      "translations": {
+        "en": "By command, from Our Presence. For We (ever) send (revelations),",
+        "ms": "Iaitu perkara-perkara yang terbitnya dari hikmat kebijaksanaan Kami; sesungguhnya telah menjadi adat Kami mengutus Rasul",
+        "id": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ"
+      },
+      "transliteration": "Amran min AAindina inna kunna mursileena"
+    },
+    {
+      "surah": 44,
+      "ayah": 6,
+      "key": "44:6",
+      "arabic": "رَحْمَةً مِّن رَّبِّكَ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "translations": {
+        "en": "As Mercy from thy Lord: for He hears and knows (all things);",
+        "ms": "(Untuk menyampaikan) rahmat dari Tuhanmu (kepada umat manusia); sesungguhnya Allah Jualah Yang Maha Mendengar, lagi Maha Mengetahui (akan segala keadaan hamba-hambaNya)",
+        "id": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
+      },
+      "transliteration": "Rahmatan min rabbika innahu huwa alssameeAAu alAAaleemu"
+    },
+    {
+      "surah": 44,
+      "ayah": 7,
+      "key": "44:7",
+      "arabic": "رَبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+      "translations": {
+        "en": "The Lord of the heavens and the earth and all between them, if ye (but) have an assured faith.",
+        "ms": "Tuhan (yang mencipta dan mentadbirkan keadaan) langit dan bumi serta segala yang ada di antara keduanya; kalau betul kamu orang-orang yang yakin (akan hakikat itu, maka terimalah sahaja apa yang diutuskan kepada kamu)",
+        "id": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ"
+      },
+      "transliteration": "Rabbi alssamawati waalardi wama baynahuma in kuntum mooqineena"
+    },
+    {
+      "surah": 44,
+      "ayah": 8,
+      "key": "44:8",
+      "arabic": "لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "translations": {
+        "en": "There is no god but He: It is He Who gives life and gives death,- The Lord and Cherisher to you and your earliest ancestors.",
+        "ms": "Tiada Tuhan yang berhak disembah melainkan Dia; Dia lah Yang menghidupkan dan Yang mematikan; (Dia lah jua) Tuhan kamu dan Tuhan datuk nenek kamu yang telah lalu",
+        "id": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ"
+      },
+      "transliteration": "La ilaha illa huwa yuhyee wayumeetu rabbukum warabbu abaikumu alawwaleena"
+    },
+    {
+      "surah": 44,
+      "ayah": 9,
+      "key": "44:9",
+      "arabic": "بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ",
+      "translations": {
+        "en": "Yet they play about in doubt.",
+        "ms": "(Mereka tidak meyakini kebenaran yang dijelaskan kepada mereka), bahkan mereka masih tenggelam dalam keraguan sambil bermain-main dengan perkara ugama",
+        "id": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ"
+      },
+      "transliteration": "Bal hum fee shakkin yalAAaboona"
+    },
+    {
+      "surah": 44,
+      "ayah": 10,
+      "key": "44:10",
+      "arabic": "فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ",
+      "translations": {
+        "en": "Then watch thou for the Day that the sky will bring forth a kind of smoke (or mist) plainly visible,",
+        "ms": "Oleh itu tunggulah (wahai Muhammad) semasa langit membawa asap kemarau yang jelas nyata (yang menyebabkan kebuluran yang dahsyat)",
+        "id": "فَٱرۡتَقِبۡ يَوۡمَ تَأۡتِي ٱلسَّمَآءُ بِدُخَانٖ مُّبِينٖ"
+      },
+      "transliteration": "Fairtaqib yawma tatee alssamao bidukhanin mubeenin"
+    },
+    {
+      "surah": 44,
+      "ayah": 11,
+      "key": "44:11",
+      "arabic": "يَغْشَى ٱلنَّاسَ ۖ هَـٰذَا عَذَابٌ أَلِيمٌ",
+      "translations": {
+        "en": "Enveloping the people: this will be a Penalty Grievous.",
+        "ms": "Yang akan menimpa seluruh keadaan manusia (yang kafir itu, sehingga mereka akan berkata: \"Ini adalah azab yang sungguh menyakitkan)",
+        "id": "يَغۡشَى ٱلنَّاسَۖ هَٰذَا عَذَابٌ أَلِيمٞ"
+      },
+      "transliteration": "Yaghsha alnnasa hatha AAathabun aleemun"
+    },
+    {
+      "surah": 44,
+      "ayah": 12,
+      "key": "44:12",
+      "arabic": "رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ",
+      "translations": {
+        "en": "(They will say:) \"Our Lord! remove the Penalty from us, for we do really believe!\"",
+        "ms": "(Pada saat itu mereka akan merayu dengan berkata): \"Wahai Tuhan kami! Hapuskanlah azab ini dari kami, sesungguhnya kami akan beriman",
+        "id": "رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ"
+      },
+      "transliteration": "Rabbana ikshif AAanna alAAathaba inna muminoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 13,
+      "key": "44:13",
+      "arabic": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ وَقَدْ جَآءَهُمْ رَسُولٌ مُّبِينٌ",
+      "translations": {
+        "en": "How shall the message be (effectual) for them, seeing that an Messenger explaining things clearly has (already) come to them,-",
+        "ms": "Bagaimana mereka dapat beringat (menyempurnakan janji mereka hendak beriman itu)? Pada hal mereka telah pun didatangi seorang Rasul yang memberi keterangan-keterangan (yang cukup untuk mereka beriman)",
+        "id": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولٞ مُّبِينٞ"
+      },
+      "transliteration": "Anna lahumu alththikra waqad jaahum rasoolun mubeenun"
+    },
+    {
+      "surah": 44,
+      "ayah": 14,
+      "key": "44:14",
+      "arabic": "ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ",
+      "translations": {
+        "en": "Yet they turn away from him and say: \"Tutored (by others), a man possessed!\"",
+        "ms": "Sekalipun demikian, mereka juga berpaling ingkar daripada menerima keterangannya sambil berkata (sesama sendiri): \"Dia seorang yang diajar (oleh bangsa asing), dia juga seorang yang gila",
+        "id": "ثُمَّ تَوَلَّوۡاْ عَنۡهُ وَقَالُواْ مُعَلَّمٞ مَّجۡنُونٌ"
+      },
+      "transliteration": "Thumma tawallaw AAanhu waqaloo muAAallamun majnoonun"
+    },
+    {
+      "surah": 44,
+      "ayah": 15,
+      "key": "44:15",
+      "arabic": "إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا ۚ إِنَّكُمْ عَآئِدُونَ",
+      "translations": {
+        "en": "We shall indeed remove the Penalty for a while, (but) truly ye will revert (to your ways).",
+        "ms": "Sesungguhnya (kalaulah) kami hapuskan azab itu barang sedikitpun, sudah tentu kamu akan kembali (kufur ingkar)",
+        "id": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ"
+      },
+      "transliteration": "Inna kashifoo alAAathabi qaleelan innakum AAaidoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 16,
+      "key": "44:16",
+      "arabic": "يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰٓ إِنَّا مُنتَقِمُونَ",
+      "translations": {
+        "en": "One day We shall seize you with a mighty onslaught: We will indeed (then) exact Retribution!",
+        "ms": "(Ingatlah! Kalau kamu ulangi keingkaran kamu, kamu akan dibinasakan) semasa Kami timpakan (kamu dengan) paluan yang besar (dari pihak lawan kamu); sesungguhnya Kami tetap akan menyeksa (dengan azab yang seberat-beratnya)",
+        "id": "يَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰٓ إِنَّا مُنتَقِمُونَ"
+      },
+      "transliteration": "Yawma nabtishu albatshata alkubra inna muntaqimoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 17,
+      "key": "44:17",
+      "arabic": "۞ وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَآءَهُمْ رَسُولٌ كَرِيمٌ",
+      "translations": {
+        "en": "We did, before them, try the people of Pharaoh: there came to them a messenger most honourable,",
+        "ms": "Dan demi Sesungguhnya! Sebelum mereka, Kami telah menguji kaum Firaun, dan merekapun telah didatangi oleh seorang Rasul (Nabi Musa) Yang mulia",
+        "id": "۞وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ كَرِيمٌ"
+      },
+      "transliteration": "Walaqad fatanna qablahum qawma firAAawna wajaahum rasoolun kareemun"
+    },
+    {
+      "surah": 44,
+      "ayah": 18,
+      "key": "44:18",
+      "arabic": "أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ ۖ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "translations": {
+        "en": "Saying: \"Restore to me the Servants of Allah: I am to you an messenger worthy of all trust;",
+        "ms": "(Yang memberitahu kepada mereka dengan katanya): Berikanlah kepadaku wahai hamba-hamba Allah (apa-apa yang menandakan kamu menerima kerasulanku); sesungguhnya aku ini seorang Rasul yang amanah, yang diutuskan kepada kamu",
+        "id": "أَنۡ أَدُّوٓاْ إِلَيَّ عِبَادَ ٱللَّهِۖ إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ"
+      },
+      "transliteration": "An addoo ilayya AAibada Allahi innee lakum rasoolun ameenun"
+    },
+    {
+      "surah": 44,
+      "ayah": 19,
+      "key": "44:19",
+      "arabic": "وَأَن لَّا تَعْلُوا۟ عَلَى ٱللَّهِ ۖ إِنِّىٓ ءَاتِيكُم بِسُلْطَـٰنٍ مُّبِينٍ",
+      "translations": {
+        "en": "\"And be not arrogant as against Allah: for I come to you with authority manifest.",
+        "ms": "Dan janganlah kamu berlaku sombong takbur terhadap Allah; sesungguhnya aku ada membawa kepada kamu mukjizat yang jelas nyata",
+        "id": "وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنٖ مُّبِينٖ"
+      },
+      "transliteration": "Waan la taAAloo AAala Allahi innee ateekum bisultanin mubeenin"
+    },
+    {
+      "surah": 44,
+      "ayah": 20,
+      "key": "44:20",
+      "arabic": "وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ",
+      "translations": {
+        "en": "\"For me, I have sought safety with my Lord and your Lord, against your injuring me.",
+        "ms": "Dan sesungguhnya aku telah memohon perlindungan kepada Tuhanku dan Tuhan kamu, daripada kamu merejam (atau menyakiti) daku",
+        "id": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ"
+      },
+      "transliteration": "Wainnee AAuthtu birabbee warabbikum an tarjumooni"
+    },
+    {
+      "surah": 44,
+      "ayah": 21,
+      "key": "44:21",
+      "arabic": "وَإِن لَّمْ تُؤْمِنُوا۟ لِى فَٱعْتَزِلُونِ",
+      "translations": {
+        "en": "\"If ye believe me not, at least keep yourselves away from me.\"",
+        "ms": "Dan sekiranya kamu tidak juga mahu berimankan kerasulanku, maka putuskanlah perhubungan kamu denganku (janganlah mengganggu daku)",
+        "id": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ"
+      },
+      "transliteration": "Wain lam tuminoo lee faiAAtazilooni"
+    },
+    {
+      "surah": 44,
+      "ayah": 22,
+      "key": "44:22",
+      "arabic": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوْمٌ مُّجْرِمُونَ",
+      "translations": {
+        "en": "(But they were aggressive:) then he cried to his Lord: \"These are indeed a people given to sin.\"",
+        "ms": "(Setelah Nabi Musa berputus asa daripada iman mereka), maka ia pun merayu kepada Tuhannya lalu berkata: \"Sesungguhnya orang-orang ini adalah kaum yang berdosa, (yang telah sebati dengan kekufurannya, dan berhaklah mereka menerima balasan yang seburuk-buruknya)",
+        "id": "فَدَعَا رَبَّهُۥٓ أَنَّ هَـٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ"
+      },
+      "transliteration": "FadaAAa rabbahu anna haolai qawmun mujrimoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 23,
+      "key": "44:23",
+      "arabic": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+      "translations": {
+        "en": "(The reply came:) \"March forth with My Servants by night: for ye are sure to be pursued.",
+        "ms": "Lalu (diperintahkan kepadanya): \"Bawalah hamba-hambaku (pengikut-pengikutmu) keluar pada waktu malam, kerana sesungguhnya kamu akan dikejar (oleh Firaun dan orang-orangnya)",
+        "id": "فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ"
+      },
+      "transliteration": "Faasri biAAibadee laylan innakum muttabaAAoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 24,
+      "key": "44:24",
+      "arabic": "وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا ۖ إِنَّهُمْ جُندٌ مُّغْرَقُونَ",
+      "translations": {
+        "en": "\"And leave the sea as a furrow (divided): for they are a host (destined) to be drowned.\"",
+        "ms": "Dan tinggalkanlah laut itu dalam keadaan tenang - terbelah, kerana sesungguhnya mereka (yang mengejarmu itu) ialah tentera yang akan ditenggelamkan (sehingga binasa)",
+        "id": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ"
+      },
+      "transliteration": "Waotruki albahra rahwan innahum jundun mughraqoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 25,
+      "key": "44:25",
+      "arabic": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ",
+      "translations": {
+        "en": "How many were the gardens and springs they left behind,",
+        "ms": "Banyak sungguh kebun-kebun dan matair, mereka tinggalkan",
+        "id": "كَمۡ تَرَكُواْ مِن جَنَّـٰتٖ وَعُيُونٖ"
+      },
+      "transliteration": "Kam tarakoo min jannatin waAAuyoonin"
+    },
+    {
+      "surah": 44,
+      "ayah": 26,
+      "key": "44:26",
+      "arabic": "وَزُرُوعٍ وَمَقَامٍ كَرِيمٍ",
+      "translations": {
+        "en": "And corn-fields and noble buildings,",
+        "ms": "Dan juga berbagai jenis tanaman serta tempat-tempat kediaman yang indah - mulia",
+        "id": "وَزُرُوعٖ وَمَقَامٖ كَرِيمٖ"
+      },
+      "transliteration": "WazurooAAin wamaqamin kareemin"
+    },
+    {
+      "surah": 44,
+      "ayah": 27,
+      "key": "44:27",
+      "arabic": "وَنَعْمَةٍ كَانُوا۟ فِيهَا فَـٰكِهِينَ",
+      "translations": {
+        "en": "And wealth (and conveniences of life), wherein they had taken such delight!",
+        "ms": "Dan juga kemewahan hidup, yang mereka sekian lama menikmatinya",
+        "id": "وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ"
+      },
+      "transliteration": "WanaAAmatin kanoo feeha fakiheena"
+    },
+    {
+      "surah": 44,
+      "ayah": 28,
+      "key": "44:28",
+      "arabic": "كَذَٰلِكَ ۖ وَأَوْرَثْنَـٰهَا قَوْمًا ءَاخَرِينَ",
+      "translations": {
+        "en": "Thus (was their end)! And We made other people inherit (those things)!",
+        "ms": "Demikianlah keadaannya (hukum Kami ke atas orang-orang yang derhaka); dan Kami jadikan semua peninggalan Firaun dan orang-orangnya: milik kaum yang lain (kaum Bani Israil)",
+        "id": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا قَوۡمًا ءَاخَرِينَ"
+      },
+      "transliteration": "Kathalika waawrathnaha qawman akhareena"
+    },
+    {
+      "surah": 44,
+      "ayah": 29,
+      "key": "44:29",
+      "arabic": "فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ",
+      "translations": {
+        "en": "And neither heaven nor earth shed a tear over them: nor were they given a respite (again).",
+        "ms": "Mereka (ketika dibinasakan) itu tidak ditangisi oleh langit dan bumi (atau penduduk keduanya) dan mereka pula tidak diberi tempoh lagi",
+        "id": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ"
+      },
+      "transliteration": "Fama bakat AAalayhimu alssamao waalardu wama kanoo munthareena"
+    },
+    {
+      "surah": 44,
+      "ayah": 30,
+      "key": "44:30",
+      "arabic": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
+      "translations": {
+        "en": "We did deliver aforetime the Children of Israel from humiliating Punishment,",
+        "ms": "Dan demi sesungguhnya! Kami telah selamatkan kaum Bani Israil, dari azab yang menghina",
+        "id": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَـٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ"
+      },
+      "transliteration": "Walaqad najjayna banee israeela mina alAAathabi almuheeni"
+    },
+    {
+      "surah": 44,
+      "ayah": 31,
+      "key": "44:31",
+      "arabic": "مِن فِرْعَوْنَ ۚ إِنَّهُۥ كَانَ عَالِيًا مِّنَ ٱلْمُسْرِفِينَ",
+      "translations": {
+        "en": "Inflicted by Pharaoh, for he was arrogant (even) among inordinate transgressors.",
+        "ms": "Dari penindasan Firaun, sesungguhnya ia adalah seorang yang sombong takbur lagi terbilang dari orang-orang yang melampaui batas (dalam keganasan dan kekejamannya)",
+        "id": "مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِيٗا مِّنَ ٱلۡمُسۡرِفِينَ"
+      },
+      "transliteration": "Min firAAawna innahu kana AAaliyan mina almusrifeena"
+    },
+    {
+      "surah": 44,
+      "ayah": 32,
+      "key": "44:32",
+      "arabic": "وَلَقَدِ ٱخْتَرْنَـٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَـٰلَمِينَ",
+      "translations": {
+        "en": "And We chose them aforetime above the nations, knowingly,",
+        "ms": "Dan demi sesungguhnya! Kami telah memilih mereka dengan berdasarkan pengetahuan (Kami) - menjadi lebih pangkatnya dari penduduk dunia (pada zaman itu)",
+        "id": "وَلَقَدِ ٱخۡتَرۡنَٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَٰلَمِينَ"
+      },
+      "transliteration": "Walaqadi ikhtarnahum AAala AAilmin AAala alAAalameena"
+    },
+    {
+      "surah": 44,
+      "ayah": 33,
+      "key": "44:33",
+      "arabic": "وَءَاتَيْنَـٰهُم مِّنَ ٱلْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌا۟ مُّبِينٌ",
+      "translations": {
+        "en": "And granted them Signs in which there was a manifest trial",
+        "ms": "Dan Kami berikan kepada mereka (melalui Nabi Musa) berbagai mukjizat yang mengandungi ujian yang jelas nyata (untuk melahirkan sikap mereka)",
+        "id": "وَءَاتَيۡنَٰهُم مِّنَ ٱلۡأٓيَٰتِ مَا فِيهِ بَلَـٰٓؤٞاْ مُّبِينٌ"
+      },
+      "transliteration": "Waataynahum mina alayati ma feehi balaon mubeenun"
+    },
+    {
+      "surah": 44,
+      "ayah": 34,
+      "key": "44:34",
+      "arabic": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ",
+      "translations": {
+        "en": "As to these (Quraish), they say forsooth:",
+        "ms": "(Berbalik kepada kisah kaum musyrik penduduk Makkah, Allah berfirman): \"Sesungguhnya mereka ini akan berkata (kepadamu - wahai Muhammad dan kepada pengikut-pengikutmu)",
+        "id": "إِنَّ هَـٰٓؤُلَآءِ لَيَقُولُونَ"
+      },
+      "transliteration": "Inna haolai layaqooloona"
+    },
+    {
+      "surah": 44,
+      "ayah": 35,
+      "key": "44:35",
+      "arabic": "إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ",
+      "translations": {
+        "en": "\"There is nothing beyond our first death, and we shall not be raised again.",
+        "ms": "Mati, hanyalah mati kita yang pertama (di dunia), dan kita tidak sekali-kali akan dibangkitkan hidup lagi (sesudah itu)",
+        "id": "إِنۡ هِيَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِينَ"
+      },
+      "transliteration": "In hiya illa mawtatuna aloola wama nahnu bimunshareena"
+    },
+    {
+      "surah": 44,
+      "ayah": 36,
+      "key": "44:36",
+      "arabic": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَـٰدِقِينَ",
+      "translations": {
+        "en": "\"Then bring (back) our forefathers, if what ye say is true!\"",
+        "ms": "(Jika tidak) maka bawakanlah datuk nenek kami (yang telah mati) kalau betul kamu orang-orang yang benar",
+        "id": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ"
+      },
+      "transliteration": "Fatoo biabaina in kuntum sadiqeena"
+    },
+    {
+      "surah": 44,
+      "ayah": 37,
+      "key": "44:37",
+      "arabic": "أَهُمْ خَيْرٌ أَمْ قَوْمُ تُبَّعٍ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ أَهْلَكْنَـٰهُمْ ۖ إِنَّهُمْ كَانُوا۟ مُجْرِمِينَ",
+      "translations": {
+        "en": "What! Are they better than the people of Tubba and those who were before them? We destroyed them because they were guilty of sin.",
+        "ms": "(Mengapa mereka masih berdegil dalam kekufurannya?) Adakah mereka yang lebih kekuatan dan kehandalannya atau kaum \"Tubba'\" dan orang-orang yang terdahulu dari mereka? Orang-orang itu semuanya Kami telah binasakan, kerana sesungguhnya mereka adalah orang-orang yang berdosa",
+        "id": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ"
+      },
+      "transliteration": "Ahum khayrun am qawmu tubbaAAin waallatheena min qablihim ahlaknahum innahum kanoo mujrimeena"
+    },
+    {
+      "surah": 44,
+      "ayah": 38,
+      "key": "44:38",
+      "arabic": "وَمَا خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَـٰعِبِينَ",
+      "translations": {
+        "en": "We created not the heavens, the earth, and all between them, merely in (idle) sport:",
+        "ms": "Dan tidaklah Kami menciptakan langit dan bumi serta segala yang ada di antara keduanya, secara main-main",
+        "id": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ"
+      },
+      "transliteration": "Wama khalaqna alssamawati waalarda wama baynahuma laAAibeena"
+    },
+    {
+      "surah": 44,
+      "ayah": 39,
+      "key": "44:39",
+      "arabic": "مَا خَلَقْنَـٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "translations": {
+        "en": "We created them not except for just ends: but most of them do not understand.",
+        "ms": "Tidaklah Kami menciptakan keduanya (serta segala yang ada di antaranya) melainkan kerana menzahirkan perkara-perkara yang benar; akan tetapi kebanyakan mereka tidak mengetahui (hakikat itu)",
+        "id": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ"
+      },
+      "transliteration": "Ma khalaqnahuma illa bialhaqqi walakinna aktharahum la yaAAlamoona"
+    },
+    {
+      "surah": 44,
+      "ayah": 40,
+      "key": "44:40",
+      "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَـٰتُهُمْ أَجْمَعِينَ",
+      "translations": {
+        "en": "Verily the Day of sorting out is the time appointed for all of them,-",
+        "ms": "Sesungguhnya hari pemutusan hukum untuk memberi balasan, ialah masa untuk mereka semua berhimpun",
+        "id": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ"
+      },
+      "transliteration": "Inna yawma alfasli meeqatuhum ajmaAAeena"
+    },
+    {
+      "surah": 44,
+      "ayah": 41,
+      "key": "44:41",
+      "arabic": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+      "translations": {
+        "en": "The Day when no protector can avail his client in aught, and no help can they receive,",
+        "ms": "Iaitu hari seseorang kerabat atau sahabat karib tidak dapat memberikan sebarang perlindungan kepada seseorang kerabat atau sahabat karibnya, dan mereka pula tidak akan diberikan pertolongan (untuk menghapuskan azab itu)",
+        "id": "يَوۡمَ لَا يُغۡنِي مَوۡلًى عَن مَّوۡلٗى شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ"
+      },
+      "transliteration": "Yawma la yughnee mawlan AAan mawlan shayan wala hum yunsaroona"
+    },
+    {
+      "surah": 44,
+      "ayah": 42,
+      "key": "44:42",
+      "arabic": "إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "translations": {
+        "en": "Except such as receive Allah's Mercy: for He is Exalted in Might, Most Merciful.",
+        "ms": "Kecuali orang yang telah diberi rahmat oleh Allah; sesungguhnya Allah jualah yang Maha Kuasa, lagi Maha Mengasihani",
+        "id": "إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ"
+      },
+      "transliteration": "Illa man rahima Allahu innahu huwa alAAazeezu alrraheemu"
+    },
+    {
+      "surah": 44,
+      "ayah": 43,
+      "key": "44:43",
+      "arabic": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "translations": {
+        "en": "Verily the tree of Zaqqum",
+        "ms": "(Ingatlah), sesungguhnya pokok Zaqqum",
+        "id": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ"
+      },
+      "transliteration": "Inna shajarata alzzaqqoomi"
+    },
+    {
+      "surah": 44,
+      "ayah": 44,
+      "key": "44:44",
+      "arabic": "طَعَامُ ٱلْأَثِيمِ",
+      "translations": {
+        "en": "Will be the food of the Sinful,-",
+        "ms": "(Buahnya) menjadi makanan bagi orang yang berdosa (dalam neraka)",
+        "id": "طَعَامُ ٱلۡأَثِيمِ"
+      },
+      "transliteration": "TaAAamu alatheemi"
+    },
+    {
+      "surah": 44,
+      "ayah": 45,
+      "key": "44:45",
+      "arabic": "كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ",
+      "translations": {
+        "en": "Like molten brass; it will boil in their insides.",
+        "ms": "(Makanan ini pula panas) seperti tembaga cair, mendidih dalam perut",
+        "id": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ"
+      },
+      "transliteration": "Kaalmuhli yaghlee fee albutooni"
+    },
+    {
+      "surah": 44,
+      "ayah": 46,
+      "key": "44:46",
+      "arabic": "كَغَلْىِ ٱلْحَمِيمِ",
+      "translations": {
+        "en": "Like the boiling of scalding water.",
+        "ms": "Seperti mendidihnya air yang meluap-luap panasnya",
+        "id": "كَغَلۡيِ ٱلۡحَمِيمِ"
+      },
+      "transliteration": "Kaghalyi alhameemi"
+    },
+    {
+      "surah": 44,
+      "ayah": 47,
+      "key": "44:47",
+      "arabic": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+      "translations": {
+        "en": "(A voice will cry: \"Seize ye him and drag him into the midst of the Blazing Fire!",
+        "ms": "(Lalu diperintahkan kepada malaikat penjaga neraka): \"Renggutlah orang yang berdosa itu dan seretlah dia ke tengah-tengah neraka",
+        "id": "خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَآءِ ٱلۡجَحِيمِ"
+      },
+      "transliteration": "Khuthoohu faiAAtiloohu ila sawai aljaheemi"
+    },
+    {
+      "surah": 44,
+      "ayah": 48,
+      "key": "44:48",
+      "arabic": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
+      "translations": {
+        "en": "\"Then pour over his head the Penalty of Boiling Water,",
+        "ms": "Kemudian curahkanlah di atas kepalanya - azab seksa - dari air panas yang menggelegak",
+        "id": "ثُمَّ صُبُّواْ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِيمِ"
+      },
+      "transliteration": "Thumma subboo fawqa rasihi min AAathabi alhameemi"
+    },
+    {
+      "surah": 44,
+      "ayah": 49,
+      "key": "44:49",
+      "arabic": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
+      "translations": {
+        "en": "\"Taste thou (this)! Truly wast thou mighty, full of honour!",
+        "ms": "(Serta dikatakan kepadanya secara mengejek): \"Rasalah azab seksa, sebenarnya engkau adalah orang yang berpengaruh dan terhormat (dalam kalangan masyarakatmu)",
+        "id": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ"
+      },
+      "transliteration": "Thuq innaka anta alAAazeezu alkareemu"
+    },
+    {
+      "surah": 44,
+      "ayah": 50,
+      "key": "44:50",
+      "arabic": "إِنَّ هَـٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+      "translations": {
+        "en": "\"Truly this is what ye used to doubt!\"",
+        "ms": "(Kemudian dikatakan kepada ahli neraka umumnya): \"Sesungguhnya inilah dia (azab seksa) yang kamu dahulu ragu-ragu terhadapnya",
+        "id": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ"
+      },
+      "transliteration": "Inna hatha ma kuntum bihi tamtaroona"
+    },
+    {
+      "surah": 44,
+      "ayah": 51,
+      "key": "44:51",
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍ",
+      "translations": {
+        "en": "As to the Righteous (they will be) in a position of Security,",
+        "ms": "Sesungguhnya orang-orang yang bertaqwa (akan ditempatkan) di tempat tinggal yang aman sentosa",
+        "id": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ"
+      },
+      "transliteration": "Inna almuttaqeena fee maqamin ameenin"
+    },
+    {
+      "surah": 44,
+      "ayah": 52,
+      "key": "44:52",
+      "arabic": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+      "translations": {
+        "en": "Among Gardens and Springs;",
+        "ms": "Ia itu di dalam beberapa taman Syurga, dengan matair-matair terpancar padanya",
+        "id": "فِي جَنَّـٰتٖ وَعُيُونٖ"
+      },
+      "transliteration": "Fee jannatin waAAuyoonin"
+    },
+    {
+      "surah": 44,
+      "ayah": 53,
+      "key": "44:53",
+      "arabic": "يَلْبَسُونَ مِن سُندُسٍ وَإِسْتَبْرَقٍ مُّتَقَـٰبِلِينَ",
+      "translations": {
+        "en": "Dressed in fine silk and in rich brocade, they will face each other;",
+        "ms": "Mereka memakai pakaian dari kain sutera yang halus dan kain sutera tebal yang bersulam; (mereka duduk di tempat perhimpunan) sentiasa berhadap-hadapan (di atas pelamin masing-masing)",
+        "id": "يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ"
+      },
+      "transliteration": "Yalbasoona min sundusin waistabraqin mutaqabileena"
+    },
+    {
+      "surah": 44,
+      "ayah": 54,
+      "key": "44:54",
+      "arabic": "كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+      "translations": {
+        "en": "So; and We shall join them to fair women with beautiful, big, and lustrous eyes.",
+        "ms": "Demikianlah keadaannya; dan Kami jadikan kawan teman mereka bidadari-bidadari yang putih melepak, lagi luas cantik matanya",
+        "id": "كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ"
+      },
+      "transliteration": "Kathalika wazawwajnahum bihoorin AAeenin"
+    },
+    {
+      "surah": 44,
+      "ayah": 55,
+      "key": "44:55",
+      "arabic": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
+      "translations": {
+        "en": "There can they call for every kind of fruit in peace and security;",
+        "ms": "Mereka meminta - di dalam Syurga itu - tiap-tiap jenis buah-buahan (yang mereka ingini), dalam keadaan aman sentosa",
+        "id": "يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ"
+      },
+      "transliteration": "YadAAoona feeha bikulli fakihatin amineena"
+    },
+    {
+      "surah": 44,
+      "ayah": 56,
+      "key": "44:56",
+      "arabic": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+      "translations": {
+        "en": "Nor will they there taste Death, except the first death; and He will preserve them from the Penalty of the Blazing Fire,-",
+        "ms": "Mereka tidak merasai kematian dalam Syurga itu selain daripada mati yang mereka rasai (di dunia) dahulu; dan Allah selamatkan mereka dari azab neraka",
+        "id": "لَا يَذُوقُونَ فِيهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِيمِ"
+      },
+      "transliteration": "La yathooqoona feeha almawta illa almawtata aloola wawaqahum AAathaba aljaheemi"
+    },
+    {
+      "surah": 44,
+      "ayah": 57,
+      "key": "44:57",
+      "arabic": "فَضْلًا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "translations": {
+        "en": "As a Bounty from thy Lord! that will be the supreme achievement!",
+        "ms": "(Mereka diberikan semuanya itu) sebagai limpah kurnia dari Tuhanmu (wahai Muhammad); yang demikian itulah kemenangan yang besar",
+        "id": "فَضۡلٗا مِّن رَّبِّكَۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ"
+      },
+      "transliteration": "Fadlan min rabbika thalika huwa alfawzu alAAatheemu"
+    },
+    {
+      "surah": 44,
+      "ayah": 58,
+      "key": "44:58",
+      "arabic": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "translations": {
+        "en": "Verily, We have made this (Qur'an) easy, in thy tongue, in order that they may give heed.",
+        "ms": "Maka sesungguhnya tujuan Kami memudahkan Al-Quran dengan bahasamu (wahai Muhammad), ialah supaya mereka (yang memahaminya) beringat dan insaf (untuk beriman dan mematuhinya)",
+        "id": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ"
+      },
+      "transliteration": "Fainnama yassarnahu bilisanika laAAallahum yatathakkaroona"
+    },
+    {
+      "surah": 44,
+      "ayah": 59,
+      "key": "44:59",
+      "arabic": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+      "translations": {
+        "en": "So wait thou and watch; for they (too) are waiting.",
+        "ms": "(Kiranya mereka tidak berbuat demikian) maka tunggulah (wahai Muhammad akan kesudahan mereka), sesungguhnya mereka juga menunggu (akan kesudahanmu)",
+        "id": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ"
+      },
+      "transliteration": "Fairtaqib innahum murtaqiboona"
+    }
+  ]
+}

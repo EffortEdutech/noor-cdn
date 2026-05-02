@@ -1,0 +1,553 @@
+{
+  "surah": {
+    "number": 50,
+    "slug": "qaaf",
+    "nameArabic": "ق",
+    "nameTransliteration": "Qaaf",
+    "nameEnglish": "Qaf",
+    "revelation": "makki",
+    "ayahCount": 45
+  },
+  "ayahs": [
+    {
+      "surah": 50,
+      "ayah": 1,
+      "key": "50:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+      "translations": {
+        "en": "Qaf: By the Glorious Qur'an (Thou art Allah's Messenger).",
+        "ms": "Qaaf. Demi Al-Quran yang melimpah-limpah kemuliaan dan kebaikannya (bahawa sesungguhnya Muhammad adalah Rasul yang diutus memberi peringatan dan amaran)",
+        "id": "قٓۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ"
+      },
+      "transliteration": "Qaf waalqurani almajeedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 2,
+      "key": "50:2",
+      "arabic": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا شَىْءٌ عَجِيبٌ",
+      "translations": {
+        "en": "But they wonder that there has come to them a Warner from among themselves. So the Unbelievers say: \"This is a wonderful thing!",
+        "ms": "(Kaum musyrik Makkah bukan sahaja mengingkari kerasulannya) bahkan mereka merasa hairan kerana datang kepada mereka, dari kalangan mereka sendiri, seorang Rasul pemberi peringatan dan amaran (mengenai perkara hidup semula sesudah mati); lalu orang-orang yang kafir itu berkata: \"Ini adalah satu perkara yang menakjubkan",
+        "id": "بَلۡ عَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡ فَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا شَيۡءٌ عَجِيبٌ"
+      },
+      "transliteration": "Bal AAajiboo an jaahum munthirun minhum faqala alkafiroona hatha shayon AAajeebun"
+    },
+    {
+      "surah": 50,
+      "ayah": 3,
+      "key": "50:3",
+      "arabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+      "translations": {
+        "en": "\"What! When we die and become dust, (shall we live again?) That is a (sort of) return far (from our understanding).\"",
+        "ms": "Adakah (kita akan kembali hidup) sesudah kita mati dan menjadi tanah? Itu adalah cara kembali yang jauh (dari kemungkinan, kerana jasad yang telah hancur tidak dapat diketahui lagi)",
+        "id": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗاۖ ذَٰلِكَ رَجۡعُۢ بَعِيدٞ"
+      },
+      "transliteration": "Aitha mitna wakunna turaban thalika rajAAun baAAeedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 4,
+      "key": "50:4",
+      "arabic": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَـٰبٌ حَفِيظٌۢ",
+      "translations": {
+        "en": "We already know how much of them the earth takes away: With Us is a record guarding (the full account).",
+        "ms": "(Apa yang mereka katakan itu tidaklah benar, kerana) Kami sedia mengetahui apa yang dimakan oleh bumi sedikit demi sedikit dari (tubuh orang mati) mereka, serta ada di sisi Kami sebuah Kitab yang menyimpan (catitan segala perkara yang berlaku)",
+        "id": "قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَٰبٌ حَفِيظُۢ"
+      },
+      "transliteration": "Qad AAalimna ma tanqusu alardu minhum waAAindana kitabun hafeethun"
+    },
+    {
+      "surah": 50,
+      "ayah": 5,
+      "key": "50:5",
+      "arabic": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ",
+      "translations": {
+        "en": "But they deny the Truth when it comes to them: so they are in a confused state.",
+        "ms": "(Mereka tidak mahu berfikir betul) bahkan mereka (terburu-buru) mendustakan kebenaran apabila sahaja sampainya kepada mereka; oleh sebab itu, mereka berada dalam keadaan yang serba kacau",
+        "id": "بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرٖ مَّرِيجٍ"
+      },
+      "transliteration": "Bal kaththaboo bialhaqqi lamma jaahum fahum fee amrin mareejin"
+    },
+    {
+      "surah": 50,
+      "ayah": 6,
+      "key": "50:6",
+      "arabic": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَـٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٍ",
+      "translations": {
+        "en": "Do they not look at the sky above them?- How We have made it and adorned it, and there are no flaws in it?",
+        "ms": "(Kalaulah mereka menyangka Kami tidak berkuasa mengembalikan mereka hidup semula) maka tidakkah mereka memandang ke langit yang ada di sebelah atas mereka (dengan tidak bertiang) bagaimana Kami membinanya (dengan rapi) serta Kami menghiasinya (dengan bintang-bintang), dan dengan keadaan tidak ada padanya retak-renggang",
+        "id": "أَفَلَمۡ يَنظُرُوٓاْ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنَٰهَا وَزَيَّنَّـٰهَا وَمَا لَهَا مِن فُرُوجٖ"
+      },
+      "transliteration": "Afalam yanthuroo ila alssamai fawqahum kayfa banaynaha wazayyannaha wama laha min furoojin"
+    },
+    {
+      "surah": 50,
+      "ayah": 7,
+      "key": "50:7",
+      "arabic": "وَٱلْأَرْضَ مَدَدْنَـٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "translations": {
+        "en": "And the earth- We have spread it out, and set thereon mountains standing firm, and produced therein every kind of beautiful growth (in pairs)-",
+        "ms": "Dan juga (keadaan) bumi ini, (bagaimana) Kami bentangkan dia sebagai hamparan, dan Kami letakkan padanya gunung-ganang yang terdiri kukuh, serta Kami tumbuhkan padanya pelbagai jenis tanaman yang indah subur",
+        "id": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجٖ"
+      },
+      "transliteration": "Waalarda madadnaha waalqayna feeha rawasiya waanbatna feeha min kulli zawjin baheejin"
+    },
+    {
+      "surah": 50,
+      "ayah": 8,
+      "key": "50:8",
+      "arabic": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ",
+      "translations": {
+        "en": "To be observed and commemorated by every devotee turning (to Allah).",
+        "ms": "(Kami adakan semuanya itu) untuk menjadi perhatian dan peringatan, (yang menunjukkan jalan kebenaran), kepada tiap-tiap seorang hamba Allah yang mahu kembali kepadaNya (dengan taat dan berbakti)",
+        "id": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ"
+      },
+      "transliteration": "Tabsiratan wathikra likulli AAabdin muneebin"
+    },
+    {
+      "surah": 50,
+      "ayah": 9,
+      "key": "50:9",
+      "arabic": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَـٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّـٰتٍ وَحَبَّ ٱلْحَصِيدِ",
+      "translations": {
+        "en": "And We send down from the sky rain charted with blessing, and We produce therewith gardens and Grain for harvests;",
+        "ms": "Dan juga Kami telah menurunkan dari langit air (hujan) yang banyak faedahnya, lalu Kami tumbuhkan dengan air itu pokok-pokok tanaman (buah-buahan) dan biji-bijian yang dituai",
+        "id": "وَنَزَّلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ مُّبَٰرَكٗا فَأَنۢبَتۡنَا بِهِۦ جَنَّـٰتٖ وَحَبَّ ٱلۡحَصِيدِ"
+      },
+      "transliteration": "Wanazzalna mina alssamai maan mubarakan faanbatna bihi jannatin wahabba alhaseedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 10,
+      "key": "50:10",
+      "arabic": "وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ",
+      "translations": {
+        "en": "And tall (and stately) palm-trees, with shoots of fruit-stalks, piled one over another;-",
+        "ms": "Serta pohon-pohon kurma yang tinggi menjulang, yang mengeluarkan mayang, berlapis-lapis, lagi lebat putiknya",
+        "id": "وَٱلنَّخۡلَ بَاسِقَٰتٖ لَّهَا طَلۡعٞ نَّضِيدٞ"
+      },
+      "transliteration": "Waalnnakhla basiqatin laha talAAun nadeedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 11,
+      "key": "50:11",
+      "arabic": "رِّزْقًا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا ۚ كَذَٰلِكَ ٱلْخُرُوجُ",
+      "translations": {
+        "en": "As sustenance for (Allah's) Servants;- and We give (new) life therewith to land that is dead: Thus will be the Resurrection.",
+        "ms": "(Semuanya itu) sebagai rezeki bagi hamba-hamba Kami. Dan lagi Kami telah hidupkan dengan air itu bumi yang mati; demikianlah pula keadaan keluarnya (orang-orang yang mati dari kubur setelah dibangkitkan hidup semula)",
+        "id": "رِّزۡقٗا لِّلۡعِبَادِۖ وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ ٱلۡخُرُوجُ"
+      },
+      "transliteration": "Rizqan lilAAibadi waahyayna bihi baldatan maytan kathalika alkhurooju"
+    },
+    {
+      "surah": 50,
+      "ayah": 12,
+      "key": "50:12",
+      "arabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَـٰبُ ٱلرَّسِّ وَثَمُودُ",
+      "translations": {
+        "en": "Before them was denied (the Hereafter) by the People of Noah, the Companions of the Rass, the Thamud,",
+        "ms": "Sebelum mereka (yang menentang Nabi Muhammad) itu - kaum Nabi Nuh, dan \"Ashaabur-Rassi\" serta Thamud (kaum Nabi Soleh), telah juga mendustakan Rasul masing-masing",
+        "id": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ"
+      },
+      "transliteration": "Kaththabat qablahum qawmu noohin waashabu alrrassi wathamoodu"
+    },
+    {
+      "surah": 50,
+      "ayah": 13,
+      "key": "50:13",
+      "arabic": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ",
+      "translations": {
+        "en": "The 'Ad, Pharaoh, the brethren of Lut,",
+        "ms": "Dan juga Aad (kaum Nabi Hud), dan Firaun, serta kaum Nabi Lut",
+        "id": "وَعَادٞ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٖ"
+      },
+      "transliteration": "WaAAadun wafirAAawnu waikhwanu lootin"
+    },
+    {
+      "surah": 50,
+      "ayah": 14,
+      "key": "50:14",
+      "arabic": "وَأَصْحَـٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+      "translations": {
+        "en": "The Companions of the Wood, and the People of Tubba'; each one (of them) rejected the messengers, and My warning was duly fulfilled (in them).",
+        "ms": "Dan juga penduduk \"Aikah\", serta kaum \" Tubba' \"; tiap-tiap satu kaum itu telah mendustakan Rasul-rasul (yang diutus kepadanya), lalu mereka ditimpa azab yang Aku janjikan",
+        "id": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ"
+      },
+      "transliteration": "Waashabu alaykati waqawmu tubbaAAin kullun kaththaba alrrusula fahaqqa waAAeedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 15,
+      "key": "50:15",
+      "arabic": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ",
+      "translations": {
+        "en": "Were We then weary with the first Creation, that they should be in confused doubt about a new Creation?",
+        "ms": "(Setelah mereka melihat dan memerhatikan makhluk-makhluk yang Kami ciptakan itu) maka adakah Kami telah lemah dengan ciptaan yang pertama itu (sehingga Kami tidak dapat mengadakannya semula? Tidak! Dan merekapun tidak mengingkari kekuasaan Kami). Bahkan mereka berada dalam keadaan keliru dan ragu-ragu tentang ciptaan makhluk-makhluk (hidup semula) dalam bentuk yang baharu",
+        "id": "أَفَعَيِينَا بِٱلۡخَلۡقِ ٱلۡأَوَّلِۚ بَلۡ هُمۡ فِي لَبۡسٖ مِّنۡ خَلۡقٖ جَدِيدٖ"
+      },
+      "transliteration": "AfaAAayeena bialkhalqi alawwali bal hum fee labsin min khalqin jadeedin"
+    },
+    {
+      "surah": 50,
+      "ayah": 16,
+      "key": "50:16",
+      "arabic": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+      "translations": {
+        "en": "It was We Who created man, and We know what dark suggestions his soul makes to him: for We are nearer to him than (his) jugular vein.",
+        "ms": "Dan demi sesungguhnya, Kami telah mencipta manusia dan Kami sedia mengetahui apa yang dibisikkan oleh hatinya, sedang (pengetahuan) Kami lebih dekat kepadanya daripada urat lehernya",
+        "id": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ"
+      },
+      "transliteration": "Walaqad khalaqna alinsana wanaAAlamu ma tuwaswisu bihi nafsuhu wanahnu aqrabu ilayhi min habli alwareedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 17,
+      "key": "50:17",
+      "arabic": "إِذْ يَتَلَقَّى ٱلْمُتَلَقِّيَانِ عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌ",
+      "translations": {
+        "en": "Behold, two (guardian angels) appointed to learn (his doings) learn (and noted them), one sitting on the right and one on the left.",
+        "ms": "Semasa dua malaikat (yang mengawal dan menjaganya) menerima dan menulis segala perkataan dan perbuatannya; yang satu duduk di sebelah kanannya, dan yang satu lagi di sebelah kirinya",
+        "id": "إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٞ"
+      },
+      "transliteration": "Ith yatalaqqa almutalaqqiyani AAani alyameeni waAAani alshshimali qaAAeedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 18,
+      "key": "50:18",
+      "arabic": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+      "translations": {
+        "en": "Not a word does he utter but there is a sentinel by him, ready (to note it).",
+        "ms": "Tidak ada sebarang perkataan yang dilafazkannya (atau perbuatan yang dilakukannya) melainkan ada di sisinya malaikat pengawas yang sentiasa sedia (menerima dan menulisnya)",
+        "id": "مَّا يَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٞ"
+      },
+      "transliteration": "Ma yalfithu min qawlin illa ladayhi raqeebun AAateedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 19,
+      "key": "50:19",
+      "arabic": "وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
+      "translations": {
+        "en": "And the stupor of death will bring Truth (before his eyes): \"This was the thing which thou wast trying to escape!\"",
+        "ms": "Dan (apabila sampai ajal seseorang) datanglah \"Sakaratulmuat\" membawa kebenaran (yang telah dijanjikan, serta dikatakan kepada yang mengingkarinya sebelum itu): \"Inilah perkara yang engkau selalu mengelak diri daripadanya",
+        "id": "وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ"
+      },
+      "transliteration": "Wajaat sakratu almawti bialhaqqi thalika ma kunta minhu taheedu"
+    },
+    {
+      "surah": 50,
+      "ayah": 20,
+      "key": "50:20",
+      "arabic": "وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ",
+      "translations": {
+        "en": "And the Trumpet shall be blown: that will be the Day whereof Warning (had been given).",
+        "ms": "Dan lagi (apabila sampai saat yang ditentukan) ditiuplah sangkakala (untuk menghidupkan semula makhluk-makhluk yang telah mati); saat itu ialah hari berlakunya amaran yang telah diberikan",
+        "id": "وَنُفِخَ فِي ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ"
+      },
+      "transliteration": "Wanufikha fee alssoori thalika yawmu alwaAAeedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 21,
+      "key": "50:21",
+      "arabic": "وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ",
+      "translations": {
+        "en": "And there will come forth every soul: with each will be an (angel) to drive, and an (angel) to bear witness.",
+        "ms": "Dan (setelah itu) datanglah tiap-tiap orang (ke Padang Mahsyar), disertai (dua malaikat: yang satu menjadi) pembawa, dan (yang satu lagi menjadi) saksi",
+        "id": "وَجَآءَتۡ كُلُّ نَفۡسٖ مَّعَهَا سَآئِقٞ وَشَهِيدٞ"
+      },
+      "transliteration": "Wajaat kullu nafsin maAAaha saiqun washaheedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 22,
+      "key": "50:22",
+      "arabic": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَـٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ",
+      "translations": {
+        "en": "(It will be said:) \"Thou wast heedless of this; now have We removed thy veil, and sharp is thy sight this Day!\"",
+        "ms": "(Serta dikatakan kepadanya): \"Demi sesungguhnya! Engkau di dunia dahulu berada dalam keadaan lalai tentang (perkara hari) ini, maka kami hapuskan kelalaian yang menyelubungimu itu, lalu pandanganmu pada hari ini menjadi tajam (dapat menyaksikan dengan jelasnya perkara-perkara hari akhirat)",
+        "id": "لَّقَدۡ كُنتَ فِي غَفۡلَةٖ مِّنۡ هَٰذَا فَكَشَفۡنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلۡيَوۡمَ حَدِيدٞ"
+      },
+      "transliteration": "Laqad kunta fee ghaflatin min hatha fakashafna AAanka ghitaaka fabasaruka alyawma hadeedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 23,
+      "key": "50:23",
+      "arabic": "وَقَالَ قَرِينُهُۥ هَـٰذَا مَا لَدَىَّ عَتِيدٌ",
+      "translations": {
+        "en": "And his Companion will say: \"Here is (his Record) ready with me!\"",
+        "ms": "Dan berkatalah malaikat yang sentiasa ada bersama-samanya: \"Inilah (Kitab catitan iman dan amal) orang yang terletak dalam jagaanku, siap sedia (untuk dibicarakan)",
+        "id": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ"
+      },
+      "transliteration": "Waqala qareenuhu hatha ma ladayya AAateedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 24,
+      "key": "50:24",
+      "arabic": "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+      "translations": {
+        "en": "(The sentence will be:) \"Throw, throw into Hell every contumacious Rejecter (of Allah)!-",
+        "ms": "(Setelah tiap-tiap orang dibicarakan, Allah berfirman kepada kedua malaikat yang menjadi pembawa dan saksi itu): \"Humbankanlah oleh kamu berdua, ke dalam neraka Jahannam tiap-tiap orang yang tetap degil dalam kekufurannya",
+        "id": "أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ"
+      },
+      "transliteration": "Alqiya fee jahannama kulla kaffarin AAaneedin"
+    },
+    {
+      "surah": 50,
+      "ayah": 25,
+      "key": "50:25",
+      "arabic": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ",
+      "translations": {
+        "en": "\"Who forbade what was good, transgressed all bounds, cast doubts and suspicions;",
+        "ms": "Yang sering menghalangi jenis kebajikan, yang melanggar hukum ugama, lagi yang meragukan kebenaran",
+        "id": "مَّنَّاعٖ لِّلۡخَيۡرِ مُعۡتَدٖ مُّرِيبٍ"
+      },
+      "transliteration": "MannaAAin lilkhayri muAAtadin mureebin"
+    },
+    {
+      "surah": 50,
+      "ayah": 26,
+      "key": "50:26",
+      "arabic": "ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ",
+      "translations": {
+        "en": "\"Who set up another god beside Allah: Throw him into a severe penalty.\"",
+        "ms": "Yang menyembah benda yang lain bersama-sama Allah; maka humbankanlah oleh kamu berdua akan dia ke dalam azab seksa yang seberat-beratnya",
+        "id": "ٱلَّذِي جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلۡقِيَاهُ فِي ٱلۡعَذَابِ ٱلشَّدِيدِ"
+      },
+      "transliteration": "Allathee jaAAala maAAa Allahi ilahan akhara faalqiyahu fee alAAathabi alshshadeedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 27,
+      "key": "50:27",
+      "arabic": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَـٰكِن كَانَ فِى ضَلَـٰلٍۭ بَعِيدٍ",
+      "translations": {
+        "en": "His Companion will say: \"Our Lord! I did not make him transgress, but he was (himself) far astray.\"",
+        "ms": "(Semasa ia dihumbankan ke dalam neraka Jahannam, ia mendakwa bahawa Syaitanlah yang menjadikan dia sesat; pada saat itu) Syaitan yang sentiasa menyertainya (di dunia dahulu) berkata: \"Wahai Tuhan kami, aku tidak menyesatkannya tetapi sememangnya dia sendiri berada di dalam kesesatan yang jauh terpesong",
+        "id": "۞قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ وَلَٰكِن كَانَ فِي ضَلَٰلِۭ بَعِيدٖ"
+      },
+      "transliteration": "Qala qareenuhu rabbana ma atghaytuhu walakin kana fee dalalin baAAeedin"
+    },
+    {
+      "surah": 50,
+      "ayah": 28,
+      "key": "50:28",
+      "arabic": "قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ",
+      "translations": {
+        "en": "He will say: \"Dispute not with each other in My Presence: I had already in advance sent you Warning.",
+        "ms": "Allah berfirman: \"Janganlah kamu berbalah lagi di hadapanKu, (tidak ada gunanya berbalah pada masa Aku membuat keputusan); padahal (kamu sedia mengetahui bahawa) Aku dahulu telah memberi amaran kepada kamu (akan menyeksa orang-orang yang bersalah)",
+        "id": "قَالَ لَا تَخۡتَصِمُواْ لَدَيَّ وَقَدۡ قَدَّمۡتُ إِلَيۡكُم بِٱلۡوَعِيدِ"
+      },
+      "transliteration": "Qala la takhtasimoo ladayya waqad qaddamtu ilaykum bialwaAAeedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 29,
+      "key": "50:29",
+      "arabic": "مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّـٰمٍ لِّلْعَبِيدِ",
+      "translations": {
+        "en": "\"The Word changes not before Me, and I do not the least injustice to My Servants.\"",
+        "ms": "KeputusanKu itu tidak dapat diubah atau ditukar ganti, dan Aku tidak sekali-kali berlaku zalim kepada hambaKu",
+        "id": "مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَيَّ وَمَآ أَنَا۠ بِظَلَّـٰمٖ لِّلۡعَبِيدِ"
+      },
+      "transliteration": "Ma yubaddalu alqawlu ladayya wama ana bithallamin lilAAabeedi"
+    },
+    {
+      "surah": 50,
+      "ayah": 30,
+      "key": "50:30",
+      "arabic": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ",
+      "translations": {
+        "en": "One Day We will ask Hell, \"Art thou filled to the full?\" It will say, \"Are there any more (to come)?\"",
+        "ms": "(Peringatkanlah manusia) akan hari Kami bertanya kepada neraka Jahannam: \"Adakah engkau sudah penuh? \" Ia menjawab: \"Adakah lagi sebarang tambahan",
+        "id": "يَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِيدٖ"
+      },
+      "transliteration": "Yawma naqoolu lijahannama hali imtalati wataqoolu hal min mazeedin"
+    },
+    {
+      "surah": 50,
+      "ayah": 31,
+      "key": "50:31",
+      "arabic": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+      "translations": {
+        "en": "And the Garden will be brought nigh to the Righteous,- no more a thing distant.",
+        "ms": "Dan (ingatkanlah pula hari) didekatkan Syurga bagi orang-orang yang bertaqwa, di tempat yang tidak jauh (dari mereka)",
+        "id": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ"
+      },
+      "transliteration": "Waozlifati aljannatu lilmuttaqeena ghayra baAAeedin"
+    },
+    {
+      "surah": 50,
+      "ayah": 32,
+      "key": "50:32",
+      "arabic": "هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ",
+      "translations": {
+        "en": "(A voice will say:) \"This is what was promised for you,- for every one who turned (to Allah) in sincere repentance, who kept (His Law),",
+        "ms": "(Serta dikatakan kepada mereka): \"Inilah yang dijanjikan kepada kamu, - kepada tiap-tiap hamba yang sentiasa kembali (kepada Allah dengan mengerjakan ibadat), lagi yang sangat memelihara dengan sebaik-baiknya (segala hukum dan peraturan Allah)",
+        "id": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٖ"
+      },
+      "transliteration": "Hatha ma tooAAadoona likulli awwabin hafeethin"
+    },
+    {
+      "surah": 50,
+      "ayah": 33,
+      "key": "50:33",
+      "arabic": "مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ",
+      "translations": {
+        "en": "\"Who feared (Allah) Most Gracious Unseen, and brought a heart turned in devotion (to Him):",
+        "ms": "(Iaitu) orang yang takut (melanggar perintah Allah) Yang Maha Pemurah, semasa tidak dilihat orang dan semasa ia tidak melihat azab Allah, serta ia datang (kepada Allah) dengan hati yang tunduk taat",
+        "id": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ"
+      },
+      "transliteration": "Man khashiya alrrahmana bialghaybi wajaa biqalbin muneebin"
+    },
+    {
+      "surah": 50,
+      "ayah": 34,
+      "key": "50:34",
+      "arabic": "ٱدْخُلُوهَا بِسَلَـٰمٍ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ",
+      "translations": {
+        "en": "\"Enter ye therein in Peace and Security; this is a Day of Eternal Life!\"",
+        "ms": "(Mereka dipersilakan oleh malaikat dengan berkata): \"Masuklah kamu ke dalam Syurga dengan selamat sejahtera; hari ini ialah hari (bermulanya) kehidupan yang kekal",
+        "id": "ٱدۡخُلُوهَا بِسَلَٰمٖۖ ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ"
+      },
+      "transliteration": "Odkhulooha bisalamin thalika yawmu alkhuloodi"
+    },
+    {
+      "surah": 50,
+      "ayah": 35,
+      "key": "50:35",
+      "arabic": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+      "translations": {
+        "en": "There will be for them therein all that they wish,- and more besides in Our Presence.",
+        "ms": "Mereka beroleh apa yang mereka kehendaki di situ, dan di sisi Kami ada lagi tambahan (limpah kurnia yang tidak terlintas di hati mereka)",
+        "id": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ"
+      },
+      "transliteration": "Lahum ma yashaoona feeha waladayna mazeedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 36,
+      "key": "50:36",
+      "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍ",
+      "translations": {
+        "en": "But how many generations before them did We destroy (for their sins),- stronger in power than they? Then did they wander through the land: was there any place of escape (for them)?",
+        "ms": "Dan berapa banyak kaum-kaum (yang ingkar) yang terdahulu daripada orang-orang musyrik Makkah itu Kami telah binasakan. Kaum-kaum itu lebih kekuatannya (dan kehandalannya) daripada mereka, lalu kaum-kaum itu keluar mencari perlindungan di merata-rata negeri. (Meskipun demikian keadaannya) dapatkah (mereka) menyelamatkan diri",
+        "id": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ"
+      },
+      "transliteration": "Wakam ahlakna qablahum min qarnin hum ashaddu minhum batshan fanaqqaboo fee albiladi hal min maheesin"
+    },
+    {
+      "surah": 50,
+      "ayah": 37,
+      "key": "50:37",
+      "arabic": "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ",
+      "translations": {
+        "en": "Verily in this is a Message for any that has a heart and understanding or who gives ear and earnestly witnesses (the truth).",
+        "ms": "Sesungguhnya (keterangan-keterangan dan peristiwa-peristiwa) yang tersebut itu, tidak syak lagi mengandungi pengajaran bagi sesiapa yang mempunyai hati (yang sedar pada masa membacanya), atau yang menggunakan pendengarannya dengan bersungguh-sungguh (kepada pengajaran itu) dengan menumpukan hati dan fikiran kepadanya",
+        "id": "إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ"
+      },
+      "transliteration": "Inna fee thalika lathikra liman kana lahu qalbun aw alqa alssamAAa wahuwa shaheedun"
+    },
+    {
+      "surah": 50,
+      "ayah": 38,
+      "key": "50:38",
+      "arabic": "وَلَقَدْ خَلَقْنَا ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ",
+      "translations": {
+        "en": "We created the heavens and the earth and all between them in Six Days, nor did any sense of weariness touch Us.",
+        "ms": "Dan demi sesungguhnya! Kami telah menciptakan langit dan bumi serta segala yang ada di antara keduanya dalam enam masa, dan Kami tidak mengalami sebarang susah payah",
+        "id": "وَلَقَدۡ خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا فِي سِتَّةِ أَيَّامٖ وَمَا مَسَّنَا مِن لُّغُوبٖ"
+      },
+      "transliteration": "Walaqad khalaqna alssamawati waalarda wama baynahuma fee sittati ayyamin wama massana min lughoobin"
+    },
+    {
+      "surah": 50,
+      "ayah": 39,
+      "key": "50:39",
+      "arabic": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+      "translations": {
+        "en": "Bear, then, with patience, all that they say, and celebrate the praises of thy Lord, before the rising of the sun and before (its) setting.",
+        "ms": "Oleh itu bersabarlah (wahai Muhammad) akan apa yang dikatakan oleh mereka (yang menentangmu itu), dan bertasbihlah sambil memuji Tuhanmu (terutama) sebelum terbit matahari dan sebelum matahari terbenam",
+        "id": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ"
+      },
+      "transliteration": "Faisbir AAala ma yaqooloona wasabbih bihamdi rabbika qabla tulooAAi alshshamsi waqabla alghuroobi"
+    },
+    {
+      "surah": 50,
+      "ayah": 40,
+      "key": "50:40",
+      "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَـٰرَ ٱلسُّجُودِ",
+      "translations": {
+        "en": "And during part of the night, (also,) celebrate His praises, and (so likewise) after the postures of adoration.",
+        "ms": "Serta bertasbihlah kepadaNya pada malam hari dan sesudah mengerjakan sembahyang",
+        "id": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَأَدۡبَٰرَ ٱلسُّجُودِ"
+      },
+      "transliteration": "Wamina allayli fasabbihhu waadbara alssujoodi"
+    },
+    {
+      "surah": 50,
+      "ayah": 41,
+      "key": "50:41",
+      "arabic": "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ",
+      "translations": {
+        "en": "And listen for the Day when the Caller will call out from a place quiet near,-",
+        "ms": "Dan dengarlah (apa yang diterangkan kepadamu sekarang ini mengenai hari kiamat), hari (malaikat yang menjadi) penyeru, menyeru (makhluk-makhluk yang telah mati) dari tempat yang dekat yang dapat didengar oleh semuanya",
+        "id": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ"
+      },
+      "transliteration": "WaistamiAA yawma yunadi almunadi min makanin qareebin"
+    },
+    {
+      "surah": 50,
+      "ayah": 42,
+      "key": "50:42",
+      "arabic": "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ",
+      "translations": {
+        "en": "The Day when they will hear a (mighty) Blast in (very) truth: that will be the Day of Resurrection.",
+        "ms": "Iaitu hari mereka mendengar pekikan seruan yang menyatakan perkara yang benar; hari seruan itu ialah hari masing-masing keluar dari kubur",
+        "id": "يَوۡمَ يَسۡمَعُونَ ٱلصَّيۡحَةَ بِٱلۡحَقِّۚ ذَٰلِكَ يَوۡمُ ٱلۡخُرُوجِ"
+      },
+      "transliteration": "Yawma yasmaAAoona alssayhata bialhaqqi thalika yawmu alkhurooji"
+    },
+    {
+      "surah": 50,
+      "ayah": 43,
+      "key": "50:43",
+      "arabic": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+      "translations": {
+        "en": "Verily it is We Who give Life and Death; and to Us is the Final Goal-",
+        "ms": "Sesungguhnya Kami menghidupkan dan mematikan, dan kepada Kamilah sahaja tempat kembali (sekalian makhluk)",
+        "id": "إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ"
+      },
+      "transliteration": "Inna nahnu nuhyee wanumeetu wailayna almaseeru"
+    },
+    {
+      "surah": 50,
+      "ayah": 44,
+      "key": "50:44",
+      "arabic": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+      "translations": {
+        "en": "The Day when the Earth will be rent asunder, from (men) hurrying out: that will be a gathering together,- quite easy for Us.",
+        "ms": "Pada hari bumi terbelah-belah untuk mereka segera keluar (daripadanya). Perbuatan (menghidupkan dan) menghimpunkan mereka di Padang Mahsyar itu, mudah bagi Kami melaksanakannya",
+        "id": "يَوۡمَ تَشَقَّقُ ٱلۡأَرۡضُ عَنۡهُمۡ سِرَاعٗاۚ ذَٰلِكَ حَشۡرٌ عَلَيۡنَا يَسِيرٞ"
+      },
+      "transliteration": "Yawma tashaqqaqu alardu AAanhum siraAAan thalika hashrun AAalayna yaseerun"
+    },
+    {
+      "surah": 50,
+      "ayah": 45,
+      "key": "50:45",
+      "arabic": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+      "translations": {
+        "en": "We know best what they say; and thou art not one to overawe them by force. So admonish with the Qur'an such as fear My Warning!",
+        "ms": "Kami lebih mengetahui apa yang mereka katakan (dari berbagai tuduhan terhadapmu wahai Muhammad), dan engkau bukanlah seorang yang berkuasa memaksa mereka (supaya masing-masing beriman). Oleh itu, berilah peringatan dengan Al-Quran ini kepada orang yang takutkan janji azabKu",
+        "id": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ"
+      },
+      "transliteration": "Nahnu aAAlamu bima yaqooloona wama anta AAalayhim bijabbarin fathakkir bialqurani man yakhafu waAAeedi"
+    }
+  ]
+}

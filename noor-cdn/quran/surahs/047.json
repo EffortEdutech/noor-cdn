@@ -1,0 +1,469 @@
+{
+  "surah": {
+    "number": 47,
+    "slug": "muhammad",
+    "nameArabic": "محمد",
+    "nameTransliteration": "Muhammad",
+    "nameEnglish": "Muhammad",
+    "revelation": "madani",
+    "ayahCount": 38
+  },
+  "ayahs": [
+    {
+      "surah": 47,
+      "ayah": 1,
+      "key": "47:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "Those who reject Allah and hinder (men) from the Path of Allah,- their deeds will Allah render astray (from their mark).",
+        "ms": "Orang-orang yang kafir serta menghalangi (dirinya dan orang lain) dari jalan Allah, Allah sia-siakan segala amal mereka",
+        "id": "ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Allatheena kafaroo wasaddoo AAan sabeeli Allahi adalla aAAmalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 2,
+      "key": "47:2",
+      "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَءَامَنُوا۟ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٍ وَهُوَ ٱلْحَقُّ مِن رَّبِّهِمْ ۙ كَفَّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَأَصْلَحَ بَالَهُمْ",
+      "translations": {
+        "en": "But those who believe and work deeds of righteousness, and believe in the (Revelation) sent down to Muhammad - for it is the Truth from their Lord,- He will remove from them their ills and improve their condition.",
+        "ms": "Dan (sebaliknya) orang-orang yang beriman dan mengerjakan amal yang soleh serta beriman kepada Al-Quran yang diturunkan kepada Nabi Muhammad (s.a.w) - yang ialah kebenaran dari Tuhan mereka, - Allah mengampunkan dosa-dosa mereka, dan menjayakan keadaan mereka (di dunia dan di akhirat)",
+        "id": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَءَامَنُواْ بِمَا نُزِّلَ عَلَىٰ مُحَمَّدٖ وَهُوَ ٱلۡحَقُّ مِن رَّبِّهِمۡ كَفَّرَ عَنۡهُمۡ سَيِّـَٔاتِهِمۡ وَأَصۡلَحَ بَالَهُمۡ"
+      },
+      "transliteration": "Waallatheena amanoo waAAamiloo alssalihati waamanoo bima nuzzila AAala muhammadin wahuwa alhaqqu min rabbihim kaffara AAanhum sayyiatihim waaslaha balahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 3,
+      "key": "47:3",
+      "arabic": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُوا۟ ٱتَّبَعُوا۟ ٱلْبَـٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّبَعُوا۟ ٱلْحَقَّ مِن رَّبِّهِمْ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ لِلنَّاسِ أَمْثَـٰلَهُمْ",
+      "translations": {
+        "en": "This because those who reject Allah follow vanities, while those who believe follow the Truth from their Lord: Thus does Allah set forth for men their lessons by similitudes.",
+        "ms": "Berlakunya yang demikian, kerana sesungguhnya orang-orang yang kafir menurut perkara yang salah, dan sesungguhnya orang-orang yang beriman menurut perkara yang benar dari Tuhan mereka. Demikianlah Allah menerangkan kepada umat manusia akan sifat dan akibat bawaan mereka masing-masing",
+        "id": "ذَٰلِكَ بِأَنَّ ٱلَّذِينَ كَفَرُواْ ٱتَّبَعُواْ ٱلۡبَٰطِلَ وَأَنَّ ٱلَّذِينَ ءَامَنُواْ ٱتَّبَعُواْ ٱلۡحَقَّ مِن رَّبِّهِمۡۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ لِلنَّاسِ أَمۡثَٰلَهُمۡ"
+      },
+      "transliteration": "Thalika bianna allatheena kafaroo ittabaAAoo albatila waanna allatheena amanoo ittabaAAoo alhaqqa min rabbihim kathalika yadribu Allahu lilnnasi amthalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 4,
+      "key": "47:4",
+      "arabic": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "Therefore, when ye meet the Unbelievers (in fight), smite at their necks; At length, when ye have thoroughly subdued them, bind a bond firmly (on them): thereafter (is the time for) either generosity or ransom: Until the war lays down its burdens. Thus (are ye commanded): but if it had been Allah's Will, He could certainly have exacted retribution from them (Himself); but (He lets you fight) in order to test you, some with others. But those who are slain in the Way of Allah,- He will never let their deeds be lost.",
+        "ms": "Dengan yang demikian, apabila kamu berjuang menentang orang-orang kafir (dalam peperangan jihad) maka pancunglah lehernya, sehingga apabila kamu dapat membunuh mereka dengan banyaknya (serta mengalahkannya) maka tawanlah (mana-mana yang hidup) dan ikatlah mereka dengan kukuhnya. Setelah selesai pertempuran itu maka (terserahlah kepada kamu) sama ada hendak memberi kebebasan (kepada orang-orang tawanan itu dengan tiada sebarang penebusnya) atau membebaskan mereka dengan mengambil penebusnya. (Bertindaklah demikian terhadap golongan kafir yang menceroboh) sehinggalah berakhir peperangan jihad itu (dan lenyaplah sebab-sebab yang memimbulkannya). Demikianlah (diperintahkan kamu melakukannya). Dan sekiranya Allah menghendaki, tentulah Ia membinasakan mereka (dengan tidak payah kamu memeranginya); tetapi Ia (perintahkan kamu berbuat demikian) kerana hendak menguji kesabaran kamu menentang golongan yang kufur ingkar (yang mencerobohi kamu). Dan orang-orang yang telah berjuang serta gugur syahid pada jalan Allah (mempertahankan ugamanya), maka Allah tidak sekali kali akan mensia-siakan amal-amal mereka",
+        "id": "فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ فَضَرۡبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثۡخَنتُمُوهُمۡ فَشُدُّواْ ٱلۡوَثَاقَ فَإِمَّا مَنَّۢا بَعۡدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلۡحَرۡبُ أَوۡزَارَهَاۚ ذَٰلِكَۖ وَلَوۡ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنۡهُمۡ وَلَٰكِن لِّيَبۡلُوَاْ بَعۡضَكُم بِبَعۡضٖۗ وَٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Faitha laqeetumu allatheena kafaroo fadarba alrriqabi hatta itha athkhantumoohum fashuddoo alwathaqa faimma mannan baAAdu waimma fidaan hatta tadaAAa alharbu awzaraha thalika walaw yashao Allahu laintasara minhum walakin liyabluwa baAAdakum bibaAAdin waallatheena qutiloo fee sabeeli Allahi falan yudilla aAAmalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 5,
+      "key": "47:5",
+      "arabic": "سَيَهْدِيهِمْ وَيُصْلِحُ بَالَهُمْ",
+      "translations": {
+        "en": "Soon will He guide them and improve their condition,",
+        "ms": "Allah akan memimpin mereka yang berjuang (ke jalan mendapat sebaik-baik balasan) dan menjadikan keadaan mereka baik dan berguna (di dunia dan di akhirat)",
+        "id": "سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ"
+      },
+      "transliteration": "Sayahdeehim wayuslihu balahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 6,
+      "key": "47:6",
+      "arabic": "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ",
+      "translations": {
+        "en": "And admit them to the Garden which He has announced for them.",
+        "ms": "Serta memasukkan mereka ke dalam Syurga yang telah dijanjikan dan diterangkan sifat-sifatnya kepada mereka",
+        "id": "وَيُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ"
+      },
+      "transliteration": "Wayudkhiluhumu aljannata AAarrafaha lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 7,
+      "key": "47:7",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "translations": {
+        "en": "O ye who believe! If ye will aid (the cause of) Allah, He will aid you, and plant your feet firmly.",
+        "ms": "Wahai orang-orang yang beriman, kalau kamu membela (ugama) Allah nescaya Allah membela kamu (untuk mencapai kemenangan) dan meneguhkan tapak pendirian kamu",
+        "id": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَنصُرُواْ ٱللَّهَ يَنصُرۡكُمۡ وَيُثَبِّتۡ أَقۡدَامَكُمۡ"
+      },
+      "transliteration": "Ya ayyuha allatheena amanoo in tansuroo Allaha yansurkum wayuthabbit aqdamakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 8,
+      "key": "47:8",
+      "arabic": "وَٱلَّذِينَ كَفَرُوا۟ فَتَعْسًا لَّهُمْ وَأَضَلَّ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "But those who reject (Allah),- for them is destruction, and (Allah) will render their deeds astray (from their mark).",
+        "ms": "Dan (sebaliknya) orang-orang yang kafir, maka kecelakaanlah bagi mereka, dan (Allah) mensia-siakan amal-amal mereka",
+        "id": "وَٱلَّذِينَ كَفَرُواْ فَتَعۡسٗا لَّهُمۡ وَأَضَلَّ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Waallatheena kafaroo fataAAsan lahum waadalla aAAmalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 9,
+      "key": "47:9",
+      "arabic": "ذَٰلِكَ بِأَنَّهُمْ كَرِهُوا۟ مَآ أَنزَلَ ٱللَّهُ فَأَحْبَطَ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "That is because they hate the Revelation of Allah; so He has made their deeds fruitless.",
+        "ms": "Berlakunya yang demikian, kerana sesungguhnya mereka tidak menyukai apa yang diturunkan oleh Allah (mengenai ajaran tauhid dan hukum-hukum syarak yang diterangkan di dalam Al-Quran), lalu Allah menggugurkan amal-amal mereka",
+        "id": "ذَٰلِكَ بِأَنَّهُمۡ كَرِهُواْ مَآ أَنزَلَ ٱللَّهُ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Thalika biannahum karihoo ma anzala Allahu faahbata aAAmalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 10,
+      "key": "47:10",
+      "arabic": "۞ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ دَمَّرَ ٱللَّهُ عَلَيْهِمْ ۖ وَلِلْكَـٰفِرِينَ أَمْثَـٰلُهَا",
+      "translations": {
+        "en": "Do they not travel through the earth, and see what was the End of those before them (who did evil)? Allah brought utter destruction on them, and similar (fates await) those who reject Allah.",
+        "ms": "Maka tidakkah mereka telah mengembara di muka bumi, serta mereka memerhatikan bagaimana akibat orang-orang kafir yang terdahulu dari mereka? Allah telah menghancurkan orang-orang itu; dan orang-orang kafir (yang menurut jejak mereka) akan beroleh akibat-akibat buruk yang seperti itu",
+        "id": "۞أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَيَنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡۖ دَمَّرَ ٱللَّهُ عَلَيۡهِمۡۖ وَلِلۡكَٰفِرِينَ أَمۡثَٰلُهَا"
+      },
+      "transliteration": "Afalam yaseeroo fee alardi fayanthuroo kayfa kana AAaqibatu allatheena min qablihim dammara Allahu AAalayhim walilkafireena amthaluha"
+    },
+    {
+      "surah": 47,
+      "ayah": 11,
+      "key": "47:11",
+      "arabic": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+      "translations": {
+        "en": "That is because Allah is the Protector of those who believe, but those who reject Allah have no protector.",
+        "ms": "Balasan yang demikian, kerana sesungguhnya Allah menjadi Pelindung orang-orang yang beriman, dan sesungguhnya orang-orang yang kafir: tiada sesiapapun yang dapat memberikan perlindungan kepada mereka",
+        "id": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ لَا مَوۡلَىٰ لَهُمۡ"
+      },
+      "transliteration": "Thalika bianna Allaha mawla allatheena amanoo waanna alkafireena la mawla lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 12,
+      "key": "47:12",
+      "arabic": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَـٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ",
+      "translations": {
+        "en": "Verily Allah will admit those who believe and do righteous deeds, to Gardens beneath which rivers flow; while those who reject Allah will enjoy (this world) and eat as cattle eat; and the Fire will be their abode.",
+        "ms": "Sesungguhnya Allah akan memasukkan orang-orang yang beriman serta mengerjakan amal-amal yang soleh - ke dalam Syurga yang mengalir di bawahnya beberapa sungai; dan (sebaliknya) orang-orang yang kafir menikmati kesenangan di dunia serta mereka makan minum sebagaimana binatang-binatang ternak makan minum, sedang nerakalah menjadi tempat tinggal mereka",
+        "id": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ جَنَّـٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَٱلَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَأۡكُلُونَ كَمَا تَأۡكُلُ ٱلۡأَنۡعَٰمُ وَٱلنَّارُ مَثۡوٗى لَّهُمۡ"
+      },
+      "transliteration": "Inna Allaha yudkhilu allatheena amanoo waAAamiloo alssalihati jannatin tajree min tahtiha alanharu waallatheena kafaroo yatamattaAAoona wayakuloona kama takulu alanAAamu waalnnaru mathwan lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 13,
+      "key": "47:13",
+      "arabic": "وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَـٰهُمْ فَلَا نَاصِرَ لَهُمْ",
+      "translations": {
+        "en": "And how many cities, with more power than thy city which has driven thee out, have We destroyed (for their sins)? and there was none to aid them.",
+        "ms": "Dan bukan sedikit (penduduk) negeri-negeri yang lebih kuat dari (penduduk) negerimu (wahai Muhammad) yang telah memaksamu keluar (berhijrah) - Kami binasakan mereka, maka tiadalah sesiapa pun yang dapat membela mereka",
+        "id": "وَكَأَيِّن مِّن قَرۡيَةٍ هِيَ أَشَدُّ قُوَّةٗ مِّن قَرۡيَتِكَ ٱلَّتِيٓ أَخۡرَجَتۡكَ أَهۡلَكۡنَٰهُمۡ فَلَا نَاصِرَ لَهُمۡ"
+      },
+      "transliteration": "Wakaayyin min qaryatin hiya ashaddu quwwatan min qaryatika allatee akhrajatka ahlaknahum fala nasira lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 14,
+      "key": "47:14",
+      "arabic": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُم",
+      "translations": {
+        "en": "Is then one who is on a clear (Path) from his Lord, no better than one to whom the evil of his conduct seems pleasing, and such as follow their own lusts?",
+        "ms": "Dengan yang demikian, adakah orang orang (yang beriman dan taat) yang keadaannya sentiasa berdasarkan bukti yang nyata dari Tuhannya: sama seperti orang-orang (yang ingkar - derhaka) yang telah diperhiaskan kepadanya (oleh Syaitan) akan kejahatan amalnya (sehingga dipandangnya baik), dan yang telah menurut hawa nafsunya? (Sudah tentu tidak sama)",
+        "id": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ كَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُم"
+      },
+      "transliteration": "Afaman kana AAala bayyinatin min rabbihi kaman zuyyina lahu sooo AAamalihi waittabaAAoo ahwaahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 15,
+      "key": "47:15",
+      "arabic": "مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَـٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ وَأَنْهَـٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَـٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّـٰرِبِينَ وَأَنْهَـٰرٌ مِّنْ عَسَلٍ مُّصَفًّى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ",
+      "translations": {
+        "en": "(Here is) a Parable of the Garden which the righteous are promised: in it are rivers of water incorruptible; rivers of milk of which the taste never changes; rivers of wine, a joy to those who drink; and rivers of honey pure and clear. In it there are for them all kinds of fruits; and Grace from their Lord. (Can those in such Bliss) be compared to such as shall dwell for ever in the Fire, and be given, to drink, boiling water, so that it cuts up their bowels (to pieces)?",
+        "ms": "Sifat Syurga yang telah dijanjikan kepada orang-orang yang bertaqwa (ialah seperti berikut): ada padanya beberapa sungai dari air yang tidak berubah (rasa dan baunya), dan beberapa sungai dari susu yang tidak berubah rasanya, serta beberapa sungai dari arak yang lazat bagi orang-orang yang meminumnya, dan juga beberapa sungai dari madu yang suci bersih. Dan ada pula untuk mereka di sana segala jenis buah-buahan, serta keredaan dari Tuhan mereka. (Adakah orang-orang yang tinggal kekal di dalam Syurga yang sedemikian itu keadaannya) sama seperti orang-orang yang tinggal kekal di dalam neraka dan diberi minum dari air yang menggelegak sehingga menjadikan isi perut mereka hancur? (Sudah tentu tidak sama)",
+        "id": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّـٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ"
+      },
+      "transliteration": "Mathalu aljannati allatee wuAAida almuttaqoona feeha anharun min main ghayri asinin waanharun min labanin lam yataghayyar taAAmuhu waanharun min khamrin laththatin lilshsharibeena waanharun min AAasalin musaffan walahum feeha min kulli alththamarati wamaghfiratun min rabbihim kaman huwa khalidun fee alnnari wasuqoo maan hameeman faqattaAAa amAAaahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 16,
+      "key": "47:16",
+      "arabic": "وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ حَتَّىٰٓ إِذَا خَرَجُوا۟ مِنْ عِندِكَ قَالُوا۟ لِلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مَاذَا قَالَ ءَانِفًا ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ",
+      "translations": {
+        "en": "And among them are men who listen to thee, but in the end, when they go out from thee, they say to those who have received Knowledge, \"What is it he said just then?\" Such are men whose hearts Allah has sealed, and who follow their own lusts.",
+        "ms": "Dan di antara mereka (yang hadir di majlismu wahai Muhammad, ialah orang-orang munafik) yang mendengar ajaranmu (dengan sambil lewa), sehingga apabila mereka keluar dari sisimu berkatalah mereka (secara mengejek-ejek) kepada orang-orang yang diberi ilmu (dari kalangan sahabat-sahabatmu yang setia): \"Apa yang dikatakan oleh Muhammad tadi?\" Mereka (yang munafik) itu ialah orang-orang yang telah dimeteraikan Allah atas hati mereka, dan ialah orang-orang yang menurut hawa nafsunya",
+        "id": "وَمِنۡهُم مَّن يَسۡتَمِعُ إِلَيۡكَ حَتَّىٰٓ إِذَا خَرَجُواْ مِنۡ عِندِكَ قَالُواْ لِلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مَاذَا قَالَ ءَانِفًاۚ أُوْلَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَٱتَّبَعُوٓاْ أَهۡوَآءَهُمۡ"
+      },
+      "transliteration": "Waminhum man yastamiAAu ilayka hatta itha kharajoo min AAindika qaloo lillatheena ootoo alAAilma matha qala anifan olaika allatheena tabaAAa Allahu AAala quloobihim waittabaAAoo ahwaahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 17,
+      "key": "47:17",
+      "arabic": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+      "translations": {
+        "en": "But to those who receive Guidance, He increases the (light of) Guidance, and bestows on them their Piety and Restraint (from evil).",
+        "ms": "Dan (sebaliknya) orang-orang yang menerima petunjuk (ke jalan yang benar), Allah menambahi mereka dengan hidayah petunjuk, serta memberi kepada mereka (dorongan) untuk mereka bertaqwa",
+        "id": "وَٱلَّذِينَ ٱهۡتَدَوۡاْ زَادَهُمۡ هُدٗى وَءَاتَىٰهُمۡ تَقۡوَىٰهُمۡ"
+      },
+      "transliteration": "Waallatheena ihtadaw zadahum hudan waatahum taqwahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 18,
+      "key": "47:18",
+      "arabic": "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَآءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ",
+      "translations": {
+        "en": "Do they then only wait for the Hour,- that it should come on them of a sudden? But already have come some tokens thereof, and when it (actually) is on them, how can they benefit then by their admonition?",
+        "ms": "(Kiranya golongan yang ingkar masih tidak mahu menerima peringatan yang diberi kepadanya) maka tidak ada lagi yang mereka tunggu melainkan saat kiamat yang akan datang kepada mereka secara mengejut, kerana sesungguhnya telah lahirlah tanda-tanda kedatangannya. Kalaulah demikian, maka bagaimanakah mereka dapat menerima peringatan yang diberi kepada mereka - apabila saat kiamat itu datang kepada mereka",
+        "id": "فَهَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗۖ فَقَدۡ جَآءَ أَشۡرَاطُهَاۚ فَأَنَّىٰ لَهُمۡ إِذَا جَآءَتۡهُمۡ ذِكۡرَىٰهُمۡ"
+      },
+      "transliteration": "Fahal yanthuroona illa alssaAAata an tatiyahum baghtatan faqad jaa ashratuha faanna lahum itha jaathum thikrahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 19,
+      "key": "47:19",
+      "arabic": "فَٱعْلَمْ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱللَّهُ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَٱللَّهُ يَعْلَمُ مُتَقَلَّبَكُمْ وَمَثْوَىٰكُمْ",
+      "translations": {
+        "en": "Know, therefore, that there is no god but Allah, and ask forgiveness for thy fault, and for the men and women who believe: for Allah knows how ye move about and how ye dwell in your homes.",
+        "ms": "Oleh itu, maka tetapkanlah pengetahuanmu dan keyakinanmu (wahai Muhammad) bahawa sesungguhnya tiada Tuhan yang berhak disembah melainkan Allah, dan mintalah ampun kepadaNya bagi salah silap yang engkau lakukan, dan bagi dosa-dosa orang-orang yang beriman - lelaki dan perempuan; dan (ingatlah), Allah mengetahui akan keadaan gerak-geri kamu (di dunia) dan keadaan penetapan kamu (di akhirat)",
+        "id": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ"
+      },
+      "transliteration": "FaiAAlam annahu la ilaha illa Allahu waistaghfir lithanbika walilmumineena waalmuminati waAllahu yaAAlamu mutaqallabakum wamathwakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 20,
+      "key": "47:20",
+      "arabic": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ",
+      "translations": {
+        "en": "Those who believe say, \"Why is not a sura sent down (for us)?\" But when a sura of basic or categorical meaning is revealed, and fighting is mentioned therein, thou wilt see those in whose hearts is a disease looking at thee with a look of one in swoon at the approach of death. But more fitting for them-",
+        "ms": "Dan (kerana gemarkan pahala berjuang menegakkan Islam) orang-orang yang beriman berkata: \"Alangkah baiknya sekiranya diturunkan satu surah (dari Al-Quran, yang memerintahkan kami berjuang)?\" Maka apabila diturunkan satu surah (dari Al-Quran) yang tegas keterangannya dan tersebut padanya hukum-hukum yang mewajibkan perang Jihad (menentang pencerobohan musuh), sudah tentu engkau akan melihat orang-orang yang ada penyakit (kufur) dalam hatinya memandang kepadamu dengan terbeliak matanya kerana gerun takut menghadapi mati; dengan yang demikian, maka kebinasaanlah lebih hampir kepada mereka",
+        "id": "وَيَقُولُ ٱلَّذِينَ ءَامَنُواْ لَوۡلَا نُزِّلَتۡ سُورَةٞۖ فَإِذَآ أُنزِلَتۡ سُورَةٞ مُّحۡكَمَةٞ وَذُكِرَ فِيهَا ٱلۡقِتَالُ رَأَيۡتَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ يَنظُرُونَ إِلَيۡكَ نَظَرَ ٱلۡمَغۡشِيِّ عَلَيۡهِ مِنَ ٱلۡمَوۡتِۖ فَأَوۡلَىٰ لَهُمۡ"
+      },
+      "transliteration": "Wayaqoolu allatheena amanoo lawla nuzzilat sooratun faitha onzilat sooratun muhkamatun wathukira feeha alqitalu raayta allatheena fee quloobihim maradun yanthuroona ilayka nathara almaghshiyyi AAalayhi mina almawti faawla lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 21,
+      "key": "47:21",
+      "arabic": "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ ۚ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا لَّهُمْ",
+      "translations": {
+        "en": "Were it to obey and say what is just, and when a matter is resolved on, it were best for them if they were true to Allah.",
+        "ms": "(Mereka selalu berkata: \"Pendirian kami) mematuhi perintah dan memperkatakan perkataan yang baik (yang diredhai Allah)\". Dalam pada itu, apabila perkara (peperangan Jihad) itu ditetapkan wajibnya, (mereka tidak menyukainya); maka kalaulah mereka bersifat jujur kepada Allah (dengan mematuhi perintahNya), tentulah yang demikian itu amat baik bagi mereka",
+        "id": "طَاعَةٞ وَقَوۡلٞ مَّعۡرُوفٞۚ فَإِذَا عَزَمَ ٱلۡأَمۡرُ فَلَوۡ صَدَقُواْ ٱللَّهَ لَكَانَ خَيۡرٗا لَّهُمۡ"
+      },
+      "transliteration": "TaAAatun waqawlun maAAroofun faitha AAazama alamru falaw sadaqoo Allaha lakana khayran lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 22,
+      "key": "47:22",
+      "arabic": "فَهَلْ عَسَيْتُمْ إِن تَوَلَّيْتُمْ أَن تُفْسِدُوا۟ فِى ٱلْأَرْضِ وَتُقَطِّعُوٓا۟ أَرْحَامَكُمْ",
+      "translations": {
+        "en": "Then, is it to be expected of you, if ye were put in authority, that ye will do mischief in the land, and break your ties of kith and kin?",
+        "ms": "(Kalau kamu tidak mematuhi perintah) maka tidakkah kamu harus dibimbang dan dikhuatirkan - jika kamu dapat memegang kuasa - kamu akan melakukan kerosakan di muka bumi, dan memutuskan hubungan silaturrahim dengan kaum kerabat",
+        "id": "فَهَلۡ عَسَيۡتُمۡ إِن تَوَلَّيۡتُمۡ أَن تُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَتُقَطِّعُوٓاْ أَرۡحَامَكُمۡ"
+      },
+      "transliteration": "Fahal AAasaytum in tawallaytum an tufsidoo fee alardi watuqattiAAoo arhamakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 23,
+      "key": "47:23",
+      "arabic": "أُو۟لَـٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَـٰرَهُمْ",
+      "translations": {
+        "en": "Such are the men whom Allah has cursed for He has made them deaf and blinded their sight.",
+        "ms": "(Orang-orang yang melakukan perkara yang tersebut) merekalah yang dilaknat oleh Allah serta ditulikan pendengaran mereka, dan dibutakan penglihatannya",
+        "id": "أُوْلَـٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰٓ أَبۡصَٰرَهُمۡ"
+      },
+      "transliteration": "Olaika allatheena laAAanahumu Allahu faasammahum waaAAma absarahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 24,
+      "key": "47:24",
+      "arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+      "translations": {
+        "en": "Do they not then earnestly seek to understand the Qur'an, or are their hearts locked up by them?",
+        "ms": "(Setelah diterangkan yang demikian) maka adakah mereka sengaja tidak berusaha memahami serta memikirkan isi Al-Quran? Atau telah ada di atas hati mereka kunci penutup (yang menghalangnya daripada menerima ajaran Al-Quran)",
+        "id": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ"
+      },
+      "transliteration": "Afala yatadabbaroona alqurana am AAala quloobin aqfaluha"
+    },
+    {
+      "surah": 47,
+      "ayah": 25,
+      "key": "47:25",
+      "arabic": "إِنَّ ٱلَّذِينَ ٱرْتَدُّوا۟ عَلَىٰٓ أَدْبَـٰرِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَى ۙ ٱلشَّيْطَـٰنُ سَوَّلَ لَهُمْ وَأَمْلَىٰ لَهُمْ",
+      "translations": {
+        "en": "Those who turn back as apostates after Guidance was clearly shown to them,- the Evil One has instigated them and busied them up with false hopes.",
+        "ms": "Sesungguhnya orang-orang yang telah berbalik kepada keingkaran mereka sesudah terang nyata kepada mereka kebenaran petunjuk (yang dikemukakan kepadanya), Syaitanlah yang memperdayakan mereka (berlaku demikian), serta memanjangkan angan-angan mereka",
+        "id": "إِنَّ ٱلَّذِينَ ٱرۡتَدُّواْ عَلَىٰٓ أَدۡبَٰرِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَى ٱلشَّيۡطَٰنُ سَوَّلَ لَهُمۡ وَأَمۡلَىٰ لَهُمۡ"
+      },
+      "transliteration": "Inna allatheena irtaddoo AAala adbarihim min baAAdi ma tabayyana lahumu alhuda alshshaytanu sawwala lahum waamla lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 26,
+      "key": "47:26",
+      "arabic": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ ۖ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+      "translations": {
+        "en": "This, because they said to those who hate what Allah has revealed, \"We will obey you in part of (this) matter\"; but Allah knows their (inner) secrets.",
+        "ms": "Berlakunya yang demikian ialah: kerana mereka berkata kepada orang-orang yang tidak menyukai perkara yang diturunkan oleh Allah: \"Kami akan patuh kepada kamu pada setengah perkara (yang berhubung dengan menentang Muhammad dan pengikutnya) itu\"; sedang Allah mengetahui segala (perkataan dan perbuatan) yang mereka sembunyikan",
+        "id": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمۡ فِي بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ يَعۡلَمُ إِسۡرَارَهُمۡ"
+      },
+      "transliteration": "Thalika biannahum qaloo lillatheena karihoo ma nazzala Allahu sanuteeAAukum fee baAAdi alamri waAllahu yaAAlamu israrahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 27,
+      "key": "47:27",
+      "arabic": "فَكَيْفَ إِذَا تَوَفَّتْهُمُ ٱلْمَلَـٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَـٰرَهُمْ",
+      "translations": {
+        "en": "But how (will it be) when the angels take their souls at death, and smite their faces and their backs?",
+        "ms": "(Kalaulah mereka terlepas sekarang dari bencana kejahatan mereka) maka bagaimanakah (mereka dapat menolak azab seksa) apabila malaikat mengambil nyawa mereka sambil memukul muka dan punggung mereka",
+        "id": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَـٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ"
+      },
+      "transliteration": "Fakayfa itha tawaffathumu almalaikatu yadriboona wujoohahum waadbarahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 28,
+      "key": "47:28",
+      "arabic": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَآ أَسْخَطَ ٱللَّهَ وَكَرِهُوا۟ رِضْوَٰنَهُۥ فَأَحْبَطَ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "This because they followed that which called forth the Wrath of Allah, and they hated Allah's good pleasure; so He made their deeds of no effect.",
+        "ms": "(Kematian mereka dalam keadaan yang buruk) itu, kerana mereka menurut (serta melakukan) perkara-perkara yang menyebabkan kemurkaan Allah, dan mereka pula membenci perkara-perkara yang diredhaiNya; oleh itu, Allah gugurkan amal-amal mereka (yang baik, yang pernah mereka lakukan)",
+        "id": "ذَٰلِكَ بِأَنَّهُمُ ٱتَّبَعُواْ مَآ أَسۡخَطَ ٱللَّهَ وَكَرِهُواْ رِضۡوَٰنَهُۥ فَأَحۡبَطَ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Thalika biannahumu ittabaAAoo ma askhata Allaha wakarihoo ridwanahu faahbata aAAmalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 29,
+      "key": "47:29",
+      "arabic": "أَمْ حَسِبَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ ٱللَّهُ أَضْغَـٰنَهُمْ",
+      "translations": {
+        "en": "Or do those in whose hearts is a disease, think that Allah will not bring to light all their rancour?",
+        "ms": "Patutkah orang-orang (munafik) yang ada penyakit (syak, ragu-ragu) dalam hatinya: menyangka bahawa Allah tidak sekali-kali akan mendedahkan perasaan dendam dan hasad dengki mereka (terhadap Nabi Muhammad s.a.w dan umatnya)",
+        "id": "أَمۡ حَسِبَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ أَن لَّن يُخۡرِجَ ٱللَّهُ أَضۡغَٰنَهُمۡ"
+      },
+      "transliteration": "Am hasiba allatheena fee quloobihim maradun an lan yukhrija Allahu adghanahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 30,
+      "key": "47:30",
+      "arabic": "وَلَوْ نَشَآءُ لَأَرَيْنَـٰكَهُمْ فَلَعَرَفْتَهُم بِسِيمَـٰهُمْ ۚ وَلَتَعْرِفَنَّهُمْ فِى لَحْنِ ٱلْقَوْلِ ۚ وَٱللَّهُ يَعْلَمُ أَعْمَـٰلَكُمْ",
+      "translations": {
+        "en": "Had We so wiled, We could have shown them up to thee, and thou shouldst have known them by their marks: but surely thou wilt know them by the tone of their speech! And Allah knows all that ye do.",
+        "ms": "Dan sekiranya Kami kehendaki, tentulah Kami akan memperkenalkan mereka kepadamu (wahai Muhammad), lalu engkau tetap mengenalinya dengan tanda-tanda (yang menjadi sifat) mereka; dan demi sesungguhnya, engkau akan mengenali mereka dari gaya dan tutur katanya. Dan (ingatlah kamu masing-masing), Allah mengetahui segala yang kamu lakukan",
+        "id": "وَلَوۡ نَشَآءُ لَأَرَيۡنَٰكَهُمۡ فَلَعَرَفۡتَهُم بِسِيمَٰهُمۡۚ وَلَتَعۡرِفَنَّهُمۡ فِي لَحۡنِ ٱلۡقَوۡلِۚ وَٱللَّهُ يَعۡلَمُ أَعۡمَٰلَكُمۡ"
+      },
+      "transliteration": "Walaw nashao laaraynakahum falaAAaraftahum biseemahum walataAArifannahum fee lahni alqawli waAllahu yaAAlamu aAAmalakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 31,
+      "key": "47:31",
+      "arabic": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَـٰهِدِينَ مِنكُمْ وَٱلصَّـٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "translations": {
+        "en": "And We shall try you until We test those among you who strive their utmost and persevere in patience; and We shall try your reported (mettle).",
+        "ms": "Dan demi sesungguhnya! Kami tetap menguji kamu (wahai orang-orang yang mengaku beriman) sehingga ternyata pengetahuan Kami tentang adanya orang-orang yang berjuang dari kalangan kamu dan orang-orang yang sabar (dalam menjalankan perintah Kami); dan (sehingga) Kami dapat mengesahkan (benar atau tidaknya) berita-berita tentang keadaan kamu",
+        "id": "وَلَنَبۡلُوَنَّكُمۡ حَتَّىٰ نَعۡلَمَ ٱلۡمُجَٰهِدِينَ مِنكُمۡ وَٱلصَّـٰبِرِينَ وَنَبۡلُوَاْ أَخۡبَارَكُمۡ"
+      },
+      "transliteration": "Walanabluwannakum hatta naAAlama almujahideena minkum waalssabireena wanabluwa akhbarakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 32,
+      "key": "47:32",
+      "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ وَشَآقُّوا۟ ٱلرَّسُولَ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْهُدَىٰ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا وَسَيُحْبِطُ أَعْمَـٰلَهُمْ",
+      "translations": {
+        "en": "Those who reject Allah, hinder (men) from the Path of Allah, and resist the Messenger, after Guidance has been clearly shown to them, will not injure Allah in the least, but He will make their deeds of no effect.",
+        "ms": "Sesungguhnya orang-orang yang kafir dan menghalangi (dirinya dan orang lain) dari jalan Allah, serta mereka memusuhi Rasul Allah setelah ternyata kepada mereka kebenaran petunjuk (yang dibawanya), mereka tidak sekali-kali akan dapat mendatangkan mudarat kepada Allah sedikitpun, dan (sebaliknya) Allah akan menghampakan perbuatan dan amal-amal mereka",
+        "id": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ وَشَآقُّواْ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡهُدَىٰ لَن يَضُرُّواْ ٱللَّهَ شَيۡـٔٗا وَسَيُحۡبِطُ أَعۡمَٰلَهُمۡ"
+      },
+      "transliteration": "Inna allatheena kafaroo wasaddoo AAan sabeeli Allahi washaqqoo alrrasoola min baAAdi ma tabayyana lahumu alhuda lan yaduroo Allaha shayan wasayuhbitu aAAmalahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 33,
+      "key": "47:33",
+      "arabic": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَـٰلَكُمْ",
+      "translations": {
+        "en": "O ye who believe! Obey Allah, and obey the messenger, and make not vain your deeds!",
+        "ms": "Wahai orang-orang yang beriman! Taatlah kamu kepada Allah dan taatlah kepada Rasul Allah, dan janganlah kamu batalkan amal-amal kamu",
+        "id": "۞يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ"
+      },
+      "transliteration": "Ya ayyuha allatheena amanoo ateeAAoo Allaha waateeAAoo alrrasoola wala tubtiloo aAAmalakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 34,
+      "key": "47:34",
+      "arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ",
+      "translations": {
+        "en": "Those who reject Allah, and hinder (men) from the Path of Allah, then die rejecting Allah,- Allah will not forgive them.",
+        "ms": "Sesungguhnya orang-orang yang kafir dan menghalangi (dirinya dan orang lain) dari jalan Allah, kemudian mereka mati dengan keadaan kafirnya, maka Allah tidak sekali-kali akan mengampunkan mereka",
+        "id": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُواْ وَهُمۡ كُفَّارٞ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡ"
+      },
+      "transliteration": "Inna allatheena kafaroo wasaddoo AAan sabeeli Allahi thumma matoo wahum kuffarun falan yaghfira Allahu lahum"
+    },
+    {
+      "surah": 47,
+      "ayah": 35,
+      "key": "47:35",
+      "arabic": "فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن يَتِرَكُمْ أَعْمَـٰلَكُمْ",
+      "translations": {
+        "en": "Be not weary and faint-hearted, crying for peace, when ye should be uppermost: for Allah is with you, and will never put you in loss for your (good) deeds.",
+        "ms": "(Apabila kamu telah mengetahui bahawa orang-orang kafir itu dihampakan amalnya dan diseksa oleh Allah) maka janganlah kamu (wahai orang-orang yang beriman) merasa lemah dan mengajak (musuh yang menceroboh) untuk berdamai, padahal kamulah orang-orang yang tertinggi keadaannya, lagi pula Allah bersama-sama kamu (untuk membela kamu mencapai kemenangan), dan Ia tidak sekali-kali akan mengurangi (pahala) amal-amal kamu",
+        "id": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ"
+      },
+      "transliteration": "Fala tahinoo watadAAoo ila alssalmi waantumu alaAAlawna waAllahu maAAakum walan yatirakum aAAmalakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 36,
+      "key": "47:36",
+      "arabic": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "translations": {
+        "en": "The life of this world is but play and amusement: and if ye believe and guard against Evil, He will grant you your recompense, and will not ask you (to give up) your possessions.",
+        "ms": "(Ingatlah) bahawa kehidupan dunia (yang tidak berdasarkan iman dan taqwa) hanyalah ibarat permainan dan hiburan; dan jika kamu beriman serta bertaqwa, Allah akan memberikan kamu pahala amal kamu, dan Ia tidak meminta kepada kamu harta benda kamu (melainkan untuk memberikan kamu barang yang lebih baik daripadanya)",
+        "id": "إِنَّمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا لَعِبٞ وَلَهۡوٞۚ وَإِن تُؤۡمِنُواْ وَتَتَّقُواْ يُؤۡتِكُمۡ أُجُورَكُمۡ وَلَا يَسۡـَٔلۡكُمۡ أَمۡوَٰلَكُمۡ"
+      },
+      "transliteration": "Innama alhayatu alddunya laAAibun walahwun wain tuminoo watattaqoo yutikum ojoorakum wala yasalkum amwalakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 37,
+      "key": "47:37",
+      "arabic": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ",
+      "translations": {
+        "en": "If He were to ask you for all of them, and press you, ye would covetously withhold, and He would bring out all your ill-feeling.",
+        "ms": "(Tabiat kamu wahai manusia) jika Tuhan meminta kepada kamu harta benda kamu serta mendesak kamu memberikanNya, nescaya kamu akan berlaku bakhil kedekut, dan kebakhilan itu akan melahirkan kemarahan dan kebencian kamu",
+        "id": "إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ"
+      },
+      "transliteration": "In yasalkumooha fayuhfikum tabkhaloo wayukhrij adghanakum"
+    },
+    {
+      "surah": 47,
+      "ayah": 38,
+      "key": "47:38",
+      "arabic": "هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ ۚ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ ۚ وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَـٰلَكُم",
+      "translations": {
+        "en": "Behold, ye are those invited to spend (of your substance) in the Way of Allah: But among you are some that are niggardly. But any who are niggardly are so at the expense of their own souls. But Allah is free of all wants, and it is ye that are needy. If ye turn back (from the Path), He will substitute in your stead another people; then they would not be like you!",
+        "ms": "(Ingatlah), kamu ini adalah orang-orang yang bertabiat demikian - kamu diseru supaya menderma dan membelanjakan sedikit dari harta benda kamu pada jalan Allah, maka ada di antara kamu yang berlaku bakhil, padahal sesiapa yang berlaku bakhil maka sesungguhnya ia hanyalah berlaku bakhil kepada dirinya sendiri. Dan (ingatlah) Allah Maha kaya (tidak berhajat kepada sesuatupun), sedang kamu semua orang-orang miskin (yang sentiasa berhajat kepadaNya dalam segala hal). Dan jika kamu berpaling (daripada beriman, bertaqwa dan berderma) Ia akan menggantikan kamu dengan kaum yang lain; setelah itu mereka tidak akan berkeadaan seperti kamu",
+        "id": "هَـٰٓأَنتُمۡ هَـٰٓؤُلَآءِ تُدۡعَوۡنَ لِتُنفِقُواْ فِي سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبۡخَلُۖ وَمَن يَبۡخَلۡ فَإِنَّمَا يَبۡخَلُ عَن نَّفۡسِهِۦۚ وَٱللَّهُ ٱلۡغَنِيُّ وَأَنتُمُ ٱلۡفُقَرَآءُۚ وَإِن تَتَوَلَّوۡاْ يَسۡتَبۡدِلۡ قَوۡمًا غَيۡرَكُمۡ ثُمَّ لَا يَكُونُوٓاْ أَمۡثَٰلَكُم"
+      },
+      "transliteration": "Haantum haolai tudAAawna litunfiqoo fee sabeeli Allahi faminkum man yabkhalu waman yabkhal fainnama yabkhalu AAan nafsihi waAllahu alghaniyyu waantumu alfuqarao wain tatawallaw yastabdil qawman ghayrakum thumma la yakoonoo amthalakum"
+    }
+  ]
+}

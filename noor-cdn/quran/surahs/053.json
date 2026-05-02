@@ -1,0 +1,757 @@
+{
+  "surah": {
+    "number": 53,
+    "slug": "an-najm",
+    "nameArabic": "النجم",
+    "nameTransliteration": "An-Najm",
+    "nameEnglish": "The Star",
+    "revelation": "makki",
+    "ayahCount": 62
+  },
+  "ayahs": [
+    {
+      "surah": 53,
+      "ayah": 1,
+      "key": "53:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "translations": {
+        "en": "By the Star when it goes down,-",
+        "ms": "Demi bintang semasa ia menjunam",
+        "id": "وَٱلنَّجۡمِ إِذَا هَوَىٰ"
+      },
+      "transliteration": "Waalnnajmi itha hawa"
+    },
+    {
+      "surah": 53,
+      "ayah": 2,
+      "key": "53:2",
+      "arabic": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "translations": {
+        "en": "Your Companion is neither astray nor being misled.",
+        "ms": "Rakan kamu (Nabi Muhammad yang kamu tuduh dengan berbagai tuduhan itu), tidaklah ia menyeleweng (dari jalan yang benar), dan ia pula tidak sesat (dengan kepercayaan yang salah)",
+        "id": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ"
+      },
+      "transliteration": "Ma dalla sahibukum wama ghawa"
+    },
+    {
+      "surah": 53,
+      "ayah": 3,
+      "key": "53:3",
+      "arabic": "وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ",
+      "translations": {
+        "en": "Nor does he say (aught) of (his own) Desire.",
+        "ms": "Dan ia tidak memperkatakan (sesuatu yang berhubung dengan ugama Islam) menurut kemahuan dan pendapatnya sendiri",
+        "id": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ"
+      },
+      "transliteration": "Wama yantiqu AAani alhawa"
+    },
+    {
+      "surah": 53,
+      "ayah": 4,
+      "key": "53:4",
+      "arabic": "إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ",
+      "translations": {
+        "en": "It is no less than inspiration sent down to him:",
+        "ms": "Segala yang diperkatakannya itu (sama ada Al-Quran atau hadis) tidak lain hanyalah wahyu yang diwahyukan kepadanya",
+        "id": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ"
+      },
+      "transliteration": "In huwa illa wahyun yooha"
+    },
+    {
+      "surah": 53,
+      "ayah": 5,
+      "key": "53:5",
+      "arabic": "عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ",
+      "translations": {
+        "en": "He was taught by one Mighty in Power,",
+        "ms": "wahyu itu (disampaikan dan) diajarkan kepadanya oleh (malaikat jibril) yang amat kuat gagah",
+        "id": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ"
+      },
+      "transliteration": "AAallamahu shadeedu alquwa"
+    },
+    {
+      "surah": 53,
+      "ayah": 6,
+      "key": "53:6",
+      "arabic": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "translations": {
+        "en": "Endued with Wisdom: for he appeared (in stately form);",
+        "ms": "Lagi yang mempunyai kebijaksanaan; kemudian ia memperlihatkan dirinya (kepada Nabi Muhammad) dengan rupanya asal",
+        "id": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ"
+      },
+      "transliteration": "Thoo mirratin faistawa"
+    },
+    {
+      "surah": 53,
+      "ayah": 7,
+      "key": "53:7",
+      "arabic": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+      "translations": {
+        "en": "While he was in the highest part of the horizon:",
+        "ms": "Sedang ia berada di arah yang tinggi (di langit)",
+        "id": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ"
+      },
+      "transliteration": "Wahuwa bialofuqi alaAAla"
+    },
+    {
+      "surah": 53,
+      "ayah": 8,
+      "key": "53:8",
+      "arabic": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+      "translations": {
+        "en": "Then he approached and came closer,",
+        "ms": "Kemudian ia mendekatkan dirinya (kepada Nabi Muhammad), lalu ia berjuntai sedikit demi sedikit",
+        "id": "ثُمَّ دَنَا فَتَدَلَّىٰ"
+      },
+      "transliteration": "Thumma dana fatadalla"
+    },
+    {
+      "surah": 53,
+      "ayah": 9,
+      "key": "53:9",
+      "arabic": "فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ",
+      "translations": {
+        "en": "And was at a distance of but two bow-lengths or (even) nearer;",
+        "ms": "Sehingga menjadilah jarak (di antaranya dengan Nabi Muhammad) sekadar dua hujung busaran panah, atau lebih dekat lagi",
+        "id": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ"
+      },
+      "transliteration": "Fakana qaba qawsayni aw adna"
+    },
+    {
+      "surah": 53,
+      "ayah": 10,
+      "key": "53:10",
+      "arabic": "فَأَوْحَىٰٓ إِلَىٰ عَبْدِهِۦ مَآ أَوْحَىٰ",
+      "translations": {
+        "en": "So did (Allah) convey the inspiration to His Servant- (conveyed) what He (meant) to convey.",
+        "ms": "Lalu Allah wahyukan kepada hambaNya (Muhammad, dengan perantaraan malaikat Jibril) apa yang telah diwahyukanNya",
+        "id": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ"
+      },
+      "transliteration": "Faawha ila AAabdihi ma awha"
+    },
+    {
+      "surah": 53,
+      "ayah": 11,
+      "key": "53:11",
+      "arabic": "مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ",
+      "translations": {
+        "en": "The (Prophet's) (mind and) heart in no way falsified that which he saw.",
+        "ms": "Hati (Nabi Muhammad) tidak mendustakan apa yang dilihatnya",
+        "id": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ"
+      },
+      "transliteration": "Ma kathaba alfuadu ma raa"
+    },
+    {
+      "surah": 53,
+      "ayah": 12,
+      "key": "53:12",
+      "arabic": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+      "translations": {
+        "en": "Will ye then dispute with him concerning what he saw?",
+        "ms": "Jika demikian, patutkah kamu hendak membantahnya mengenai apa yang telah dilihatnya itu",
+        "id": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ"
+      },
+      "transliteration": "Afatumaroonahu AAala ma yara"
+    },
+    {
+      "surah": 53,
+      "ayah": 13,
+      "key": "53:13",
+      "arabic": "وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ",
+      "translations": {
+        "en": "For indeed he saw him at a second descent,",
+        "ms": "Dan demi sesungguhnya! (Nabi Muhammad) telah melihat (malaikat Jibril, dalam bentuk rupanya yang asal) sekali lagi",
+        "id": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ"
+      },
+      "transliteration": "Walaqad raahu nazlatan okhra"
+    },
+    {
+      "surah": 53,
+      "ayah": 14,
+      "key": "53:14",
+      "arabic": "عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ",
+      "translations": {
+        "en": "Near the Lote-tree beyond which none may pass:",
+        "ms": "Di sisi \"Sidratul-Muntaha",
+        "id": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ"
+      },
+      "transliteration": "AAinda sidrati almuntaha"
+    },
+    {
+      "surah": 53,
+      "ayah": 15,
+      "key": "53:15",
+      "arabic": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+      "translations": {
+        "en": "Near it is the Garden of Abode.",
+        "ms": "Yang di sisinya terletak Syurga \"Jannatul-Makwa",
+        "id": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ"
+      },
+      "transliteration": "AAindaha jannatu almawa"
+    },
+    {
+      "surah": 53,
+      "ayah": 16,
+      "key": "53:16",
+      "arabic": "إِذْ يَغْشَى ٱلسِّدْرَةَ مَا يَغْشَىٰ",
+      "translations": {
+        "en": "Behold, the Lote-tree was shrouded (in mystery unspeakable!)",
+        "ms": "(Nabi Muhammad melihat jibril dalam bentuk rupanya yang asal pada kali ini ialah) semasa \" Sidratul Muntaha\" itu diliputi oleh makhluk-makhluk dari alam-alam ghaib, yang tidak terhingga",
+        "id": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ"
+      },
+      "transliteration": "Ith yaghsha alssidrata ma yaghsha"
+    },
+    {
+      "surah": 53,
+      "ayah": 17,
+      "key": "53:17",
+      "arabic": "مَا زَاغَ ٱلْبَصَرُ وَمَا طَغَىٰ",
+      "translations": {
+        "en": "(His) sight never swerved, nor did it go wrong!",
+        "ms": "Penglihatan (Nabi Muhammad) tidak berkisar daripada menyaksikan dengan tepat (akan pemandangan yang indah di situ yang diizinkan melihatnya), dan tidak pula melampaui batas",
+        "id": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ"
+      },
+      "transliteration": "Ma zagha albasaru wama tagha"
+    },
+    {
+      "surah": 53,
+      "ayah": 18,
+      "key": "53:18",
+      "arabic": "لَقَدْ رَأَىٰ مِنْ ءَايَـٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ",
+      "translations": {
+        "en": "For truly did he see, of the Signs of his Lord, the Greatest!",
+        "ms": "Demi sesungguhnya, ia telah melihat sebahagian dari sebesar-besar tanda-tanda (yang membuktikan luasnya pemerintahan dan kekuasaan) Tuhannya",
+        "id": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ"
+      },
+      "transliteration": "Laqad raa min ayati rabbihi alkubra"
+    },
+    {
+      "surah": 53,
+      "ayah": 19,
+      "key": "53:19",
+      "arabic": "أَفَرَءَيْتُمُ ٱللَّـٰتَ وَٱلْعُزَّىٰ",
+      "translations": {
+        "en": "Have ye seen Lat. and 'Uzza,",
+        "ms": "(Setelah kamu - wahai kaum musyrik Makkah - mendengar keterangan yang membuktikan kekuasaan dan keagungan Allah) maka adakah kamu nampak bahawa \"Al-Laat\" dan \"Al-Uzza",
+        "id": "أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ"
+      },
+      "transliteration": "Afaraaytumu allata waalAAuzza"
+    },
+    {
+      "surah": 53,
+      "ayah": 20,
+      "key": "53:20",
+      "arabic": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلْأُخْرَىٰٓ",
+      "translations": {
+        "en": "And another, the third (goddess), Manat?",
+        "ms": "Serta \"Manaat\" yang ketiga, yang bertaraf rendah lagi hina itu (layak disembah dan dianggap sebagai anak-anak perempuan Allah)",
+        "id": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ"
+      },
+      "transliteration": "Wamanata alththalithata alokhra"
+    },
+    {
+      "surah": 53,
+      "ayah": 21,
+      "key": "53:21",
+      "arabic": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+      "translations": {
+        "en": "What! for you the male sex, and for Him, the female?",
+        "ms": "Patutkah kamu membahagi untuk diri kamu sendiri anak lelaki (yang kamu sukai), dan untuk Allah anak perempuan (yang kamu benci)",
+        "id": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ"
+      },
+      "transliteration": "Alakumu alththakaru walahu alontha"
+    },
+    {
+      "surah": 53,
+      "ayah": 22,
+      "key": "53:22",
+      "arabic": "تِلْكَ إِذًا قِسْمَةٌ ضِيزَىٰٓ",
+      "translations": {
+        "en": "Behold, such would be indeed a division most unfair!",
+        "ms": "Pembahagian yang demikian, sudah tentu suatu pembahagian yang tidak adil",
+        "id": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ"
+      },
+      "transliteration": "Tilka ithan qismatun deeza"
+    },
+    {
+      "surah": 53,
+      "ayah": 23,
+      "key": "53:23",
+      "arabic": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَـٰنٍ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ ۖ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "translations": {
+        "en": "These are nothing but names which ye have devised,- ye and your fathers,- for which Allah has sent down no authority (whatever). They follow nothing but conjecture and what their own souls desire!- Even though there has already come to them Guidance from their Lord!",
+        "ms": "Benda-benda yang kamu sembah itu tidak lain hanyalah nama-nama yang kamu dan datuk nenek kamu menamakannya. Allah sekali-kali menurunkan sebarang bukti yang membenarkannya. Mereka yang berbuat demikian, tidak menurut melainkan sangkaan-sangkaan dan apa yang diingini oleh hawa nafsunya. Padahal demi sesungguhnya telah datang kepada mereka petunjuk dari Tuhan mereka",
+        "id": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ"
+      },
+      "transliteration": "In hiya illa asmaon sammaytumooha antum waabaokum ma anzala Allahu biha min sultanin in yattabiAAoona illa alththanna wama tahwa alanfusu walaqad jaahum min rabbihimu alhuda"
+    },
+    {
+      "surah": 53,
+      "ayah": 24,
+      "key": "53:24",
+      "arabic": "أَمْ لِلْإِنسَـٰنِ مَا تَمَنَّىٰ",
+      "translations": {
+        "en": "Nay, shall man have (just) anything he hankers after?",
+        "ms": "Adakah manusia tetap akan dapat mencapai segala yang dicita-citakannya? (Tidak)",
+        "id": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ"
+      },
+      "transliteration": "Am lilinsani ma tamanna"
+    },
+    {
+      "surah": 53,
+      "ayah": 25,
+      "key": "53:25",
+      "arabic": "فَلِلَّهِ ٱلْـَٔاخِرَةُ وَٱلْأُولَىٰ",
+      "translations": {
+        "en": "But it is to Allah that the End and the Beginning (of all things) belong.",
+        "ms": "Kerana Allah jualah yang menguasai segala urusan akhirat dan urusan dunia",
+        "id": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ"
+      },
+      "transliteration": "Falillahi alakhiratu waaloola"
+    },
+    {
+      "surah": 53,
+      "ayah": 26,
+      "key": "53:26",
+      "arabic": "۞ وَكَم مِّن مَّلَكٍ فِى ٱلسَّمَـٰوَٰتِ لَا تُغْنِى شَفَـٰعَتُهُمْ شَيْـًٔا إِلَّا مِنۢ بَعْدِ أَن يَأْذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرْضَىٰٓ",
+      "translations": {
+        "en": "How many-so-ever be the angels in the heavens, their intercession will avail nothing except after Allah has given leave for whom He pleases and that he is acceptable to Him.",
+        "ms": "(Golongan yang musyrik mengharapkan pertolongan benda-benda yang mereka sembah itu) padahal berapa banyak malaikat di langit, syafaat mereka tidak dapat mendatangkan sebarang faedah, kecuali sesudah Allah mengizinkan bagi sesiapa yang dikehendakiNya dan diredhaiNya",
+        "id": "۞وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ"
+      },
+      "transliteration": "Wakam min malakin fee alssamawati la tughnee shafaAAatuhum shayan illa min baAAdi an yathana Allahu liman yashao wayarda"
+    },
+    {
+      "surah": 53,
+      "ayah": 27,
+      "key": "53:27",
+      "arabic": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ لَيُسَمُّونَ ٱلْمَلَـٰٓئِكَةَ تَسْمِيَةَ ٱلْأُنثَىٰ",
+      "translations": {
+        "en": "Those who believe not in the Hereafter, name the angels with female names.",
+        "ms": "Sesungguhnya orang-orang yang tidak beriman kepada hari akhirat sahajalah, yang tergamak menamakan malaikat itu dengan nama perempuan",
+        "id": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَـٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ"
+      },
+      "transliteration": "Inna allatheena la yuminoona bialakhirati layusammoona almalaikata tasmiyata alontha"
+    },
+    {
+      "surah": 53,
+      "ayah": 28,
+      "key": "53:28",
+      "arabic": "وَمَا لَهُم بِهِۦ مِنْ عِلْمٍ ۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ ۖ وَإِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا",
+      "translations": {
+        "en": "But they have no knowledge therein. They follow nothing but conjecture; and conjecture avails nothing against Truth.",
+        "ms": "Sedang mereka tidak mempunyai sebarang pengetahuan mengenainya. Mereka tidak lain hanyalah mengikut sangkaan semata-mata, padahal sesungguhnya sangkaan itu tidak dapat memenuhi kehendak menentukan sesuatu dari kebenaran (iktiqad)",
+        "id": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا"
+      },
+      "transliteration": "Wama lahum bihi min AAilmin in yattabiAAoona illa alththanna wainna alththanna la yughnee mina alhaqqi shayan"
+    },
+    {
+      "surah": 53,
+      "ayah": 29,
+      "key": "53:29",
+      "arabic": "فَأَعْرِضْ عَن مَّن تَوَلَّىٰ عَن ذِكْرِنَا وَلَمْ يُرِدْ إِلَّا ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "translations": {
+        "en": "Therefore shun those who turn away from Our Message and desire nothing but the life of this world.",
+        "ms": "Oleh itu, janganlah engkau (wahai Muhammad) hiraukan orang yang berpaling dari pengajaran Kami, dan tidak mahu melainkan kehidupan dunia semata-mata",
+        "id": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا"
+      },
+      "transliteration": "FaaAArid AAan man tawalla AAan thikrina walam yurid illa alhayata alddunya"
+    },
+    {
+      "surah": 53,
+      "ayah": 30,
+      "key": "53:30",
+      "arabic": "ذَٰلِكَ مَبْلَغُهُم مِّنَ ٱلْعِلْمِ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِمَنِ ٱهْتَدَىٰ",
+      "translations": {
+        "en": "That is as far as knowledge will reach them. Verily thy Lord knoweth best those who stray from His Path, and He knoweth best those who receive guidance.",
+        "ms": "(Kepentingan dunia) itulah sahaja tujuan terakhir dari pengetahuan yang dicapai oleh mereka. Sesungguhnya Tuhanmu, Dia lah jua yang lebih mengetahui akan orang yang sesat dari jalanNya, dan Dia lah jua yang lebih mengetahui akan orang yang mendapat hidayah petunjuk",
+        "id": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ"
+      },
+      "transliteration": "Thalika mablaghuhum mina alAAilmi inna rabbaka huwa aAAlamu biman dalla AAan sabeelihi wahuwa aAAlamu bimani ihtada"
+    },
+    {
+      "surah": 53,
+      "ayah": 31,
+      "key": "53:31",
+      "arabic": "وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَـٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "translations": {
+        "en": "Yea, to Allah belongs all that is in the heavens and on earth: so that He rewards those who do evil, according to their deeds, and He rewards those who do good, with what is best.",
+        "ms": "Dan Allah jualah yang memiliki segala yang ada di langit dan yang ada di bumi; (diciptakan semuanya itu) untuk membalas orang-orang yang berbuat jahat menurut apa yang mereka lakukan, dan membalas orang-orang yang berbuat baik dengan balasan yang sebaik-baiknya",
+        "id": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى"
+      },
+      "transliteration": "Walillahi ma fee alssamawati wama fee alardi liyajziya allatheena asaoo bima AAamiloo wayajziya allatheena ahsanoo bialhusna"
+    },
+    {
+      "surah": 53,
+      "ayah": 32,
+      "key": "53:32",
+      "arabic": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ ۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ ۚ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَـٰتِكُمْ ۖ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ ۖ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "translations": {
+        "en": "Those who avoid great sins and shameful deeds, only (falling into) small faults,- verily thy Lord is ample in forgiveness. He knows you well when He brings you out of the earth, And when ye are hidden in your mothers' wombs. Therefore justify not yourselves: He knows best who it is that guards against evil.",
+        "ms": "(Iaitu) orang-orang yang menjauhi dosa-dosa besar serta perbuatan-perbuatan yang keji, kecuali salah silap yang kecil-kecil (yang mereka terlanjur melakukannya, maka itu dimaafkan). Sesungguhnya Tuhanmu Maha Luas keampunanNya. Ia lebih mengetahui akan keadaan kamu semenjak Ia mencipta kamu (berasal) dari tanah, dan semasa kamu berupa anak yang sedang melalui berbagai peringkat kejadian dalam perut ibu kamu; maka janganlah kamu memuji-muji diri kamu (bahawa kamu suci bersih dari dosa). Dia lah sahaja yang lebih mengetahui akan orang-orang yang bertaqwa",
+        "id": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَـٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ"
+      },
+      "transliteration": "Allatheena yajtaniboona kabaira alithmi waalfawahisha illa allamama inna rabbaka wasiAAu almaghfirati huwa aAAlamu bikum ith anshaakum mina alardi waith antum ajinnatun fee butooni ommahatikum fala tuzakkoo anfusakum huwa aAAlamu bimani ittaqa"
+    },
+    {
+      "surah": 53,
+      "ayah": 33,
+      "key": "53:33",
+      "arabic": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+      "translations": {
+        "en": "Seest thou one who turns back,",
+        "ms": "Adakah engkau mengetahui (keburukan) orang yang berpaling (dari menurut kebenaran kerana ia dihasut)",
+        "id": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ"
+      },
+      "transliteration": "Afaraayta allathee tawalla"
+    },
+    {
+      "surah": 53,
+      "ayah": 34,
+      "key": "53:34",
+      "arabic": "وَأَعْطَىٰ قَلِيلًا وَأَكْدَىٰٓ",
+      "translations": {
+        "en": "Gives a little, then hardens (his heart)?",
+        "ms": "Dan setelah ia memberi sedikit pemberiannya, ia memutuskannya (kerana menurut hawa nafsunya)",
+        "id": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ"
+      },
+      "transliteration": "WaaAAta qaleelan waakda"
+    },
+    {
+      "surah": 53,
+      "ayah": 35,
+      "key": "53:35",
+      "arabic": "أَعِندَهُۥ عِلْمُ ٱلْغَيْبِ فَهُوَ يَرَىٰٓ",
+      "translations": {
+        "en": "What! Has he knowledge of the Unseen so that he can see?",
+        "ms": "Adakah ia mempunyai pengetahuan mengenai perkara yang ghaib sehingga ia dapat mengetahui (bahawa orang lain boleh menghalang gantinya dari apa yang akan menimpanya pada hari akhirat)",
+        "id": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ"
+      },
+      "transliteration": "aAAindahu AAilmu alghaybi fahuwa yara"
+    },
+    {
+      "surah": 53,
+      "ayah": 36,
+      "key": "53:36",
+      "arabic": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+      "translations": {
+        "en": "Nay, is he not acquainted with what is in the Books of Moses-",
+        "ms": "Atau belumkah ia diberitahu akan apa yang terkandung dalam Kitab-kitab Nabi Musa",
+        "id": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ"
+      },
+      "transliteration": "Am lam yunabba bima fee suhufi moosa"
+    },
+    {
+      "surah": 53,
+      "ayah": 37,
+      "key": "53:37",
+      "arabic": "وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ",
+      "translations": {
+        "en": "And of Abraham who fulfilled his engagements?-",
+        "ms": "Dan juga (dalam Kitab-kitab) Nabi Ibrahim yang memenuhi dengan sempurnanya (segala yang diperintahkan kepadanya)",
+        "id": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ"
+      },
+      "transliteration": "Waibraheema allathee waffa"
+    },
+    {
+      "surah": 53,
+      "ayah": 38,
+      "key": "53:38",
+      "arabic": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+      "translations": {
+        "en": "Namely, that no bearer of burdens can bear the burden of another;",
+        "ms": "(Dalam Kitab-kitab itu ditegaskan): Bahawa sesungguhnya seseorang yang boleh memikul tidak akan memikul dosa perbuatan orang lain (bahkan dosa usahanya sahaja)",
+        "id": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ"
+      },
+      "transliteration": "Alla taziru waziratun wizra okhra"
+    },
+    {
+      "surah": 53,
+      "ayah": 39,
+      "key": "53:39",
+      "arabic": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ",
+      "translations": {
+        "en": "That man can have nothing but what he strives for;",
+        "ms": "Dan bahawa sesungguhnya tidak ada (balasan) bagi seseorang melainkan (balasan) apa yang diusahakannya",
+        "id": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ"
+      },
+      "transliteration": "Waan laysa lilinsani illa ma saAAa"
+    },
+    {
+      "surah": 53,
+      "ayah": 40,
+      "key": "53:40",
+      "arabic": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+      "translations": {
+        "en": "That (the fruit of) his striving will soon come in sight:",
+        "ms": "Dan bahawa sesungguhnya usahanya itu akan diperlihatkan (kepadanya, pada hari kiamat kelak)",
+        "id": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ"
+      },
+      "transliteration": "Waanna saAAyahu sawfa yura"
+    },
+    {
+      "surah": 53,
+      "ayah": 41,
+      "key": "53:41",
+      "arabic": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "translations": {
+        "en": "Then will he be rewarded with a reward complete;",
+        "ms": "Kemudian usahanya itu akan dibalas dengan balasan yang amat sempurna",
+        "id": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ"
+      },
+      "transliteration": "Thumma yujzahu aljazaa alawfa"
+    },
+    {
+      "surah": 53,
+      "ayah": 42,
+      "key": "53:42",
+      "arabic": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلْمُنتَهَىٰ",
+      "translations": {
+        "en": "That to thy Lord is the final Goal;",
+        "ms": "Dan bahawa sesungguhnya kepada hukum Tuhanmu lah kesudahan (segala perkara)",
+        "id": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ"
+      },
+      "transliteration": "Waanna ila rabbika almuntaha"
+    },
+    {
+      "surah": 53,
+      "ayah": 43,
+      "key": "53:43",
+      "arabic": "وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ",
+      "translations": {
+        "en": "That it is He Who granteth Laughter and Tears;",
+        "ms": "Dan bahawa sesungguhnya, Dia lah yang menyebabkan (seseorang itu bergembira) tertawa, dan menyebabkan (seseorang itu berdukacita) menangis",
+        "id": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ"
+      },
+      "transliteration": "Waannahu huwa adhaka waabka"
+    },
+    {
+      "surah": 53,
+      "ayah": 44,
+      "key": "53:44",
+      "arabic": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا",
+      "translations": {
+        "en": "That it is He Who granteth Death and Life;",
+        "ms": "Dan bahawa sesungguhnya, Dia lah yang mematikan dan menghidupkan",
+        "id": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا"
+      },
+      "transliteration": "Waannahu huwa amata waahya"
+    },
+    {
+      "surah": 53,
+      "ayah": 45,
+      "key": "53:45",
+      "arabic": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "translations": {
+        "en": "That He did create in pairs,- male and female,",
+        "ms": "Dan bahawa sesungguhnya, Dia lah yang menciptakan pasangan - lelaki dan perempuan",
+        "id": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ"
+      },
+      "transliteration": "Waannahu khalaqa alzzawjayni alththakara waalontha"
+    },
+    {
+      "surah": 53,
+      "ayah": 46,
+      "key": "53:46",
+      "arabic": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+      "translations": {
+        "en": "From a seed when lodged (in its place);",
+        "ms": "Dari (setitis) air mani ketika dipancarkan (ke dalam rahim)",
+        "id": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ"
+      },
+      "transliteration": "Min nutfatin itha tumna"
+    },
+    {
+      "surah": 53,
+      "ayah": 47,
+      "key": "53:47",
+      "arabic": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+      "translations": {
+        "en": "That He hath promised a Second Creation (Raising of the Dead);",
+        "ms": "Dan bahawa sesungguhnya, Dia lah yang tetap menghidupkan semula (makhluk-makhluk yang mati)",
+        "id": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ"
+      },
+      "transliteration": "Waanna AAalayhi alnnashata alokhra"
+    },
+    {
+      "surah": 53,
+      "ayah": 48,
+      "key": "53:48",
+      "arabic": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+      "translations": {
+        "en": "That it is He Who giveth wealth and satisfaction;",
+        "ms": "Dan bahawa sesungguhnya, Dia lah yang memberikan (sesiapa yang dikehendakiNya) apa yang diperlukannya dan memberikannya tambahan yang boleh disimpan",
+        "id": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ"
+      },
+      "transliteration": "Waannahu huwa aghna waaqna"
+    },
+    {
+      "surah": 53,
+      "ayah": 49,
+      "key": "53:49",
+      "arabic": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+      "translations": {
+        "en": "That He is the Lord of Sirius (the Mighty Star);",
+        "ms": "Dan bahawa sesungguhnya, Dia lah Tuhan (Pencipta) \"Bintang Syikra",
+        "id": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ"
+      },
+      "transliteration": "Waannahu huwa rabbu alshshiAAra"
+    },
+    {
+      "surah": 53,
+      "ayah": 50,
+      "key": "53:50",
+      "arabic": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+      "translations": {
+        "en": "And that it is He Who destroyed the (powerful) ancient 'Ad (people),",
+        "ms": "Dan bahawa sesungguhnya, Dia lah yang membinasakan kaum \"Aad\" yang pertama (kaum Nabi Hud)",
+        "id": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ"
+      },
+      "transliteration": "Waannahu ahlaka AAadan aloola"
+    },
+    {
+      "surah": 53,
+      "ayah": 51,
+      "key": "53:51",
+      "arabic": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+      "translations": {
+        "en": "And the Thamud nor gave them a lease of perpetual life.",
+        "ms": "Dan kaum \"Thamud\" (kaum Nabi Soleh). Maka tidak ada seorangpun (dari kedua-dua kaum itu) yang dibiarkan hidup",
+        "id": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ"
+      },
+      "transliteration": "Wathamooda fama abqa"
+    },
+    {
+      "surah": 53,
+      "ayah": 52,
+      "key": "53:52",
+      "arabic": "وَقَوْمَ نُوحٍ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+      "translations": {
+        "en": "And before them, the people of Noah, for that they were (all) most unjust and most insolent transgressors,",
+        "ms": "Dan kaum Nabi Nuh sebelum itu (telah juga dibinasakan). Sesungguhnya mereka adalah orang-orang yang sangat zalim dan sangat melampaui batas",
+        "id": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ"
+      },
+      "transliteration": "Waqawma noohin min qablu innahum kanoo hum athlama waatgha"
+    },
+    {
+      "surah": 53,
+      "ayah": 53,
+      "key": "53:53",
+      "arabic": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+      "translations": {
+        "en": "And He destroyed the Overthrown Cities (of Sodom and Gomorrah).",
+        "ms": "Dan bandar-bandar yang ditunggang balikkan itu, Dia lah yang (mengangkatnya ke angkasa dan) menghempaskannya ke bumi",
+        "id": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ"
+      },
+      "transliteration": "Waalmutafikata ahwa"
+    },
+    {
+      "surah": 53,
+      "ayah": 54,
+      "key": "53:54",
+      "arabic": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "translations": {
+        "en": "So that (ruins unknown) have covered them up.",
+        "ms": "Lalu (penduduk) bandar-bandar itu diliputi azab seksa yang meliputinya",
+        "id": "فَغَشَّىٰهَا مَا غَشَّىٰ"
+      },
+      "transliteration": "Faghashshaha ma ghashsha"
+    },
+    {
+      "surah": 53,
+      "ayah": 55,
+      "key": "53:55",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+      "translations": {
+        "en": "Then which of the gifts of thy Lord, (O man,) wilt thou dispute about?",
+        "ms": "Maka yang mana satu di antara nikmat-nikmat Tuhanmu (yang tidak terhingga itu) engkau ragu-ragukan (wahai manusia)",
+        "id": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ"
+      },
+      "transliteration": "Fabiayyi alai rabbika tatamara"
+    },
+    {
+      "surah": 53,
+      "ayah": 56,
+      "key": "53:56",
+      "arabic": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "translations": {
+        "en": "This is a Warner, of the (series of) Warners of old!",
+        "ms": "(Al-Quran) ini adalah pemberi amaran di antara jenis-jenis amaran yang telah lalu",
+        "id": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ"
+      },
+      "transliteration": "Hatha natheerun mina alnnuthuri aloola"
+    },
+    {
+      "surah": 53,
+      "ayah": 57,
+      "key": "53:57",
+      "arabic": "أَزِفَتِ ٱلْـَٔازِفَةُ",
+      "translations": {
+        "en": "The (Judgment) ever approaching draws nigh:",
+        "ms": "Telah hampir masa datangnya saat yang dekat itu (hari kiamat)",
+        "id": "أَزِفَتِ ٱلۡأٓزِفَةُ"
+      },
+      "transliteration": "Azifati alazifatu"
+    },
+    {
+      "surah": 53,
+      "ayah": 58,
+      "key": "53:58",
+      "arabic": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+      "translations": {
+        "en": "No (soul) but Allah can lay it bare.",
+        "ms": "Tidak ada sesiapapun selain Allah yang dapat menahan atau menghapuskan huru-hara \"hari kiamat\" itu",
+        "id": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ"
+      },
+      "transliteration": "Laysa laha min dooni Allahi kashifatun"
+    },
+    {
+      "surah": 53,
+      "ayah": 59,
+      "key": "53:59",
+      "arabic": "أَفَمِنْ هَـٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+      "translations": {
+        "en": "Do ye then wonder at this recital?",
+        "ms": "Maka patutkah kamu merasa hairan terhadap keterangan-keterangan Al-Quran ini (sehingga kamu mengingkarinya)",
+        "id": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ"
+      },
+      "transliteration": "Afamin hatha alhadeethi taAAjaboona"
+    },
+    {
+      "surah": 53,
+      "ayah": 60,
+      "key": "53:60",
+      "arabic": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+      "translations": {
+        "en": "And will ye laugh and not weep,-",
+        "ms": "Serta kamu tertawa (mengejek-ejeknya), dan kamu tidak mahu menangis (menyesali kesalahan kamu serta takutkan balasan buruk yang akan menimpa kamu)",
+        "id": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ"
+      },
+      "transliteration": "Watadhakoona wala tabkoona"
+    },
+    {
+      "surah": 53,
+      "ayah": 61,
+      "key": "53:61",
+      "arabic": "وَأَنتُمْ سَـٰمِدُونَ",
+      "translations": {
+        "en": "Wasting your time in vanities?",
+        "ms": "Sedang kamu adalah orang-orang yang sombong angkuh, lagi yang melalaikan kewajipan",
+        "id": "وَأَنتُمۡ سَٰمِدُونَ"
+      },
+      "transliteration": "Waantum samidoona"
+    },
+    {
+      "surah": 53,
+      "ayah": 62,
+      "key": "53:62",
+      "arabic": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+      "translations": {
+        "en": "But fall ye down in prostration to Allah, and adore (Him)!",
+        "ms": "Oleh yang demikian, hendaklah kamu sujud kepada Allah (yang telah menurunkan Al-Quran itu), dan beribadatlah kamu kepadaNya (dengan sepenuh-penuh tauhid)",
+        "id": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩"
+      },
+      "transliteration": "Faosjudoo lillahi waoAAbudoo"
+    }
+  ]
+}

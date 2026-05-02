@@ -1,10 +1,10 @@
 {
   "surah": {
     "number": 112,
-    "slug": "al-ikhlas",
+    "slug": "al-ikhlaas",
     "nameArabic": "الإخلاص",
-    "nameTransliteration": "Al-Ikhlas",
-    "nameEnglish": "Sincerity",
+    "nameTransliteration": "Al-Ikhlaas",
+    "nameEnglish": "The Sincerity",
     "revelation": "makki",
     "ayahCount": 4
   },
@@ -13,21 +13,25 @@
       "surah": 112,
       "ayah": 1,
       "key": "112:1",
-      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
       "translations": {
-        "en": "Say, He is Allah, One.",
-        "ms": "Katakanlah: Dialah Allah Yang Maha Esa."
-      }
+        "en": "Say: He is Allah, the One and Only;",
+        "ms": "Katakanlah (wahai Muhammad): \"(Tuhanku) ialah Allah Yang Maha Esa",
+        "id": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ"
+      },
+      "transliteration": "Qul huwa Allahu ahadun"
     },
     {
       "surah": 112,
       "ayah": 2,
       "key": "112:2",
-      "arabic": "اللَّهُ الصَّمَدُ",
+      "arabic": "ٱللَّهُ ٱلصَّمَدُ",
       "translations": {
-        "en": "Allah, the Eternal Refuge.",
-        "ms": "Allah tempat bergantung segala sesuatu."
-      }
+        "en": "Allah, the Eternal, Absolute;",
+        "ms": "Allah Yang menjadi tumpuan sekalian makhluk untuk memohon sebarang hajat",
+        "id": "ٱللَّهُ ٱلصَّمَدُ"
+      },
+      "transliteration": "Allahu alssamadu"
     },
     {
       "surah": 112,
@@ -35,19 +39,23 @@
       "key": "112:3",
       "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
       "translations": {
-        "en": "He neither begets nor is born.",
-        "ms": "Dia tidak beranak dan tidak pula diperanakkan."
-      }
+        "en": "He begetteth not, nor is He begotten;",
+        "ms": "Ia tiada beranak, dan Ia pula tidak diperanakkan",
+        "id": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ"
+      },
+      "transliteration": "Lam yalid walam yooladu"
     },
     {
       "surah": 112,
       "ayah": 4,
       "key": "112:4",
-      "arabic": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "arabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
       "translations": {
-        "en": "And there is none comparable to Him.",
-        "ms": "Dan tidak ada sesuatu pun yang setara dengan-Nya."
-      }
+        "en": "And there is none like unto Him.",
+        "ms": "Dan tidak ada sesiapapun yang serupa denganNya",
+        "id": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ"
+      },
+      "transliteration": "Walam yakun lahu kufuwan ahadun"
     }
   ]
 }

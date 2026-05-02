@@ -1,0 +1,637 @@
+{
+  "surah": {
+    "number": 69,
+    "slug": "al-haaqqah",
+    "nameArabic": "الحاقة",
+    "nameTransliteration": "Al-Haaqqah",
+    "nameEnglish": "The Inevitable",
+    "revelation": "makki",
+    "ayahCount": 52
+  },
+  "ayahs": [
+    {
+      "surah": 69,
+      "ayah": 1,
+      "key": "69:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْحَآقَّةُ",
+      "translations": {
+        "en": "The Sure Reality!",
+        "ms": "Saat yang tetap berlaku itu",
+        "id": "ٱلۡحَآقَّةُ"
+      },
+      "transliteration": "Alhaqqatu"
+    },
+    {
+      "surah": 69,
+      "ayah": 2,
+      "key": "69:2",
+      "arabic": "مَا ٱلْحَآقَّةُ",
+      "translations": {
+        "en": "What is the Sure Reality?",
+        "ms": "Apakah dia sifat dan keadaan saat yang tetap berlaku itu",
+        "id": "مَا ٱلۡحَآقَّةُ"
+      },
+      "transliteration": "Ma alhaqqatu"
+    },
+    {
+      "surah": 69,
+      "ayah": 3,
+      "key": "69:3",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحَآقَّةُ",
+      "translations": {
+        "en": "And what will make thee realise what the Sure Reality is?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui tentang sifat dan keadaan saat yang tetap berlaku itu? (Saat itu ialah hari kiamat)",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ"
+      },
+      "transliteration": "Wama adraka ma alhaqqatu"
+    },
+    {
+      "surah": 69,
+      "ayah": 4,
+      "key": "69:4",
+      "arabic": "كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ",
+      "translations": {
+        "en": "The Thamud and the 'Ad People (branded) as false the Stunning Calamity!",
+        "ms": "Kaum Thamud dan Aad telah mendustakan hari (kiamat) yang menggempar dan mengharukan itu",
+        "id": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ"
+      },
+      "transliteration": "Kaththabat thamoodu waAAadun bialqariAAati"
+    },
+    {
+      "surah": 69,
+      "ayah": 5,
+      "key": "69:5",
+      "arabic": "فَأَمَّا ثَمُودُ فَأُهْلِكُوا۟ بِٱلطَّاغِيَةِ",
+      "translations": {
+        "en": "But the Thamud,- they were destroyed by a terrible Storm of thunder and lightning!",
+        "ms": "Maka (masing-masing menerima azab dunianya) - adapun Thamud (kaum Nabi Soleh), maka mereka telah dibinasakan dengan (petir) yang melampau dahsyatnya",
+        "id": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ"
+      },
+      "transliteration": "Faamma thamoodu faohlikoo bialttaghiyati"
+    },
+    {
+      "surah": 69,
+      "ayah": 6,
+      "key": "69:6",
+      "arabic": "وَأَمَّا عَادٌ فَأُهْلِكُوا۟ بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+      "translations": {
+        "en": "And the 'Ad, they were destroyed by a furious Wind, exceedingly violent;",
+        "ms": "Adapun Aad (kaum Nabi Hud), maka mereka telah dibinasakan dengan angin ribut yang kencang, yang melampau kencangnya",
+        "id": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ"
+      },
+      "transliteration": "Waamma AAadun faohlikoo bireehin sarsarin AAatiyatin"
+    },
+    {
+      "surah": 69,
+      "ayah": 7,
+      "key": "69:7",
+      "arabic": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَـٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+      "translations": {
+        "en": "He made it rage against them seven nights and eight days in succession: so that thou couldst see the (whole) people lying prostrate in its (path), as they had been roots of hollow palm-trees tumbled down!",
+        "ms": "Yang diarahkannya menyerang mereka tujuh malam lapan hari terus-menerus; (kalaulah engkau menyaksikannya) maka engkau akan melihat kaum itu bergelimpangan mati, seolah-olah mereka: batang-batang pohon kurma yang (tumbang dan) lompang",
+        "id": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ"
+      },
+      "transliteration": "Sakhkharaha AAalayhim sabAAa layalin wathamaniyata ayyamin husooman fatara alqawma feeha sarAAa kaannahum aAAjazu nakhlin khawiyatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 8,
+      "key": "69:8",
+      "arabic": "فَهَلْ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٍ",
+      "translations": {
+        "en": "Then seest thou any of them left surviving?",
+        "ms": "Dengan yang demikian, dapatkah engkau melihat lagi sisa-sisa mereka (yang masih hidup)",
+        "id": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ"
+      },
+      "transliteration": "Fahal tara lahum min baqiyatin"
+    },
+    {
+      "surah": 69,
+      "ayah": 9,
+      "key": "69:9",
+      "arabic": "وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَـٰتُ بِٱلْخَاطِئَةِ",
+      "translations": {
+        "en": "And Pharaoh, and those before him, and the Cities Overthrown, committed habitual Sin.",
+        "ms": "Dan (selain dari mereka) datanglah Firaun, dan orang-orang yang terdahulu daripadanya, serta penduduk negeri-negeri yang telah ditunggang balikkan - dengan melakukan perkara-perkara yang salah",
+        "id": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ"
+      },
+      "transliteration": "Wajaa firAAawnu waman qablahu waalmutafikatu bialkhatiati"
+    },
+    {
+      "surah": 69,
+      "ayah": 10,
+      "key": "69:10",
+      "arabic": "فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً",
+      "translations": {
+        "en": "And disobeyed (each) the messenger of their Lord; so He punished them with an abundant Penalty.",
+        "ms": "Iaitu masing-masing menderhaka kepada Rasul (yang diutuskan oleh) Tuhan mereka, lalu Allah menyeksa mereka dengan azab yang sentiasa bertambah",
+        "id": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً"
+      },
+      "transliteration": "FaAAasaw rasoola rabbihim faakhathahum akhthatan rabiyatan"
+    },
+    {
+      "surah": 69,
+      "ayah": 11,
+      "key": "69:11",
+      "arabic": "إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَـٰكُمْ فِى ٱلْجَارِيَةِ",
+      "translations": {
+        "en": "We, when the water (of Noah's Flood) overflowed beyond its limits, carried you (mankind), in the floating (Ark),",
+        "ms": "Sesungguhnya Kami, - ketika air (banjir) melampaui hadnya (serta menenggelamkan gunung-ganang), - telah mengangkut (serta menyelamatkan nenek moyang) kamu ke dalam bahtera Nabi Nuh (yang bergerak laju pelayarannya)",
+        "id": "إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنَٰكُمۡ فِي ٱلۡجَارِيَةِ"
+      },
+      "transliteration": "Inna lamma tagha almao hamalnakum fee aljariyati"
+    },
+    {
+      "surah": 69,
+      "ayah": 12,
+      "key": "69:12",
+      "arabic": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ",
+      "translations": {
+        "en": "That We might make it a Message unto you, and that ears (that should hear the tale and) retain its memory should bear its (lessons) in remembrance.",
+        "ms": "(Kami lakukan yang demikian) untuk Kami jadikan peristiwa itu satu pelajaran bagi kamu, dan untuk didengar serta diambil ingat oleh telinga (orang-orang) yang mahu menerima pengajaran",
+        "id": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةٗ وَتَعِيَهَآ أُذُنٞ وَٰعِيَةٞ"
+      },
+      "transliteration": "LinajAAalaha lakum tathkiratan wataAAiyaha othunun waAAiyatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 13,
+      "key": "69:13",
+      "arabic": "فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌ وَٰحِدَةٌ",
+      "translations": {
+        "en": "Then, when one blast is sounded on the Trumpet,",
+        "ms": "Kemudian (ketahuilah bahawa) apabila ditiup Sangkakala dengan sekali tiup",
+        "id": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ"
+      },
+      "transliteration": "Faitha nufikha fee alssoori nafkhatun wahidatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 14,
+      "key": "69:14",
+      "arabic": "وَحُمِلَتِ ٱلْأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَٰحِدَةً",
+      "translations": {
+        "en": "And the earth is moved, and its mountains, and they are crushed to powder at one stroke,-",
+        "ms": "Dan bumi serta gunung-ganang diangkat (dari tempatnya) lalu dihancurkan keduanya dengan sekali hancur",
+        "id": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةٗ وَٰحِدَةٗ"
+      },
+      "transliteration": "Wahumilati alardu waaljibalu fadukkata dakkatan wahidatan"
+    },
+    {
+      "surah": 69,
+      "ayah": 15,
+      "key": "69:15",
+      "arabic": "فَيَوْمَئِذٍ وَقَعَتِ ٱلْوَاقِعَةُ",
+      "translations": {
+        "en": "On that Day shall the (Great) Event come to pass.",
+        "ms": "Maka pada saat itu berlakulah hari kiamat",
+        "id": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ"
+      },
+      "transliteration": "Fayawmaithin waqaAAati alwaqiAAatu"
+    },
+    {
+      "surah": 69,
+      "ayah": 16,
+      "key": "69:16",
+      "arabic": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِىَ يَوْمَئِذٍ وَاهِيَةٌ",
+      "translations": {
+        "en": "And the sky will be rent asunder, for it will that Day be flimsy,",
+        "ms": "Dan terbelahlah langit, lalu menjadilah ia pada saat itu reput (dan runtuh)",
+        "id": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ"
+      },
+      "transliteration": "Wainshaqqati alssamao fahiya yawmaithin wahiyatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 17,
+      "key": "69:17",
+      "arabic": "وَٱلْمَلَكُ عَلَىٰٓ أَرْجَآئِهَا ۚ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَـٰنِيَةٌ",
+      "translations": {
+        "en": "And the angels will be on its sides, and eight will, that Day, bear the Throne of thy Lord above them.",
+        "ms": "Sedang malaikat-malaikat (ditempatkan) mengawal segala penjurunya, dan Arasy Tuhanmu pada saat itu dipikul oleh lapan malaikat di atas malaikat-malaikat yang mengawal itu",
+        "id": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ"
+      },
+      "transliteration": "Waalmalaku AAala arjaiha wayahmilu AAarsha rabbika fawqahum yawmaithin thamaniyatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 18,
+      "key": "69:18",
+      "arabic": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفَىٰ مِنكُمْ خَافِيَةٌ",
+      "translations": {
+        "en": "That Day shall ye be brought to Judgment: not an act of yours that ye hide will be hidden.",
+        "ms": "Pada hari itu, kamu semua dihadapkan (untuk hitungan amal); tidak ada sesuatu pun yang tersembunyi (kepada Allah) dari perkara-perkara kamu yang tersembunyi",
+        "id": "يَوۡمَئِذٖ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةٞ"
+      },
+      "transliteration": "Yawmaithin tuAAradoona la takhfa minkum khafiyatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 19,
+      "key": "69:19",
+      "arabic": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَـٰبِيَهْ",
+      "translations": {
+        "en": "Then he that will be given his Record in his right hand will say: \"Ah here! Read ye my Record!",
+        "ms": "Maka sesiapa yang diberikan menerima Kitab amalnya dengan tangan kanannya, maka ia akan berkata (dengan sukacitanya kepada sesiapa yang ada di sisinya): ` Nah! Bacalah kamu Kitab amalku ini",
+        "id": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتَٰبِيَهۡ"
+      },
+      "transliteration": "Faamma man ootiya kitabahu biyameenihi fayaqoolu haomu iqraoo kitabiyah"
+    },
+    {
+      "surah": 69,
+      "ayah": 20,
+      "key": "69:20",
+      "arabic": "إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ",
+      "translations": {
+        "en": "\"I did really understand that my Account would (One Day) reach me!\"",
+        "ms": "Sesungguhnya aku telah mengetahui dengan yakin, bahawa aku akan menghadapi hitungan amalku (pada hari yang ditentukan)",
+        "id": "إِنِّي ظَنَنتُ أَنِّي مُلَٰقٍ حِسَابِيَهۡ"
+      },
+      "transliteration": "Innee thanantu annee mulaqin hisabiyah"
+    },
+    {
+      "surah": 69,
+      "ayah": 21,
+      "key": "69:21",
+      "arabic": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "translations": {
+        "en": "And he will be in a life of Bliss,",
+        "ms": "Maka (dengan itu) tinggalah dia dalam kehidupan yang senang lenang lagi memuaskan",
+        "id": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ"
+      },
+      "transliteration": "Fahuwa fee AAeeshatin radiyatin"
+    },
+    {
+      "surah": 69,
+      "ayah": 22,
+      "key": "69:22",
+      "arabic": "فِى جَنَّةٍ عَالِيَةٍ",
+      "translations": {
+        "en": "In a Garden on high,",
+        "ms": "Di dalam Syurga yang tinggi (darjatnya)",
+        "id": "فِي جَنَّةٍ عَالِيَةٖ"
+      },
+      "transliteration": "Fee jannatin AAaliyatin"
+    },
+    {
+      "surah": 69,
+      "ayah": 23,
+      "key": "69:23",
+      "arabic": "قُطُوفُهَا دَانِيَةٌ",
+      "translations": {
+        "en": "The Fruits whereof (will hang in bunches) low and near.",
+        "ms": "Buah-buahannya dekat untuk dipetik",
+        "id": "قُطُوفُهَا دَانِيَةٞ"
+      },
+      "transliteration": "Qutoofuha daniyatun"
+    },
+    {
+      "surah": 69,
+      "ayah": 24,
+      "key": "69:24",
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+      "translations": {
+        "en": "\"Eat ye and drink ye, with full satisfaction; because of the (good) that ye sent before you, in the days that are gone!\"",
+        "ms": "(Masing-masing dipersilakan menikmatinya dengan dikatakan): \"Makan dan minumlah kamu makanan dan minuman sebagai nikmat yang lazat dan baik kesudahannya, dengan sebab (amal-amal soleh) yang telah kamu kerjakan pada masa yang lalu (di dunia)",
+        "id": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ"
+      },
+      "transliteration": "Kuloo waishraboo haneean bima aslaftum fee alayyami alkhaliyati"
+    },
+    {
+      "surah": 69,
+      "ayah": 25,
+      "key": "69:25",
+      "arabic": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَـٰلَيْتَنِى لَمْ أُوتَ كِتَـٰبِيَهْ",
+      "translations": {
+        "en": "And he that will be given his Record in his left hand, will say: \"Ah! Would that my Record had not been given to me!",
+        "ms": "Adapun orang yang diberikan menerima Kitab amalnya dengan tangan kirinya, maka ia akan berkata (dengan sesalnya): \"Alangkah baiknya kalau aku tidak diberikan Kitab amalku",
+        "id": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُوتَ كِتَٰبِيَهۡ"
+      },
+      "transliteration": "Waamma man ootiya kitabahu bishimalihi fayaqoolu ya laytanee lam oota kitabiyah"
+    },
+    {
+      "surah": 69,
+      "ayah": 26,
+      "key": "69:26",
+      "arabic": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "translations": {
+        "en": "\"And that I had never realised how my account (stood)!",
+        "ms": "Dan aku tidak dapat mengetahui hitungan amalku",
+        "id": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ"
+      },
+      "transliteration": "Walam adri ma hisabiyah"
+    },
+    {
+      "surah": 69,
+      "ayah": 27,
+      "key": "69:27",
+      "arabic": "يَـٰلَيْتَهَا كَانَتِ ٱلْقَاضِيَةَ",
+      "translations": {
+        "en": "\"Ah! Would that (Death) had made an end of me!",
+        "ms": "Alangkah baiknya kalau kematianku di dunia dahulu, menjadi kematian pemutus (yang menamatkan kesudahanku, tidak dibangkitkan lagi)",
+        "id": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ"
+      },
+      "transliteration": "Ya laytaha kanati alqadiyatu"
+    },
+    {
+      "surah": 69,
+      "ayah": 28,
+      "key": "69:28",
+      "arabic": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ ۜ",
+      "translations": {
+        "en": "\"Of no profit to me has been my wealth!",
+        "ms": "Harta kekayaanku tidak dapat menolongku sedikitpun",
+        "id": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ"
+      },
+      "transliteration": "Ma aghna AAannee maliyah"
+    },
+    {
+      "surah": 69,
+      "ayah": 29,
+      "key": "69:29",
+      "arabic": "هَلَكَ عَنِّى سُلْطَـٰنِيَهْ",
+      "translations": {
+        "en": "\"My power has perished from me!\"...",
+        "ms": "Kuat kuasaku (dan hujjah-hujjahku membela diri), telah binasa dan hilang lenyap dariku",
+        "id": "هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ"
+      },
+      "transliteration": "Halaka AAannee sultaniyah"
+    },
+    {
+      "surah": 69,
+      "ayah": 30,
+      "key": "69:30",
+      "arabic": "خُذُوهُ فَغُلُّوهُ",
+      "translations": {
+        "en": "(The stern command will say): \"Seize ye him, and bind ye him,",
+        "ms": "(Lalu diperintahkan malaikat penjaga neraka): \"Tangkaplah orang yang berdosa itu serta belenggulah dia",
+        "id": "خُذُوهُ فَغُلُّوهُ"
+      },
+      "transliteration": "Khuthoohu faghulloohu"
+    },
+    {
+      "surah": 69,
+      "ayah": 31,
+      "key": "69:31",
+      "arabic": "ثُمَّ ٱلْجَحِيمَ صَلُّوهُ",
+      "translations": {
+        "en": "\"And burn ye him in the Blazing Fire.",
+        "ms": "Kemudian bakarlah dia di dalam neraka Jahiim",
+        "id": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ"
+      },
+      "transliteration": "Thumma aljaheema salloohu"
+    },
+    {
+      "surah": 69,
+      "ayah": 32,
+      "key": "69:32",
+      "arabic": "ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ",
+      "translations": {
+        "en": "\"Further, make him march in a chain, whereof the length is seventy cubits!",
+        "ms": "Selain dari itu, masukkanlah dia dalam (lingkaran) rantai besi yang ukuran panjangnya tujuh puluh hasta, (dengan membelitkannya ke badannya)",
+        "id": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ"
+      },
+      "transliteration": "Thumma fee silsilatin tharAAuha sabAAoona thiraAAan faoslukoohu"
+    },
+    {
+      "surah": 69,
+      "ayah": 33,
+      "key": "69:33",
+      "arabic": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "translations": {
+        "en": "\"This was he that would not believe in Allah Most High.",
+        "ms": "Sesungguhnya dia dahulu tidak beriman kepada Allah Yang Maha Besar",
+        "id": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ"
+      },
+      "transliteration": "Innahu kana la yuminu biAllahi alAAatheemi"
+    },
+    {
+      "surah": 69,
+      "ayah": 34,
+      "key": "69:34",
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translations": {
+        "en": "\"And would not encourage the feeding of the indigent!",
+        "ms": "Dan dia juga tidak menggalakkan (dirinya dan orang lain) memberi makanan (yang berhak diterima oleh) orang miskin",
+        "id": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
+      },
+      "transliteration": "Wala yahuddu AAala taAAami almiskeeni"
+    },
+    {
+      "surah": 69,
+      "ayah": 35,
+      "key": "69:35",
+      "arabic": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَـٰهُنَا حَمِيمٌ",
+      "translations": {
+        "en": "\"So no friend hath he here this Day.",
+        "ms": "Maka pada hari ini, tidak ada baginya di sini (seorangpun dari) kaum kerabat serta sahabat handai (yang dapat menolongnya)",
+        "id": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ"
+      },
+      "transliteration": "Falaysa lahu alyawma hahuna hameemun"
+    },
+    {
+      "surah": 69,
+      "ayah": 36,
+      "key": "69:36",
+      "arabic": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍ",
+      "translations": {
+        "en": "\"Nor hath he any food except the corruption from the washing of wounds,",
+        "ms": "Dan tidak ada makanan (baginya) melainkan dari air danur",
+        "id": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ"
+      },
+      "transliteration": "Wala taAAamun illa min ghisleenin"
+    },
+    {
+      "surah": 69,
+      "ayah": 37,
+      "key": "69:37",
+      "arabic": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ",
+      "translations": {
+        "en": "\"Which none do eat but those in sin.\"",
+        "ms": "Yang tidak memakannya melainkan orang-orang yang melakukan perkara yang salah",
+        "id": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ"
+      },
+      "transliteration": "La yakuluhu illa alkhatioona"
+    },
+    {
+      "surah": 69,
+      "ayah": 38,
+      "key": "69:38",
+      "arabic": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+      "translations": {
+        "en": "So I do call to witness what ye see,",
+        "ms": "Maka Aku bersumpah: Demi segala (yang nyata) yang kamu melihatnya",
+        "id": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ"
+      },
+      "transliteration": "Fala oqsimu bima tubsiroona"
+    },
+    {
+      "surah": 69,
+      "ayah": 39,
+      "key": "69:39",
+      "arabic": "وَمَا لَا تُبْصِرُونَ",
+      "translations": {
+        "en": "And what ye see not,",
+        "ms": "Dan segala (yang ghaib) yang kamu tidak melihatnya",
+        "id": "وَمَا لَا تُبۡصِرُونَ"
+      },
+      "transliteration": "Wama la tubsiroona"
+    },
+    {
+      "surah": 69,
+      "ayah": 40,
+      "key": "69:40",
+      "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "translations": {
+        "en": "That this is verily the word of an honoured messenger;",
+        "ms": "Bahawa sesungguhnya Al-Quran itu ialah (wahyu dari Kami) yang disampaikan oleh Rasul yang mulia",
+        "id": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ"
+      },
+      "transliteration": "Innahu laqawlu rasoolin kareemin"
+    },
+    {
+      "surah": 69,
+      "ayah": 41,
+      "key": "69:41",
+      "arabic": "وَمَا هُوَ بِقَوْلِ شَاعِرٍ ۚ قَلِيلًا مَّا تُؤْمِنُونَ",
+      "translations": {
+        "en": "It is not the word of a poet: little it is ye believe!",
+        "ms": "Dan bukanlah Al-Quran itu perkataan seorang penyair (sebagaimana yang kamu dakwakan. Tetapi sayang!) amatlah sedikit kamu beriman",
+        "id": "وَمَا هُوَ بِقَوۡلِ شَاعِرٖۚ قَلِيلٗا مَّا تُؤۡمِنُونَ"
+      },
+      "transliteration": "Wama huwa biqawli shaAAirin qaleelan ma tuminoona"
+    },
+    {
+      "surah": 69,
+      "ayah": 42,
+      "key": "69:42",
+      "arabic": "وَلَا بِقَوْلِ كَاهِنٍ ۚ قَلِيلًا مَّا تَذَكَّرُونَ",
+      "translations": {
+        "en": "Nor is it the word of a soothsayer: little admonition it is ye receive.",
+        "ms": "Dan juga bukanlah Al-Quran itu perkataan seorang pawang (sebagaimana yang kamu katakan. Tetapi sayang!) amatlah sedikit kamu mengambil peringatan",
+        "id": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ"
+      },
+      "transliteration": "Wala biqawli kahinin qaleelan ma tathakkaroona"
+    },
+    {
+      "surah": 69,
+      "ayah": 43,
+      "key": "69:43",
+      "arabic": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+      "translations": {
+        "en": "(This is) a Message sent down from the Lord of the Worlds.",
+        "ms": "(Al-Quran itu) diturunkan dari Allah Tuhan sekalian alam",
+        "id": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ"
+      },
+      "transliteration": "Tanzeelun min rabbi alAAalameena"
+    },
+    {
+      "surah": 69,
+      "ayah": 44,
+      "key": "69:44",
+      "arabic": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+      "translations": {
+        "en": "And if the messenger were to invent any sayings in Our name,",
+        "ms": "Dan kalaulah (Nabi Muhammad yang menyampaikan Al-Quran itu) mengatakan atas nama Kami secara dusta - sebarang kata-kata rekaan",
+        "id": "وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ"
+      },
+      "transliteration": "Walaw taqawwala AAalayna baAAda alaqaweeli"
+    },
+    {
+      "surah": 69,
+      "ayah": 45,
+      "key": "69:45",
+      "arabic": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+      "translations": {
+        "en": "We should certainly seize him by his right hand,",
+        "ms": "Sudah tentu Kami akan menyentapnya, dengan kekuasaan Kami",
+        "id": "لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ"
+      },
+      "transliteration": "Laakhathna minhu bialyameeni"
+    },
+    {
+      "surah": 69,
+      "ayah": 46,
+      "key": "69:46",
+      "arabic": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+      "translations": {
+        "en": "And We should certainly then cut off the artery of his heart:",
+        "ms": "Kemudian sudah tentu Kami akan memutuskan tali jantungnya (supaya ia mati dengan serta-merta)",
+        "id": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ"
+      },
+      "transliteration": "Thumma laqataAAna minhu alwateena"
+    },
+    {
+      "surah": 69,
+      "ayah": 47,
+      "key": "69:47",
+      "arabic": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَـٰجِزِينَ",
+      "translations": {
+        "en": "Nor could any of you withhold him (from Our wrath).",
+        "ms": "Maka tidak ada seorangpun di antara kamu yang dapat menghalang (tindakan Kami itu) daripada menimpanya",
+        "id": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَٰجِزِينَ"
+      },
+      "transliteration": "Fama minkum min ahadin AAanhu hajizeena"
+    },
+    {
+      "surah": 69,
+      "ayah": 48,
+      "key": "69:48",
+      "arabic": "وَإِنَّهُۥ لَتَذْكِرَةٌ لِّلْمُتَّقِينَ",
+      "translations": {
+        "en": "But verily this is a Message for the Allah-fearing.",
+        "ms": "Dan sesungguhnya (Al-Quran) itu tetap menjadi peringatan bagi orang-orang yang bertaqwa",
+        "id": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ"
+      },
+      "transliteration": "Wainnahu latathkiratun lilmuttaqeena"
+    },
+    {
+      "surah": 69,
+      "ayah": 49,
+      "key": "69:49",
+      "arabic": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+      "translations": {
+        "en": "And We certainly know that there are amongst you those that reject (it).",
+        "ms": "Dan sesungguhnya Kami sedia mengetahui bahawa ada di antara kamu yang mendustakan (Al-Quran, maka Kami akan membalasnya)",
+        "id": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ"
+      },
+      "transliteration": "Wainna lanaAAlamu anna minkum mukaththibeena"
+    },
+    {
+      "surah": 69,
+      "ayah": 50,
+      "key": "69:50",
+      "arabic": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَـٰفِرِينَ",
+      "translations": {
+        "en": "But truly (Revelation) is a cause of sorrow for the Unbelievers.",
+        "ms": "Dan sesungguhnya Al-Quran itu sudah tentu akan menyebabkan penyesalan bagi orang-orang yang kafir (semasa mereka menerima balasan)",
+        "id": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ"
+      },
+      "transliteration": "Wainnahu lahasratun AAala alkafireena"
+    },
+    {
+      "surah": 69,
+      "ayah": 51,
+      "key": "69:51",
+      "arabic": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+      "translations": {
+        "en": "But verily it is Truth of assured certainty.",
+        "ms": "Dan sesungguhnya Al-Quran itu adalah kebenaran yang diyakini (dengan seyakin-yakinnya)",
+        "id": "وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ"
+      },
+      "transliteration": "Wainnahu lahaqqu alyaqeeni"
+    },
+    {
+      "surah": 69,
+      "ayah": 52,
+      "key": "69:52",
+      "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "translations": {
+        "en": "So glorify the name of thy Lord Most High.",
+        "ms": "Oleh itu bertasbihlah dengan memuji nama Tuhanmu Yang Maha Besar",
+        "id": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
+      },
+      "transliteration": "Fasabbih biismi rabbika alAAatheemi"
+    }
+  ]
+}

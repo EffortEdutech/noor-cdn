@@ -1,0 +1,109 @@
+{
+  "surah": {
+    "number": 94,
+    "slug": "ash-sharh",
+    "nameArabic": "الشرح",
+    "nameTransliteration": "Ash-Sharh",
+    "nameEnglish": "The Relief",
+    "revelation": "makki",
+    "ayahCount": 8
+  },
+  "ayahs": [
+    {
+      "surah": 94,
+      "ayah": 1,
+      "key": "94:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "translations": {
+        "en": "Have We not expanded thee thy breast?-",
+        "ms": "Bukankah Kami telah melapangkan bagimu: dadamu (wahai Muhammad serta mengisinya dengan iman dan hidayah petunjuk)",
+        "id": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ"
+      },
+      "transliteration": "Alam nashrah laka sadraka"
+    },
+    {
+      "surah": 94,
+      "ayah": 2,
+      "key": "94:2",
+      "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "translations": {
+        "en": "And removed from thee thy burden",
+        "ms": "Dan Kami telah meringankan daripadamu: bebanmu (menyiarkan Islam)",
+        "id": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ"
+      },
+      "transliteration": "WawadaAAna AAanka wizraka"
+    },
+    {
+      "surah": 94,
+      "ayah": 3,
+      "key": "94:3",
+      "arabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "translations": {
+        "en": "The which did gall thy back?-",
+        "ms": "Yang memberati tanggunganmu, (dengan memberikan berbagai kemudahan dalam melaksanakannya)",
+        "id": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ"
+      },
+      "transliteration": "Allathee anqada thahraka"
+    },
+    {
+      "surah": 94,
+      "ayah": 4,
+      "key": "94:4",
+      "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "translations": {
+        "en": "And raised high the esteem (in which) thou (art held)?",
+        "ms": "Dan Kami telah meninggikan bagimu: sebutan namamu (dengan mengurniakan pangkat Nabi dan berbagai kemuliaan)",
+        "id": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ"
+      },
+      "transliteration": "WarafaAAna laka thikraka"
+    },
+    {
+      "surah": 94,
+      "ayah": 5,
+      "key": "94:5",
+      "arabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translations": {
+        "en": "So, verily, with every difficulty, there is relief:",
+        "ms": "Oleh itu, maka (tetapkanlah kepercayaanmu) bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan",
+        "id": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا"
+      },
+      "transliteration": "Fainna maAAa alAAusri yusran"
+    },
+    {
+      "surah": 94,
+      "ayah": 6,
+      "key": "94:6",
+      "arabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "translations": {
+        "en": "Verily, with every difficulty there is relief.",
+        "ms": "(Sekali lagi ditegaskan): bahawa sesungguhnya tiap-tiap kesukaran disertai kemudahan",
+        "id": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا"
+      },
+      "transliteration": "Inna maAAa alAAusri yusran"
+    },
+    {
+      "surah": 94,
+      "ayah": 7,
+      "key": "94:7",
+      "arabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "translations": {
+        "en": "Therefore, when thou art free (from thine immediate task), still labour hard,",
+        "ms": "Kemudian apabila engkau telah selesai (daripada sesuatu amal soleh), maka bersungguh-sungguhlah engkau berusaha (mengerjakan amal soleh yang lain)",
+        "id": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ"
+      },
+      "transliteration": "Faitha faraghta fainsab"
+    },
+    {
+      "surah": 94,
+      "ayah": 8,
+      "key": "94:8",
+      "arabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "translations": {
+        "en": "And to thy Lord turn (all) thy attention.",
+        "ms": "Dan kepada Tuhanmu sahaja hendaklah engkau memohon (apa yang engkau gemar dan ingini)",
+        "id": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب"
+      },
+      "transliteration": "Waila rabbika fairghab"
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "surah": {
+    "number": 70,
+    "slug": "al-ma-aarij",
+    "nameArabic": "المعارج",
+    "nameTransliteration": "Al-Ma'aarij",
+    "nameEnglish": "The Ascending Stairways",
+    "revelation": "makki",
+    "ayahCount": 44
+  },
+  "ayahs": [
+    {
+      "surah": 70,
+      "ayah": 1,
+      "key": "70:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "translations": {
+        "en": "A questioner asked about a Penalty to befall-",
+        "ms": "Salah seorang (dari kalangan orang-orang kafir Makkah, secara mengejek-ejek) meminta kedatangan azab yang (dijanjikan) akan berlaku",
+        "id": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ"
+      },
+      "transliteration": "Saala sailun biAAathabin waqiAAin"
+    },
+    {
+      "surah": 70,
+      "ayah": 2,
+      "key": "70:2",
+      "arabic": "لِّلْكَـٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+      "translations": {
+        "en": "The Unbelievers, the which there is none to ward off,-",
+        "ms": "Azab yang disediakan untuk orang-orang yang kafir, yang tidak ada sesiapapun dapat menolak kedatangannya",
+        "id": "لِّلۡكَٰفِرِينَ لَيۡسَ لَهُۥ دَافِعٞ"
+      },
+      "transliteration": "Lilkafireena laysa lahu dafiAAun"
+    },
+    {
+      "surah": 70,
+      "ayah": 3,
+      "key": "70:3",
+      "arabic": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+      "translations": {
+        "en": "(A Penalty) from Allah, Lord of the Ways of Ascent.",
+        "ms": "Dari Allah yang menguasai tempat-tempat turun naik",
+        "id": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ"
+      },
+      "transliteration": "Mina Allahi thee almaAAariji"
+    },
+    {
+      "surah": 70,
+      "ayah": 4,
+      "key": "70:4",
+      "arabic": "تَعْرُجُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "translations": {
+        "en": "The angels and the spirit ascend unto him in a Day the measure whereof is (as) fifty thousand years:",
+        "ms": "Yang dilalui oleh malaikat-malaikat dan Jibril ke pusat pemerintahanNya (untuk menerima dan menyempurnakan tugas masing-masing, terutama) pada satu masa yang adalah tempohnya (dirasai oleh orang-orang yang bersalah) sungguh panjang, (kerana banyak hitungan hisab dan berat soal jawabnya)",
+        "id": "تَعۡرُجُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ"
+      },
+      "transliteration": "TaAAruju almalaikatu waalrroohu ilayhi fee yawmin kana miqdaruhu khamseena alfa sanatin"
+    },
+    {
+      "surah": 70,
+      "ayah": 5,
+      "key": "70:5",
+      "arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "translations": {
+        "en": "Therefore do thou hold Patience,- a Patience of beautiful (contentment).",
+        "ms": "Maka bersabarlah (wahai Muhammad terhadap ejekan golongan yang kafir itu), dengan cara kesabaran yang sebaik-baiknya",
+        "id": "فَٱصۡبِرۡ صَبۡرٗا جَمِيلًا"
+      },
+      "transliteration": "Faisbir sabran jameelan"
+    },
+    {
+      "surah": 70,
+      "ayah": 6,
+      "key": "70:6",
+      "arabic": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+      "translations": {
+        "en": "They see the (Day) indeed as a far-off (event):",
+        "ms": "Sebenarnya mereka memandang azab itu jauh (daripada berlaku)",
+        "id": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا"
+      },
+      "transliteration": "Innahum yarawnahu baAAeedan"
+    },
+    {
+      "surah": 70,
+      "ayah": 7,
+      "key": "70:7",
+      "arabic": "وَنَرَىٰهُ قَرِيبًا",
+      "translations": {
+        "en": "But We see it (quite) near.",
+        "ms": "Sedang Kami memandangnya dekat, (tetap akan berlaku)",
+        "id": "وَنَرَىٰهُ قَرِيبٗا"
+      },
+      "transliteration": "Wanarahu qareeban"
+    },
+    {
+      "surah": 70,
+      "ayah": 8,
+      "key": "70:8",
+      "arabic": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+      "translations": {
+        "en": "The Day that the sky will be like molten brass,",
+        "ms": "(Iaitu) pada hari langit menjadi seperti tembaga cair",
+        "id": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ"
+      },
+      "transliteration": "Yawma takoonu alssamao kaalmuhli"
+    },
+    {
+      "surah": 70,
+      "ayah": 9,
+      "key": "70:9",
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+      "translations": {
+        "en": "And the mountains will be like wool,",
+        "ms": "Dan gunung-ganang pula menjadi seperti bulu (yang berterbangan)",
+        "id": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ"
+      },
+      "transliteration": "Watakoonu aljibalu kaalAAihni"
+    },
+    {
+      "surah": 70,
+      "ayah": 10,
+      "key": "70:10",
+      "arabic": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+      "translations": {
+        "en": "And no friend will ask after a friend,",
+        "ms": "Dan sahabat karib tidak bertanyakan hal sahabat karibnya, (kerana tiap-tiap seorang sibuk memikirkan hal keadaannya sendiri)",
+        "id": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا"
+      },
+      "transliteration": "Wala yasalu hameemun hameeman"
+    },
+    {
+      "surah": 70,
+      "ayah": 11,
+      "key": "70:11",
+      "arabic": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+      "translations": {
+        "en": "Though they will be put in sight of each other,- the sinner's desire will be: Would that he could redeem himself from the Penalty of that Day by (sacrificing) his children,",
+        "ms": "Padahal masing-masing diberi melihat setengahnya yang lain; (pada saat yang demikian) orang yang kafir suka kiranya dapat menebus dirinya dari azab itu dengan anak-anaknya sendiri",
+        "id": "يُبَصَّرُونَهُمۡۚ يَوَدُّ ٱلۡمُجۡرِمُ لَوۡ يَفۡتَدِي مِنۡ عَذَابِ يَوۡمِئِذِۭ بِبَنِيهِ"
+      },
+      "transliteration": "Yubassaroonahum yawaddu almujrimu law yaftadee min AAathabi yawmiithin bibaneehi"
+    },
+    {
+      "surah": 70,
+      "ayah": 12,
+      "key": "70:12",
+      "arabic": "وَصَـٰحِبَتِهِۦ وَأَخِيهِ",
+      "translations": {
+        "en": "His wife and his brother,",
+        "ms": "Dan isteri serta saudaranya",
+        "id": "وَصَٰحِبَتِهِۦ وَأَخِيهِ"
+      },
+      "transliteration": "Wasahibatihi waakheehi"
+    },
+    {
+      "surah": 70,
+      "ayah": 13,
+      "key": "70:13",
+      "arabic": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+      "translations": {
+        "en": "His kindred who sheltered him,",
+        "ms": "Dan kaum kerabatnya yang melindunginya",
+        "id": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ"
+      },
+      "transliteration": "Wafaseelatihi allatee tuweehi"
+    },
+    {
+      "surah": 70,
+      "ayah": 14,
+      "key": "70:14",
+      "arabic": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+      "translations": {
+        "en": "And all, all that is on earth,- so it could deliver him:",
+        "ms": "Dan juga sekalian makhluk yang ada di bumi - kemudian (diharapkannya) tebusan itu dapat menyelamatkannya",
+        "id": "وَمَن فِي ٱلۡأَرۡضِ جَمِيعٗا ثُمَّ يُنجِيهِ"
+      },
+      "transliteration": "Waman fee alardi jameeAAan thumma yunjeehi"
+    },
+    {
+      "surah": 70,
+      "ayah": 15,
+      "key": "70:15",
+      "arabic": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+      "translations": {
+        "en": "By no means! for it would be the Fire of Hell!-",
+        "ms": "Tidak sekali-kali (sebagaimana yang diharapkannya)! Sesungguhnya neraka (yang disediakan baginya) tetap menjulang-julang apinya",
+        "id": "كَلَّآۖ إِنَّهَا لَظَىٰ"
+      },
+      "transliteration": "Kalla innaha latha"
+    },
+    {
+      "surah": 70,
+      "ayah": 16,
+      "key": "70:16",
+      "arabic": "نَزَّاعَةً لِّلشَّوَىٰ",
+      "translations": {
+        "en": "Plucking out (his being) right to the skull!-",
+        "ms": "(Membakar serta) menggugurkan kulit ubun-ubun dan anggota anggota tubuh badan",
+        "id": "نَزَّاعَةٗ لِّلشَّوَىٰ"
+      },
+      "transliteration": "NazzaAAatan lilshshawa"
+    },
+    {
+      "surah": 70,
+      "ayah": 17,
+      "key": "70:17",
+      "arabic": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+      "translations": {
+        "en": "Inviting (all) such as turn their backs and turn away their faces (from the Right).",
+        "ms": "Neraka itu juga memanggil dan menarik orang yang membelakangi serta berpaling (dari kebenaran)",
+        "id": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ"
+      },
+      "transliteration": "TadAAoo man adbara watawalla"
+    },
+    {
+      "surah": 70,
+      "ayah": 18,
+      "key": "70:18",
+      "arabic": "وَجَمَعَ فَأَوْعَىٰٓ",
+      "translations": {
+        "en": "And collect (wealth) and hide it (from use)!",
+        "ms": "Dan yang mengumpulkan harta kekayaan lalu menyimpannya (dengan tidak membayar zakatnya)",
+        "id": "وَجَمَعَ فَأَوۡعَىٰٓ"
+      },
+      "transliteration": "WajamaAAa faawAAa"
+    },
+    {
+      "surah": 70,
+      "ayah": 19,
+      "key": "70:19",
+      "arabic": "۞ إِنَّ ٱلْإِنسَـٰنَ خُلِقَ هَلُوعًا",
+      "translations": {
+        "en": "Truly man was created very impatient;-",
+        "ms": "Sesungguhnya manusia itu dijadikan bertabiat resah gelisah (lagi bakhil kedekut)",
+        "id": "۞إِنَّ ٱلۡإِنسَٰنَ خُلِقَ هَلُوعًا"
+      },
+      "transliteration": "Inna alinsana khuliqa halooAAan"
+    },
+    {
+      "surah": 70,
+      "ayah": 20,
+      "key": "70:20",
+      "arabic": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+      "translations": {
+        "en": "Fretful when evil touches him;",
+        "ms": "Apabila ia ditimpa kesusahan, dia sangat resah gelisah",
+        "id": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعٗا"
+      },
+      "transliteration": "Itha massahu alshsharru jazooAAan"
+    },
+    {
+      "surah": 70,
+      "ayah": 21,
+      "key": "70:21",
+      "arabic": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+      "translations": {
+        "en": "And niggardly when good reaches him;-",
+        "ms": "Dan apabila ia beroleh kesenangan, ia sangat bakhil kedekut",
+        "id": "وَإِذَا مَسَّهُ ٱلۡخَيۡرُ مَنُوعًا"
+      },
+      "transliteration": "Waitha massahu alkhayru manooAAan"
+    },
+    {
+      "surah": 70,
+      "ayah": 22,
+      "key": "70:22",
+      "arabic": "إِلَّا ٱلْمُصَلِّينَ",
+      "translations": {
+        "en": "Not so those devoted to Prayer;-",
+        "ms": "Kecuali orang-orang yang mengerjakan sembahyang",
+        "id": "إِلَّا ٱلۡمُصَلِّينَ"
+      },
+      "transliteration": "Illa almusalleena"
+    },
+    {
+      "surah": 70,
+      "ayah": 23,
+      "key": "70:23",
+      "arabic": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+      "translations": {
+        "en": "Those who remain steadfast to their prayer;",
+        "ms": "Iaitu mereka yang tetap mengerjakan sembahyangnya",
+        "id": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ"
+      },
+      "transliteration": "Allatheena hum AAala salatihim daimoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 24,
+      "key": "70:24",
+      "arabic": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+      "translations": {
+        "en": "And those in whose wealth is a recognised right.",
+        "ms": "Dan mereka (yang menentukan bahagian) pada harta-hartanya, menjadi hak yang termaklum",
+        "id": "وَٱلَّذِينَ فِيٓ أَمۡوَٰلِهِمۡ حَقّٞ مَّعۡلُومٞ"
+      },
+      "transliteration": "Waallatheena fee amwalihim haqqun maAAloomun"
+    },
+    {
+      "surah": 70,
+      "ayah": 25,
+      "key": "70:25",
+      "arabic": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "translations": {
+        "en": "For the (needy) who asks and him who is prevented (for some reason from asking);",
+        "ms": "Bagi orang miskin yang meminta dan orang miskin yang menahan diri (daripada meminta)",
+        "id": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ"
+      },
+      "transliteration": "Lilssaili waalmahroomi"
+    },
+    {
+      "surah": 70,
+      "ayah": 26,
+      "key": "70:26",
+      "arabic": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+      "translations": {
+        "en": "And those who hold to the truth of the Day of Judgment;",
+        "ms": "Dan mereka yang percayakan hari pembalasan (dengan mengerjakan amal-amal yang soleh sebagai buktinya)",
+        "id": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوۡمِ ٱلدِّينِ"
+      },
+      "transliteration": "Waallatheena yusaddiqoona biyawmi alddeeni"
+    },
+    {
+      "surah": 70,
+      "ayah": 27,
+      "key": "70:27",
+      "arabic": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+      "translations": {
+        "en": "And those who fear the displeasure of their Lord,-",
+        "ms": "Dan mereka yang cemas takut daripada ditimpa azab Tuhannya",
+        "id": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ"
+      },
+      "transliteration": "Waallatheena hum min AAathabi rabbihim mushfiqoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 28,
+      "key": "70:28",
+      "arabic": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+      "translations": {
+        "en": "For their Lord's displeasure is the opposite of Peace and Tranquillity;-",
+        "ms": "Kerana sesungguhnya azab Tuhan mereka, tidak patut (bagi seseorangpun) merasa aman terhadapnya",
+        "id": "إِنَّ عَذَابَ رَبِّهِمۡ غَيۡرُ مَأۡمُونٖ"
+      },
+      "transliteration": "Inna AAathaba rabbihim ghayru mamoonin"
+    },
+    {
+      "surah": 70,
+      "ayah": 29,
+      "key": "70:29",
+      "arabic": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ",
+      "translations": {
+        "en": "And those who guard their chastity,",
+        "ms": "Dan mereka yang menjaga kehormatannya",
+        "id": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ"
+      },
+      "transliteration": "Waallatheena hum lifuroojihim hafithoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 30,
+      "key": "70:30",
+      "arabic": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "translations": {
+        "en": "Except with their wives and the (captives) whom their right hands possess,- for (then) they are not to be blamed,",
+        "ms": "Kecuali kepada isterinya atau kepada hambanya, maka sesungguhnya mereka tidak tercela",
+        "id": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ"
+      },
+      "transliteration": "Illa AAala azwajihim aw ma malakat aymanuhum fainnahum ghayru maloomeena"
+    },
+    {
+      "surah": 70,
+      "ayah": 31,
+      "key": "70:31",
+      "arabic": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "translations": {
+        "en": "But those who trespass beyond this are transgressors;-",
+        "ms": "Kemudian sesiapa yang mengingini selain dari yang demikian, maka merekalah orang-orang yang melampaui batas",
+        "id": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَـٰٓئِكَ هُمُ ٱلۡعَادُونَ"
+      },
+      "transliteration": "Famani ibtagha waraa thalika faolaika humu alAAadoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 32,
+      "key": "70:32",
+      "arabic": "وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "translations": {
+        "en": "And those who respect their trusts and covenants;",
+        "ms": "Dan mereka yang menjaga amanah dan janjinya",
+        "id": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ"
+      },
+      "transliteration": "Waallatheena hum liamanatihim waAAahdihim raAAoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 33,
+      "key": "70:33",
+      "arabic": "وَٱلَّذِينَ هُم بِشَهَـٰدَٰتِهِمْ قَآئِمُونَ",
+      "translations": {
+        "en": "And those who stand firm in their testimonies;",
+        "ms": "Dan mereka yang memberikan keterangan dengan benar lagi adil (semasa mereka menjadi saksi)",
+        "id": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ"
+      },
+      "transliteration": "Waallatheena hum bishahadatihim qaimoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 34,
+      "key": "70:34",
+      "arabic": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "translations": {
+        "en": "And those who guard (the sacredness) of their worship;-",
+        "ms": "Dan mereka yang tetap memelihara sembahyangnya",
+        "id": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ"
+      },
+      "transliteration": "Waallatheena hum AAala salatihim yuhafithoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 35,
+      "key": "70:35",
+      "arabic": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+      "translations": {
+        "en": "Such will be the honoured ones in the Gardens (of Bliss).",
+        "ms": "Mereka (yang demikian sifatnya) ditempatkan di dalam Syurga dengan diberikan penghormatan",
+        "id": "أُوْلَـٰٓئِكَ فِي جَنَّـٰتٖ مُّكۡرَمُونَ"
+      },
+      "transliteration": "Olaika fee jannatin mukramoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 36,
+      "key": "70:36",
+      "arabic": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+      "translations": {
+        "en": "Now what is the matter with the Unbelievers that they rush madly before thee-",
+        "ms": "Maka apakah yang menyebabkan orang-orang kafir, yang menentangmu (wahai Muhammad) datang berkejaran ke sisimu",
+        "id": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ"
+      },
+      "transliteration": "Famali allatheena kafaroo qibalaka muhtiAAeena"
+    },
+    {
+      "surah": 70,
+      "ayah": 37,
+      "key": "70:37",
+      "arabic": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "translations": {
+        "en": "From the right and from the left, in crowds?",
+        "ms": "(Sambil mereka) berkumpul berpuak-puak di sebelah kanan dan di sebelah kirimu",
+        "id": "عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ"
+      },
+      "transliteration": "AAani alyameeni waAAani alshshimali AAizeena"
+    },
+    {
+      "surah": 70,
+      "ayah": 38,
+      "key": "70:38",
+      "arabic": "أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+      "translations": {
+        "en": "Does every man of them long to enter the Garden of Bliss?",
+        "ms": "Patutkah tiap-tiap seorang dari mereka berharap supaya dimasukkan ke dalam Syurga yang penuh nikmat (sedang ia tidak beriman)",
+        "id": "أَيَطۡمَعُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُدۡخَلَ جَنَّةَ نَعِيمٖ"
+      },
+      "transliteration": "AyatmaAAu kullu imriin minhum an yudkhala jannata naAAeemin"
+    },
+    {
+      "surah": 70,
+      "ayah": 39,
+      "key": "70:39",
+      "arabic": "كَلَّآ ۖ إِنَّا خَلَقْنَـٰهُم مِّمَّا يَعْلَمُونَ",
+      "translations": {
+        "en": "By no means! For We have created them out of the (base matter) they know!",
+        "ms": "Tidak sekali-kali! (Mereka yang kufur ingkar tidak akan dapat memasukinya). Sesungguhnya Kami telah menciptakan mereka dari apa yang mereka sedia mengetahuinya",
+        "id": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ"
+      },
+      "transliteration": "Kalla inna khalaqnahum mimma yaAAlamoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 40,
+      "key": "70:40",
+      "arabic": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ",
+      "translations": {
+        "en": "Now I do call to witness the Lord of all points in the East and the West that We can certainly-",
+        "ms": "Maka Aku bersumpah dengan (kebesaranKu) Tuhan yang menguasai (seluruh alam, meliputi) tempat-tempat terbit (matahari dan bulan bintang) dan tempat-tempat tenggelamnya, - sesungguhnya Kami berkuasa",
+        "id": "فَلَآ أُقۡسِمُ بِرَبِّ ٱلۡمَشَٰرِقِ وَٱلۡمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ"
+      },
+      "transliteration": "Fala oqsimu birabbi almashariqi waalmagharibi inna laqadiroona"
+    },
+    {
+      "surah": 70,
+      "ayah": 41,
+      "key": "70:41",
+      "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "translations": {
+        "en": "Substitute for them better (men) than they; And We are not to be defeated (in Our Plan).",
+        "ms": "(Membinasakan mereka, serta) menggantikan mereka dengan makhluk-makluk yang lebih baik dari mereka; dan Kami tidak sekali-kali dapat dikalahkan atau dilemahkan",
+        "id": "عَلَىٰٓ أَن نُّبَدِّلَ خَيۡرٗا مِّنۡهُمۡ وَمَا نَحۡنُ بِمَسۡبُوقِينَ"
+      },
+      "transliteration": "AAala an nubaddila khayran minhum wama nahnu bimasbooqeena"
+    },
+    {
+      "surah": 70,
+      "ayah": 42,
+      "key": "70:42",
+      "arabic": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+      "translations": {
+        "en": "So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-",
+        "ms": "Oleh itu, biarkanlah mereka (wahai Muhammad) tenggelam dalam kesesatannya dan leka bermain-main (dalam dunianya), sehingga mereka menemui hari yang dijanjikan kepada mereka (untuk menerima balasan)",
+        "id": "فَذَرۡهُمۡ يَخُوضُواْ وَيَلۡعَبُواْ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي يُوعَدُونَ"
+      },
+      "transliteration": "Fatharhum yakhoodoo wayalAAaboo hatta yulaqoo yawmahumu allathee yooAAadoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 43,
+      "key": "70:43",
+      "arabic": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+      "translations": {
+        "en": "The Day whereon they will issue from their sepulchres in sudden haste as if they were rushing to a goal-post (fixed for them),-",
+        "ms": "Iaitu hari mereka segera keluar dari kubur masing-masing menuju (ke Padang Mahsyar) dengan keadaan seolah-olah mereka berkejaran ke (tempat) berhala-berhala (yang mereka sembah dahulu)",
+        "id": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ"
+      },
+      "transliteration": "Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona"
+    },
+    {
+      "surah": 70,
+      "ayah": 44,
+      "key": "70:44",
+      "arabic": "خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+      "translations": {
+        "en": "Their eyes lowered in dejection,- ignominy covering them (all over)! such is the Day the which they are promised!",
+        "ms": "Sambil pandangan mereka tunduk, serta mereka diliputi kehinaan; itulah hari yang telah dijanjikan kepada mereka",
+        "id": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ"
+      },
+      "transliteration": "KhashiAAatan absaruhum tarhaquhum thillatun thalika alyawmu allathee kanoo yooAAadoona"
+    }
+  ]
+}

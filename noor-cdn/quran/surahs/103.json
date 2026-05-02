@@ -1,0 +1,49 @@
+{
+  "surah": {
+    "number": 103,
+    "slug": "al-asr",
+    "nameArabic": "العصر",
+    "nameTransliteration": "Al-'Asr",
+    "nameEnglish": "The Declining Day",
+    "revelation": "makki",
+    "ayahCount": 3
+  },
+  "ayahs": [
+    {
+      "surah": 103,
+      "ayah": 1,
+      "key": "103:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+      "translations": {
+        "en": "By (the Token of) Time (through the ages),",
+        "ms": "Demi Masa",
+        "id": "وَٱلۡعَصۡرِ"
+      },
+      "transliteration": "WaalAAasri"
+    },
+    {
+      "surah": 103,
+      "ayah": 2,
+      "key": "103:2",
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "translations": {
+        "en": "Verily Man is in loss,",
+        "ms": "Sesungguhnya manusia itu dalam kerugian",
+        "id": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ"
+      },
+      "transliteration": "Inna alinsana lafee khusrin"
+    },
+    {
+      "surah": 103,
+      "ayah": 3,
+      "key": "103:3",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "translations": {
+        "en": "Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.",
+        "ms": "Kecuali orang-orang yang beriman dan beramal soleh, dan mereka pula berpesan-pesan dengan kebenaran serta berpesan-pesan dengan sabar",
+        "id": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ"
+      },
+      "transliteration": "Illa allatheena amanoo waAAamiloo alssalihati watawasaw bialhaqqi watawasaw bialssabri"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "surah": {
+    "number": 73,
+    "slug": "al-muzzammil",
+    "nameArabic": "المزمل",
+    "nameTransliteration": "Al-Muzzammil",
+    "nameEnglish": "The Enshrouded One",
+    "revelation": "makki",
+    "ayahCount": 20
+  },
+  "ayahs": [
+    {
+      "surah": 73,
+      "ayah": 1,
+      "key": "73:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+      "translations": {
+        "en": "O thou folded in garments!",
+        "ms": "Wahai orang yang berselimut",
+        "id": "يَـٰٓأَيُّهَا ٱلۡمُزَّمِّلُ"
+      },
+      "transliteration": "Ya ayyuha almuzzammilu"
+    },
+    {
+      "surah": 73,
+      "ayah": 2,
+      "key": "73:2",
+      "arabic": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+      "translations": {
+        "en": "Stand (to prayer) by night, but not all night,-",
+        "ms": "Bangunlah sembahyang Tahajjud pada waktu malam, selain dari sedikit masa (yang tak dapat tidak untuk berehat)",
+        "id": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا"
+      },
+      "transliteration": "Qumi allayla illa qaleelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 3,
+      "key": "73:3",
+      "arabic": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+      "translations": {
+        "en": "Half of it,- or a little less,",
+        "ms": "Iaitu separuh dari waktu malam, atau kurangkan sedikit dari separuh itu",
+        "id": "نِّصۡفَهُۥٓ أَوِ ٱنقُصۡ مِنۡهُ قَلِيلًا"
+      },
+      "transliteration": "Nisfahu awi onqus minhu qaleelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 4,
+      "key": "73:4",
+      "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+      "translations": {
+        "en": "Or a little more; and recite the Qur'an in slow, measured rhythmic tones.",
+        "ms": "Ataupun lebihkan (sedikit) daripadanya; dan bacalah Al-Quran dengan \"Tartil",
+        "id": "أَوۡ زِدۡ عَلَيۡهِ وَرَتِّلِ ٱلۡقُرۡءَانَ تَرۡتِيلًا"
+      },
+      "transliteration": "Aw zid AAalayhi warattili alqurana tarteelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 5,
+      "key": "73:5",
+      "arabic": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "translations": {
+        "en": "Soon shall We send down to thee a weighty Message.",
+        "ms": "(Sayugialah engkau dan pengikut-pengikutmu membiasakan diri masing-masing dengan ibadat yang berat kepada hawa nafsu, kerana) sesungguhnya Kami akan menurunkan kepadamu wahyu (Al-Quran yang mengandungi perintah-perintah) yang berat (kepada orang-orang yang tidak bersedia menyempurnakannya)",
+        "id": "إِنَّا سَنُلۡقِي عَلَيۡكَ قَوۡلٗا ثَقِيلًا"
+      },
+      "transliteration": "Inna sanulqee AAalayka qawlan thaqeelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 6,
+      "key": "73:6",
+      "arabic": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
+      "translations": {
+        "en": "Truly the rising by night is most potent for governing (the soul), and most suitable for (framing) the Word (of Prayer and Praise).",
+        "ms": "Sebenarnya sembahyang dan ibadat malam lebih kuat kesannya (kepada jiwa), dan lebih tetap betul bacaannya",
+        "id": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا"
+      },
+      "transliteration": "Inna nashiata allayli hiya ashaddu watan waaqwamu qeelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 7,
+      "key": "73:7",
+      "arabic": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+      "translations": {
+        "en": "True, there is for thee by day prolonged occupation with ordinary duties:",
+        "ms": "(Kami galakkan engkau dan umatmu beribadat pada waktu malam), kerana sesungguhnya engkau pada siang hari mempunyai urusan-urusan yang panjang kira bicaranya",
+        "id": "إِنَّ لَكَ فِي ٱلنَّهَارِ سَبۡحٗا طَوِيلٗا"
+      },
+      "transliteration": "Inna laka fee alnnahari sabhan taweelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 8,
+      "key": "73:8",
+      "arabic": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "translations": {
+        "en": "But keep in remembrance the name of thy Lord and devote thyself to Him whole-heartedly.",
+        "ms": "Dan sebutlah (dengan lidah dan hati) akan nama Tuhanmu (terus menerus siang dan malam), serta tumpukanlah (amal ibadatmu) kepadaNya dengan sebulat-bulat tumpuan",
+        "id": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا"
+      },
+      "transliteration": "Waothkuri isma rabbika watabattal ilayhi tabteelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 9,
+      "key": "73:9",
+      "arabic": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+      "translations": {
+        "en": "(He is) Lord of the East and the West: there is no god but He: take Him therefore for (thy) Disposer of Affairs.",
+        "ms": "Dia lah Tuhan yang menguasai timur dan barat; tiada Tuhan melainkan Dia; maka jadikanlah Dia Penjaga yang menyempurnakan urusanmu",
+        "id": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلٗا"
+      },
+      "transliteration": "Rabbu almashriqi waalmaghribi la ilaha illa huwa faittakhithhu wakeelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 10,
+      "key": "73:10",
+      "arabic": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "translations": {
+        "en": "And have patience with what they say, and leave them with noble (dignity).",
+        "ms": "Dan bersabarlah terhadap apa yang dikatakan oleh mereka (yang menentangmu), dan jauhkanlah dirimu dari mereka dengan cara yang baik",
+        "id": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا"
+      },
+      "transliteration": "Waisbir AAala ma yaqooloona waohjurhum hajran jameelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 11,
+      "key": "73:11",
+      "arabic": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "translations": {
+        "en": "And leave Me (alone to deal with) those in possession of the good things of life, who (yet) deny the Truth; and bear with them for a little while.",
+        "ms": "Dan biarkanlah Aku sahaja membalas orang-orang yang mendustakan (bawaanmu) itu, orang-orang yang berada dalam kemewahan, dan berilah tempoh kepada mereka sedikit masa",
+        "id": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا"
+      },
+      "transliteration": "Watharnee waalmukaththibeena olee alnnaAAmati wamahhilhum qaleelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 12,
+      "key": "73:12",
+      "arabic": "إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا",
+      "translations": {
+        "en": "With Us are Fetters (to bind them), and a Fire (to burn them),",
+        "ms": "Kerana sesungguhnya di sisi Kami disediakan (untuk mereka) belenggu-belenggu dan neraka yang menjulang-julang",
+        "id": "إِنَّ لَدَيۡنَآ أَنكَالٗا وَجَحِيمٗا"
+      },
+      "transliteration": "Inna ladayna ankalan wajaheeman"
+    },
+    {
+      "surah": 73,
+      "ayah": 13,
+      "key": "73:13",
+      "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+      "translations": {
+        "en": "And a Food that chokes, and a Penalty Grievous.",
+        "ms": "Serta makanan yang menjadikan pemakannya tercekik, dan azab seksa yang tidak terperi sakitnya",
+        "id": "وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا"
+      },
+      "transliteration": "WataAAaman tha ghussatin waAAathaban aleeman"
+    },
+    {
+      "surah": 73,
+      "ayah": 14,
+      "key": "73:14",
+      "arabic": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
+      "translations": {
+        "en": "One Day the earth and the mountains will be in violent commotion. And the mountains will be as a heap of sand poured out and flowing down.",
+        "ms": "(Azab itu tetap berlaku) pada hari bumi dan gunung-ganang bergoncang (serta hancur lebur), dan menjadilah gunung-ganang itu timbunan pasir yang mudah bersepah",
+        "id": "يَوۡمَ تَرۡجُفُ ٱلۡأَرۡضُ وَٱلۡجِبَالُ وَكَانَتِ ٱلۡجِبَالُ كَثِيبٗا مَّهِيلًا"
+      },
+      "transliteration": "Yawma tarjufu alardu waaljibalu wakanati aljibalu katheeban maheelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 15,
+      "key": "73:15",
+      "arabic": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا",
+      "translations": {
+        "en": "We have sent to you, (O men!) a messenger, to be a witness concerning you, even as We sent a messenger to Pharaoh.",
+        "ms": "Sesungguhnya Kami telah mengutus kepada kamu (wahai umat Muhammad), seorang Rasul yang menjadi saksi terhadap kamu (tentang orang yang mematuhi atau menolak seruannya), sebagaimana Kami telah mengutus kepada Firaun seorang Rasul",
+        "id": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولٗا"
+      },
+      "transliteration": "Inna arsalna ilaykum rasoolan shahidan AAalaykum kama arsalna ila firAAawna rasoolan"
+    },
+    {
+      "surah": 73,
+      "ayah": 16,
+      "key": "73:16",
+      "arabic": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا",
+      "translations": {
+        "en": "But Pharaoh disobeyed the messenger; so We seized him with a heavy Punishment.",
+        "ms": "Maka Firaun menderhaka kepada Rasul itu, lalu Kami menyeksakannya dengan azab seksa yang seberat-beratnya",
+        "id": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا"
+      },
+      "transliteration": "FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 17,
+      "key": "73:17",
+      "arabic": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
+      "translations": {
+        "en": "Then how shall ye, if ye deny (Allah), guard yourselves against a Day that will make children hoary-headed?-",
+        "ms": "(Sekiranya kamu tidak ditimpa azab di dunia), maka bagaimana kamu dapat menjaga dan menyelamatkan diri kamu - kalau kamu kufur ingkar - (dari azab) hari yang huru-haranya menyebabkan kanak-kanak menjadi tua beruban",
+        "id": "فَكَيۡفَ تَتَّقُونَ إِن كَفَرۡتُمۡ يَوۡمٗا يَجۡعَلُ ٱلۡوِلۡدَٰنَ شِيبًا"
+      },
+      "transliteration": "Fakayfa tattaqoona in kafartum yawman yajAAalu alwildana sheeban"
+    },
+    {
+      "surah": 73,
+      "ayah": 18,
+      "key": "73:18",
+      "arabic": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+      "translations": {
+        "en": "Whereon the sky will be cleft asunder? His Promise needs must be accomplished.",
+        "ms": "Langit (yang demikian besarnya) akan pecah belah dengan sebab kedahsyatan hari itu. (Ingatlah), janji Allah adalah perkara yang tetap dilakukanNya",
+        "id": "ٱلسَّمَآءُ مُنفَطِرُۢ بِهِۦۚ كَانَ وَعۡدُهُۥ مَفۡعُولًا"
+      },
+      "transliteration": "Alssamao munfatirun bihi kana waAAduhu mafAAoolan"
+    },
+    {
+      "surah": 73,
+      "ayah": 19,
+      "key": "73:19",
+      "arabic": "إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "translations": {
+        "en": "Verily this is an Admonition: therefore, whoso will, let him take a (straight) path to his Lord!",
+        "ms": "Sesungguhnya (keterangan-keterangan yang mengandungi amaran) ini menjadi peringatan oleh itu sesiapa yang mahukan kebaikan dirinya dapatlah ia mengambil jalan yang membawa kepada Tuhannya (dengan iman dan taat)",
+        "id": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا"
+      },
+      "transliteration": "Inna hathihi tathkiratun faman shaa ittakhatha ila rabbihi sabeelan"
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "key": "73:20",
+      "arabic": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "translations": {
+        "en": "Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur'an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah's bounty; yet others fighting in Allah's Cause, read ye, therefore, as much of the Qur'an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah's Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful.",
+        "ms": "Sesungguhnya Tuhanmu (wahai Muhammad) mengetahui bahawasanya engkau bangun (sembahyang Tahajjud) selama kurang dari dua pertiga malam, dan selama satu perduanya, dan selama satu pertiganya; dan (demikian juga dilakukan oleh) segolongan dari orang-orang yang bersama-samamu (kerana hendak menepati perintah yang terdahulu); padahal Allah jualah yang menentukan dengan tepat kadar masa malam dan siang. Ia mengetahui bahawa kamu tidak sekali-kali akan dapat mengira dengan tepat kadar masa itu, lalu Ia menarik balik perintahNya yang terdahulu (dengan memberi kemudahan) kepada kamu; oleh itu bacalah mana-mana yang mudah kamu dapat membacanya dari Al-Quran (dalam sembahyang). Ia juga mengetahui bahawa akan ada di antara kamu orang-orang yang sakit; dan yang lainnya orang-orang yang musafir di muka bumi untuk mencari rezeki dari limpah kurnia Allah; dan yang lainnya lagi orang-orang yang berjuang pada jalan Allah (membela ugamaNya). Maka bacalah mana-mana yang sudah kamu dapat membacanya dari Al-Quran; dan dirikanlah sembahyang serta berikanlah zakat; dan berilah pinjaman kepada Allah sebagai pinjaman yang baik (ikhlas). Dan (ingatlah), apa jua kebaikan yang kamu kerjakan sebagai bekalan untuk diri kamu, tentulah kamu akan mendapat balasannya pada sisi Allah, -sebagai balasan yang sebaik-baiknya dan yang amat besar pahalanya. Dan mintalah ampun kepada Allah; sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani",
+        "id": "۞إِنَّ رَبَّكَ يَعۡلَمُ أَنَّكَ تَقُومُ أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ وَنِصۡفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٞ مِّنَ ٱلَّذِينَ مَعَكَۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيۡلَ وَٱلنَّهَارَۚ عَلِمَ أَن لَّن تُحۡصُوهُ فَتَابَ عَلَيۡكُمۡۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنَ ٱلۡقُرۡءَانِۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرۡضَىٰ وَءَاخَرُونَ يَضۡرِبُونَ فِي ٱلۡأَرۡضِ يَبۡتَغُونَ مِن فَضۡلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِي سَبِيلِ ٱللَّهِۖ فَٱقۡرَءُواْ مَا تَيَسَّرَ مِنۡهُۚ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗاۚ وَمَا تُقَدِّمُواْ لِأَنفُسِكُم مِّنۡ خَيۡرٖ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيۡرٗا وَأَعۡظَمَ أَجۡرٗاۚ وَٱسۡتَغۡفِرُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمُۢ"
+      },
+      "transliteration": "Inna rabbaka yaAAlamu annaka taqoomu adna min thuluthayi allayli wanisfahu wathuluthahu wataifatun mina allatheena maAAaka waAllahu yuqaddiru allayla waalnnahara AAalima an lan tuhsoohu fataba AAalaykum faiqraoo ma tayassara mina alqurani AAalima an sayakoonu minkum marda waakharoona yadriboona fee alardi yabtaghoona min fadli Allahi waakharoona yuqatiloona fee sabeeli Allahi faiqraoo ma tayassara minhu waaqeemoo alssalata waatoo alzzakata waaqridoo Allaha qardan hasanan wama tuqaddimoo lianfusikum min khayrin tajidoohu AAinda Allahi huwa khayran waaAAthama ajran waistaghfiroo Allaha inna Allaha ghafoorun raheemun"
+    }
+  ]
+}

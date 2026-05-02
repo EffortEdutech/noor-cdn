@@ -1,0 +1,73 @@
+{
+  "surah": {
+    "number": 105,
+    "slug": "al-feel",
+    "nameArabic": "الفيل",
+    "nameTransliteration": "Al-Feel",
+    "nameEnglish": "The Elephant",
+    "revelation": "makki",
+    "ayahCount": 5
+  },
+  "ayahs": [
+    {
+      "surah": 105,
+      "ayah": 1,
+      "key": "105:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "translations": {
+        "en": "Seest thou not how thy Lord dealt with the Companions of the Elephant?",
+        "ms": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)",
+        "id": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ"
+      },
+      "transliteration": "Alam tara kayfa faAAala rabbuka biashabi alfeeli"
+    },
+    {
+      "surah": 105,
+      "ayah": 2,
+      "key": "105:2",
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "translations": {
+        "en": "Did He not make their treacherous plan go astray?",
+        "ms": "Bukankah Tuhanmu telah menjadikan rancangan jahat mereka dalam keadaan yang rugi dan memusnahkan mereka",
+        "id": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ"
+      },
+      "transliteration": "Alam yajAAal kaydahum fee tadleelin"
+    },
+    {
+      "surah": 105,
+      "ayah": 3,
+      "key": "105:3",
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "translations": {
+        "en": "And He sent against them Flights of Birds,",
+        "ms": "Dan Ia telah menghantarkan kepada mereka (rombongan) burung berpasuk-pasukan",
+        "id": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ"
+      },
+      "transliteration": "Waarsala AAalayhim tayran ababeela"
+    },
+    {
+      "surah": 105,
+      "ayah": 4,
+      "key": "105:4",
+      "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "translations": {
+        "en": "Striking them with stones of baked clay.",
+        "ms": "Yang melontar mereka dengan batu-batu dari sejenis tanah yang dibakar keras",
+        "id": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ"
+      },
+      "transliteration": "Tarmeehim bihijaratin min sijjeelin"
+    },
+    {
+      "surah": 105,
+      "ayah": 5,
+      "key": "105:5",
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "translations": {
+        "en": "Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.",
+        "ms": "Lalu Ia menjadikan mereka hancur berkecai seperti daun-daun kayu yang dimakan ulat",
+        "id": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ"
+      },
+      "transliteration": "FajaAAalahum kaAAasfin makoolin"
+    }
+  ]
+}

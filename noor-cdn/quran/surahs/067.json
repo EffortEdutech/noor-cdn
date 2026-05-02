@@ -1,0 +1,373 @@
+{
+  "surah": {
+    "number": 67,
+    "slug": "al-mulk",
+    "nameArabic": "الملك",
+    "nameTransliteration": "Al-Mulk",
+    "nameEnglish": "The Sovereignty",
+    "revelation": "makki",
+    "ayahCount": 30
+  },
+  "ayahs": [
+    {
+      "surah": 67,
+      "ayah": 1,
+      "key": "67:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "translations": {
+        "en": "Blessed be He in Whose hands is Dominion; and He over all things hath Power;-",
+        "ms": "Maha Berkat (serta Maha Tinggilah kelebihan) Tuhan yang menguasai pemerintahan (dunia dan akhirat); dan memanglah Ia Maha Kuasa atas tiap-tiap sesuatu",
+        "id": "تَبَٰرَكَ ٱلَّذِي بِيَدِهِ ٱلۡمُلۡكُ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ"
+      },
+      "transliteration": "Tabaraka allathee biyadihi almulku wahuwa AAala kulli shayin qadeerun"
+    },
+    {
+      "surah": 67,
+      "ayah": 2,
+      "key": "67:2",
+      "arabic": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+      "translations": {
+        "en": "He Who created Death and Life, that He may try which of you is best in deed: and He is the Exalted in Might, Oft-Forgiving;-",
+        "ms": "Dia lah yang telah mentakdirkan adanya mati dan hidup (kamu) - untuk menguji dan menzahirkan keadaan kamu: siapakah di antara kamu yang lebih baik amalnya; dan Ia Maha Kuasa (membalas amal kamu), lagi Maha Pengampun, (bagi orang-orang yang bertaubat)",
+        "id": "ٱلَّذِي خَلَقَ ٱلۡمَوۡتَ وَٱلۡحَيَوٰةَ لِيَبۡلُوَكُمۡ أَيُّكُمۡ أَحۡسَنُ عَمَلٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡغَفُورُ"
+      },
+      "transliteration": "Allathee khalaqa almawta waalhayata liyabluwakum ayyukum ahsanu AAamalan wahuwa alAAazeezu alghafooru"
+    },
+    {
+      "surah": 67,
+      "ayah": 3,
+      "key": "67:3",
+      "arabic": "ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَـٰنِ مِن تَفَـٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ",
+      "translations": {
+        "en": "He Who created the seven heavens one above another: No want of proportion wilt thou see in the Creation of (Allah) Most Gracious. So turn thy vision again: seest thou any flaw?",
+        "ms": "Dia lah yang telah mengaturkan kejadian tujuh petala langit yang berlapis-lapis; engkau tidak dapat melihat pada ciptaan Allah Yang Maha Pemurah itu sebarang keadaan yang tidak seimbang dan tidak munasabah; (jika engkau ragu-ragu) maka ulangilah pandangan - (mu) - dapatkah engkau melihat sebarang kecacatan",
+        "id": "ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ طِبَاقٗاۖ مَّا تَرَىٰ فِي خَلۡقِ ٱلرَّحۡمَٰنِ مِن تَفَٰوُتٖۖ فَٱرۡجِعِ ٱلۡبَصَرَ هَلۡ تَرَىٰ مِن فُطُورٖ"
+      },
+      "transliteration": "Allathee khalaqa sabAAa samawatin tibaqan ma tara fee khalqi alrrahmani min tafawutin fairjiAAi albasara hal tara min futoorin"
+    },
+    {
+      "surah": 67,
+      "ayah": 4,
+      "key": "67:4",
+      "arabic": "ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
+      "translations": {
+        "en": "Again turn thy vision a second time: (thy) vision will come back to thee dull and discomfited, in a state worn out.",
+        "ms": "Kemudian ulangilah pandangan (mu) berkali-kali, nescaya pandanganmu itu akan berbalik kepadamu dengan hampa (daripada melihat sebarang kecacatan), sedang ia pula berkeadaan lemah lesu (kerana habis tenaga dengan sia-sia)",
+        "id": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا وَهُوَ حَسِيرٞ"
+      },
+      "transliteration": "Thumma irjiAAi albasara karratayni yanqalib ilayka albasaru khasian wahuwa haseerun"
+    },
+    {
+      "surah": 67,
+      "ayah": 5,
+      "key": "67:5",
+      "arabic": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+      "translations": {
+        "en": "And we have, (from of old), adorned the lowest heaven with Lamps, and We have made such (Lamps) (as) missiles to drive away the Evil Ones, and have prepared for them the Penalty of the Blazing Fire.",
+        "ms": "Dan demi sesungguhnya! Kami telah menghiasi langit yang dekat (pada penglihatan penduduk bumi) dengan bintang-bintang, dan Kami jadikan bintang-bintang itu punca rejaman terhadap Syaitan-syaitan; dan Kami sediakan bagi mereka azab neraka yang menjulang-julang",
+        "id": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ"
+      },
+      "transliteration": "Walaqad zayyanna alssamaa alddunya bimasabeeha wajaAAalnaha rujooman lilshshayateeni waaAAtadna lahum AAathaba alssaAAeeri"
+    },
+    {
+      "surah": 67,
+      "ayah": 6,
+      "key": "67:6",
+      "arabic": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "translations": {
+        "en": "For those who reject their Lord (and Cherisher) is the Penalty of Hell: and evil is (such), Destination.",
+        "ms": "Dan bagi orang-orang yang kufur ingkar terhadap Tuhan mereka, disediakan azab neraka Jahannam, dan itulah seburuk-buruk tempat kembali",
+        "id": "وَلِلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ عَذَابُ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمَصِيرُ"
+      },
+      "transliteration": "Walillatheena kafaroo birabbihim AAathabu jahannama wabisa almaseeru"
+    },
+    {
+      "surah": 67,
+      "ayah": 7,
+      "key": "67:7",
+      "arabic": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ",
+      "translations": {
+        "en": "When they are cast therein, they will hear the (terrible) drawing in of its breath even as it blazes forth,",
+        "ms": "Apabila mereka dicampakkan ke dalamnya, mereka mendengar suara jeritannya meraung-raung, sedang ia menggelegak",
+        "id": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ"
+      },
+      "transliteration": "Itha olqoo feeha samiAAoo laha shaheeqan wahiya tafooru"
+    },
+    {
+      "surah": 67,
+      "ayah": 8,
+      "key": "67:8",
+      "arabic": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+      "translations": {
+        "en": "Almost bursting with fury: Every time a Group is cast therein, its Keepers will ask, \"Did no Warner come to you?\"",
+        "ms": "Hampir-hampir ia pecah berkecai-kecai kerana kuat marahnya. Tiap-tiap kali dicampakkan ke dalamnya sekumpulan besar (dari orang kafir), bertanyalah penjaga-penjaga neraka itu kepada mereka: \"Tidakkah kamu pernah didatangi seorang Rasul pemberi ingatan dan amaran (di dunia dahulu)",
+        "id": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ"
+      },
+      "transliteration": "Takadu tamayyazu mina alghaythi kullama olqiya feeha fawjun saalahum khazanatuha alam yatikum natheerun"
+    },
+    {
+      "surah": 67,
+      "ayah": 9,
+      "key": "67:9",
+      "arabic": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ كَبِيرٍ",
+      "translations": {
+        "en": "They will say: \"Yes indeed; a Warner did come to us, but we rejected him and said, 'Allah never sent down any (Message): ye are nothing but an egregious delusion!'\"",
+        "ms": "Mereka menjawab: \"Ada! Sebenarnya telah datang kepada kami seorang Rasul pemberi ingatan dan amaran, lalu kami dustakan serta kami katakan (kepadanya): Allah tidak menurunkan sesuatupun, kamu (wahai orang yang mendakwa menjadi Rasul) hanyalah berada dalam kesesatan yang besar",
+        "id": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ"
+      },
+      "transliteration": "Qaloo bala qad jaana natheerun fakaththabna waqulna ma nazzala Allahu min shayin in antum illa fee dalalin kabeerin"
+    },
+    {
+      "surah": 67,
+      "ayah": 10,
+      "key": "67:10",
+      "arabic": "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَـٰبِ ٱلسَّعِيرِ",
+      "translations": {
+        "en": "They will further say: \"Had we but listened or used our intelligence, we should not (now) be among the Companions of the Blazing Fire!\"",
+        "ms": "Dan mereka berkata: \"Kalaulah kami dahulu mendengar dan memahami (sebagai orang yang mencari kebenaran), tentulah kami tidak termasuk dalam kalangan ahli neraka",
+        "id": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ"
+      },
+      "transliteration": "Waqaloo law kunna nasmaAAu aw naAAqilu ma kunna fee ashabi alssaAAeeri"
+    },
+    {
+      "surah": 67,
+      "ayah": 11,
+      "key": "67:11",
+      "arabic": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَـٰبِ ٱلسَّعِيرِ",
+      "translations": {
+        "en": "They will then confess their sins: but far will be (Forgiveness) from the Companions of the Blazing Fire!",
+        "ms": "Akhirnya mereka mengakui dosa-dosa mereka (sebagai orang-orang yang kufur ingkar), maka tetaplah jauhnya rahmat Allah dari ahli neraka",
+        "id": "فَٱعۡتَرَفُواْ بِذَنۢبِهِمۡ فَسُحۡقٗا لِّأَصۡحَٰبِ ٱلسَّعِيرِ"
+      },
+      "transliteration": "FaiAAtarafoo bithanbihim fasuhqan liashabi alssaAAeeri"
+    },
+    {
+      "surah": 67,
+      "ayah": 12,
+      "key": "67:12",
+      "arabic": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "translations": {
+        "en": "As for those who fear their Lord unseen, for them is Forgiveness and a great Reward.",
+        "ms": "Sesungguhnya orang-orang yang takut (melanggar hukum) Tuhannya semasa mereka tidak dilihat orang dan semasa mereka tidak melihat azab Tuhan, mereka beroleh keampunan dan pahala yang besar",
+        "id": "إِنَّ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ"
+      },
+      "transliteration": "Inna allatheena yakhshawna rabbahum bialghaybi lahum maghfiratun waajrun kabeerun"
+    },
+    {
+      "surah": 67,
+      "ayah": 13,
+      "key": "67:13",
+      "arabic": "وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "translations": {
+        "en": "And whether ye hide your word or publish it, He certainly has (full) knowledge, of the secrets of (all) hearts.",
+        "ms": "Dan tuturkanlah perkataan kamu dengan perlahan atau dengan nyaring, (sama sahaja keadaannya kepada Allah), kerana sesungguhnya Allah Maha Mengetahui akan segala (isi hati) yang terkandung di dalam dada",
+        "id": "وَأَسِرُّواْ قَوۡلَكُمۡ أَوِ ٱجۡهَرُواْ بِهِۦٓۖ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ"
+      },
+      "transliteration": "Waasirroo qawlakum awi ijharoo bihi innahu AAaleemun bithati alssudoori"
+    },
+    {
+      "surah": 67,
+      "ayah": 14,
+      "key": "67:14",
+      "arabic": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+      "translations": {
+        "en": "Should He not know,- He that created? and He is the One that understands the finest mysteries (and) is well-acquainted (with them).",
+        "ms": "Tidakkah Allah yang menciptakan sekalian makhluk itu mengetahui (segala-galanya)? Sedang Ia Maha Halus urusan PentadbiranNya, lagi Maha Mendalam PengetahuanNya",
+        "id": "أَلَا يَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ"
+      },
+      "transliteration": "Ala yaAAlamu man khalaqa wahuwa allateefu alkhabeeru"
+    },
+    {
+      "surah": 67,
+      "ayah": 15,
+      "key": "67:15",
+      "arabic": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ",
+      "translations": {
+        "en": "It is He Who has made the earth manageable for you, so traverse ye through its tracts and enjoy of the Sustenance which He furnishes: but unto Him is the Resurrection.",
+        "ms": "Dia lah yang menjadikan bumi bagi kamu: mudah digunakan, maka berjalanlah di merata-rata ceruk rantaunya, serta makanlah dari rezeki yang dikurniakan Allah; dan (ingatlah), kepada Allah jualah (tempat kembali kamu sesudah) dibangkitkan hidup semula; (maka hargailah nikmatNya dan takutilah kemurkaanNya)",
+        "id": "هُوَ ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ ذَلُولٗا فَٱمۡشُواْ فِي مَنَاكِبِهَا وَكُلُواْ مِن رِّزۡقِهِۦۖ وَإِلَيۡهِ ٱلنُّشُورُ"
+      },
+      "transliteration": "Huwa allathee jaAAala lakumu alarda thaloolan faimshoo fee manakibiha wakuloo min rizqihi wailayhi alnnushooru"
+    },
+    {
+      "surah": 67,
+      "ayah": 16,
+      "key": "67:16",
+      "arabic": "ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ",
+      "translations": {
+        "en": "Do ye feel secure that He Who is in heaven will not cause you to be swallowed up by the earth when it shakes (as in an earthquake)?",
+        "ms": "Patutkah kamu merasa aman (tidak takut) kepada Tuhan yang pusat pemerintahanNya di langit itu: menunggang-balikkan bumi menimbus kamu, lalu bergegarlah bumi itu dengan serta-merta (melenyapkan kamu di bawahnya)",
+        "id": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ"
+      },
+      "transliteration": "Aamintum man fee alssamai an yakhsifa bikumu alarda faitha hiya tamooru"
+    },
+    {
+      "surah": 67,
+      "ayah": 17,
+      "key": "67:17",
+      "arabic": "أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+      "translations": {
+        "en": "Or do ye feel secure that He Who is in Heaven will not send against you a violent tornado (with showers of stones), so that ye shall know how (terrible) was My warning?",
+        "ms": "Atau patutkah kamu merasa aman (tidak takut) kepada Allah yang pusat pemerintahanNya di langit itu: menghantarkan kepada kamu angin ribut yang menghujani kamu dengan batu; maka dengan itu, kamu akan mengetahui kelak bagaimana buruknya kesan amaranKu",
+        "id": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ"
+      },
+      "transliteration": "Am amintum man fee alssamai an yursila AAalaykum hasiban fasataAAlamoona kayfa natheeri"
+    },
+    {
+      "surah": 67,
+      "ayah": 18,
+      "key": "67:18",
+      "arabic": "وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ",
+      "translations": {
+        "en": "But indeed men before them rejected (My warning): then how (terrible) was My rejection (of them)?",
+        "ms": "Dan demi sesungguhnya! orang-orang (kafir) yang terdahulu daripada mereka telah mendustakan (rasul-rasulnya lalu mereka dibinasakan); dengan yang demikian, (perhatikanlah) bagaimana buruknya kesan kemurkaanKu",
+        "id": "وَلَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَكَيۡفَ كَانَ نَكِيرِ"
+      },
+      "transliteration": "Walaqad kaththaba allatheena min qablihim fakayfa kana nakeeri"
+    },
+    {
+      "surah": 67,
+      "ayah": 19,
+      "key": "67:19",
+      "arabic": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+      "translations": {
+        "en": "Do they not observe the birds above them, spreading their wings and folding them in? None can uphold them except (Allah) Most Gracious: Truly (Allah) Most Gracious: Truly it is He that watches over all things.",
+        "ms": "Patutkah mereka menutup mata dan tidak memerhatikan (kekuasaan Allah pada) burung-burung yang terbang di atas mereka, (siapakah yang menjaganya ketika) burung-burung itu mengembang dan menutupkan sayapnya? Tidak ada yang menahannya (daripada jatuh) melainkan (kekuasaan) Allah Yang Maha Pemurah. Sesungguhnya Ia Maha Melihat serta mengetahui akan tiap-tiap sesuatu",
+        "id": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَـٰٓفَّـٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ"
+      },
+      "transliteration": "Awalam yaraw ila alttayri fawqahum saffatin wayaqbidna ma yumsikuhunna illa alrrahmanu innahu bikulli shayin baseerun"
+    },
+    {
+      "surah": 67,
+      "ayah": 20,
+      "key": "67:20",
+      "arabic": "أَمَّنْ هَـٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَـٰنِ ۚ إِنِ ٱلْكَـٰفِرُونَ إِلَّا فِى غُرُورٍ",
+      "translations": {
+        "en": "Nay, who is there that can help you, (even as) an army, besides (Allah) Most Merciful? In nothing but delusion are the Unbelievers.",
+        "ms": "Bahkan siapa dia yang menjadi tentera bagi kamu, yang akan menolong kamu selain dari Allah Yang Maha Pemurah? (Sebenarnya) orang-orang yang kafir tidak lain hanyalah berada dalam keadaan terpedaya",
+        "id": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ"
+      },
+      "transliteration": "Amman hatha allathee huwa jundun lakum yansurukum min dooni alrrahmani ini alkafiroona illa fee ghuroorin"
+    },
+    {
+      "surah": 67,
+      "ayah": 21,
+      "key": "67:21",
+      "arabic": "أَمَّنْ هَـٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ",
+      "translations": {
+        "en": "Or who is there that can provide you with Sustenance if He were to withhold His provision? Nay, they obstinately persist in insolent impiety and flight (from the Truth).",
+        "ms": "Atau siapa dia yang dapat memberi rezeki kepada kamu jika Allah menahan rezekiNya? (Tidak ada sesiapapun), bahkan mereka (yang musyrik itu) kekal terus dalam keadaan sombong angkuh serta melarikan diri (dari kebenaran)",
+        "id": "أَمَّنۡ هَٰذَا ٱلَّذِي يَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّواْ فِي عُتُوّٖ وَنُفُورٍ"
+      },
+      "transliteration": "Amman hatha allathee yarzuqukum in amsaka rizqahu bal lajjoo fee AAutuwwin wanufoorin"
+    },
+    {
+      "surah": 67,
+      "ayah": 22,
+      "key": "67:22",
+      "arabic": "أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "translations": {
+        "en": "Is then one who walks headlong, with his face grovelling, better guided,- or one who walks evenly on a Straight Way?",
+        "ms": "Maka adakah orang yang berjalan (melalui jalan yang tidak betul, yang menyebabkan dia selalu jatuh) tersungkur di atas mukanya: boleh mendapat hidayah - atau orang yang berjalan tegak betul, melalui jalan yang lurus rata",
+        "id": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ"
+      },
+      "transliteration": "Afaman yamshee mukibban AAala wajhihi ahda amman yamshee sawiyyan AAala siratin mustaqeemin"
+    },
+    {
+      "surah": 67,
+      "ayah": 23,
+      "key": "67:23",
+      "arabic": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+      "translations": {
+        "en": "Say: \"It is He Who has created you (and made you grow), and made for you the faculties of hearing, seeing, feeling and understanding: little thanks it is ye give.",
+        "ms": "Katakanlah (wahai Muhammad): \"Allah yang menciptakan kamu (dari tiada kepada ada), dan mengadakan bagi kamu pendengaran dan penglihatan serta hati (untuk kamu bersyukur, tetapi) amatlah sedikit kamu bersyukur",
+        "id": "قُلۡ هُوَ ٱلَّذِيٓ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ"
+      },
+      "transliteration": "Qul huwa allathee anshaakum wajaAAala lakumu alssamAAa waalabsara waalafidata qaleelan ma tashkuroona"
+    },
+    {
+      "surah": 67,
+      "ayah": 24,
+      "key": "67:24",
+      "arabic": "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+      "translations": {
+        "en": "Say: \"It is He Who has multiplied you through the earth, and to Him shall ye be gathered together.\"",
+        "ms": "Katakanlah lagi: \"Dia lah yang mengembangkan kamu di bumi, dan kepadaNyalah kamu akan dihimpunkan",
+        "id": "قُلۡ هُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ"
+      },
+      "transliteration": "Qul huwa allathee tharaakum fee alardi wailayhi tuhsharoona"
+    },
+    {
+      "surah": 67,
+      "ayah": 25,
+      "key": "67:25",
+      "arabic": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+      "translations": {
+        "en": "They ask: When will this promise be (fulfilled)? - If ye are telling the truth.",
+        "ms": "Dan mereka (yang ingkar) berkata: \"Bilakah datangnya (hari kiamat) yang dijanjikan itu, jika betul kamu orang-orang yang benar",
+        "id": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ"
+      },
+      "transliteration": "Wayaqooloona mata hatha alwaAAdu in kuntum sadiqeena"
+    },
+    {
+      "surah": 67,
+      "ayah": 26,
+      "key": "67:26",
+      "arabic": "قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "translations": {
+        "en": "Say: \"As to the knowledge of the time, it is with Allah alone: I am (sent) only to warn plainly in public.\"",
+        "ms": "Katakanlah (wahai Muhammad): \"Sesungguhnya ilmu pengetahuan (tentang masa kedatangannya) hanya ada pada sisi Allah, dan sesungguhnya aku hanyalah seorang Rasul pemberi ingatan dan amaran yang terang nyata",
+        "id": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ"
+      },
+      "transliteration": "Qul innama alAAilmu AAinda Allahi wainnama ana natheerun mubeenun"
+    },
+    {
+      "surah": 67,
+      "ayah": 27,
+      "key": "67:27",
+      "arabic": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ",
+      "translations": {
+        "en": "At length, when they see it close at hand, grieved will be the faces of the Unbelievers, and it will be said (to them): \"This is (the promise fulfilled), which ye were calling for!\"",
+        "ms": "Kemudian apabila (datang kiamat dan) mereka melihat (azab) yang dijanjikan itu secara dekat, muramlah muka orang-orang yang kafir itu, serta dikatakan (kepada mereka): \"Inilah dia yang dahulu kamu kerap kali minta disegerakan kedatangannya",
+        "id": "فَلَمَّا رَأَوۡهُ زُلۡفَةٗ سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ وَقِيلَ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تَدَّعُونَ"
+      },
+      "transliteration": "Falamma raawhu zulfatan seeat wujoohu allatheena kafaroo waqeela hatha allathee kuntum bihi taddaAAoona"
+    },
+    {
+      "surah": 67,
+      "ayah": 28,
+      "key": "67:28",
+      "arabic": "قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَـٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ",
+      "translations": {
+        "en": "Say: \"See ye?- If Allah were to destroy me, and those with me, or if He bestows His Mercy on us,- yet who can deliver the Unbelievers from a grievous Penalty?\"",
+        "ms": "Tanyalah (wahai Muhammad, kepada mereka): \"Bagaimana fikiran kamu, jika Allah binasakan daku dan orang-orang yang bersama-sama denganku (sebagaimana yang kamu harap-harapkan), atau Ia memberi rahmat kepada kami (sehingga kami dapat mengalahkan kamu), - maka siapakah yang dapat melindungi orang-orang yang kafir dari azab seksa yang tidak terperi sakitnya",
+        "id": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ"
+      },
+      "transliteration": "Qul araaytum in ahlakaniya Allahu waman maAAiya aw rahimana faman yujeeru alkafireena min AAathabin aleemin"
+    },
+    {
+      "surah": 67,
+      "ayah": 29,
+      "key": "67:29",
+      "arabic": "قُلْ هُوَ ٱلرَّحْمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "translations": {
+        "en": "Say: \"He is (Allah) Most Gracious: We have believed in Him, and on Him have we put our trust: So, soon will ye know which (of us) it is that is in manifest error.\"",
+        "ms": "Tegaskan (wahai Muhammad, kepada mereka): \"Allah Dia lah Yang Maha Pemurah, yang kami beriman kepadaNya, dan yang kepadaNya kami berserah diri; oleh itu kamu akan mengetahui kelak siapakah yang berada dalam kesesatan yang nyata",
+        "id": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ"
+      },
+      "transliteration": "Qul huwa alrrahmanu amanna bihi waAAalayhi tawakkalna fasataAAlamoona man huwa fee dalalin mubeenin"
+    },
+    {
+      "surah": 67,
+      "ayah": 30,
+      "key": "67:30",
+      "arabic": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ",
+      "translations": {
+        "en": "Say: \"See ye?- If your stream be some morning lost (in the underground earth), who then can supply you with clear-flowing water?\"",
+        "ms": "Katakanlah lagi: \"Bagaimana fikiran kamu, sekiranya air kamu hilang lenyap (di telan bumi), maka siapakah (selain Allah) yang dapat mendatangkan kepada kamu air yang sentiasa terpancar mengalir",
+        "id": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ"
+      },
+      "transliteration": "Qul araaytum in asbaha maokum ghawran faman yateekum bimain maAAeenin"
+    }
+  ]
+}

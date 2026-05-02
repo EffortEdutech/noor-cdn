@@ -1,0 +1,145 @@
+{
+  "surah": {
+    "number": 101,
+    "slug": "al-qaari-ah",
+    "nameArabic": "القارعة",
+    "nameTransliteration": "Al-Qaari'ah",
+    "nameEnglish": "The Striking Calamity",
+    "revelation": "makki",
+    "ayahCount": 11
+  },
+  "ayahs": [
+    {
+      "surah": 101,
+      "ayah": 1,
+      "key": "101:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "translations": {
+        "en": "The (Day) of Noise and Clamour:",
+        "ms": "Hari yang menggemparkan",
+        "id": "ٱلۡقَارِعَةُ"
+      },
+      "transliteration": "AlqariAAatu"
+    },
+    {
+      "surah": 101,
+      "ayah": 2,
+      "key": "101:2",
+      "arabic": "مَا ٱلْقَارِعَةُ",
+      "translations": {
+        "en": "What is the (Day) of Noise and Clamour?",
+        "ms": "Apa dia hari yang menggemparkan itu",
+        "id": "مَا ٱلۡقَارِعَةُ"
+      },
+      "transliteration": "Ma alqariAAatu"
+    },
+    {
+      "surah": 101,
+      "ayah": 3,
+      "key": "101:3",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "translations": {
+        "en": "And what will explain to thee what the (Day) of Noise and Clamour is?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui kedahsyatan hari yang menggemparkan itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡقَارِعَةُ"
+      },
+      "transliteration": "Wama adraka ma alqariAAatu"
+    },
+    {
+      "surah": 101,
+      "ayah": 4,
+      "key": "101:4",
+      "arabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "translations": {
+        "en": "(It is) a Day whereon men will be like moths scattered about,",
+        "ms": "(Hari itu ialah: hari kiamat), hari manusia menjadi seperti kelkatu yang terbang berkeliaran",
+        "id": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ"
+      },
+      "transliteration": "Yawma yakoonu alnnasu kaalfarashi almabthoothi"
+    },
+    {
+      "surah": 101,
+      "ayah": 5,
+      "key": "101:5",
+      "arabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "translations": {
+        "en": "And the mountains will be like carded wool.",
+        "ms": "Dan gunung-ganang menjadi seperti bulu yang dibusar berterbangan",
+        "id": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ"
+      },
+      "transliteration": "Watakoonu aljibalu kaalAAihni almanfooshi"
+    },
+    {
+      "surah": 101,
+      "ayah": 6,
+      "key": "101:6",
+      "arabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "translations": {
+        "en": "Then, he whose balance (of good deeds) will be (found) heavy,",
+        "ms": "Setelah berlaku demikian, maka (manusia akan diberikan tempatnya menurut amal masing-masing); adapun orang yang berat timbangan amal baiknya",
+        "id": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ"
+      },
+      "transliteration": "Faamma man thaqulat mawazeenuhu"
+    },
+    {
+      "surah": 101,
+      "ayah": 7,
+      "key": "101:7",
+      "arabic": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "translations": {
+        "en": "Will be in a life of good pleasure and satisfaction.",
+        "ms": "Maka ia berada dalam kehidupan yang senang lenang",
+        "id": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ"
+      },
+      "transliteration": "Fahuwa fee AAeeshatin radiyatin"
+    },
+    {
+      "surah": 101,
+      "ayah": 8,
+      "key": "101:8",
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "translations": {
+        "en": "But he whose balance (of good deeds) will be (found) light,-",
+        "ms": "Sebaliknya orang yang ringan timbangan amal baiknya",
+        "id": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ"
+      },
+      "transliteration": "Waamma man khaffat mawazeenuhu"
+    },
+    {
+      "surah": 101,
+      "ayah": 9,
+      "key": "101:9",
+      "arabic": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "translations": {
+        "en": "Will have his home in a (bottomless) Pit.",
+        "ms": "Maka tempat kembalinya ialah \"Haawiyah",
+        "id": "فَأُمُّهُۥ هَاوِيَةٞ"
+      },
+      "transliteration": "Faommuhu hawiyatun"
+    },
+    {
+      "surah": 101,
+      "ayah": 10,
+      "key": "101:10",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "translations": {
+        "en": "And what will explain to thee what this is?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui, apa dia \"Haawiyah\" itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ"
+      },
+      "transliteration": "Wama adraka ma hiyah"
+    },
+    {
+      "surah": 101,
+      "ayah": 11,
+      "key": "101:11",
+      "arabic": "نَارٌ حَامِيَةٌۢ",
+      "translations": {
+        "en": "(It is) a Fire Blazing fiercely!",
+        "ms": "(Haawiyah itu ialah): api yang panas membakar",
+        "id": "نَارٌ حَامِيَةُۢ"
+      },
+      "transliteration": "Narun hamiyatun"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "surah": {
+    "number": 79,
+    "slug": "an-naazi-aat",
+    "nameArabic": "النازعات",
+    "nameTransliteration": "An-Naazi'aat",
+    "nameEnglish": "Those Who Drag Forth",
+    "revelation": "makki",
+    "ayahCount": 46
+  },
+  "ayahs": [
+    {
+      "surah": 79,
+      "ayah": 1,
+      "key": "79:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّـٰزِعَـٰتِ غَرْقًا",
+      "translations": {
+        "en": "By the (angels) who tear out (the souls of the wicked) with violence;",
+        "ms": "Demi (makhluk-makhluk) yang mencabut (apa yang ditugaskan mencabutnya) dengan cara yang sekasar-kasarnya",
+        "id": "وَٱلنَّـٰزِعَٰتِ غَرۡقٗا"
+      },
+      "transliteration": "WaalnnaziAAati gharqan"
+    },
+    {
+      "surah": 79,
+      "ayah": 2,
+      "key": "79:2",
+      "arabic": "وَٱلنَّـٰشِطَـٰتِ نَشْطًا",
+      "translations": {
+        "en": "By those who gently draw out (the souls of the blessed);",
+        "ms": "Dan yang menarik (apa yang ditugaskan menariknya) dengan cara yang selembut-lembutnya",
+        "id": "وَٱلنَّـٰشِطَٰتِ نَشۡطٗا"
+      },
+      "transliteration": "Waalnnashitati nashtan"
+    },
+    {
+      "surah": 79,
+      "ayah": 3,
+      "key": "79:3",
+      "arabic": "وَٱلسَّـٰبِحَـٰتِ سَبْحًا",
+      "translations": {
+        "en": "And by those who glide along (on errands of mercy),",
+        "ms": "Dan demi (makhluk-makhluk) yang cergas bergerak (menerima perintah) dengan gerak yang secergas-cergasnya",
+        "id": "وَٱلسَّـٰبِحَٰتِ سَبۡحٗا"
+      },
+      "transliteration": "Waalssabihati sabhan"
+    },
+    {
+      "surah": 79,
+      "ayah": 4,
+      "key": "79:4",
+      "arabic": "فَٱلسَّـٰبِقَـٰتِ سَبْقًا",
+      "translations": {
+        "en": "Then press forward as in a race,",
+        "ms": "Lalu masing-masing berlumba-lumba dahulu-mendahului (menjalankan tugasnya) dengan cara yang sesungguh-sungguhnya",
+        "id": "فَٱلسَّـٰبِقَٰتِ سَبۡقٗا"
+      },
+      "transliteration": "Faalssabiqati sabqan"
+    },
+    {
+      "surah": 79,
+      "ayah": 5,
+      "key": "79:5",
+      "arabic": "فَٱلْمُدَبِّرَٰتِ أَمْرًا",
+      "translations": {
+        "en": "Then arrange to do (the Commands of their Lord),",
+        "ms": "Serta menyempurnakan tadbir urusan alam yang diperintahkan kepadanya; (sumpah demi sumpah, sesungguhnya kamu akan dibangkitkan hidup semula pada hari kiamat)",
+        "id": "فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا"
+      },
+      "transliteration": "Faalmudabbirati amran"
+    },
+    {
+      "surah": 79,
+      "ayah": 6,
+      "key": "79:6",
+      "arabic": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ",
+      "translations": {
+        "en": "One Day everything that can be in commotion will be in violent commotion,",
+        "ms": "Pada masa berlakunya \"tiupan sangkakala yang pertama\" yang menggoncangkan alam, (sehingga mati segala yang bernyawa dan punah-ranah sekalian makhluk selain dari yang dikecualikan)",
+        "id": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ"
+      },
+      "transliteration": "Yawma tarjufu alrrajifatu"
+    },
+    {
+      "surah": 79,
+      "ayah": 7,
+      "key": "79:7",
+      "arabic": "تَتْبَعُهَا ٱلرَّادِفَةُ",
+      "translations": {
+        "en": "Followed by oft-repeated (commotions):",
+        "ms": "Tiupan yang pertama itu diikuti oleh tiupan yang kedua, (yang menyebabkan orang-orang yang mati semuanya hidup semula serta keluar dari kubur masing-masing)",
+        "id": "تَتۡبَعُهَا ٱلرَّادِفَةُ"
+      },
+      "transliteration": "TatbaAAuha alrradifatu"
+    },
+    {
+      "surah": 79,
+      "ayah": 8,
+      "key": "79:8",
+      "arabic": "قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ",
+      "translations": {
+        "en": "Hearts that Day will be in agitation;",
+        "ms": "Hati (manusia) pada hari itu berdebar-debar takut",
+        "id": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ"
+      },
+      "transliteration": "Quloobun yawmaithin wajifatun"
+    },
+    {
+      "surah": 79,
+      "ayah": 9,
+      "key": "79:9",
+      "arabic": "أَبْصَـٰرُهَا خَـٰشِعَةٌ",
+      "translations": {
+        "en": "Cast down will be (their owners') eyes.",
+        "ms": "Pemandangannya tunduk gerun",
+        "id": "أَبۡصَٰرُهَا خَٰشِعَةٞ"
+      },
+      "transliteration": "Absaruha khashiAAatun"
+    },
+    {
+      "surah": 79,
+      "ayah": 10,
+      "key": "79:10",
+      "arabic": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ",
+      "translations": {
+        "en": "They say (now): \"What! shall we indeed be returned to (our) former state?",
+        "ms": "Mereka (yang ingkar) berkata: \"Sungguhkah kita akan dikembalikan hidup seperti keadaan di dunia dahulu",
+        "id": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ"
+      },
+      "transliteration": "Yaqooloona ainna lamardoodoona fee alhafirati"
+    },
+    {
+      "surah": 79,
+      "ayah": 11,
+      "key": "79:11",
+      "arabic": "أَءِذَا كُنَّا عِظَـٰمًا نَّخِرَةً",
+      "translations": {
+        "en": "\"What! - when we shall have become rotten bones?\"",
+        "ms": "Bolehkah (dihidupkan semula) sesudah kita menjadi tulang yang reput",
+        "id": "أَءِذَا كُنَّا عِظَٰمٗا نَّخِرَةٗ"
+      },
+      "transliteration": "Aitha kunna AAithaman nakhiratan"
+    },
+    {
+      "surah": 79,
+      "ayah": 12,
+      "key": "79:12",
+      "arabic": "قَالُوا۟ تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+      "translations": {
+        "en": "They say: \"It would, in that case, be a return with loss!\"",
+        "ms": "Mereka berkata lagi (secara mengejek: \"Kalaulah berlaku) yang demikian, sudah tentu kembalinya kita (hidup semula) itu satu perkara yang merugikan",
+        "id": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ"
+      },
+      "transliteration": "Qaloo tilka ithan karratun khasiratun"
+    },
+    {
+      "surah": 79,
+      "ayah": 13,
+      "key": "79:13",
+      "arabic": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ",
+      "translations": {
+        "en": "But verily, it will be but a single (Compelling) Cry,",
+        "ms": "(Menghidupkan semula tidaklah sukar), kerana berlakunya perkara itu hanyalah dengan satu jeritan (yang terbit dari tiupan sangkakala yang kedua)",
+        "id": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ"
+      },
+      "transliteration": "Fainnama hiya zajratun wahidatun"
+    },
+    {
+      "surah": 79,
+      "ayah": 14,
+      "key": "79:14",
+      "arabic": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+      "translations": {
+        "en": "When, behold, they will be in the (full) awakening (to Judgment).",
+        "ms": "Yang menyebabkan mereka dengan serta-merta berada di muka bumi yang putih rata",
+        "id": "فَإِذَا هُم بِٱلسَّاهِرَةِ"
+      },
+      "transliteration": "Faitha hum bialssahirati"
+    },
+    {
+      "surah": 79,
+      "ayah": 15,
+      "key": "79:15",
+      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+      "translations": {
+        "en": "Has the story of Moses reached thee?",
+        "ms": "Sudahkah sampai kepadamu (wahai Muhammad) perihal Nabi Musa",
+        "id": "هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
+      },
+      "transliteration": "Hal ataka hadeethu moosa"
+    },
+    {
+      "surah": 79,
+      "ayah": 16,
+      "key": "79:16",
+      "arabic": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+      "translations": {
+        "en": "Behold, thy Lord did call to him in the sacred valley of Tuwa:-",
+        "ms": "Ketika ia diseru oleh Tuhannya di \"Wadi Tuwa\" yang suci",
+        "id": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى"
+      },
+      "transliteration": "Ith nadahu rabbuhu bialwadi almuqaddasi tuwan"
+    },
+    {
+      "surah": 79,
+      "ayah": 17,
+      "key": "79:17",
+      "arabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+      "translations": {
+        "en": "\"Go thou to Pharaoh for he has indeed transgressed all bounds:",
+        "ms": "(Lalu diperintahkan kepadanya): \"Pergilah kepada Firaun, sesungguhnya ia telah melampaui batas (dalam kekufuran dan kezalimannya)",
+        "id": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ"
+      },
+      "transliteration": "Ithhab ila firAAawna innahu tagha"
+    },
+    {
+      "surah": 79,
+      "ayah": 18,
+      "key": "79:18",
+      "arabic": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+      "translations": {
+        "en": "\"And say to him, 'Wouldst thou that thou shouldst be purified (from sin)?-",
+        "ms": "Serta katakanlah kepadanya: `Adakah engkau suka hendak mensucikan dirimu (dari kekufuran)",
+        "id": "فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ"
+      },
+      "transliteration": "Faqul hal laka ila an tazakka"
+    },
+    {
+      "surah": 79,
+      "ayah": 19,
+      "key": "79:19",
+      "arabic": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+      "translations": {
+        "en": "\"'And that I guide thee to thy Lord, so thou shouldst fear Him?'\"",
+        "ms": "Dan mahukah, aku tunjuk kepadamu jalan mengenal Tuhanmu, supaya engkau merasa takut (melanggar perintahNya)",
+        "id": "وَأَهۡدِيَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ"
+      },
+      "transliteration": "Waahdiyaka ila rabbika fatakhsha"
+    },
+    {
+      "surah": 79,
+      "ayah": 20,
+      "key": "79:20",
+      "arabic": "فَأَرَىٰهُ ٱلْـَٔايَةَ ٱلْكُبْرَىٰ",
+      "translations": {
+        "en": "Then did (Moses) show him the Great Sign.",
+        "ms": "(Setelah Nabi Musa menyempurnakan perintah Tuhannya, dan Firaun pun meminta bukti kebenarannya); maka Nabi Musa memperlihatkan kepada Firaun: mukjizat yang besar",
+        "id": "فَأَرَىٰهُ ٱلۡأٓيَةَ ٱلۡكُبۡرَىٰ"
+      },
+      "transliteration": "Faarahu alayata alkubra"
+    },
+    {
+      "surah": 79,
+      "ayah": 21,
+      "key": "79:21",
+      "arabic": "فَكَذَّبَ وَعَصَىٰ",
+      "translations": {
+        "en": "But (Pharaoh) rejected it and disobeyed (guidance);",
+        "ms": "Lalu Firaun mendustakan (Nabi Musa) dan menderhaka (kepada Allah)",
+        "id": "فَكَذَّبَ وَعَصَىٰ"
+      },
+      "transliteration": "Fakaththaba waAAasa"
+    },
+    {
+      "surah": 79,
+      "ayah": 22,
+      "key": "79:22",
+      "arabic": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+      "translations": {
+        "en": "Further, he turned his back, striving hard (against Allah).",
+        "ms": "Kemudian ia berpaling ingkar sambil menjalankan usahanya (menentang Nabi Musa)",
+        "id": "ثُمَّ أَدۡبَرَ يَسۡعَىٰ"
+      },
+      "transliteration": "Thumma adbara yasAAa"
+    },
+    {
+      "surah": 79,
+      "ayah": 23,
+      "key": "79:23",
+      "arabic": "فَحَشَرَ فَنَادَىٰ",
+      "translations": {
+        "en": "Then he collected (his men) and made a proclamation,",
+        "ms": "Lalu ia menghimpunkan orang-orangnya dan menyeru",
+        "id": "فَحَشَرَ فَنَادَىٰ"
+      },
+      "transliteration": "Fahashara fanada"
+    },
+    {
+      "surah": 79,
+      "ayah": 24,
+      "key": "79:24",
+      "arabic": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+      "translations": {
+        "en": "Saying, \"I am your Lord, Most High\".",
+        "ms": "Dengan berkata: \"Akulah tuhan kamu, yang tertinggi",
+        "id": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ"
+      },
+      "transliteration": "Faqala ana rabbukumu alaAAla"
+    },
+    {
+      "surah": 79,
+      "ayah": 25,
+      "key": "79:25",
+      "arabic": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ",
+      "translations": {
+        "en": "But Allah did punish him, (and made an) example of him, - in the Hereafter, as in this life.",
+        "ms": "Maka Allah menyeksa Firaun di akhirat dan di dunia ini, dengan azab yang menakutkan sesiapa yang mengetahuinya",
+        "id": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ"
+      },
+      "transliteration": "Faakhathahu Allahu nakala alakhirati waaloola"
+    },
+    {
+      "surah": 79,
+      "ayah": 26,
+      "key": "79:26",
+      "arabic": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّمَن يَخْشَىٰٓ",
+      "translations": {
+        "en": "Verily in this is an instructive warning for whosoever feareth (Allah).",
+        "ms": "Sesungguhnya yang demikian itu mengandungi pelajaran yang mendatangkan iktibar bagi orang-orang yang takut (melanggar perintah Tuhannya)",
+        "id": "إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ"
+      },
+      "transliteration": "Inna fee thalika laAAibratan liman yakhsha"
+    },
+    {
+      "surah": 79,
+      "ayah": 27,
+      "key": "79:27",
+      "arabic": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا",
+      "translations": {
+        "en": "What! Are ye the more difficult to create or the heaven (above)? (Allah) hath constructed it:",
+        "ms": "(Wahai golongan yang ingkarkan kebangkitan hidup semula!) Kamukah yang sukar diciptakan atau langit? Tuhan telah membinanya (dengan Kukuh)",
+        "id": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا"
+      },
+      "transliteration": "Aantum ashaddu khalqan ami alssamao banaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 28,
+      "key": "79:28",
+      "arabic": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+      "translations": {
+        "en": "On high hath He raised its canopy, and He hath given it order and perfection.",
+        "ms": "Ia telah meninggikan bangunan langit itu lalu menyempurnaKannya",
+        "id": "رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا"
+      },
+      "transliteration": "RafaAAa samkaha fasawwaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 29,
+      "key": "79:29",
+      "arabic": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+      "translations": {
+        "en": "Its night doth He endow with darkness, and its splendour doth He bring out (with light).",
+        "ms": "Dan Ia menjadikan malamnya gelap-gelita, serta menjadikan siangnya terang-benderang",
+        "id": "وَأَغۡطَشَ لَيۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا"
+      },
+      "transliteration": "Waaghtasha laylaha waakhraja duhaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 30,
+      "key": "79:30",
+      "arabic": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ",
+      "translations": {
+        "en": "And the earth, moreover, hath He extended (to a wide expanse);",
+        "ms": "Dan bumi sesudah itu dihamparkannya (untuk kemudahan penduduknya)",
+        "id": "وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ"
+      },
+      "transliteration": "Waalarda baAAda thalika dahaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 31,
+      "key": "79:31",
+      "arabic": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+      "translations": {
+        "en": "He draweth out therefrom its moisture and its pasture;",
+        "ms": "Ia mengeluarkan dari bumi itu: airnya dan tumbuh-tumbuhannya",
+        "id": "أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا"
+      },
+      "transliteration": "Akhraja minha maaha wamarAAaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 32,
+      "key": "79:32",
+      "arabic": "وَٱلْجِبَالَ أَرْسَىٰهَا",
+      "translations": {
+        "en": "And the mountains hath He firmly fixed;-",
+        "ms": "Dan gunung-ganang pula dikukuhkan letaknya (di bumi, sebagai pancang pasak yang menetapnya)",
+        "id": "وَٱلۡجِبَالَ أَرۡسَىٰهَا"
+      },
+      "transliteration": "Waaljibala arsaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 33,
+      "key": "79:33",
+      "arabic": "مَتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+      "translations": {
+        "en": "For use and convenience to you and your cattle.",
+        "ms": "(Semuanya itu) untuk kegunaan kamu dan binatang-binatang ternak kamu",
+        "id": "مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ"
+      },
+      "transliteration": "MataAAan lakum walianAAamikum"
+    },
+    {
+      "surah": 79,
+      "ayah": 34,
+      "key": "79:34",
+      "arabic": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ",
+      "translations": {
+        "en": "Therefore, when there comes the great, overwhelming (Event),-",
+        "ms": "Maka apabila datang hari yang bencananya amat besar",
+        "id": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ"
+      },
+      "transliteration": "Faitha jaati alttammatu alkubra"
+    },
+    {
+      "surah": 79,
+      "ayah": 35,
+      "key": "79:35",
+      "arabic": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَـٰنُ مَا سَعَىٰ",
+      "translations": {
+        "en": "The Day when man shall remember (all) that he strove for,",
+        "ms": "Iaitu hari manusia akan mengingati apa yang telah diusahakannya",
+        "id": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ"
+      },
+      "transliteration": "Yawma yatathakkaru alinsanu ma saAAa"
+    },
+    {
+      "surah": 79,
+      "ayah": 36,
+      "key": "79:36",
+      "arabic": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+      "translations": {
+        "en": "And Hell-Fire shall be placed in full view for (all) to see,-",
+        "ms": "Dan neraka diperlihatkan kepada sesiapa sahaja yang dapat melihatnya",
+        "id": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ"
+      },
+      "transliteration": "Waburrizati aljaheemu liman yara"
+    },
+    {
+      "surah": 79,
+      "ayah": 37,
+      "key": "79:37",
+      "arabic": "فَأَمَّا مَن طَغَىٰ",
+      "translations": {
+        "en": "Then, for such as had transgressed all bounds,",
+        "ms": "Maka (dapatlah masing-masing mengetahui kesudahannya); adapun orang yang melampau (perbuatan derhakanya)",
+        "id": "فَأَمَّا مَن طَغَىٰ"
+      },
+      "transliteration": "Faamma man tagha"
+    },
+    {
+      "surah": 79,
+      "ayah": 38,
+      "key": "79:38",
+      "arabic": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+      "translations": {
+        "en": "And had preferred the life of this world,",
+        "ms": "Serta ia mengutamakan kehidupan dunia semata-mata",
+        "id": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا"
+      },
+      "transliteration": "Waathara alhayata alddunya"
+    },
+    {
+      "surah": 79,
+      "ayah": 39,
+      "key": "79:39",
+      "arabic": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+      "translations": {
+        "en": "The Abode will be Hell-Fire;",
+        "ms": "Maka sesungguhnya neraka Jahanamlah tempat kediamannya",
+        "id": "فَإِنَّ ٱلۡجَحِيمَ هِيَ ٱلۡمَأۡوَىٰ"
+      },
+      "transliteration": "Fainna aljaheema hiya almawa"
+    },
+    {
+      "surah": 79,
+      "ayah": 40,
+      "key": "79:40",
+      "arabic": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ",
+      "translations": {
+        "en": "And for such as had entertained the fear of standing before their Lord's (tribunal) and had restrained (their) soul from lower desires,",
+        "ms": "Adapun orang yang takutkan keadaan semasa ia berdiri di mahkamah Tuhannya, (untuk dihitung amalnya), serta ia menahan dirinya dari menurut hawa nafsu",
+        "id": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ"
+      },
+      "transliteration": "Waama man khafa maqama rabbihi wanaha alnnafsa AAani alhawa"
+    },
+    {
+      "surah": 79,
+      "ayah": 41,
+      "key": "79:41",
+      "arabic": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+      "translations": {
+        "en": "Their abode will be the Garden.",
+        "ms": "Maka sesungguhnya Syurgalah tempat kediamannya",
+        "id": "فَإِنَّ ٱلۡجَنَّةَ هِيَ ٱلۡمَأۡوَىٰ"
+      },
+      "transliteration": "Fainna aljannata hiya almawa"
+    },
+    {
+      "surah": 79,
+      "ayah": 42,
+      "key": "79:42",
+      "arabic": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+      "translations": {
+        "en": "They ask thee about the Hour,-'When will be its appointed time?",
+        "ms": "Mereka (yang ingkar) selalu bertanya kepadamu (wahai Muhammad) tentang hari kiamat: \"Bilakah masa datangnya",
+        "id": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا"
+      },
+      "transliteration": "Yasaloonaka AAani alssaAAati ayyana mursaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 43,
+      "key": "79:43",
+      "arabic": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ",
+      "translations": {
+        "en": "Wherein art thou (concerned) with the declaration thereof?",
+        "ms": "Apa hubungannya tugasmu dengan (soal) menerangkan masa kedatangan hari kiamat itu",
+        "id": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ"
+      },
+      "transliteration": "Feema anta min thikraha"
+    },
+    {
+      "surah": 79,
+      "ayah": 44,
+      "key": "79:44",
+      "arabic": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+      "translations": {
+        "en": "With thy Lord in the Limit fixed therefor.",
+        "ms": "Kepada Tuhanmu lah terserah kesudahan ilmu mengenainya",
+        "id": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ"
+      },
+      "transliteration": "Ila rabbika muntahaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 45,
+      "key": "79:45",
+      "arabic": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+      "translations": {
+        "en": "Thou art but a Warner for such as fear it.",
+        "ms": "Tugasmu hanyalah memberi amaran kepada orang yang takut akan huru-hara hari kiamat itu",
+        "id": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا"
+      },
+      "transliteration": "Innama anta munthiru man yakhshaha"
+    },
+    {
+      "surah": 79,
+      "ayah": 46,
+      "key": "79:46",
+      "arabic": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا",
+      "translations": {
+        "en": "The Day they see it, (It will be) as if they had tarried but a single evening, or (at most till) the following morn!",
+        "ms": "(Sangatlah dahsyatnya huru-hara hari itu, sehingga orang-orang yang bersalah merasa) pada masa melihatnya: seolah-olah mereka tidak tinggal di dunia melainkan sekadar satu petang atau paginya sahaja",
+        "id": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا"
+      },
+      "transliteration": "Kaannahum yawma yarawnaha lam yalbathoo illa AAashiyyatan aw duhaha"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "surah": {
+    "number": 89,
+    "slug": "al-fajr",
+    "nameArabic": "الفجر",
+    "nameTransliteration": "Al-Fajr",
+    "nameEnglish": "The Dawn",
+    "revelation": "makki",
+    "ayahCount": 30
+  },
+  "ayahs": [
+    {
+      "surah": 89,
+      "ayah": 1,
+      "key": "89:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+      "translations": {
+        "en": "By the break of Day",
+        "ms": "Demi waktu fajar",
+        "id": "وَٱلۡفَجۡرِ"
+      },
+      "transliteration": "Waalfajri"
+    },
+    {
+      "surah": 89,
+      "ayah": 2,
+      "key": "89:2",
+      "arabic": "وَلَيَالٍ عَشْرٍ",
+      "translations": {
+        "en": "By the Nights twice five;",
+        "ms": "Dan malam yang sepuluh (yang mempunyai kelebihan di sisi Allah)",
+        "id": "وَلَيَالٍ عَشۡرٖ"
+      },
+      "transliteration": "Walayalin AAashrin"
+    },
+    {
+      "surah": 89,
+      "ayah": 3,
+      "key": "89:3",
+      "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "translations": {
+        "en": "By the even and odd (contrasted);",
+        "ms": "Dan bilangan yang genap serta yang ganjil",
+        "id": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ"
+      },
+      "transliteration": "WaalshshafAAi waalwatri"
+    },
+    {
+      "surah": 89,
+      "ayah": 4,
+      "key": "89:4",
+      "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "translations": {
+        "en": "And by the Night when it passeth away;-",
+        "ms": "Dan malam, apabila ia berlalu",
+        "id": "وَٱلَّيۡلِ إِذَا يَسۡرِ"
+      },
+      "transliteration": "Waallayli itha yasri"
+    },
+    {
+      "surah": 89,
+      "ayah": 5,
+      "key": "89:5",
+      "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "translations": {
+        "en": "Is there (not) in these an adjuration (or evidence) for those who understand?",
+        "ms": "Bukankah yang demikian itu mengandungi sumpah (yang diakui kebenarannya) oleh orang yang berakal sempurna",
+        "id": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ"
+      },
+      "transliteration": "Hal fee thalika qasamun lithee hijrin"
+    },
+    {
+      "surah": 89,
+      "ayah": 6,
+      "key": "89:6",
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "translations": {
+        "en": "Seest thou not how thy Lord dealt with the 'Ad (people),-",
+        "ms": "(Kami tetap akan membinasakan orang-orang yang menentangmu wahai Muhammad), tidakkah engkau perhatikan, bagaimana Tuhanmu telah melakukan terhadap kaum Aad (yang kufur derhaka)",
+        "id": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ"
+      },
+      "transliteration": "Alam tara kayfa faAAala rabbuka biAAadin"
+    },
+    {
+      "surah": 89,
+      "ayah": 7,
+      "key": "89:7",
+      "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "translations": {
+        "en": "Of the (city of) Iram, with lofty pillars,",
+        "ms": "Iaitu penduduk \"Iram\" yang mempunyai bangunan-bangunan yang tinggi tiangnya, (sesuai dengan penduduknya)",
+        "id": "إِرَمَ ذَاتِ ٱلۡعِمَادِ"
+      },
+      "transliteration": "Irama thati alAAimadi"
+    },
+    {
+      "surah": 89,
+      "ayah": 8,
+      "key": "89:8",
+      "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "translations": {
+        "en": "The like of which were not produced in (all) the land?",
+        "ms": "Yang belum pernah diciptakan sepertinya (tentang besar dan kukuhnya) di segala negeri (pada zamannya)",
+        "id": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ"
+      },
+      "transliteration": "Allatee lam yukhlaq mithluha fee albiladi"
+    },
+    {
+      "surah": 89,
+      "ayah": 9,
+      "key": "89:9",
+      "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "translations": {
+        "en": "And with the Thamud (people), who cut out (huge) rocks in the valley?-",
+        "ms": "Dan (terhadap) kaum Thamud yang memahat batu-batu besar di lembah (Wadil-Qura iaitu tempat tinggalnya)",
+        "id": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ"
+      },
+      "transliteration": "Wathamooda allatheena jaboo alssakhra bialwadi"
+    },
+    {
+      "surah": 89,
+      "ayah": 10,
+      "key": "89:10",
+      "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "translations": {
+        "en": "And with Pharaoh, lord of stakes?",
+        "ms": "Dan (terhadap) Firaun yang menguasai bangunan-bangunan yang handal kukuh",
+        "id": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ"
+      },
+      "transliteration": "WafirAAawna thee alawtadi"
+    },
+    {
+      "surah": 89,
+      "ayah": 11,
+      "key": "89:11",
+      "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "translations": {
+        "en": "(All) these transgressed beyond bounds in the lands,",
+        "ms": "(Semuanya itu ialah) orang-orang yang telah bermaharajalela di negeri (masing-masing)",
+        "id": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ"
+      },
+      "transliteration": "Allatheena taghaw fee albiladi"
+    },
+    {
+      "surah": 89,
+      "ayah": 12,
+      "key": "89:12",
+      "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "translations": {
+        "en": "And heaped therein mischief (on mischief).",
+        "ms": "Lalu mereka melakukan dengan banyaknya kerosakan dan bencana di negeri-negeri itu",
+        "id": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ"
+      },
+      "transliteration": "Faaktharoo feeha alfasada"
+    },
+    {
+      "surah": 89,
+      "ayah": 13,
+      "key": "89:13",
+      "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "translations": {
+        "en": "Therefore did thy Lord pour on them a scourge of diverse chastisements:",
+        "ms": "Dengan yang demikian, Tuhanmu mencurahkan ke atas mereka berbagai paluan azab",
+        "id": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ"
+      },
+      "transliteration": "Fasabba AAalayhim rabbuka sawta AAathabin"
+    },
+    {
+      "surah": 89,
+      "ayah": 14,
+      "key": "89:14",
+      "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "translations": {
+        "en": "For thy Lord is (as a Guardian) on a watch-tower.",
+        "ms": "Sesungguhnya Tuhanmu tetap mengawas dan membalas, (terutama balasan akhirat)",
+        "id": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ"
+      },
+      "transliteration": "Inna rabbaka labialmirsadi"
+    },
+    {
+      "surah": 89,
+      "ayah": 15,
+      "key": "89:15",
+      "arabic": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "translations": {
+        "en": "Now, as for man, when his Lord trieth him, giving him honour and gifts, then saith he, (puffed up), \"My Lord hath honoured me.\"",
+        "ms": "(Dalam pada itu manusia tidak menghiraukan balasan akhirat), oleh yang demikian, maka kebanyakan manusia apabila diuji oleh Tuhannya dengan dimuliakan dan dimewahkan hidupnya, (ia tidak mahu bersyukur tetapi terus bersikap takbur) serta berkata dengan sombongnya: \"Tuhanku telah memuliakan daku",
+        "id": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ"
+      },
+      "transliteration": "Faamma alinsanu itha ma ibtalahu rabbuhu faakramahu wanaAAAAamahu fayaqoolu rabbee akramani"
+    },
+    {
+      "surah": 89,
+      "ayah": 16,
+      "key": "89:16",
+      "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "translations": {
+        "en": "But when He trieth him, restricting his subsistence for him, then saith he (in despair), \"My Lord hath humiliated me!\"",
+        "ms": "Dan sebaliknya apabila ia diuji oleh Tuhannya, dengan disempitkan rezekinya, (ia tidak bersabar bahkan ia resah gelisah) serta merepek dengan katanya: \"Tuhanku telah menghinakan daku",
+        "id": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ"
+      },
+      "transliteration": "Waamma itha ma ibtalahu faqadara AAalayhi rizqahu fayaqoolu rabbee ahanani"
+    },
+    {
+      "surah": 89,
+      "ayah": 17,
+      "key": "89:17",
+      "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "translations": {
+        "en": "Nay, nay! but ye honour not the orphans!",
+        "ms": "Jangan demikian, (sebenarnya kata-kata kamu itu salah). Bahkan (perbuatan kamu wahai orang-orang yang hidup mewah, lebih salah lagi kerana) kamu tidak memuliakan anak yatim, (malah kamu menahan apa yang Ia berhak menerimanya)",
+        "id": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ"
+      },
+      "transliteration": "Kalla bal la tukrimoona alyateema"
+    },
+    {
+      "surah": 89,
+      "ayah": 18,
+      "key": "89:18",
+      "arabic": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "translations": {
+        "en": "Nor do ye encourage one another to feed the poor!-",
+        "ms": "Dan kamu tidak menggalakkan untuk memberi makanan (yang berhak diterima oleh) orang miskin",
+        "id": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
+      },
+      "transliteration": "Wala tahaddoona AAala taAAami almiskeeni"
+    },
+    {
+      "surah": 89,
+      "ayah": 19,
+      "key": "89:19",
+      "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "translations": {
+        "en": "And ye devour inheritance - all with greed,",
+        "ms": "Dan kamu sentiasa makan harta pusaka secara rakus (dengan tidak membezakan halal haramnya)",
+        "id": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا"
+      },
+      "transliteration": "Watakuloona altturatha aklan lamman"
+    },
+    {
+      "surah": 89,
+      "ayah": 20,
+      "key": "89:20",
+      "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "translations": {
+        "en": "And ye love wealth with inordinate love!",
+        "ms": "Serta kamu pula sayangkan harta secara tamak haloba",
+        "id": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا"
+      },
+      "transliteration": "Watuhibboona almala hubban jamman"
+    },
+    {
+      "surah": 89,
+      "ayah": 21,
+      "key": "89:21",
+      "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "translations": {
+        "en": "Nay! When the earth is pounded to powder,",
+        "ms": "Jangan sekali-kali bersikap demikian! (Sebenarnya) apabila bumi (dihancurkan segala yang ada di atasnya dan) diratakan serata-ratanya",
+        "id": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا"
+      },
+      "transliteration": "Kalla itha dukkati alardu dakkan dakkan"
+    },
+    {
+      "surah": 89,
+      "ayah": 22,
+      "key": "89:22",
+      "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "translations": {
+        "en": "And thy Lord cometh, and His angels, rank upon rank,",
+        "ms": "Dan (perintah) Tuhanmu pun datang, sedang malaikat berbaris-baris (siap sedia menjalankan perintah)",
+        "id": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا"
+      },
+      "transliteration": "Wajaa rabbuka waalmalaku saffan saffan"
+    },
+    {
+      "surah": 89,
+      "ayah": 23,
+      "key": "89:23",
+      "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "translations": {
+        "en": "And Hell, that Day, is brought (face to face),- on that Day will man remember, but how will that remembrance profit him?",
+        "ms": "Serta diperlihatkan neraka Jahannam pada hari itu, (maka) pada saat itu manusia akan ingat (hendak berlaku baik), dan bagaimana ingatan itu akan berguna lagi kepadanya",
+        "id": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ"
+      },
+      "transliteration": "Wajeea yawmaithin bijahannama yawmaithin yatathakkaru alinsanu waanna lahu alththikra"
+    },
+    {
+      "surah": 89,
+      "ayah": 24,
+      "key": "89:24",
+      "arabic": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "translations": {
+        "en": "He will say: \"Ah! Would that I had sent forth (good deeds) for (this) my (Future) Life!\"",
+        "ms": "Ia akan berkata: \"Alangkah baiknya kalau aku dahulu sediakan amal-amal baik untuk hidupku (di sini)",
+        "id": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي"
+      },
+      "transliteration": "Yaqoolu ya laytanee qaddamtu lihayatee"
+    },
+    {
+      "surah": 89,
+      "ayah": 25,
+      "key": "89:25",
+      "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "translations": {
+        "en": "For, that Day, His Chastisement will be such as none (else) can inflict,",
+        "ms": "Maka pada hari itu tiada sesiapapun yang dapat menyeksa seperti azab (yang ditimpakan oleh) Allah",
+        "id": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ"
+      },
+      "transliteration": "Fayawmaithin la yuAAaththibu AAathabahu ahadun"
+    },
+    {
+      "surah": 89,
+      "ayah": 26,
+      "key": "89:26",
+      "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "translations": {
+        "en": "And His bonds will be such as none (other) can bind.",
+        "ms": "Dan tiada sesiapapun yang dapat mengikat serta membelenggu seperti ikatan dan belengguNya",
+        "id": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ"
+      },
+      "transliteration": "Wala yoothiqu wathaqahu ahadun"
+    },
+    {
+      "surah": 89,
+      "ayah": 27,
+      "key": "89:27",
+      "arabic": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "translations": {
+        "en": "(To the righteous soul will be said:) \"O (thou) soul, in (complete) rest and satisfaction!",
+        "ms": "(Setelah menerangkan akibat orang-orang yang tidak menghiraukan akhirat, Tuhan menyatakan bahawa orang-orang yang beriman dan beramal soleh akan disambut dengan kata-kata): \"Wahai orang yang mempunyai jiwa yang sentiasa tenang tetap dengan kepercayaan dan bawaan baiknya",
+        "id": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ"
+      },
+      "transliteration": "Ya ayyatuha alnnafsu almutmainnatu"
+    },
+    {
+      "surah": 89,
+      "ayah": 28,
+      "key": "89:28",
+      "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "translations": {
+        "en": "\"Come back thou to thy Lord,- well pleased (thyself), and well-pleasing unto Him!",
+        "ms": "Kembalilah kepada Tuhanmu dengan keadaan engkau berpuas hati (dengan segala nikmat yang diberikan) lagi diredhai (di sisi Tuhanmu)",
+        "id": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ"
+      },
+      "transliteration": "IrjiAAee ila rabbiki radiyatan mardiyyatan"
+    },
+    {
+      "surah": 89,
+      "ayah": 29,
+      "key": "89:29",
+      "arabic": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "translations": {
+        "en": "\"Enter thou, then, among My devotees!",
+        "ms": "Serta masuklah engkau dalam kumpulan hamba-hambaku yang berbahagia",
+        "id": "فَٱدۡخُلِي فِي عِبَٰدِي"
+      },
+      "transliteration": "Faodkhulee fee AAibadee"
+    },
+    {
+      "surah": 89,
+      "ayah": 30,
+      "key": "89:30",
+      "arabic": "وَٱدْخُلِى جَنَّتِى",
+      "translations": {
+        "en": "\"Yea, enter thou My Heaven!",
+        "ms": "Dan masuklah ke dalam SyurgaKu",
+        "id": "وَٱدۡخُلِي جَنَّتِي"
+      },
+      "transliteration": "Waodkhulee jannatee"
+    }
+  ]
+}

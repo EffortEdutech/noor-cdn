@@ -1,0 +1,601 @@
+{
+  "surah": {
+    "number": 52,
+    "slug": "at-toor",
+    "nameArabic": "الطور",
+    "nameTransliteration": "At-Toor",
+    "nameEnglish": "The Mount",
+    "revelation": "makki",
+    "ayahCount": 49
+  },
+  "ayahs": [
+    {
+      "surah": 52,
+      "ayah": 1,
+      "key": "52:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلطُّورِ",
+      "translations": {
+        "en": "By the Mount (of Revelation);",
+        "ms": "Demi Gunung Tursina",
+        "id": "وَٱلطُّورِ"
+      },
+      "transliteration": "Waalttoori"
+    },
+    {
+      "surah": 52,
+      "ayah": 2,
+      "key": "52:2",
+      "arabic": "وَكِتَـٰبٍ مَّسْطُورٍ",
+      "translations": {
+        "en": "By a Decree inscribed",
+        "ms": "Dan demi Kitab yang tertulis dengan rapi",
+        "id": "وَكِتَٰبٖ مَّسۡطُورٖ"
+      },
+      "transliteration": "Wakitabin mastoorin"
+    },
+    {
+      "surah": 52,
+      "ayah": 3,
+      "key": "52:3",
+      "arabic": "فِى رَقٍّ مَّنشُورٍ",
+      "translations": {
+        "en": "In a Scroll unfolded;",
+        "ms": "Pada lembaran surat yang terbuka",
+        "id": "فِي رَقّٖ مَّنشُورٖ"
+      },
+      "transliteration": "Fee raqqin manshoorin"
+    },
+    {
+      "surah": 52,
+      "ayah": 4,
+      "key": "52:4",
+      "arabic": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+      "translations": {
+        "en": "By the much-frequented Fane;",
+        "ms": "Dan demi \"Al-Baitul Makmur",
+        "id": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ"
+      },
+      "transliteration": "Waalbayti almaAAmoori"
+    },
+    {
+      "surah": 52,
+      "ayah": 5,
+      "key": "52:5",
+      "arabic": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+      "translations": {
+        "en": "By the Canopy Raised High;",
+        "ms": "Dan demi bumbung yang tinggi",
+        "id": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ"
+      },
+      "transliteration": "Waalssaqfi almarfooAAi"
+    },
+    {
+      "surah": 52,
+      "ayah": 6,
+      "key": "52:6",
+      "arabic": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+      "translations": {
+        "en": "And by the Ocean filled with Swell;-",
+        "ms": "Dan demi laut yang penuh tepu (dengan kepanasan)",
+        "id": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ"
+      },
+      "transliteration": "Waalbahri almasjoori"
+    },
+    {
+      "surah": 52,
+      "ayah": 7,
+      "key": "52:7",
+      "arabic": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ",
+      "translations": {
+        "en": "Verily, the Doom of thy Lord will indeed come to pass;-",
+        "ms": "Sesungguhnya azab Tuhanmu tetap berlaku",
+        "id": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ"
+      },
+      "transliteration": "Inna AAathaba rabbika lawaqiAAun"
+    },
+    {
+      "surah": 52,
+      "ayah": 8,
+      "key": "52:8",
+      "arabic": "مَّا لَهُۥ مِن دَافِعٍ",
+      "translations": {
+        "en": "There is none can avert it;-",
+        "ms": "Tidak ada sesiapapun yang dapat menolaknya",
+        "id": "مَّا لَهُۥ مِن دَافِعٖ"
+      },
+      "transliteration": "Ma lahu min dafiAAin"
+    },
+    {
+      "surah": 52,
+      "ayah": 9,
+      "key": "52:9",
+      "arabic": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
+      "translations": {
+        "en": "On the Day when the firmament will be in dreadful commotion.",
+        "ms": "Pada hari langit (dan segala isinya) bergegar dengan sekuat-kuatnya",
+        "id": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا"
+      },
+      "transliteration": "Yawma tamooru alssamao mawran"
+    },
+    {
+      "surah": 52,
+      "ayah": 10,
+      "key": "52:10",
+      "arabic": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
+      "translations": {
+        "en": "And the mountains will fly hither and thither.",
+        "ms": "Dan gunung-ganang bergerak dari tempatnya dengan cara yang luar biasa",
+        "id": "وَتَسِيرُ ٱلۡجِبَالُ سَيۡرٗا"
+      },
+      "transliteration": "Wataseeru aljibalu sayran"
+    },
+    {
+      "surah": 52,
+      "ayah": 11,
+      "key": "52:11",
+      "arabic": "فَوَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Then woe that Day to those that treat (Truth) as Falsehood;-",
+        "ms": "(Apabila berlaku yang demikian), maka kecelakaan dan kebinasaanlah pada hari itu bagi orang-orang yang mendustakan kebenaran",
+        "id": "فَوَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Fawaylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 52,
+      "ayah": 12,
+      "key": "52:12",
+      "arabic": "ٱلَّذِينَ هُمْ فِى خَوْضٍ يَلْعَبُونَ",
+      "translations": {
+        "en": "That play (and paddle) in shallow trifles.",
+        "ms": "Iaitu orang-orang yang leka bermain-main dalam kesesatan",
+        "id": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ"
+      },
+      "transliteration": "Allatheena hum fee khawdin yalAAaboona"
+    },
+    {
+      "surah": 52,
+      "ayah": 13,
+      "key": "52:13",
+      "arabic": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "translations": {
+        "en": "That Day shall they be thrust down to the Fire of Hell, irresistibly.",
+        "ms": "Pada hari mereka ditolak ke alam neraka Jahannam dengan penolakan yang sekasar-kasarnya",
+        "id": "يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا"
+      },
+      "transliteration": "Yawma yudaAAAAoona ila nari jahannama daAAAAan"
+    },
+    {
+      "surah": 52,
+      "ayah": 14,
+      "key": "52:14",
+      "arabic": "هَـٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+      "translations": {
+        "en": "\"This:, it will be said, \"Is the Fire,- which ye were wont to deny!",
+        "ms": "(Dan dikatakan kepada mereka): \"Inilah api neraka yang dahulu kamu mendustakannya",
+        "id": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ"
+      },
+      "transliteration": "Hathihi alnnaru allatee kuntum biha tukaththiboona"
+    },
+    {
+      "surah": 52,
+      "ayah": 15,
+      "key": "52:15",
+      "arabic": "أَفَسِحْرٌ هَـٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ",
+      "translations": {
+        "en": "\"Is this then a fake, or is it ye that do not see?",
+        "ms": "Maka adakah ini sihir juga (sebagaimana yang kamu katakan terhadap keterangan Rasul Kami dahulu?), atau kamu tidak nampak (kenyataannya sebagaimana kamu tidak nampak di dunia dahulu akan kebenaran Rasul Kami)",
+        "id": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ"
+      },
+      "transliteration": "Afasihrun hatha am antum la tubsiroona"
+    },
+    {
+      "surah": 52,
+      "ayah": 16,
+      "key": "52:16",
+      "arabic": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "translations": {
+        "en": "\"Burn ye therein: the same is it to you whether ye bear it with patience, or not: Ye but receive the recompense of your (own) deeds.\"",
+        "ms": "Rasalah bakarannya; kemudian sama ada kamu bersabar (menderita azabnya) atau tidak bersabar, sama sahaja (tidak ada faedahnya) kepada kamu, kerana kamu tidak dibalas melainkan dengan apa yang kamu telah kerjakan",
+        "id": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ"
+      },
+      "transliteration": "Islawha faisbiroo aw la tasbiroo sawaon AAalaykum innama tujzawna ma kuntum taAAmaloona"
+    },
+    {
+      "surah": 52,
+      "ayah": 17,
+      "key": "52:17",
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَعِيمٍ",
+      "translations": {
+        "en": "As to the Righteous, they will be in Gardens, and in Happiness,-",
+        "ms": "Sesungguhnya orang-orang yang bertaqwa, di tempatkan dalam taman-taman Syurga dan nikmat kesenangan (yang tidak ada taranya)",
+        "id": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّـٰتٖ وَنَعِيمٖ"
+      },
+      "transliteration": "Inna almuttaqeena fee jannatin wanaAAeemin"
+    },
+    {
+      "surah": 52,
+      "ayah": 18,
+      "key": "52:18",
+      "arabic": "فَـٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ",
+      "translations": {
+        "en": "Enjoying the (Bliss) which their Lord hath bestowed on them, and their Lord shall deliver them from the Penalty of the Fire.",
+        "ms": "Mereka bersenang lenang dengan apa yang dikurniakan oleh Tuhan mereka, dan mereka dipelihara Tuhan dari azab neraka",
+        "id": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ"
+      },
+      "transliteration": "Fakiheena bima atahum rabbuhum wawaqahum rabbuhum AAathaba aljaheemi"
+    },
+    {
+      "surah": 52,
+      "ayah": 19,
+      "key": "52:19",
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "translations": {
+        "en": "(To them will be said:) \"Eat and drink ye, with profit and health, because of your (good) deeds.\"",
+        "ms": "(Dan dikatakan kepada mereka): \"Makan dan minumlah kamu makanan dan minuman yang lazat serta baik kesudahannya, dengan sebab apa yang kamu telah kerjakan",
+        "id": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ"
+      },
+      "transliteration": "Kuloo waishraboo haneean bima kuntum taAAmaloona"
+    },
+    {
+      "surah": 52,
+      "ayah": 20,
+      "key": "52:20",
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+      "translations": {
+        "en": "They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.",
+        "ms": "Mereka duduk berbaring di atas pelamin-pelamin yang berderet; dan Kami jadikan kawan teman mereka bidadari-bidadari yang putih melepak, lagi luas cantik matanya",
+        "id": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٖ مَّصۡفُوفَةٖۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ"
+      },
+      "transliteration": "Muttakieena AAala sururin masfoofatin wazawwajnahum bihoorin AAeenin"
+    },
+    {
+      "surah": 52,
+      "ayah": 21,
+      "key": "52:21",
+      "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَـٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ",
+      "translations": {
+        "en": "And those who believe and whose families follow them in Faith,- to them shall We join their families: Nor shall We deprive them (of the fruit) of aught of their works: (Yet) is each individual in pledge for his deeds.",
+        "ms": "Dan orang-orang yang beriman yang diturut oleh zuriat keturunannya dengan keadaan beriman, Kami hubungkan (himpunkan) zuriat keturunannya itu dengan mereka (di dalam Syurga); dan Kami (dengan itu) tidak mengurangi sedikitpun dari pahala amal-amal mereka; tiap-tiap seorang manusia terikat dengan amal yang dikerjakannya",
+        "id": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءٖۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينٞ"
+      },
+      "transliteration": "Waallatheena amanoo waittabaAAathum thurriyyatuhum bieemanin alhaqna bihim thurriyyatahum wama alatnahum min AAamalihim min shayin kullu imriin bima kasaba raheenun"
+    },
+    {
+      "surah": 52,
+      "ayah": 22,
+      "key": "52:22",
+      "arabic": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ",
+      "translations": {
+        "en": "And We shall bestow on them, of fruit and meat, anything they shall desire.",
+        "ms": "Dan (penduduk Syurga itu) Kami tambahi mereka (dari semasa ke semasa), dengan buah-buahan dan daging dari berbagai jenis yang mereka ingini",
+        "id": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةٖ وَلَحۡمٖ مِّمَّا يَشۡتَهُونَ"
+      },
+      "transliteration": "Waamdadnahum bifakihatin walahmin mimma yashtahoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 23,
+      "key": "52:23",
+      "arabic": "يَتَنَـٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+      "translations": {
+        "en": "They shall there exchange, one with another, a (loving) cup free of frivolity, free of all taint of ill.",
+        "ms": "Mereka di dalam Syurga itu (kerana melahirkan kemesraan antara satu dengan yang lain): berebut-rebut mengambil piala yang berisi arak yang tidak menyebabkan timbul (dari peminumnya) perkara yang sia-sia dan tidak pula menyebabkan (peminumnya menanggung) dosa",
+        "id": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ"
+      },
+      "transliteration": "YatanazaAAoona feeha kasan la laghwun feeha wala tatheemun"
+    },
+    {
+      "surah": 52,
+      "ayah": 24,
+      "key": "52:24",
+      "arabic": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ",
+      "translations": {
+        "en": "Round about them will serve, (devoted) to them, young male servants (handsome) as Pearls well-guarded.",
+        "ms": "Dan mereka dilayani oleh anak-anak muda lelaki yang sentiasa beredar di sekitar mereka, (yang cantik parasnya) seolah-olah anak-anak muda itu mutiara yang tersimpan dengan sebaik-baiknya",
+        "id": "۞وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ"
+      },
+      "transliteration": "Wayatoofu AAalayhim ghilmanun lahum kaannahum luluon maknoonun"
+    },
+    {
+      "surah": 52,
+      "ayah": 25,
+      "key": "52:25",
+      "arabic": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "translations": {
+        "en": "They will advance to each other, engaging in mutual enquiry.",
+        "ms": "Dan (dengan berada dalam nikmat itu) mereka berhadap-hadapan satu sama lain sambil bertanya-tanya",
+        "id": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَسَآءَلُونَ"
+      },
+      "transliteration": "Waaqbala baAAduhum AAala baAAdin yatasaaloona"
+    },
+    {
+      "surah": 52,
+      "ayah": 26,
+      "key": "52:26",
+      "arabic": "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ",
+      "translations": {
+        "en": "They will say: \"Aforetime, we were not without fear for the sake of our people.",
+        "ms": "Mereka berkata: \"Sesungguhnya kami dahulu, semasa berada dalam kalangan keluarga kami - selalu merasa cemas takut (daripada berlaku derhaka kepada Allah)",
+        "id": "قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ"
+      },
+      "transliteration": "Qaloo inna kunna qablu fee ahlina mushfiqeena"
+    },
+    {
+      "surah": 52,
+      "ayah": 27,
+      "key": "52:27",
+      "arabic": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+      "translations": {
+        "en": "\"But Allah has been good to us, and has delivered us from the Penalty of the Scorching Wind.",
+        "ms": "Maka Allah mengurniakan kami (rahmat dan taufiqNya), serta memelihara kami dari azab neraka",
+        "id": "فَمَنَّ ٱللَّهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ"
+      },
+      "transliteration": "Famanna Allahu AAalayna wawaqana AAathaba alssamoomi"
+    },
+    {
+      "surah": 52,
+      "ayah": 28,
+      "key": "52:28",
+      "arabic": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+      "translations": {
+        "en": "\"Truly, we did call unto Him from of old: truly it is He, the Beneficent, the Merciful!\"",
+        "ms": "Sesungguhnya kami dahulu tetap menyembahNya (dan memohon pertolonganNya). Kerana sesungguhnya Dia lah sahaja yang sentiasa melimpahkan ihsanNya, lagi Yang Maha Mengasihani",
+        "id": "إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ"
+      },
+      "transliteration": "Inna kunna min qablu nadAAoohu innahu huwa albarru alrraheemu"
+    },
+    {
+      "surah": 52,
+      "ayah": 29,
+      "key": "52:29",
+      "arabic": "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+      "translations": {
+        "en": "Therefore proclaim thou the praises (of thy Lord): for by the Grace of thy Lord, thou art no (vulgar) soothsayer, nor art thou one possessed.",
+        "ms": "Maka hendaklah engkau (wahai Muhammad) tetap tekun memberi peringatan (dengan ajaran-ajaran Al-Quran yang diturunkan kepadamu, dan janganlah dihiraukan golongan yang ingkar), kerana engkau dengan nikmat Tuhanmu (yang dilimpahkanNya kepadamu itu) bukanlah seorang pawang dan bukan pula seorang gila",
+        "id": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ"
+      },
+      "transliteration": "Fathakkir fama anta biniAAmati rabbika bikahin wala majnoonin"
+    },
+    {
+      "surah": 52,
+      "ayah": 30,
+      "key": "52:30",
+      "arabic": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+      "translations": {
+        "en": "Or do they say:- \"A Poet! we await for him some calamity (hatched) by Time!\"",
+        "ms": "(Mereka menuduh Nabi Muhammad dengan yang bukan-bukan), bahkan mereka mengatakan: \"(Muhammad) itu seorang penyair yang kami tunggu-tunggu saat kebinasaannya",
+        "id": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ"
+      },
+      "transliteration": "Am yaqooloona shaAAirun natarabbasu bihi rayba almanooni"
+    },
+    {
+      "surah": 52,
+      "ayah": 31,
+      "key": "52:31",
+      "arabic": "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ",
+      "translations": {
+        "en": "Say thou: \"Await ye!- I too will wait along with you!\"",
+        "ms": "Katakanlah (wahai Muhammad): \"Tunggulah kamu (akan apa yang kamu tuduh itu), maka sesungguhnya aku juga dari orang-orang yang menunggu bersama-sama kamu (akan apa yang dijanjikan oleh Allah Taala)",
+        "id": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ"
+      },
+      "transliteration": "Qul tarabbasoo fainnee maAAakum mina almutarabbiseena"
+    },
+    {
+      "surah": 52,
+      "ayah": 32,
+      "key": "52:32",
+      "arabic": "أَمْ تَأْمُرُهُمْ أَحْلَـٰمُهُم بِهَـٰذَآ ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+      "translations": {
+        "en": "Is it that their faculties of understanding urge them to this, or are they but a people transgressing beyond bounds?",
+        "ms": "Adakah mereka disuruh oleh akal fikiran mereka melemparkan tuduhan-tuduhan yang sedemikian itu, atau sememangnya mereka suatu kaum yang melampaui batas (dalam keingkaran dan kedegilannya)",
+        "id": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ"
+      },
+      "transliteration": "Am tamuruhum ahlamuhum bihatha am hum qawmun taghoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 33,
+      "key": "52:33",
+      "arabic": "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ",
+      "translations": {
+        "en": "Or do they say, \"He fabricated the (Message)\"? Nay, they have no faith!",
+        "ms": "(Bukan sahaja mereka ingkar dan degil) bahkan mereka berkata: \"Dia (Muhammad) telah mereka-reka Al-Quran itu\". (Tuduhan mereka yang demikian tidak berasas) bahkan mereka sengaja tidak mahu beriman",
+        "id": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ"
+      },
+      "transliteration": "Am yaqooloona taqawwalahu bal la yuminoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 34,
+      "key": "52:34",
+      "arabic": "فَلْيَأْتُوا۟ بِحَدِيثٍ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ",
+      "translations": {
+        "en": "Let them then produce a recital like unto it,- If (it be) they speak the truth!",
+        "ms": "(Kalau tidak) maka hendaklah mereka membuat dan mendatangkan kata-kata (yang fasih dan indah) seperti Al-Quran itu, jika betul mereka orang-orang yang benar dakwaannya",
+        "id": "فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ"
+      },
+      "transliteration": "Falyatoo bihadeethin mithlihi in kanoo sadiqeena"
+    },
+    {
+      "surah": 52,
+      "ayah": 35,
+      "key": "52:35",
+      "arabic": "أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ",
+      "translations": {
+        "en": "Were they created of nothing, or were they themselves the creators?",
+        "ms": "(Mengapa mereka tidak beriman?) Adakah mereka telah tercipta dengan tiada yang menciptanya, atau adakah mereka yang mencipta diri mereka sendiri",
+        "id": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ"
+      },
+      "transliteration": "Am khuliqoo min ghayri shayin am humu alkhaliqoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 36,
+      "key": "52:36",
+      "arabic": "أَمْ خَلَقُوا۟ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+      "translations": {
+        "en": "Or did they create the heavens and the earth? Nay, they have no firm belief.",
+        "ms": "Adakah mereka yang mencipta langit dan bumi itu? (Sudah tentu tidak!) Bahkan mereka adalah orang-orang yang tidak meyakini (kebenaran apa yang mereka pernah mengakuinya)",
+        "id": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ"
+      },
+      "transliteration": "Am khalaqoo alssamawati waalarda bal la yooqinoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 37,
+      "key": "52:37",
+      "arabic": "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ",
+      "translations": {
+        "en": "Or are the Treasures of thy Lord with them, or are they the managers (of affairs)?",
+        "ms": "Adakah pada tangan mereka perbendaharaan Tuhanmu (sehingga mereka boleh memberi atau menahan sesuatu nikmat atau pangkat), atau merekalah yang berkuasa mentadbirkan segala-galanya",
+        "id": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ"
+      },
+      "transliteration": "Am AAindahum khazainu rabbika am humu almusaytiroona"
+    },
+    {
+      "surah": 52,
+      "ayah": 38,
+      "key": "52:38",
+      "arabic": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَـٰنٍ مُّبِينٍ",
+      "translations": {
+        "en": "Or have they a ladder, by which they can (climb up to heaven and) listen (to its secrets)? Then let (such a) listener of theirs produce a manifest proof.",
+        "ms": "Adakah mereka mempunyai tangga (untuk naik ke langit), yang dengannya mereka dapat mendengar (apa yang diperintahkan dan ditetapkan oleh Allah? Jika ada) maka biarlah orang mereka yang mendengar itu membawa sesuatu bukti yang menyatakan kebenarannya",
+        "id": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ"
+      },
+      "transliteration": "Am lahum sullamun yastamiAAoona feehi falyati mustamiAAuhum bisultanin mubeenin"
+    },
+    {
+      "surah": 52,
+      "ayah": 39,
+      "key": "52:39",
+      "arabic": "أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ",
+      "translations": {
+        "en": "Or has He only daughters and ye have sons?",
+        "ms": "Adilkah (kamu sediakan) bagi Allah - anak-anak perempuan (yang kamu benci), dan untuk kamu - anak-anak lelaki (yang kamu sukai)",
+        "id": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ"
+      },
+      "transliteration": "Am lahu albanatu walakumu albanoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 40,
+      "key": "52:40",
+      "arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "translations": {
+        "en": "Or is it that thou dost ask for a reward, so that they are burdened with a load of debt?-",
+        "ms": "Pernahkah engkau (wahai Muhammad) meminta sebarang bayaran kepada mereka (mengenai ajaran Islam yang engkau sampaikan), lalu mereka merasa berat menanggung bayaran itu (sehingga menjauhkan diri daripada menyahut seruanmu)",
+        "id": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ"
+      },
+      "transliteration": "Am tasaluhum ajran fahum min maghramin muthqaloona"
+    },
+    {
+      "surah": 52,
+      "ayah": 41,
+      "key": "52:41",
+      "arabic": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "translations": {
+        "en": "Or that the Unseen in it their hands, and they write it down?",
+        "ms": "Adakah pada sisi mereka (Lauh Mahfuz yang mengandungi) perkara-perkara yang ghaib, lalu mereka menyalin (daripadanya untuk menentang ajaran dan peringatanmu)",
+        "id": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ"
+      },
+      "transliteration": "Am AAindahumu alghaybu fahum yaktuboona"
+    },
+    {
+      "surah": 52,
+      "ayah": 42,
+      "key": "52:42",
+      "arabic": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ",
+      "translations": {
+        "en": "Or do they intend a plot (against thee)? But those who defy Allah are themselves involved in a Plot!",
+        "ms": "(Mereka tidak cukup dengan kata-kata dan tuduhan-tuduhan yang buruk sahaja) bahkan mereka hendak melakukan rancangan jahat (terhadapmu wahai Muhammad; tetapi mereka tidak akan berjaya) kerana orang-orang yang kafir itulah yang akan ditimpa balasan rancangan jahatnya",
+        "id": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ"
+      },
+      "transliteration": "Am yureedoona kaydan faallatheena kafaroo humu almakeedoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 43,
+      "key": "52:43",
+      "arabic": "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "translations": {
+        "en": "Or have they a god other than Allah? Exalted is Allah far above the things they associate with Him!",
+        "ms": "(Apabila datangnya balasan rancangan jahat itu maka) adakah bagi mereka Tuhan (yang dapat menyelamatkan mereka) selain dari Allah? Maha Suci Allah dari apa yang mereka sekutukan itu",
+        "id": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ"
+      },
+      "transliteration": "Am lahum ilahun ghayru Allahi subhana Allahi AAamma yushrikoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 44,
+      "key": "52:44",
+      "arabic": "وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ",
+      "translations": {
+        "en": "Were they to see a piece of the sky falling (on them), they would (only) say: \"Clouds gathered in heaps!\"",
+        "ms": "Dan kiranya mereka melihat sepotong besar dari langit gugur (untuk menimpa mereka), mereka akan berkata: \"(Itu adalah) awan yang bertompok - berlapis-lapis",
+        "id": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ"
+      },
+      "transliteration": "Wain yaraw kisfan mina alssamai saqitan yaqooloo sahabun markoomun"
+    },
+    {
+      "surah": 52,
+      "ayah": 45,
+      "key": "52:45",
+      "arabic": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+      "translations": {
+        "en": "So leave them alone until they encounter that Day of theirs, wherein they shall (perforce) swoon (with terror),-",
+        "ms": "(Kalau keingkaran dan kedegilan mereka sampai begitu sekali) maka biarkanlah mereka (wahai Muhammad, dan janganlah dihiraukan) sehingga mereka menemui hari yang padanya mereka akan binasa",
+        "id": "فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ"
+      },
+      "transliteration": "Fatharhum hatta yulaqoo yawmahumu allathee feehi yusAAaqoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 46,
+      "key": "52:46",
+      "arabic": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+      "translations": {
+        "en": "The Day when their plotting will avail them nothing and no help shall be given them.",
+        "ms": "(Iaitu) hari segala rancangan jahat dan tipu daya mereka tidak dapat mendatangkan sebarang faedah kepada mereka, dan mereka pula tidak diberikan pertolongan",
+        "id": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ"
+      },
+      "transliteration": "Yawma la yughnee AAanhum kayduhum shayan wala hum yunsaroona"
+    },
+    {
+      "surah": 52,
+      "ayah": 47,
+      "key": "52:47",
+      "arabic": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "translations": {
+        "en": "And verily, for those who do wrong, there is another punishment besides this: But most of them understand not.",
+        "ms": "Sesungguhnya orang-orang yang zalim itu akan beroleh azab seksa selain dari azab yang tersebut, akan tetapi kebanyakan mereka tidak mengetahui (hakikat yang sebenarnya)",
+        "id": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ"
+      },
+      "transliteration": "Wainna lillatheena thalamoo AAathaban doona thalika walakinna aktharahum la yaAAlamoona"
+    },
+    {
+      "surah": 52,
+      "ayah": 48,
+      "key": "52:48",
+      "arabic": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "translations": {
+        "en": "Now await in patience the command of thy Lord: for verily thou art in Our eyes: and celebrate the praises of thy Lord the while thou standest forth,",
+        "ms": "Dan (dengan yang demikian) bersabarlah (wahai Muhammad) menerima hukum Tuhanmu (memberi tempoh kepada mereka), kerana sesungguhnya engkau tetap terselamat dalam pemuliharaan serta pengawasan Kami; dan bertasbihlah dengan memuji Tuhanmu semasa engkau bangun",
+        "id": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ"
+      },
+      "transliteration": "Waisbir lihukmi rabbika fainnaka biaAAyunina wasabbih bihamdi rabbika heena taqoomu"
+    },
+    {
+      "surah": 52,
+      "ayah": 49,
+      "key": "52:49",
+      "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+      "translations": {
+        "en": "And for part of the night also praise thou Him,- and at the retreat of the stars!",
+        "ms": "Dan juga hendaklah engkau bertasbih kepadaNya pada waktu malam, dan ketika bintang-bintang tenggelam (pada waktu subuh)",
+        "id": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ"
+      },
+      "transliteration": "Wamina allayli fasabbihhu waidbara alnnujoomi"
+    }
+  ]
+}

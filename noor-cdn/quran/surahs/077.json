@@ -1,0 +1,613 @@
+{
+  "surah": {
+    "number": 77,
+    "slug": "al-mursalaat",
+    "nameArabic": "المرسلات",
+    "nameTransliteration": "Al-Mursalaat",
+    "nameEnglish": "The Emissaries",
+    "revelation": "makki",
+    "ayahCount": 50
+  },
+  "ayahs": [
+    {
+      "surah": 77,
+      "ayah": 1,
+      "key": "77:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "translations": {
+        "en": "By the (Winds) sent forth one after another (to man's profit);",
+        "ms": "Demi (makhluk-makhluk) yang dihantarkan berturut-turut (menjalankan tugasnya)",
+        "id": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا"
+      },
+      "transliteration": "Waalmursalati AAurfan"
+    },
+    {
+      "surah": 77,
+      "ayah": 2,
+      "key": "77:2",
+      "arabic": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "translations": {
+        "en": "Which then blow violently in tempestuous Gusts,",
+        "ms": "Juga yang merempuh mara dengan sekencang-kencangnya",
+        "id": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا"
+      },
+      "transliteration": "FaalAAasifati AAasfan"
+    },
+    {
+      "surah": 77,
+      "ayah": 3,
+      "key": "77:3",
+      "arabic": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "translations": {
+        "en": "And scatter (things) far and wide;",
+        "ms": "Dan demi (makhluk-makhluk) yang menyebarkan (pengajaran dan peringatan) dengan sebaran yang sesungguh-sungguhnya",
+        "id": "وَٱلنَّـٰشِرَٰتِ نَشۡرٗا"
+      },
+      "transliteration": "Waalnnashirati nashran"
+    },
+    {
+      "surah": 77,
+      "ayah": 4,
+      "key": "77:4",
+      "arabic": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "translations": {
+        "en": "Then separate them, one from another,",
+        "ms": "Serta yang memisahkan (antara yang benar dengan yang salah) dengan pemisahan yang sejelas-jelasnya",
+        "id": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا"
+      },
+      "transliteration": "Faalfariqati farqan"
+    },
+    {
+      "surah": 77,
+      "ayah": 5,
+      "key": "77:5",
+      "arabic": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "translations": {
+        "en": "Then spread abroad a Message,",
+        "ms": "Lalu menyampaikan pengajaran dan peringatan (kepada manusia)",
+        "id": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا"
+      },
+      "transliteration": "Faalmulqiyati thikran"
+    },
+    {
+      "surah": 77,
+      "ayah": 6,
+      "key": "77:6",
+      "arabic": "عُذْرًا أَوْ نُذْرًا",
+      "translations": {
+        "en": "Whether of Justification or of Warning;-",
+        "ms": "Untuk menghapuskan kesalahan orang-orang yang bertaubat serta memperbaiki keadaan dirinya, dan untuk menakutkan orang-orang yang ingkar - derhaka",
+        "id": "عُذۡرًا أَوۡ نُذۡرًا"
+      },
+      "transliteration": "AAuthran aw nuthran"
+    },
+    {
+      "surah": 77,
+      "ayah": 7,
+      "key": "77:7",
+      "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "translations": {
+        "en": "Assuredly, what ye are promised must come to pass.",
+        "ms": "(Sumpah demi sumpah) sesungguhnya segala yang dijanjikan kepada kamu tetap berlaku",
+        "id": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ"
+      },
+      "transliteration": "Innama tooAAadoona lawaqiAAun"
+    },
+    {
+      "surah": 77,
+      "ayah": 8,
+      "key": "77:8",
+      "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "translations": {
+        "en": "Then when the stars become dim;",
+        "ms": "Oleh itu, apabila bintang-bintang (binasa dan) hilang lenyap",
+        "id": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ"
+      },
+      "transliteration": "Faitha alnnujoomu tumisat"
+    },
+    {
+      "surah": 77,
+      "ayah": 9,
+      "key": "77:9",
+      "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "translations": {
+        "en": "When the heaven is cleft asunder;",
+        "ms": "Dan apabila langit terbelah",
+        "id": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ"
+      },
+      "transliteration": "Waitha alssamao furijat"
+    },
+    {
+      "surah": 77,
+      "ayah": 10,
+      "key": "77:10",
+      "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "translations": {
+        "en": "When the mountains are scattered (to the winds) as dust;",
+        "ms": "Dan apabila gunung-ganang hancur lebur berterbangan",
+        "id": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ"
+      },
+      "transliteration": "Waitha aljibalu nusifat"
+    },
+    {
+      "surah": 77,
+      "ayah": 11,
+      "key": "77:11",
+      "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "translations": {
+        "en": "And when the messengers are (all) appointed a time (to collect);-",
+        "ms": "Dan apabila Rasul-rasul ditentukan waktunya untuk dipanggil menjadi saksi terhadap umatnya, (maka sudah tentu manusia akan menerima balasan masing-masing)",
+        "id": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ"
+      },
+      "transliteration": "Waitha alrrusulu oqqitat"
+    },
+    {
+      "surah": 77,
+      "ayah": 12,
+      "key": "77:12",
+      "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "translations": {
+        "en": "For what Day are these (portents) deferred?",
+        "ms": "(Jika ditanya): ke hari yang manakah (perkara-perkara yang besar) itu ditangguhkan",
+        "id": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ"
+      },
+      "transliteration": "Liayyi yawmin ojjilat"
+    },
+    {
+      "surah": 77,
+      "ayah": 13,
+      "key": "77:13",
+      "arabic": "لِيَوْمِ ٱلْفَصْلِ",
+      "translations": {
+        "en": "For the Day of Sorting out.",
+        "ms": "(Jawabnya): Ke hari pemutusan hukum",
+        "id": "لِيَوۡمِ ٱلۡفَصۡلِ"
+      },
+      "transliteration": "Liyawmi alfasli"
+    },
+    {
+      "surah": 77,
+      "ayah": 14,
+      "key": "77:14",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "translations": {
+        "en": "And what will explain to thee what is the Day of Sorting out?",
+        "ms": "Dan apa jalannya engkau dapat mengetahui kedahsyatan hari pemutusan hukum itu",
+        "id": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ"
+      },
+      "transliteration": "Wama adraka ma yawmu alfasli"
+    },
+    {
+      "surah": 77,
+      "ayah": 15,
+      "key": "77:15",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang dijanjikan oleh Rasulnya)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 16,
+      "key": "77:16",
+      "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "translations": {
+        "en": "Did We not destroy the men of old (for their evil)?",
+        "ms": "Bukankah Kami telah binasakan orang-orang dahulu (yang ingkar derhaka, seperti kaum Nabi Nuh, Aad dan Thamud)",
+        "id": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ"
+      },
+      "transliteration": "Alam nuhliki alawwaleena"
+    },
+    {
+      "surah": 77,
+      "ayah": 17,
+      "key": "77:17",
+      "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "translations": {
+        "en": "So shall We make later (generations) follow them.",
+        "ms": "Kemudian kami akan iringi mereka dengan (membinasakan orang-orang yang ingkar derhaka, dari) kaum-kaum yang datang kemudian",
+        "id": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ"
+      },
+      "transliteration": "Thumma nutbiAAuhumu alakhireena"
+    },
+    {
+      "surah": 77,
+      "ayah": 18,
+      "key": "77:18",
+      "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "translations": {
+        "en": "Thus do We deal with men of sin.",
+        "ms": "Demikian cara kami lakukan terhadap sesiapa yang berdosa",
+        "id": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ"
+      },
+      "transliteration": "Kathalika nafAAalu bialmujrimeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 19,
+      "key": "77:19",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang Kami janjikan)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 20,
+      "key": "77:20",
+      "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "translations": {
+        "en": "Have We not created you from a fluid (held) despicable?-",
+        "ms": "Bukankah Kami telah menciptakan kamu dari air (benih) yang sedikit dipandang orang",
+        "id": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ"
+      },
+      "transliteration": "Alam nakhluqkum min main maheenin"
+    },
+    {
+      "surah": 77,
+      "ayah": 21,
+      "key": "77:21",
+      "arabic": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "translations": {
+        "en": "The which We placed in a place of rest, firmly fixed,",
+        "ms": "Lalu Kami jadikan air (benih) itu pada tempat penetapan yang kukuh",
+        "id": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ"
+      },
+      "transliteration": "FajaAAalnahu fee qararin makeenin"
+    },
+    {
+      "surah": 77,
+      "ayah": 22,
+      "key": "77:22",
+      "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "translations": {
+        "en": "For a period (of gestation), determined (according to need)?",
+        "ms": "Hingga ke suatu masa yang termaklum",
+        "id": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ"
+      },
+      "transliteration": "Ila qadarin maAAloomin"
+    },
+    {
+      "surah": 77,
+      "ayah": 23,
+      "key": "77:23",
+      "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "translations": {
+        "en": "For We do determine (according to need); for We are the best to determine (things).",
+        "ms": "Serta Kami tentukan (keadaannya), maka Kamilah sebaik-baik yang berkuasa menentukan dan melakukan (tiap-tiap sesuatu)",
+        "id": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ"
+      },
+      "transliteration": "Faqadarna faniAAma alqadiroona"
+    },
+    {
+      "surah": 77,
+      "ayah": 24,
+      "key": "77:24",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day! to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (kekuasaan Kami)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 25,
+      "key": "77:25",
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "translations": {
+        "en": "Have We not made the earth (as a place) to draw together.",
+        "ms": "Bukankah Kami telah menjadikan bumi (sebagai tempat) penampung dan penghimpun (penduduknya)",
+        "id": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا"
+      },
+      "transliteration": "Alam najAAali alarda kifatan"
+    },
+    {
+      "surah": 77,
+      "ayah": 26,
+      "key": "77:26",
+      "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
+      "translations": {
+        "en": "The living and the dead,",
+        "ms": "Yang hidup dan yang mati",
+        "id": "أَحۡيَآءٗ وَأَمۡوَٰتٗا"
+      },
+      "transliteration": "Ahyaan waamwatan"
+    },
+    {
+      "surah": 77,
+      "ayah": 27,
+      "key": "77:27",
+      "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "translations": {
+        "en": "And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?",
+        "ms": "Dan Kami telah jadikan di bumi: gunung-ganang yang menetapnya, yang tinggi menjulang; dan Kami telah memberi minum kepada kamu air yang tawar lagi memuaskan dahaga",
+        "id": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا"
+      },
+      "transliteration": "WajaAAalna feeha rawasiya shamikhatin waasqaynakum maan furatan"
+    },
+    {
+      "surah": 77,
+      "ayah": 28,
+      "key": "77:28",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (nikmat-nikmat pemberian Kami)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 29,
+      "key": "77:29",
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "translations": {
+        "en": "(It will be said:) \"Depart ye to that which ye used to reject as false!",
+        "ms": "(Dikatakan kepada mereka semasa ditimpakan dengan azab): \"Pergilah kepada azab yang dahulu kamu mendustakannya",
+        "id": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ"
+      },
+      "transliteration": "Intaliqoo ila ma kuntum bihi tukaththiboona"
+    },
+    {
+      "surah": 77,
+      "ayah": 30,
+      "key": "77:30",
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "translations": {
+        "en": "\"Depart ye to a Shadow (of smoke ascending) in three columns,",
+        "ms": "Pergilah kamu kepada naungan (asap neraka) yang bercabang tiga",
+        "id": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ"
+      },
+      "transliteration": "Intaliqoo ila thillin thee thalathi shuAAabin"
+    },
+    {
+      "surah": 77,
+      "ayah": 31,
+      "key": "77:31",
+      "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "translations": {
+        "en": "\"(Which yields) no shade of coolness, and is of no use against the fierce Blaze.",
+        "ms": "Yang tidak dapat dijadikan naungan, dan tidak dapat memberikan sebarang lindungan dari julangan api neraka",
+        "id": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ"
+      },
+      "transliteration": "La thaleelin wala yughnee mina allahabi"
+    },
+    {
+      "surah": 77,
+      "ayah": 32,
+      "key": "77:32",
+      "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "translations": {
+        "en": "\"Indeed it throws about sparks (huge) as Forts,",
+        "ms": "Sesungguhnya neraka itu melemparkan bunga api, (yang besarnya) seperti bangunan besar",
+        "id": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ"
+      },
+      "transliteration": "Innaha tarmee bishararin kaalqasri"
+    },
+    {
+      "surah": 77,
+      "ayah": 33,
+      "key": "77:33",
+      "arabic": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "translations": {
+        "en": "\"As if there were (a string of) yellow camels (marching swiftly).\"",
+        "ms": "(Banyaknya dan warnanya) bunga api itu seolah-olah rombongan unta kuning",
+        "id": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ"
+      },
+      "transliteration": "Kaannahu jimalatun sufrun"
+    },
+    {
+      "surah": 77,
+      "ayah": 34,
+      "key": "77:34",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (keadaan yang demikian)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 35,
+      "key": "77:35",
+      "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "translations": {
+        "en": "That will be a Day when they shall not be able to speak.",
+        "ms": "Inilah hari mereka tidak dapat berkata-kata, (kerana masing-masing terpinga-pinga ketakutan)",
+        "id": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ"
+      },
+      "transliteration": "Hatha yawmu la yantiqoona"
+    },
+    {
+      "surah": 77,
+      "ayah": 36,
+      "key": "77:36",
+      "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "translations": {
+        "en": "Nor will it be open to them to put forth pleas.",
+        "ms": "Dan tidak pula diizinkan mereka bercakap, maka mereka tidak dapat meminta maaf",
+        "id": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ"
+      },
+      "transliteration": "Wala yuthanu lahum fayaAAtathiroona"
+    },
+    {
+      "surah": 77,
+      "ayah": 37,
+      "key": "77:37",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (hari akhirat)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 38,
+      "key": "77:38",
+      "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "translations": {
+        "en": "That will be a Day of Sorting out! We shall gather you together and those before (you)!",
+        "ms": "Inilah hari pemutusan hukum (yang menentukan siapa yang benar dan siapa yang salah). Kami himpunkan kamu bersama orang-orang yang terdahulu (dari kamu)",
+        "id": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ"
+      },
+      "transliteration": "Hatha yawmu alfasli jamaAAnakum waalawwaleena"
+    },
+    {
+      "surah": 77,
+      "ayah": 39,
+      "key": "77:39",
+      "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "translations": {
+        "en": "Now, if ye have a trick (or plot), use it against Me!",
+        "ms": "Oleh itu, kalau kamu ada sebarang tipu-helah melepaskan diri, maka cubalah kamu lakukan terhadap azabKu",
+        "id": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ"
+      },
+      "transliteration": "Fain kana lakum kaydun fakeedooni"
+    },
+    {
+      "surah": 77,
+      "ayah": 40,
+      "key": "77:40",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (apa yang telah dijanjikan oleh Allah)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 41,
+      "key": "77:41",
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "translations": {
+        "en": "As to the Righteous, they shall be amidst (cool) shades and springs (of water).",
+        "ms": "Sesungguhnya orang-orang yang bertaqwa berada di tempat teduh (yang dipenuhi pelbagai nikmat), dan yang berdekatan dengan matair-matair (yang mengalir)",
+        "id": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ"
+      },
+      "transliteration": "Inna almuttaqeena fee thilalin waAAuyoonin"
+    },
+    {
+      "surah": 77,
+      "ayah": 42,
+      "key": "77:42",
+      "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "translations": {
+        "en": "And (they shall have) fruits,- all they desire.",
+        "ms": "Serta menikmati buah-buahan dari segala jenis yang mereka ingini",
+        "id": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ"
+      },
+      "transliteration": "Wafawakiha mimma yashtahoona"
+    },
+    {
+      "surah": 77,
+      "ayah": 43,
+      "key": "77:43",
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "translations": {
+        "en": "\"Eat ye and drink ye to your heart's content: for that ye worked (Righteousness).",
+        "ms": "(Pada ketika itu dikatakan kepada mereka): \"Makanlah dan minumlah kamu dengan lazatnya, disebabkan apa yang kamu telah kerjakan",
+        "id": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ"
+      },
+      "transliteration": "Kuloo waishraboo haneean bima kuntum taAAmaloona"
+    },
+    {
+      "surah": 77,
+      "ayah": 44,
+      "key": "77:44",
+      "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "translations": {
+        "en": "Thus do We certainly reward the Doers of Good.",
+        "ms": "Sesungguhnya, demikianlah Kami membalas orang-orang yang berusaha mengerjakan amal-amal yang baik",
+        "id": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ"
+      },
+      "transliteration": "Inna kathalika najzee almuhsineena"
+    },
+    {
+      "surah": 77,
+      "ayah": 45,
+      "key": "77:45",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (nikmat-nikmat Syurga)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 46,
+      "key": "77:46",
+      "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "translations": {
+        "en": "(O ye unjust!) Eat ye and enjoy yourselves (but) a little while, for that ye are Sinners.",
+        "ms": "Makanlah dan bersenang-senanglah kamu (wahai orang-orang yang ingkar derhaka) sementara waktu hidup, (kemudian kamu akan menghadapi bahaya), kerana sesungguhnya kamu adalah orang-orang yang berdosa",
+        "id": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ"
+      },
+      "transliteration": "Kuloo watamattaAAoo qaleelan innakum mujrimoona"
+    },
+    {
+      "surah": 77,
+      "ayah": 47,
+      "key": "77:47",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (amaran Allah)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 48,
+      "key": "77:48",
+      "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "translations": {
+        "en": "And when it is said to them, \"Prostrate yourselves!\" they do not so.",
+        "ms": "Dan apabila dikatakan kepada mereka (yang ingkar): \"Taatlah dan kerjakanlah sembahyang\", mereka enggan mengerjakannya",
+        "id": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ"
+      },
+      "transliteration": "Waitha qeela lahumu irkaAAoo la yarkaAAoona"
+    },
+    {
+      "surah": 77,
+      "ayah": 49,
+      "key": "77:49",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "translations": {
+        "en": "Ah woe, that Day, to the Rejecters of Truth!",
+        "ms": "Kecelakaan besar, pada hari itu, bagi orang-orang yang mendustakan (perintah-perintah Allah dan laranganNya)",
+        "id": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ"
+      },
+      "transliteration": "Waylun yawmaithin lilmukaththibeena"
+    },
+    {
+      "surah": 77,
+      "ayah": 50,
+      "key": "77:50",
+      "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "translations": {
+        "en": "Then what Message, after that, will they believe in?",
+        "ms": "(Kalau mereka tidak juga mahu beriman kepada keterangan-keterangan yang tersebut) maka kepada perkataan yang mana lagi, sesudah itu, mereka mahu beriman",
+        "id": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ"
+      },
+      "transliteration": "Fabiayyi hadeethin baAAdahu yuminoona"
+    }
+  ]
+}

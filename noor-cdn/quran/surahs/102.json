@@ -1,0 +1,109 @@
+{
+  "surah": {
+    "number": 102,
+    "slug": "at-takaathur",
+    "nameArabic": "التكاثر",
+    "nameTransliteration": "At-Takaathur",
+    "nameEnglish": "The Rivalry in World Increase",
+    "revelation": "makki",
+    "ayahCount": 8
+  },
+  "ayahs": [
+    {
+      "surah": 102,
+      "ayah": 1,
+      "key": "102:1",
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "translations": {
+        "en": "The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),",
+        "ms": "Kamu telah dilalaikan (daripada mengerjakan amal bakti) oleh perbuatan berlumba-lumba untuk mendapat dengan sebanyak-banyaknya (harta benda, anak-pinak pangkat dan pengaruh)",
+        "id": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ"
+      },
+      "transliteration": "Alhakumu alttakathuru"
+    },
+    {
+      "surah": 102,
+      "ayah": 2,
+      "key": "102:2",
+      "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "translations": {
+        "en": "Until ye visit the graves.",
+        "ms": "Sehingga kamu masuk kubur",
+        "id": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ"
+      },
+      "transliteration": "Hatta zurtumu almaqabira"
+    },
+    {
+      "surah": 102,
+      "ayah": 3,
+      "key": "102:3",
+      "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translations": {
+        "en": "But nay, ye soon shall know (the reality).",
+        "ms": "Jangan sekali-kali (bersikap demikian)! Kamu akan mengetahui kelak (akibatnya yang buruk semasa hendak mati)",
+        "id": "كَلَّا سَوۡفَ تَعۡلَمُونَ"
+      },
+      "transliteration": "Kalla sawfa taAAlamoona"
+    },
+    {
+      "surah": 102,
+      "ayah": 4,
+      "key": "102:4",
+      "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translations": {
+        "en": "Again, ye soon shall know!",
+        "ms": "Sekali lagi (diingatkan): jangan sekali-kali (kamu bersikap demikian)! Kamu akan mengetahui kelak akibatnya yang buruk pada hari kiamat",
+        "id": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ"
+      },
+      "transliteration": "Thumma kalla sawfa taAAlamoona"
+    },
+    {
+      "surah": 102,
+      "ayah": 5,
+      "key": "102:5",
+      "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "translations": {
+        "en": "Nay, were ye to know with certainty of mind, (ye would beware!)",
+        "ms": "Demi sesungguhnya! Kalaulah kamu mengetahui - (apa yang kamu akan hadapi) - dengan pengetahuan yang yakin, (tentulah kamu akan mengerjakan perkara-perkara yang menjadi bekalan kamu untuk hari akhirat)",
+        "id": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ"
+      },
+      "transliteration": "Kalla law taAAlamoona AAilma alyaqeeni"
+    },
+    {
+      "surah": 102,
+      "ayah": 6,
+      "key": "102:6",
+      "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "translations": {
+        "en": "Ye shall certainly see Hell-Fire!",
+        "ms": "(Ingatlah) demi sesungguhnya! - Kamu akan melihat neraka yang marak menjulang",
+        "id": "لَتَرَوُنَّ ٱلۡجَحِيمَ"
+      },
+      "transliteration": "Latarawunna aljaheema"
+    },
+    {
+      "surah": 102,
+      "ayah": 7,
+      "key": "102:7",
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "translations": {
+        "en": "Again, ye shall see it with certainty of sight!",
+        "ms": "Selepas itu - demi sesungguhnya! - kamu (wahai orang-orang yang derhaka) akan melihatnya dengan penglihatan yang yakin (semasa kamu dilemparkan ke dalamnya)",
+        "id": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ"
+      },
+      "transliteration": "Thumma latarawunnaha AAayna alyaqeeni"
+    },
+    {
+      "surah": 102,
+      "ayah": 8,
+      "key": "102:8",
+      "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "translations": {
+        "en": "Then, shall ye be questioned that Day about the joy (ye indulged in!).",
+        "ms": "Selain dari itu, sesungguhnya kamu akan ditanya pada hari itu, tentang segala nikmat (yang kamu telah menikmatinya)",
+        "id": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ"
+      },
+      "transliteration": "Thumma latusalunna yawmaithin AAani alnnaAAeemi"
+    }
+  ]
+}
