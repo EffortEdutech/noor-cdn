@@ -47,8 +47,8 @@
         "ur"
       ],
       "itemCount": 102012,
-      "updatedAt": "2026-05-02T05:01:45.759Z",
-      "notes": "Staging migration only. Sprint 27.9.1 normalized every Hadith collection ID to avoid duplicate React keys and CDN path collisions."
+      "updatedAt": "2026-05-02T08:14:05.406Z",
+      "notes": "Staging migration only. Hadith is normalized into separate by_book and by_chapter navigation views. Same canonical Hadith may appear in multiple views."
     }
   },
   "updatedAt": "2026-05-02T05:01:45.759Z",
@@ -63,7 +63,7 @@
     "compatibilityIndex": "search/search-index.json",
     "liteIndex": "search/search-index-lite.json",
     "shardManifest": "manifest/search-index-manifest.json",
-    "shardCount": 13,
+    "shardCount": 14,
     "totalEntries": 145664,
     "githubSafe": true
   }

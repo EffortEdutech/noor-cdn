@@ -1,0 +1,21 @@
+[
+  {
+    "id": "by-chapter__the-9-books__malik__61__1__1",
+    "collectionId": "by-chapter__the-9-books__malik__61",
+    "canonicalHadithId": "malik:1",
+    "viewItemId": "by-chapter__the-9-books__malik__61__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/61.json",
+    "book": "malik",
+    "number": "1",
+    "arabic": "حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ لِي خَمْسَةُ أَسْمَاءٍ أَنَا مُحَمَّدٌ وَأَنَا أَحْمَدُ وَأَنَا الْمَاحِي الَّذِي يَمْحُو اللَّهُ بِيَ الْكُفْرَ وَأَنَا الْحَاشِرُ الَّذِي يُحْشَرُ النَّاسُ عَلَى قَدَمِي وَأَنَا الْعَاقِبُ ‏\"‏ ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 61",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__61",
+      "malik:1"
+    ]
+  }
+]

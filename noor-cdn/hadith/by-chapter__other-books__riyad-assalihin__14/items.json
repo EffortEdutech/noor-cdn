@@ -1,0 +1,211 @@
+[
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__1__1",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:1",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "1",
+    "arabic": "وعن عبد الله بن عمرو بن العاص، رضي الله عنهما أنه سمع رسول الله صلى الله عليه وسلم يقول‏:‏ ‏ \"‏من صلى علي صلاة، صلى الله عليه بها عشرًا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:1"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__2__2",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:2",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__2__2",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "2",
+    "arabic": "وعن ابن مسعود رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “أولى الناس بي يوم القيامة أكثرهم علي صلاة‏\"‏ رواه الترمذي وقال حديث حسن‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:2"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__3__3",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:3",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__3__3",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "3",
+    "arabic": "وعن أوس بن أوس، رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إن من أفضل أيامكم يوم الجمعة، فأكثروا على من الصلاة فيه، فإن صلاتكم معروضة علي‏\"‏ فقالوا‏:‏ يا رسول الله، كيف تعرض صلاتنا عليك وقد أرمت‏؟‏ قال‏:‏ يقول‏:‏ بلىت، قال‏:‏ ‏\"‏إن الله عز وجل حرم على الأرض أجساد الأنبياء‏\"‏ رواه أبو داود بإسناد صحيح‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:3"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__4__4",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:4",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__4__4",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "4",
+    "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏ \"‏رغم أنف رجل ذكرت عنده فلم يصلِ علي‏\"‏ رواه الترمذي وقال حديث حسن‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:4"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__5__5",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:5",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__5__5",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "5",
+    "arabic": "وعنه رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏ \"‏لا تجعلوا قبري عيدًا وصلوا علي، فإن صلاتكم تبلغني حيث كنتم‏\"‏ رواه أبو داود بإسناد صحيح‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:5"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__6__6",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:6",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__6__6",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "6",
+    "arabic": "وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏ \"‏ما من أحد يسلم علي إلا رد الله علي روحي حتى أرد عليه السلام‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:6"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__7__7",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:7",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__7__7",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "7",
+    "arabic": "وعن علي رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏ \"‏ البخيل من ذكرت عنده، فلم يصلِ علي‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:7"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__8__8",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:8",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__8__8",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "8",
+    "arabic": "وعن فضالة بن عبيد رضي الله عنه قال‏:‏ سمع رسول الله صلى الله عليه وسلم رجلا يدعو في صلاته لم يمجد الله تعالى، ولم يصلِ على النبي صلى الله عليه وسلم، فقال رسول الله صلى الله عليه وسلم ‏\"‏عجل هذا‏\"‏ ثم دعاه فقال له -أو لغيره‏:‏ إذا صلى أحدكم فليبدأ بتحميد ربه سبحانه، والثناء عليه، ثم يصلي على النبي صلى الله عليه وسلم ثم يدعو بعد ما شاء‏\"‏ رواه أبو داود والترمذي وقال حديث صحيح‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:8"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__9__9",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:9",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__9__9",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "9",
+    "arabic": "وعن أبي محمد كعب بن عجرة رضي الله عنه قال‏:‏ خرج علينا النبي صلى الله عليه وسلم فقلنا‏:‏ يا رسول الله، قد علمنا كيف نسلم عليك، فكيف نصلي عليك‏؟‏ قال‏:‏ ‏ \"‏قولوا‏:‏ اللهم صلِ على محمد، وعلى آل محمد، كما صليت على آل إبراهيم، إنك حميد مجيد‏.‏ اللهم بارك على محمد وعلى آل محمد، كما باركت على آل إبراهيم، إنك حميد مجيد‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:9"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__10__10",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:10",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__10__10",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "10",
+    "arabic": "وعن أبي مسعود بن عبادة البدري، رضي الله عنه، قال‏:‏ أتانا رسول الله صلى الله عليه وسلم، ونحن في مجلس سعد بن عبادة رضي الله عنه، فقال له بشير بن سعد‏:‏ أمرنا الله تعالى أن نصلي عليك يا رسول الله، فكيف نصلي عليك‏؟‏ فسكت رسول الله صلى الله عليه وسلم، حتى تمنينا أنه لم يسأله، ثم قال رسول الله صلى الله عليه وسلم‏:‏ ‏ \"‏قولوا اللهم صلِ على محمد وعلى آل محمد كما صليت على آل إبراهيم وبارك على محمد وعلى آل محمد كما باركت على آل إبراهيم إنك حميد مجيد، والسلام كما قد علمتم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:10"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__14__11__11",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__14",
+    "canonicalHadithId": "riyad-assalihin:11",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__14__11__11",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/14.json",
+    "book": "riyad_assalihin",
+    "number": "11",
+    "arabic": "وعن أبي حميد الساعدي رضي الله عنه قال‏:‏ قالوا‏:‏ يا رسول الله كيف نصلي عليك‏؟‏ قال‏:‏ ‏ \"‏قولوا‏:‏ اللهم صلِ على محمد، وعلى أزواجه وذريته، كما صليت على آل إبراهيم، وبارك على محمد، وعلى أزواجه وذريته، كما باركت على إبراهيم، إنك حميد مجيد‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 14",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__14",
+      "riyad-assalihin:11"
+    ]
+  }
+]

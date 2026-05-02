@@ -1,0 +1,268 @@
+[
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__1__1",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:1",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "1",
+    "arabic": "وعن ابن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ بني الإسلام على خمس‏:‏ شهادة أن لا إله إلى الله وأن محمدًا رسول الله، وإقام الصلاة، وإيتاء الزكاة، وحج البيت، وصوم رمضان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:1"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__2__2",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:2",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__2__2",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "2",
+    "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ خطبنا رسول الله صلى الله عليه وسلم فقال‏:‏ ‏\"‏يا أيها الناس إن الله قد فرض عليكم الحج فحجوا‏\"‏ فقال رجل‏:‏ أكل عام يا رسول الله‏؟‏ فسكت، حتى قالها ثلاثًا فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لو قلت نعم لوجبت، ولما استطعتم‏\"‏ ثم قال‏:‏ ‏\"‏ذروني ما تركتكم، فإنما هلك من كان قبلكم بكثرة سؤالهم، واختلافهم على أنبيائهم، فإذا أمرتكم بشيء فأتوا منه ما استطعتم، وإذا نهيتكم عن شيء فدعوه‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:2"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__3__3",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:3",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__3__3",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "3",
+    "arabic": "وعنه قال‏:‏ سئل النبي صلى الله عليه وسلم أي العمل أفضل‏؟‏ قال‏:‏ ‏\"‏إيمان بالله ورسوله‏\"‏ قيل‏:‏ ثم ماذا‏؟‏ قال‏:‏ ‏\"‏الجهاد في سبيل الله‏\"‏ قيل ثم ماذا‏؟‏ قال‏:‏ ‏\"‏حج مبرور‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏\"‏المبرور‏\"‏ هو الذي لا يرتكب صاحبه فيه معصية‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:3"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__4__4",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:4",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__4__4",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "4",
+    "arabic": "وعنه قال سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏ \"‏من حج، فلم يرفث ولم يفسق، رجع كيوم ولدته أمه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:4"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__5__5",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:5",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__5__5",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "5",
+    "arabic": "وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏ \"‏العمرة إلى العمرة كفارة لما بينهما، والحج المبرور ليس له جزاء إلا الجنة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:5"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__6__6",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:6",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__6__6",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "6",
+    "arabic": "وعن عائشة رضي الله عنها قالت‏:‏ قلت يا رسول الله نرى الجهاد أفضل العمل، أفلا نجاهد‏؟‏ فقال‏:‏ ‏:‏ ‏ \"‏لَكُنّ أفضل الجهاد حج مبرور‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:6"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__7__7",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:7",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__7__7",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "7",
+    "arabic": "وعنها أن رسول الله صلى الله عليه وسلم، قال‏:‏ ‏ \"‏ما من يوم أكثر من أن يعتق الله فيه عبدًا من النار من يوم عرفة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:7"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__8__8",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:8",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__8__8",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "8",
+    "arabic": "وعن ابن عباس رضي الله عنهما، أن النبي صلى الله عليه وسلم قال‏:‏ ‏ \"‏عمرة في رمضان تعدل عمرة أو حجة معي‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:8"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__9__9",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:9",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__9__9",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "9",
+    "arabic": "وعنه أن امرأة قالت‏:‏ يا رسول الله إن فريضة الله على عباده في الحج، أدركت أبي شيخًا كبيرًا، لا يثبت على الراحلة، أفأحج عنه‏؟‏ قال‏:‏ ‏ \"‏نعم‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:9"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__10__10",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:10",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__10__10",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "10",
+    "arabic": "وعن لقيط بن عامر رضي الله عنه أنه أتى النبي صلى الله عليه وسلم فقال‏:‏ إن أبي شيخ كبير لا يستطيع الحج ولا العمرة، ولا الظعن قال‏:‏ ‏ \"‏حج عن أبيك واعتمر‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن صحيح‏.‏ ‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:10"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__11__11",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:11",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__11__11",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "11",
+    "arabic": "وعن السائب بن يزيد رضي الله عنه، قال‏:‏ حج بي مع رسول الله صلى الله عليه وسلم في حجة الوداع وأنا ابن سبع سنين‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:11"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__12__12",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:12",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__12__12",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "12",
+    "arabic": "وعن ابن عباس رضي الله عنهما أن النبي صلى الله عليه وسلم لقي ركبا بالروحاء فقال‏:‏ ‏\"‏من القوم‏؟‏‏\"‏ قالوا‏:‏ المسلمون‏.‏ قالوا من أنت‏؟‏ قال‏:‏ ‏\"‏رسول الله‏\"‏ فرفعت امرأة صبيًا فقالت‏:‏ ألهذا حج‏؟‏ قال ‏\"‏نعم ولك أجر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:12"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__13__13",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:13",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__13__13",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "13",
+    "arabic": "وعن أنس رضي الله عنه، أن رسول الله صلى الله عليه وسلم حج على رحل وكانت زاملته‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:13"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__10__14__14",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__10",
+    "canonicalHadithId": "riyad-assalihin:14",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__10__14__14",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/10.json",
+    "book": "riyad_assalihin",
+    "number": "14",
+    "arabic": "وعن ابن عباس رضي الله عنهما قال‏:‏ كانت عكاظ ومجنة، وذو المجاز أسواقًا في الجاهلية، فتأثموا أن يتجروا في المواسم، فنزلت‏:‏ ‏{‏ليس عليكم جناح أن تبتغوا فضلا من ربكم‏}‏ ‏(‏‏(‏البقرة‏:‏ 198‏)‏‏)‏ في مواسم الحج‏.‏‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 10",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__10",
+      "riyad-assalihin:14"
+    ]
+  }
+]

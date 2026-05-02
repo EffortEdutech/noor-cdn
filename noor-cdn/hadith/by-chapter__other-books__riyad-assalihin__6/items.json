@@ -1,0 +1,1180 @@
+[
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__1__1",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:1",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "1",
+    "arabic": "عن البراء بن عازب رضي الله عنهما قال‏:‏ أمرنا رسول الله صلى الله عليه وسلم بعيادة المريض، واتباع الجنازة، وتشميت العاطس، وإبرار المقسم، ونصر المظلوم، وإجابة الداعى، وإفشاء السلام” ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:1"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__2__2",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:2",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__2__2",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "2",
+    "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏حق المسلم علي المسلم خمس‏:‏ رد السلام، وعيادة المريض، واتباع الجنائز، وإجابة الدعوة، وتشميت العاطس” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:2"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__3__3",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:3",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__3__3",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "3",
+    "arabic": "وعنه قالك قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏عن الله عزو جل يقول يوم القيامة‏:‏ ‏\"‏يا ابن آدم مرضت فلم تعدني‏!‏ قال‏:‏ يا رب كيف أعودك وأنت رب العالمين‏؟‏‏!‏ قال‏:‏ أما علمت أن عبدي فلاناً مرض فلم تعده‏؟‏ أما علمت أنك لو عدته لوجدتني عنده‏؟‏ يا ابن آدم استطعمتك فلم تطعمني‏!‏ قال‏:‏ يا رب كيف أطعمك وأنت رب العالمين‏؟‏‏!‏ قال‏:‏ أما علمت أنه استطعمك عبدي فلان فلم تطعمه، أما علمت أنك لو أطعمته لوجدت ذلك عندي‏؟‏ يا ابن آدم استسقيتك فلم تسقني‏!‏ قال‏:‏ يارب كيف أسقيك وأنت رب العالمين‏؟‏‏!‏ قال‏:‏ استسقاك عبدي فلان فلم تسقه‏!‏ أما علمت أنك لو سقيته لوجدت ذلك عندي‏؟‏‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:3"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__4__4",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:4",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__4__4",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "4",
+    "arabic": "وعن أبي موسي الأشعري رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ، “ عودوا المريض، وأطعموا الجائع، وفكوا العاني‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:4"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__5__5",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:5",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__5__5",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "5",
+    "arabic": "وعن ثوبان، رضي الله عنه، عن النبي صلى الله عليه وسلم الله عليه وسلم الله عليه وسلم ، قال‏:‏ ‏\"‏إن المسلم إذا عاد أخاه المسلم لم يزل في خرفة الجنة حتي يرجع‏\"‏ قيل‏:‏ يا رسول الله وما خرفة الجنة‏؟‏ قال‏:‏ ‏\"‏جناها” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:5"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__6__6",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:6",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__6__6",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "6",
+    "arabic": "وعن علي رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ما من مسلم يعود مسلماً غدوة إلا صلى عليه سبعون ألف ملك حتي يمسي، وإن عاده عشية إلا صلى عليه سبعون ألف ملك حتي يصبح، وكان له خريف في الجنة” ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:6"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__7__7",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:7",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__7__7",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "7",
+    "arabic": "وعن أنس رضي الله عنه قال‏:‏ كان غلام يهودي يخدم النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم فمرض فأتاه النبي صلى الله عليه وسلم الله عليه وسلم الله عليه وسلم يعوده، فقعد عند رأسه فقال له‏:‏ ‏ \"‏أسلم‏\"‏ فنظر إلي أبيه وهو عنده‏؟‏ فقال‏:‏ أطع أبا القاسم، فأسلم، فخرج النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم وهو يقول‏:‏ “الحمد لله الذي أنقذه من النار” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:7"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__8__8",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:8",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__8__8",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "8",
+    "arabic": "عن عائشة رضي الله عنها، أن النبي صلى الله عليه وسلم الله عليه وسلم الله عليه وسلم كان إذا اشتكي الأنسان الشيء منه، أو كانت به قرحة أو جرح، قال النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم بأصبعه هكذا، ووضع سفيان بن عيينه الراوي سبابته بالأرض ثم رفعها وقال‏:‏ ‏ \"‏بسم الله، تربة أرضنا، بريقة بعضنا، يشفي سقيمنا، بإذن ربنا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:8"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__9__9",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:9",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__9__9",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "9",
+    "arabic": "وعنها أن النبي صلى الله عليه وسلم الله عليه وسلم الله عليه وسلم كان يعود بعض أهله يمسح بيده اليمني ويقول‏:‏ ‏\"‏اللهم رب الناس، أذهب البأس، واشف، أنت الشافي لا شفاء إلا شفاؤك، شفاءً لا يغادر سقماً” ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:9"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__10__10",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:10",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__10__10",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "10",
+    "arabic": "وعن أنس، رضي الله عنه أنه قال لثابت رحمه الله‏:‏ ألا أرقيك برقية رسول الله صلى الله عليه وسلم ‏؟‏ قال‏:‏ بلى، قال‏:‏ اللهم رب الناس، مذهب البأس، اشف أنت الشافي، لا شافي إلا أنت، شفاءً لا يغادر سقماً” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:10"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__11__11",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:11",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__11__11",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "11",
+    "arabic": "وعن سعد بن أبي وقاص، رضي الله عنه قال‏:‏ عادني رسول الله صلى الله عليه وسلم فقال‏:‏ ‏ \"‏اللهم اشف سعداً، اللهم اشف سعداً، اللهم اشف سعداً‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:11"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__12__12",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:12",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__12__12",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "12",
+    "arabic": "وعن أبي عبد الله عثمان بن أبي العاص رضي الله عنه أنه شكي إلي رسول الله صلى الله عليه وسلم وجعاً يجده في جسده فقال رسول الله صلى الله عليه وسلم ‏\"‏ضع يدك علي الذي تألم من جسدك وقل‏:‏ بسم الله -ثلاثاً- وقل سبع مرات‏:‏ أعوذ بعزة الله وقدرته من شر ما أجد وأحاذر” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:12"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__13__13",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:13",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__13__13",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "13",
+    "arabic": "وعن ابن عباس، رضي الله عنهما، عن النبي،صلى الله عليه وسلمى الله عليه وسلم صلى الله عليه وسلم ، قال‏:‏ ‏ \"‏من عاد مريضاً لم يحضره أجله، فقال عنده سبع مرات‏:‏ أسأل الله العظيم رب العرش العظيم أن يشفيك‏:‏ إلا عافاه الله من ذلك المرض‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن، وقال الحاكم‏:‏ حديث صحيح علي شرط البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:13"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__14__14",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:14",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__14__14",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "14",
+    "arabic": "وعنه أن النبي صلى الله عليه وسلم الله عليه وسلم صلى الله عليه وسلم ، دخل علي أعرأبي يعوده وكان إذا دخل علي من يعوده قال‏:‏ ‏ \"‏لا بأس، طهور إن شاء الله‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:14"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__15__15",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:15",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__15__15",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "15",
+    "arabic": "وعن أبيسعيد الخدري رضي الله عنه أن جبريل أتي النبي،صلى الله عليه وسلمى الله عليه وسلم صلى الله عليه وسلم ، فقال‏:‏ يا محمد اشتكيت‏؟‏ قال‏:‏ ‏ \"‏نعم‏\"‏ قال‏:‏ بسم الله أرقيك ، من كل شيء يؤذيك، ومن شر كل نفس أو عين حاسد، الله يشفيك، بسم الله أرقيك” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:15"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__16__16",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:16",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__16__16",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "16",
+    "arabic": "وعن أبي سعيد الخدري وأبي هريرة، رضي الله عنهما، أنهما شهدا علي رسول الله ، صلى الله عليه وسلم ، أنه قال‏:‏ ‏\"‏من قال‏:‏ لا إله إلا الله والله اكبر، صدقه ربه، فقال‏:‏ لا إله إلا أنا وأنا أكبر‏.‏ وإذا قال‏:‏ لا إله إلا الله وحده لا شريك له، قال‏:‏ يقول‏:‏ لا إله إلا أنا وحدي لا شريك لي‏.‏ وإذا قال‏:‏ لا إله إلا الله له الملك وله الحمد، قال‏:‏ لا إله إلا أنا لي الملك ولي الحمد‏.‏ وإذا قال‏:‏ لا إله إلا الله ولا حول ولا قوة إلا بالله، قال‏:‏ لا إله إلا أنا ولا حول ولا قوة إلا بي‏\"‏ وكان يقول‏:‏ ‏\"‏من قالها في مرضه ثم مات لم تطعمه النار‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:16"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__17__17",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:17",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__17__17",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "17",
+    "arabic": "عن ابن عباس، رضي الله عنهما، أن علي بن أبي طالب، رضي الله عنه خرج من عند رسول الله صلى الله عليه وسلم ، في وجعه الذي توفي فيه فقال الناس‏:‏ يا أبا الحسن كيف أصبح رسول الله صلى الله عليه وسلم ‏؟‏ قال‏:‏ أصبح بحمد الله بارئاً‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:17"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__18__18",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:18",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__18__18",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "18",
+    "arabic": "عن عائشة رضي الله عنها قالت‏:‏ سمعت النبي صلى الله عليه وسلم الله عليه وسلم الله عليه وسلم وهو مستند إلي يقول‏:‏ اللهم اغفر لي وارحمني وألحقني بالرفيق الأعلى‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:18"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__19__19",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:19",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__19__19",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "19",
+    "arabic": "وعنها قالت‏:‏ رأيت رسول الله صلى الله عليه وسلم وهو بالموت عنده قدح فيه ماء وهو يدخل يده في القدح، ثم يمسح وجهه بالماء، ثم يقول‏:‏ ‏ \"‏اللهم أعني علي غمرات الموت وسكرات الموت‏\"‏ ‏(‏‏(‏رواه الترمذي‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:19"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__20__20",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:20",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__20__20",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "20",
+    "arabic": "عن عمران بن الحصين رضي الله عنهما أن امراة من جهينة أتت النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم وهي حبلي من الزنا، فقالت‏:‏ يا رسول الله، أصبت حداً فأقمه علي ، فدعا رسول الله صلى الله عليه وسلم وليها، فقال‏:‏ ‏ \"‏أحسن إليها فإذا وضعت فأتني بها” ففعل، فأمر بها النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم ، فشدت عليها ثيابها، ثم أمر بها فرجمت، ثم صلى عليها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:20"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__21__21",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:21",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__21__21",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "21",
+    "arabic": "عن بن مسعود رضي الله عنه قال‏:‏ دخلت علي النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم وهو يوعك، فمسسته، فقلت‏:‏ إنك لتوعك وعكاً شديداً فقال‏:‏ ‏ \"‏إني أوعك كما يوعك رجلان منكم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:21"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__22__22",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:22",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__22__22",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "22",
+    "arabic": "وعن سعد بن أبي وقاص رضي الله عنه قال‏:‏ جاءني رسول الله صلى الله عليه وسلم يعودني من وجع اشتد بي، فقلت‏:‏ بلغ بي ما ترى، وأنا ذو مال، ولايرثني إلا ابنتي، وذكر الحديث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:22"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__23__23",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:23",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__23__23",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "23",
+    "arabic": "وعن القاسم بن محمد قال‏:‏ قالت عائشة رضي الله عنها‏:‏ وا رأساه فقال النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم ‏:‏ ‏\"‏بل أنا وا رأساه‏\"‏ وذكر الحديث‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:23"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__24__24",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:24",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__24__24",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "24",
+    "arabic": "عن معاذ رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏ \"‏من كان آخر كلامه لا إله إلا الله دخل الجنة‏\"‏ ‏(‏‏(‏رواه أبو داود والحاكم وقال‏:‏ صحيح الإسناد‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:24"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__25__25",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:25",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__25__25",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "25",
+    "arabic": "وعن أبي سعيد الخدري رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “لقنوا موتاكم لا إله إلا الله‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:25"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__26__26",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:26",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__26__26",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "26",
+    "arabic": "عن أم سلمة رضي الله عنها قالت‏:‏ دخل رسول الله صلى الله عليه وسلم علي أبي سلمه وقد شق بصره فأغمضه، ثم قال‏:‏ ‏\"‏إن الروح إذا قبض، تبعه البصر‏\"‏ فضج ناس من أهله، فقال‏:‏ ‏\"‏لا تدعو علي أنفسكم إلا بخير فإن الملائكة يؤمنون علي ما تقولون” ثم قال‏:‏ “اللهم اغفر لأبي سلمه، وارفع درجته في المهديين،واخلفه في عقبه في الغابرين، واغفر لنا وله يا رب العالمين، وافسح له في قبره، ونور له فيه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:26"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__27__27",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:27",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__27__27",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "27",
+    "arabic": "-عن أم سلمة رضي الله عنها قالت‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏إذا حضرتم المريض، أو الميت، فقولوا خيرا، فإن الملائكة يؤمنون علي ما تقولون، قالت‏:‏ فلما مات أبو سلمة، أتيت النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم فقلت‏:‏ يا رسول الله، إن أبا سلمة قد مات، قال‏:‏ “قولي‏:‏ اللهم اغفر لي وله، واعقبني منه عقبة حسنة‏\"‏ فقلت‏:‏ فأعقبني الله من هو خير لي منه‏:‏ محمداً صلى الله عليه وسلم ‏.‏‏\"‏ ((رواه مسلم هكَذا:\"إِذا حَضَرْتُمُ المَرِيضَ\" أَو\"الميِّت\"عَلَى الشَّكِّ، رواه أبو داود وغيره:\"الميِّت\"بلا شَكٍّ)).",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:27"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__28__28",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:28",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__28__28",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "28",
+    "arabic": "وعنها قالت‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏‏\"‏ما من عبد تصيبه مصيبه، فيقول إن لله وإنا إليه راجعون‏:‏ اللهم آجرني في مصيبتي، واخلف لي خيرا منها، إلا آجره الله تعالي في مصيبته واخلف له خيراً منها‏.‏ قالت‏:‏ فلما توفي أبو سلمة، قلت كما أمرني رسول الله صلى الله عليه وسلم ، فاخلف الله خيراص منه رسول الله صلى الله عليه وسلم “ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:28"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__29__29",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:29",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__29__29",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "29",
+    "arabic": "وعن أبي موسي رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ إذا مات ولد العبد، قال الله تعالي لملائكته‏:‏ قبضتم ولد عبدي، فيقولون‏:‏ نعم، فيقول‏:‏ قبضتم ثمرة فؤاده، فيقولون‏:‏ نعم‏.‏ فيقول‏:‏ ماذا قال عبدي، فيقولون‏:‏ حمدك واسترجع، فيقول الله تعالى‏:‏ ابنوا لعبدي بيتاً في الجنة، وسموه بيت الحمد‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:29"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__30__30",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:30",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__30__30",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "30",
+    "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ يقول الله تعالى‏:‏ ما لعبدي المؤمن عندي جزاء إذا قبضت صفيه من أهل الدنيا، ثم احتسبه إلا الجنه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:30"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__31__31",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:31",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__31__31",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "31",
+    "arabic": "وعن أسامة بن زيد رضي الله عنهما قال‏:‏ أرسلت إحدي بنات النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم إليه تدعوه وتخبره أن صبياً لها -أو ابناً- في الموت فقال للرسول‏:‏ ارجع إليها فأخبرها أن لله تعالي ما أخذ وله ما أعطى، وكل شئ عنده بأجل مسمى، فمرها، فلتصبر ولتحتسب” وذكر تمام الحديث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:31"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__32__32",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:32",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__32__32",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "32",
+    "arabic": "عن ابن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم عاد سعد بن عباده ومعه عبد الرحمن بن عوف، وسعد بن أبي وقاص، وعبد الله بن مسعود رضي الله عنهم، فبكي رسول الله صلى الله عليه وسلم ، فلما رأي القوم بكاء رسول الله صلى الله عليه وسلم ، بكوا ؛ فقال‏:‏ “ألا تسمعون‏؟‏ إن الله لا يعذب بدمع العين، ولا بحزن القلب، ولكن بهذا أو يرحم‏ \"‏ وأشار إلا لسانه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:32"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__33__33",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:33",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__33__33",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "33",
+    "arabic": "وعن أسامة بن زيد رضي الله عنهما أن رسول الله صلى الله عليه وسلم رفع إليه ابن ابنته وهو في الموت، ففاض عينا رسول الله صلى الله عليه وسلم فقال له سعد‏:‏ ما هذا يا رسول الله‏؟‏‏!‏ قال‏:‏ ‏ \"‏هذه رحمة جعلها الله تعالي في قلوب عباده الرحماء‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:33"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__34__34",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:34",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__34__34",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "34",
+    "arabic": "وعن أنس رضي الله عنه أن رسول الله صلى الله عليه وسلم دخل علي ابنه إبراهيم رضي الله عنه وهو يجود بنفسه فجعلت عينا رسول الله صلى الله عليه وسلم تذرفان ‏.‏ فقال له عبد الرحمن بن عوف‏:‏ وأنت يا رسول الله ‏؟‏‏!‏ فقال‏:‏ “يا ابن عوف إنها رحمة” ثم أتبعها بأخرى، فقال‏:‏”إن العين تدمع والقلب يحزن ، ولا نقول إلا ما يرضي ربنا، وإنا بفراقك يا إبراهيم لمحزونون‏\"‏‏.‏ ‏(‏‏(‏رواه البخاري، وروي مسلم بعضه‏)‏‏)‏‏.‏ والأحاديث في الباب كثيرة في الصحيح مشهورة والله أعلم‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:34"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__35__35",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:35",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__35__35",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "35",
+    "arabic": "عن أبي رافع أسلم مولي رسول الله صلى الله عليه وسلم أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏ \"‏ من غسل ميتاً فكتم عليه ، غفر الله له أربعين مرة‏\"‏ ‏(‏‏(‏رواه الحاكم وقال صحيح علي شرط مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:35"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__36__36",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:36",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__36__36",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "36",
+    "arabic": "عن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “من شهد الجنازة حتي يصلى عليها، فله قيراط ، ومن شهدها حتي تدفن، فله قيراطان‏\"‏ قيل‏:‏ وما القيراطان‏؟‏ قال‏:‏ “مثل الجبلين العظيمين” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:36"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__37__37",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:37",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__37__37",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "37",
+    "arabic": "وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏من اتبع جنازة مسلم إيماناً واحتساباً، وكان معه حتي يصلى عليها ويفرغ من دفنها، فإنه يرجع من الأجر بقيراطين كل قيراط مثل أحدٍ، ومن صلى عليها، ثم رجع قبل أن تدفن ، فإنه يرجع بقيراط” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:37"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__38__38",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:38",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__38__38",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "38",
+    "arabic": "وعن أم عطية رضي الله عنها قالت‏:‏ نهينا عن اتباع الجنائز، ولم يعزم علينا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ ‏\"‏ومعناه ‏\"‏ ولم يشدد في النهي كما يشدد في المحرمات‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:38"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__39__39",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:39",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__39__39",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "39",
+    "arabic": "عن عائشة رضي الله عنها، قالت: قال رسول الله صلى الله عليه وسلم: “ما من ميت يصلي عليه أمة من المسلمين يبلغون مائة كلهم يشفعون له إلا شفعوا فيه“ ((رواه مسلم).",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:39"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__40__40",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:40",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__40__40",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "40",
+    "arabic": "وعن ابن عباس رَضِيَ اللَّهُ عَنهُما قال سمعت رَسُول اللَّهِ صَلَّى اللَّهُ عَلَيهِ وَسَلَّم يقول : \"ما من رجل مسلم يموت فيقوم على جنازته أربعون رجلاً لا يشركون بالله شيئاً إلا شفعهم اللَّه فيه.\" ((رَوَاهُ مُسلِمٌ)).",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:40"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__41__41",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:41",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__41__41",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "41",
+    "arabic": "وعن مرثد بن عبد الله اليزني قال‏:‏ كان مالك بن هبيرة رضي الله عنه إذا صلى علي الجنازة ، فتقال الناس عليها، جزأهم عليها ثلاثة أجزاء، ثم قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “من صلى عليه ثلاثة صفوف، فقد أوجب “ ‏(‏‏(‏رواه أبو دواد، والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:41"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__42__42",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:42",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__42__42",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "42",
+    "arabic": "عن أبي عبد الرحمن بن عوف بن مالك رضي الله عنه قال‏:‏ صلى رسول الله صلى الله عليه وسلم علي جنازة، فحفظت من دعائه وهو يقول‏:‏ ‏\"‏اللهم اغفر له، وارحمه، وعافه، واعف عنه، وأكرم نزله، ووسع مدخله واغسله بالماء والثلج والبرد ونقه من الخطايا، كما نقيت الثوب الأبيض من الدنس، وأبدله داراً خيراً من داره، وأهلاً خيراً من أهله، وزوجاً خيراً من زوجه، وأدخله الجنة، وأعذه من عذاب القبر، ومن عذاب النار” حتي تمنين أن أكون ذلك الميت‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:42"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__43__43",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:43",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__43__43",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "43",
+    "arabic": "وعن أبي هريرة وأبي قتادة، وأبي إبراهيم الأشهلي عن أبيه -وأبوه صحابي- رضي الله عنهم، عن النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم أنه صلى علي جنازة فقال‏:‏‏ \"‏اللهم اغفر لحينا وميتنا، وصغيرنا وكبيرنا، وذكرنا وأنثانا، وشاهدنا وغائبنا‏.‏ اللهم من أحييته منا، فأحيه علي الإسلام، ومن توفيته منا، فتوفه علي الإيمان؛ اللهم لا تحرمنا أجره، ولا تفتنا بعده‏\"‏ ‏‏(‏‏(‏رواه الترمذي‏)‏‏)‏ من رواية أبي هريرة وأبو هريرة صحيح والأشهلي، ورواه أبو داود من رواية أبي هريرة وأبي قتادة‏.‏ قال الحاكم‏:‏ حديث أبي هريرة صحيح علي شرط البخاري ومسلم، قال الترمذي‏:‏ قال البخاري‏:‏ أصح روايات هذا الحديث رواية الأشهلي‏.‏ قال البخاري‏:‏ وأصح شيء في الباب حديث عوف بن مالك‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:43"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__44__44",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:44",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__44__44",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "44",
+    "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ “إذا صليتم علي الميت، فأخلصوا له الدعاء‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:44"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__45__45",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:45",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__45__45",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "45",
+    "arabic": "وعنه عن النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم في الصلاة علي الجنازة‏:‏ “اللهم أنت ربها، وأنت خلقتها، وأنت هديتها للإسلام، وأنت قبضت روحها، وأنت أعلم بسرها وعلانيتها، جئناك شفعاء له، فاغفر له” ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:45"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__46__46",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:46",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__46__46",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "46",
+    "arabic": "وعن واثلة بن الأسقع رضي الله عنه قال‏:‏ صلى بنا رسول الله صلى الله عليه وسلم علي رجل من المسلمين، فسمعته يقول‏:‏ ‏ \"‏اللهم إن فلان ابن فلان في ذمتك وحبل جوارك، فقه فتنة القبر، وعذاب النار، وأنت أهل الوفاء والحمد؛ اللهم اغفر له وارحمه، إنك أنت الغفور الرحيم‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:46"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__47__47",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:47",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__47__47",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "47",
+    "arabic": "وعن عبد الله بن أبي أوفي رضي الله عنهما أنه كبر علي جنازة ابنة له أربع تكبيرات، فقام بعد الرابعة كقدر ما بين التكبيرتين يستغفر لها ويدعو، ثم قال‏:‏ كان رسول الله صلى الله عليه وسلم يصنع هكذا‏.‏ وفي رواية‏:‏ ‏ ‏كبر أربعاً، فمكث ساعة حتي ظننت أنه سيكبر خمساً، ثم سلم عن يمينه وعن شماله‏.‏ فلما انصرف قلنا له‏:‏ ما هذا‏؟‏ فقال‏:‏ إني لا أزيدكم علي ما رأيت رسول الله صلى الله عليه وسلم يصنع، أو‏:‏ هكذا صنع رسول الله صلى الله عليه وسلم ‏ ‏ ‏(‏‏(‏رواه الحاكم وقال‏:‏ حديث صحيح‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:47"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__48__48",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:48",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__48__48",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "48",
+    "arabic": "عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم قال‏:‏ ‏\"‏أسرعوا بالجنازة، فإن تك صالحة، فخير تقدمونها إليه، وإن تك سوي ذلك، فشر تضعونه عن رقابكم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ ‏(‏‏(‏وفي رواية لمسلم‏:‏ ‏\"‏فخير تقدمونها عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:48"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__49__49",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:49",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__49__49",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "49",
+    "arabic": "وعن أبي سعيد الخدري رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم يقول‏:‏ ‏\"‏إذا وضعت الجنازة، فاحتملها الرجال علي أعناقهم، فإن كانت صالحة، قال‏:‏ قدموني، وإن كانت غير صالحة، قالت لأهلها‏:‏ يا ويلها أين تذهبون بها‏؟‏ يسمع صوتها كل شيء إلا الأنسان، ولو سمع الأنسان لصعق” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:49"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__50__50",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:50",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__50__50",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "50",
+    "arabic": "عن أبي هريرة رضي الله عنه، عن النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم قال‏:‏ ‏ \"‏نفس المؤمن معلقة بدينه حتي يقضي عنه‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:50"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__51__51",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:51",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__51__51",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "51",
+    "arabic": "وعن حصين بن وحوح رضي الله عنه أن طلحة بن البراء رضي الله عنه مرض، فأتاه النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم يعوده فقال‏:‏ إني لا أري طلحة إلا قد حدث فيه الموت فآذوني به وعجلوا به، فإنه لا ينبغي لجيفة مسلم أن تحبس بين ظهراني أهله‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:51"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__52__52",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:52",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__52__52",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "52",
+    "arabic": "عن علي رضي الله عنه قال‏:‏ كنا في جنازة في بقيع الغرقد فأتانا رسول الله صلى الله عليه وسلم فقعد، وقعدنا حوله ومعه مخصرة فنكس وجعل ينكت بمخصرته، ثم قال‏:‏ ما منكم من أحد إلا وقد كتب مقعده من النار ومقعده من الجنة” فقالوا‏:‏ يا رسول الله أفلا نتكل علي كتابنا‏؟‏ فقال‏:‏ ‏ \"‏اعملوا فكل ميسر لما خلق له‏\"‏ وذكر تمام الحديث‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:52"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__53__53",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:53",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__53__53",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "53",
+    "arabic": "عن أبي عمرو -وقيل‏:‏ أبو عبد الله، وقيل‏:‏ أبو ليلى- عثمان بن عفان رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم إذا فرغ من دفن الميت وقف عليه، وقال‏:‏ ‏ \"‏استغفروا لأخيكم وسلوا له التثبيت، فإنه الآن يسأل‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:53"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__54__54",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:54",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__54__54",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "54",
+    "arabic": "وعن عمرو بن العاص رضي الله عنه قال‏:‏ إذا دفنتمونى، فأقيموا حول قبري قدر ما تنحر جذور، ويقسم لحمها حت أستأنس بكم، وأعلم ماذا أراجع به رسل ربي‏\"‏ ‏(‏‏(‏رواه مسلم‏.‏ وقد سبق بطوله‏)‏‏)‏‏.‏ وقال الشافعي رحمه الله‏:‏ ويستحب أن يقرأ عنده شيء من القرآن، وإن ختموا القرآن عنده كان حسناً‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:54"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__55__55",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:55",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__55__55",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "55",
+    "arabic": "وعن عائشة رضي الله عنها أن رجلاً قال للنبي صلى الله عليه وسلم ‏:‏ إن أمي افتلتت نفسها وأراها لو تكلمت، تصدقت، فهل لها أجر إن تصدقت عنها‏؟‏ قال‏:‏ ‏ \"‏نعم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:55"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__56__56",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:56",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__56__56",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "56",
+    "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “إذا مات الأنسان انقطع عمله إلا من ثلاث‏:‏ صدقة جارية، أو علم ينتفع به، أو ولد صالح يدعو له‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:56"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__57__57",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:57",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__57__57",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "57",
+    "arabic": "عن أنس رضي الله عنه قال‏:‏ مروا بجنازة، فأثنوا عليها خيراً، فقال النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم ‏:‏ ‏\"‏وجبت”، ثم مروا بأخرى، فأثنوا عليها شراً، فقال النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم ‏:‏ ‏\"‏وجبت‏\"‏ فقال عمر بن الخطاب رضي الله عنه‏:‏ ما وجبت‏؟‏ قال‏:‏ ‏\"‏هذا أثنيتم عليه خيراً، فوجبت له الجنة، وهذا أثنيتم عليه شراً فوجبت عليه النار، أنتم شهداء الله في الأرض” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:57"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__58__58",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:58",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__58__58",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "58",
+    "arabic": "وعن أبي الأسود قال‏:‏ قدمت المدينة، فجلست إلي عمر بن الخطاب رضي الله عنه فمرت بهم جنازة، فأثني علي صاحبها خيراً فقال عمر‏:‏ وجبت، ثم مر بأخرى، فأثني علي صاحبها خيراً، فقال عمر‏:‏ وجبت، ثم مر بالثالثة، فأثني علي صاحبها شراً، فقال عمر‏:‏ وجبت‏:‏ قال أبو الأسود‏:‏ فقلت‏:‏ وما وجبت يا أمير المؤمنين‏؟‏ قال‏:‏ قلت كما قال النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم ‏:‏ “أيما مسلم شهد له أربعة بخير، أدخله الله الجنة‏:‏ فقلنا‏:‏ وثلاثة‏؟‏ قال‏:‏ “وثلاثة‏\"‏ فقلنا‏:‏ واثنان‏؟‏ قال‏:‏ ‏\"‏واثنان‏\"‏ ثم لم نسأله عن الواحد‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:58"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__59__59",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:59",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__59__59",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "59",
+    "arabic": "عن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏ \"‏ما من مسلم يموت له ثلاثة لم يبلغوا الحنث إلا ادخله الله الجنة بفضل رحمته إياهم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:59"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__60__60",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:60",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__60__60",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "60",
+    "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “لا يموت لأحد من المسلمين ثلاثة من الولد لا تمسه النار إلا تحلة القسم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:60"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__61__61",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:61",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__61__61",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "61",
+    "arabic": "وعن أبي سعيد الخدري رضي الله عنه قال‏:‏ جاءت امرأة إلي رسول الله صلى الله عليه وسلم ، فقالت‏:‏ يا رسول الله ذهب الرجال بحديثك، فاجعل لنا مننفسك يوماً ناتيك فيه تعلمنا مما علمك الله، قال‏:‏ “اجتمعن يوم كذا وكذا” فاجتمعن، فأتاهن النبي صلى الله عليه وسلم فعلمهن مما علمه الله، ثم قال‏:‏ ‏ \"‏ما منكن من امرأة تقدم ثلاثة من الولد إلا كانوا لها حجاباً من النار‏\"‏ فقالت امرأة‏:‏ واثنين‏؟‏ فقال رسول الله صلى الله عليه وسلم “واثنين” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:61"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__6__62__62",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__6",
+    "canonicalHadithId": "riyad-assalihin:62",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__6__62__62",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/6.json",
+    "book": "riyad_assalihin",
+    "number": "62",
+    "arabic": "عن ابن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال لأصحابه -يعني لما وصلوا الحجر‏:‏ ديار ثمود-‏:‏ ‏\"‏لا تدخلوا علي هؤلاء المعذبين إلا أن تكونوا باكين، فإن لم تكونوا باكين، فلا تدخلوا عليهم، لا يصيبكم ما أصابهم” ‏(‏‏(‏متفق عليه‏)‏‏)‏ وفي رواية قال‏:‏ لما مر رسول الله صلى الله عليه وسلم بالحجر قال‏:‏ ‏\"‏لا تدخلوا مساكن الذين ظلموا أنفسهم أن يصيبكم ما أصابهم إلا ان تكونوا باكين‏\"‏ ثم قنع رسول الله صلى الله عليه وسلم رأسه وأسرع السير حتي أجاز الوادي‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 6",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__6",
+      "riyad-assalihin:62"
+    ]
+  }
+]

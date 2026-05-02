@@ -1,0 +1,135 @@
+[
+  {
+    "id": "by-chapter__the-9-books__malik__26__1__1",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:1",
+    "viewItemId": "by-chapter__the-9-books__malik__26__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "1",
+    "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ رَجُلٍ، مِنْ بَنِي ضَمْرَةَ عَنْ أَبِيهِ، أَنَّهُ قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْعَقِيقَةِ فَقَالَ ‏\"‏ لاَ أُحِبُّ الْعُقُوقَ ‏\"‏ ‏.‏ وَكَأَنَّهُ إِنَّمَا كَرِهَ الاِسْمَ وَقَالَ ‏\"‏ مَنْ وُلِدَ لَهُ وَلَدٌ فَأَحَبَّ أَنْ يَنْسُكَ عَنْ وَلَدِهِ فَلْيَفْعَلْ ‏\"‏ ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:1"
+    ]
+  },
+  {
+    "id": "by-chapter__the-9-books__malik__26__2__2",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:2",
+    "viewItemId": "by-chapter__the-9-books__malik__26__2__2",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "2",
+    "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، أَنَّهُ قَالَ وَزَنَتْ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ صلى الله عليه وسلم شَعَرَ حَسَنٍ وَحُسَيْنٍ وَزَيْنَبَ وَأُمِّ كُلْثُومٍ فَتَصَدَّقَتْ بِزِنَةِ ذَلِكَ فِضَّةً ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:2"
+    ]
+  },
+  {
+    "id": "by-chapter__the-9-books__malik__26__3__3",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:3",
+    "viewItemId": "by-chapter__the-9-books__malik__26__3__3",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "3",
+    "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ الْحُسَيْنِ، أَنَّهُ قَالَ وَزَنَتْ فَاطِمَةُ بِنْتُ رَسُولِ اللَّهِ صلى الله عليه وسلم شَعَرَ حَسَنٍ وَحُسَيْنٍ فَتَصَدَّقَتْ بِزِنَتِهِ فِضَّةً ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:3"
+    ]
+  },
+  {
+    "id": "by-chapter__the-9-books__malik__26__4__4",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:4",
+    "viewItemId": "by-chapter__the-9-books__malik__26__4__4",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "4",
+    "arabic": "حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، لَمْ يَكُنْ يَسْأَلُهُ أَحَدٌ مِنْ أَهْلِهِ عَقِيقَةً إِلاَّ أَعْطَاهُ إِيَّاهَا وَكَانَ يَعُقُّ عَنْ وَلَدِهِ بِشَاةٍ شَاةٍ عَنِ الذُّكُورِ وَالإِنَاثِ ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:4"
+    ]
+  },
+  {
+    "id": "by-chapter__the-9-books__malik__26__5__5",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:5",
+    "viewItemId": "by-chapter__the-9-books__malik__26__5__5",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "5",
+    "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ، أَنَّهُ قَالَ سَمِعْتُ أَبِي يَسْتَحِبُّ الْعَقِيقَةَ، وَلَوْ بِعُصْفُورٍ ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:5"
+    ]
+  },
+  {
+    "id": "by-chapter__the-9-books__malik__26__6__6",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:6",
+    "viewItemId": "by-chapter__the-9-books__malik__26__6__6",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "6",
+    "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّهُ عُقَّ عَنْ حَسَنٍ، وَحُسَيْنٍ، ابْنَىْ عَلِيِّ بْنِ أَبِي طَالِبٍ ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:6"
+    ]
+  },
+  {
+    "id": "by-chapter__the-9-books__malik__26__7__7",
+    "collectionId": "by-chapter__the-9-books__malik__26",
+    "canonicalHadithId": "malik:7",
+    "viewItemId": "by-chapter__the-9-books__malik__26__7__7",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/the_9_books/malik/26.json",
+    "book": "malik",
+    "number": "7",
+    "arabic": "وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، أَنَّ أَبَاهُ، عُرْوَةَ بْنَ الزُّبَيْرِ كَانَ يَعُقُّ عَنْ بَنِيهِ الذُّكُورِ، وَالإِنَاثِ، بِشَاةٍ شَاةٍ ‏.‏ قَالَ مَالِكٌ الأَمْرُ عِنْدَنَا فِي الْعَقِيقَةِ أَنَّ مَنْ عَقَّ فَإِنَّمَا يَعُقُّ عَنْ وَلَدِهِ بِشَاةٍ شَاةٍ الذُّكُورِ وَالإِنَاثِ وَلَيْسَتِ الْعَقِيقَةُ بِوَاجِبَةٍ وَلَكِنَّهَا يُسْتَحَبُّ الْعَمَلُ بِهَا وَهِيَ مِنَ الأَمْرِ الَّذِي لَمْ يَزَلْ عَلَيْهِ النَّاسُ عِنْدَنَا فَمَنْ عَقَّ عَنْ وَلَدِهِ فَإِنَّمَا هِيَ بِمَنْزِلَةِ النُّسُكِ وَالضَّحَايَا لاَ يَجُوزُ فِيهَا عَوْرَاءُ وَلاَ عَجْفَاءُ وَلاَ مَكْسُورَةٌ وَلاَ مَرِيضَةٌ وَلاَ يُبَاعُ مِنْ لَحْمِهَا شَىْءٌ وَلاَ جِلْدُهَا وَيُكْسَرُ عِظَامُهَا وَيَأْكُلُ أَهْلُهَا مِنْ لَحْمِهَا وَيَتَصَدَّقُونَ مِنْهَا وَلاَ يُمَسُّ الصَّبِيُّ بِشَىْءٍ مِنْ دَمِهَا ‏.‏",
+    "translations": {},
+    "sourceLabel": "malik · By chapter · 26",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__the-9-books__malik__26",
+      "malik:7"
+    ]
+  }
+]

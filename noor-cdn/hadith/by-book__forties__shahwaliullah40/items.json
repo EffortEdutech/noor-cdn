@@ -1,0 +1,762 @@
+[
+  {
+    "id": "by-book__forties__shahwaliullah40__41026__1",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41026",
+    "viewItemId": "by-book__forties__shahwaliullah40__41026__1",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41026",
+    "arabic": "لَیْسَ الْخَبَرُ کَالْمُعَایَنَةِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41026"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41027__2",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41027",
+    "viewItemId": "by-book__forties__shahwaliullah40__41027__2",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41027",
+    "arabic": "الْحَرْبُ خُدَعَةٌ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41027"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41028__3",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41028",
+    "viewItemId": "by-book__forties__shahwaliullah40__41028__3",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41028",
+    "arabic": "الْمُسْلِمُ مِرْآةُ الْمُسْلِمِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41028"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41029__4",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41029",
+    "viewItemId": "by-book__forties__shahwaliullah40__41029__4",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41029",
+    "arabic": "الْمُسْتَشَارُ مُؤتَمَنٌ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41029"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41030__5",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41030",
+    "viewItemId": "by-book__forties__shahwaliullah40__41030__5",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41030",
+    "arabic": "الدَّالُّ عَلَی الْخَیْرِ کَفَاعِلِهِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41030"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41031__6",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41031",
+    "viewItemId": "by-book__forties__shahwaliullah40__41031__6",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41031",
+    "arabic": "إِسْتَعِیْنُوْا عَلَی الْحَوَائِجِ بِالْکِتْمَانِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41031"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41032__7",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41032",
+    "viewItemId": "by-book__forties__shahwaliullah40__41032__7",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41032",
+    "arabic": "إِتَّقُوْا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41032"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41033__8",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41033",
+    "viewItemId": "by-book__forties__shahwaliullah40__41033__8",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41033",
+    "arabic": "الدُّنْیَا سِجْنُ الْمُؤمِنِ وَ جَنَّةُ الْکَافِرِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41033"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41034__9",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41034",
+    "viewItemId": "by-book__forties__shahwaliullah40__41034__9",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41034",
+    "arabic": "الْحَیَاءُ خَیْرٌ کُلُّهُ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41034"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41035__10",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41035",
+    "viewItemId": "by-book__forties__shahwaliullah40__41035__10",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41035",
+    "arabic": "عِدَةُ الْمُؤمِنِ کَاَخْذِ الْکَفِّ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41035"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41036__11",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41036",
+    "viewItemId": "by-book__forties__shahwaliullah40__41036__11",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41036",
+    "arabic": "لَا یَحِلُّ لِمُؤمِنٍ اَنْ یَّجُهْرَ أخَاهُ فَوقَ ثَلَاثَةِ أیَّامٍ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41036"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41037__12",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41037",
+    "viewItemId": "by-book__forties__shahwaliullah40__41037__12",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41037",
+    "arabic": "لَیْسَ مِنَّا مَنْ غَشَّنَا",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41037"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41038__13",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41038",
+    "viewItemId": "by-book__forties__shahwaliullah40__41038__13",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41038",
+    "arabic": "مَا قَلَّ وَكَفَى خَيْرٌ مِمَّا كَثُرَ وَأَلْهَى",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41038"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41039__14",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41039",
+    "viewItemId": "by-book__forties__shahwaliullah40__41039__14",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41039",
+    "arabic": "الرَّاجِعُ فِيْ هِبَتِهِ کَالرَّاجِعِ فِيْ قَیْئِهِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41039"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41040__15",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41040",
+    "viewItemId": "by-book__forties__shahwaliullah40__41040__15",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41040",
+    "arabic": "الْبَلَاءُ مُوَکِّلٌ بِالْمَنْطِقِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41040"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41041__16",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41041",
+    "viewItemId": "by-book__forties__shahwaliullah40__41041__16",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41041",
+    "arabic": "النَّاسُ کَأسْنَانِ الْمُشْطِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41041"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41042__17",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41042",
+    "viewItemId": "by-book__forties__shahwaliullah40__41042__17",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41042",
+    "arabic": "الْغِنَى غِنَى النَّفْسِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41042"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41043__18",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41043",
+    "viewItemId": "by-book__forties__shahwaliullah40__41043__18",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41043",
+    "arabic": "الْسَّعِیْدُ مَنْ وُّعِظَ بِغَیْرِهِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41043"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41044__19",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41044",
+    "viewItemId": "by-book__forties__shahwaliullah40__41044__19",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41044",
+    "arabic": "وَ إِنَّ مِنَ الشِّعْرِ لَحِکْمَةً وَاِنَّ مِنَ الْبَیَانِ لَسِحْرًا",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41044"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41045__20",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41045",
+    "viewItemId": "by-book__forties__shahwaliullah40__41045__20",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41045",
+    "arabic": "عَفْوُ الْمُلُوْكِ إِبْقَاءٌ لِلْمُلْكِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41045"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41046__21",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41046",
+    "viewItemId": "by-book__forties__shahwaliullah40__41046__21",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41046",
+    "arabic": "اَلْمَرْءُ مَعَ مَنْ أَحَبَّ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41046"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41047__22",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41047",
+    "viewItemId": "by-book__forties__shahwaliullah40__41047__22",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41047",
+    "arabic": "مَا هَلَكَ إمْرُؤٌ عَرَفَ قَدْرَهُ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41047"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41048__23",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41048",
+    "viewItemId": "by-book__forties__shahwaliullah40__41048__23",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41048",
+    "arabic": "اَلْوَلَدُ لِلْفِرَاشِ وَ لِلْعَاهِرِ الْحَجَرُ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41048"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41049__24",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41049",
+    "viewItemId": "by-book__forties__shahwaliullah40__41049__24",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41049",
+    "arabic": "الْیَدُ الْعُلْیَا خَیْرٌ مِّنَ الْیَدِ السُّفْلَی",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41049"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41050__25",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41050",
+    "viewItemId": "by-book__forties__shahwaliullah40__41050__25",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41050",
+    "arabic": "لَا شَکَرَ اللهَ مَنْ لَّا یَشْکُرُ النَّاسَ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41050"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41051__26",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41051",
+    "viewItemId": "by-book__forties__shahwaliullah40__41051__26",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41051",
+    "arabic": "حُبُّكَ الشَّيْءَ یُعْمِيْ وَ یُصِمُّ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41051"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41052__27",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41052",
+    "viewItemId": "by-book__forties__shahwaliullah40__41052__27",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41052",
+    "arabic": "جُبِلَتِ الْقُلُوبُ عَلی حُبَّ مَنْ اَحْسَنَ اِلَیْهَا وَ بُغْضِ مَنْ اَسَاءَ اِلَیْهَا",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41052"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41053__28",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41053",
+    "viewItemId": "by-book__forties__shahwaliullah40__41053__28",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41053",
+    "arabic": "الْتَّائِبُ مِنَ الذَّنْبِ کَمَنْ لَا ذَنْبَ لَهُ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41053"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41054__29",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41054",
+    "viewItemId": "by-book__forties__shahwaliullah40__41054__29",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41054",
+    "arabic": "الشَّاهِدُ یَرَی مَا لَا یَرَاهُ الْغَائِبُ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41054"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41055__30",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41055",
+    "viewItemId": "by-book__forties__shahwaliullah40__41055__30",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41055",
+    "arabic": "اِذا جَاءَکُمْ کَرِیْمُ قَوْمٍ فَاَکْرِمُوهُ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41055"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41056__31",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41056",
+    "viewItemId": "by-book__forties__shahwaliullah40__41056__31",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41056",
+    "arabic": "الْیَمِینُ الْفَاجِرَةُ تَدَعُ الدِّیَارَ الْبَلَاقِعَ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41056"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41057__32",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41057",
+    "viewItemId": "by-book__forties__shahwaliullah40__41057__32",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41057",
+    "arabic": "مَنْ قُتِلَ دُونَ مَالِهِ فَهُوَ شَهِیْدٌ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41057"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41058__33",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41058",
+    "viewItemId": "by-book__forties__shahwaliullah40__41058__33",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41058",
+    "arabic": "الْاَعْمَالُ بِالنِّیَّةِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41058"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41059__34",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41059",
+    "viewItemId": "by-book__forties__shahwaliullah40__41059__34",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41059",
+    "arabic": "سَیِّدُ الْقَوْمِ خَادِمُهُمْ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41059"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41060__35",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41060",
+    "viewItemId": "by-book__forties__shahwaliullah40__41060__35",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41060",
+    "arabic": "خَیْرُ الْأُمُوْرِ أَوْسَطُهَا",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41060"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41061__36",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41061",
+    "viewItemId": "by-book__forties__shahwaliullah40__41061__36",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41061",
+    "arabic": "اَللَّهُمَّ بَارِكْ فِیْ أُمَّتِیْ فِی بُکُوْرِهَا یَوْمَ الْخَمِیْسِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41061"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41062__37",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41062",
+    "viewItemId": "by-book__forties__shahwaliullah40__41062__37",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41062",
+    "arabic": "کَادَ الْفَقْرُ أَنْ یَکُوْنَ کُفْرًا",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41062"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41063__38",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41063",
+    "viewItemId": "by-book__forties__shahwaliullah40__41063__38",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41063",
+    "arabic": "الْسَّفَرُ قِطْعَةٌ مِّنَ الْعَذَابِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41063"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41064__39",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41064",
+    "viewItemId": "by-book__forties__shahwaliullah40__41064__39",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41064",
+    "arabic": "خَیْرُ زَّادِ الْتَّقْوَی",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41064"
+    ]
+  },
+  {
+    "id": "by-book__forties__shahwaliullah40__41065__40",
+    "collectionId": "by-book__forties__shahwaliullah40",
+    "canonicalHadithId": "forties:41065",
+    "viewItemId": "by-book__forties__shahwaliullah40__41065__40",
+    "sourceView": "by_book",
+    "sourcePath": "hadith/db/by_book/forties/shahwaliullah40.json",
+    "book": "forties",
+    "number": "41065",
+    "arabic": "الْمَجَالِسُ بِالْاَمَانَةِ",
+    "translations": {},
+    "sourceLabel": "forties · By book · shahwaliullah40",
+    "tags": [
+      "by_book",
+      "en",
+      "by-book__forties__shahwaliullah40",
+      "forties:41065"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__9__1__1",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__9",
+    "canonicalHadithId": "riyad-assalihin:1",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__9__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/9.json",
+    "book": "riyad_assalihin",
+    "number": "1",
+    "arabic": "عن ابن عمر رضي الله عنهما، قال‏:‏ كان رسول الله صلى الله عليه وسلم يعتكف العشر الأواخر من رمضان‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 9",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__9",
+      "riyad-assalihin:1"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__9__2__2",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__9",
+    "canonicalHadithId": "riyad-assalihin:2",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__9__2__2",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/9.json",
+    "book": "riyad_assalihin",
+    "number": "2",
+    "arabic": "وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يعتكف العشر الأواخر من رمضان، حتى توفاه الله، تعالى ثم اعتكف أزواجه من بعده‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 9",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__9",
+      "riyad-assalihin:2"
+    ]
+  },
+  {
+    "id": "by-chapter__other-books__riyad-assalihin__9__3__3",
+    "collectionId": "by-chapter__other-books__riyad-assalihin__9",
+    "canonicalHadithId": "riyad-assalihin:3",
+    "viewItemId": "by-chapter__other-books__riyad-assalihin__9__3__3",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/9.json",
+    "book": "riyad_assalihin",
+    "number": "3",
+    "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
+    "translations": {},
+    "sourceLabel": "riyad_assalihin · By chapter · 9",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__riyad-assalihin__9",
+      "riyad-assalihin:3"
+    ]
+  }
+]

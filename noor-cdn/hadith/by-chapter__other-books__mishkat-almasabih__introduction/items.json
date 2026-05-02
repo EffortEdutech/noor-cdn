@@ -1,0 +1,21 @@
+[
+  {
+    "id": "by-chapter__other-books__mishkat-almasabih__introduction__1__1",
+    "collectionId": "by-chapter__other-books__mishkat-almasabih__introduction",
+    "canonicalHadithId": "mishkat-almasabih:1",
+    "viewItemId": "by-chapter__other-books__mishkat-almasabih__introduction__1__1",
+    "sourceView": "by_chapter",
+    "sourcePath": "hadith/db/by_chapter/other_books/mishkat_almasabih/introduction.json",
+    "book": "mishkat_almasabih",
+    "number": "1",
+    "arabic": "عَنْ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا الْأَعْمَال بِالنِّيَّاتِ وَإِنَّمَا لكل امْرِئ مَا نَوَى فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ فَهِجْرَتُهُ إِلَى اللَّهِ وَرَسُولِهِ وَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوِ امْرَأَةٍ يَتَزَوَّجُهَا فَهجرَته إِلَى مَا هَاجر إِلَيْهِ»",
+    "translations": {},
+    "sourceLabel": "mishkat_almasabih · By chapter · introduction",
+    "tags": [
+      "by_chapter",
+      "en",
+      "by-chapter__other-books__mishkat-almasabih__introduction",
+      "mishkat-almasabih:1"
+    ]
+  }
+]
