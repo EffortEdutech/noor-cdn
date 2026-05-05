@@ -1,0 +1,45 @@
+{
+  "schema": "noor.navigation-metadata-manifest.v1",
+  "sprint": "28.6A.1",
+  "generatedAt": "2026-05-05T04:44:03.274Z",
+  "status": "staging",
+  "sourceRepo": "EffortEdutech/muslim-companion-poc",
+  "importedFiles": [
+    {
+      "target": "quran/navigation/juz-index.json",
+      "source": "content/quran/db/metadata/juz-index.json",
+      "purpose": "Quran Juz navigation and Juz ranges"
+    },
+    {
+      "target": "quran/navigation/surah-metadata.json",
+      "source": "content/quran/source/metadata/surah_info.json",
+      "purpose": "Richer Surah metadata for browsing, teaching, and source panels"
+    },
+    {
+      "target": "quran/navigation/page-index.json",
+      "source": "content/quran/source/metadata/surah_info.json + content/quran/db/metadata/juz-index.json",
+      "purpose": "Mushaf page navigation foundation",
+      "precision": "metadata-derived-surah-page-range"
+    },
+    {
+      "target": "manifest/edition-registry.json",
+      "source": "content/quran/selected-editions.json",
+      "purpose": "Edition/source display labels and language direction metadata"
+    },
+    {
+      "target": "hadith/collection-display-metadata.json",
+      "source": "apps/web/lib/collections.ts",
+      "purpose": "Hadith collection display names, Arabic names, authors, groups"
+    },
+    {
+      "target": "../../docs/content/TAFSEER_LANGUAGE_GAPS.md",
+      "source": "content/tafsir/GAPS.md",
+      "purpose": "Content roadmap for missing Tafseer languages"
+    }
+  ],
+  "warnings": [
+    "Imported metadata is staging metadata only.",
+    "Do not claim scholarly certification until provenance/licensing/scholar review is complete.",
+    "Page index is fallback page-range metadata only. Replace with verified 604-page start references when available."
+  ]
+}
