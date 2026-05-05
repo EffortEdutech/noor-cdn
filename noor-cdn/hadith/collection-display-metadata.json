@@ -1,0 +1,287 @@
+{
+  "schema": "noor.hadith.collection-display-metadata.v1",
+  "generatedAt": "2026-05-05T04:44:03.274Z",
+  "source": {
+    "repo": "EffortEdutech/muslim-companion-poc",
+    "ref": "main",
+    "path": "apps/web/lib/collections.ts",
+    "importedAt": "2026-05-05T04:44:03.274Z",
+    "sprint": "28.6A.1",
+    "reviewStatus": "staging-imported-metadata"
+  },
+  "groups": {
+    "the_9_books": {
+      "label": "The Nine Books",
+      "description": "The foundational corpus of authenticated hadith literature",
+      "order": 1
+    },
+    "other_books": {
+      "label": "Other Collections",
+      "description": "Renowned compiled works of hadith and sunnah",
+      "order": 2
+    },
+    "forties": {
+      "label": "The Forties — Arba'een",
+      "description": "Selected collections of forty significant narrations",
+      "order": 3
+    }
+  },
+  "groupOrder": [
+    "the_9_books",
+    "other_books",
+    "forties"
+  ],
+  "collections": [
+    {
+      "normalizedSlug": "bukhari",
+      "slug": "bukhari",
+      "aliases": [
+        "bukhari",
+        "by-book__the-9-books__bukhari"
+      ],
+      "filename": "bukhari.json",
+      "group": "the_9_books",
+      "displayName": "Sahih al-Bukhari",
+      "arabicName": "صحيح البخاري",
+      "author": "Imam Muhammad al-Bukhari",
+      "shortName": "Bukhari"
+    },
+    {
+      "normalizedSlug": "muslim",
+      "slug": "muslim",
+      "aliases": [
+        "muslim",
+        "by-book__the-9-books__muslim"
+      ],
+      "filename": "muslim.json",
+      "group": "the_9_books",
+      "displayName": "Sahih Muslim",
+      "arabicName": "صحيح مسلم",
+      "author": "Imam Muslim ibn al-Hajjaj",
+      "shortName": "Muslim"
+    },
+    {
+      "normalizedSlug": "abudawud",
+      "slug": "abudawud",
+      "aliases": [
+        "abudawud",
+        "abu-dawud",
+        "by-book__the-9-books__abudawud"
+      ],
+      "filename": "abudawud.json",
+      "group": "the_9_books",
+      "displayName": "Sunan Abu Dawud",
+      "arabicName": "سنن أبي داود",
+      "author": "Abu Dawud al-Sijistani",
+      "shortName": "Abu Dawud"
+    },
+    {
+      "normalizedSlug": "tirmidhi",
+      "slug": "tirmidhi",
+      "aliases": [
+        "tirmidhi",
+        "by-book__the-9-books__tirmidhi"
+      ],
+      "filename": "tirmidhi.json",
+      "group": "the_9_books",
+      "displayName": "Jami' at-Tirmidhi",
+      "arabicName": "جامع الترمذي",
+      "author": "Imam al-Tirmidhi",
+      "shortName": "Tirmidhi"
+    },
+    {
+      "normalizedSlug": "nasai",
+      "slug": "nasai",
+      "aliases": [
+        "nasai",
+        "nasaii",
+        "by-book__the-9-books__nasai"
+      ],
+      "filename": "nasai.json",
+      "group": "the_9_books",
+      "displayName": "Sunan an-Nasa'i",
+      "arabicName": "سنن النسائي",
+      "author": "Ahmad ibn Shu'ayb al-Nasa'i",
+      "shortName": "Nasa'i"
+    },
+    {
+      "normalizedSlug": "ibnmajah",
+      "slug": "ibnmajah",
+      "aliases": [
+        "ibnmajah",
+        "ibn-majah",
+        "by-book__the-9-books__ibnmajah"
+      ],
+      "filename": "ibnmajah.json",
+      "group": "the_9_books",
+      "displayName": "Sunan Ibn Majah",
+      "arabicName": "سنن ابن ماجه",
+      "author": "Ibn Majah al-Qazwini",
+      "shortName": "Ibn Majah"
+    },
+    {
+      "normalizedSlug": "ahmed",
+      "slug": "ahmed",
+      "aliases": [
+        "ahmed",
+        "ahmad",
+        "by-book__the-9-books__ahmed"
+      ],
+      "filename": "ahmed.json",
+      "group": "the_9_books",
+      "displayName": "Musnad Ahmad",
+      "arabicName": "مسند أحمد",
+      "author": "Imam Ahmad ibn Hanbal",
+      "shortName": "Ahmad"
+    },
+    {
+      "normalizedSlug": "malik",
+      "slug": "malik",
+      "aliases": [
+        "malik",
+        "muwatta",
+        "by-book__the-9-books__malik"
+      ],
+      "filename": "malik.json",
+      "group": "the_9_books",
+      "displayName": "Muwatta Imam Malik",
+      "arabicName": "موطأ مالك",
+      "author": "Imam Malik ibn Anas",
+      "shortName": "Malik"
+    },
+    {
+      "normalizedSlug": "darimi",
+      "slug": "darimi",
+      "aliases": [
+        "darimi",
+        "by-book__the-9-books__darimi"
+      ],
+      "filename": "darimi.json",
+      "group": "the_9_books",
+      "displayName": "Sunan al-Darimi",
+      "arabicName": "سنن الدارمي",
+      "author": "Abdullah ibn Abd al-Rahman al-Darimi",
+      "shortName": "Darimi"
+    },
+    {
+      "normalizedSlug": "riyad-assalihin",
+      "slug": "riyad_assalihin",
+      "aliases": [
+        "riyad_assalihin",
+        "riyad-assalihin",
+        "by-book__other-books__riyad-assalihin"
+      ],
+      "filename": "riyad_assalihin.json",
+      "group": "other_books",
+      "displayName": "Riyad as-Salihin",
+      "arabicName": "رياض الصالحين",
+      "author": "Imam Yahya ibn Sharaf al-Nawawi",
+      "shortName": "Riyad"
+    },
+    {
+      "normalizedSlug": "bulugh-almaram",
+      "slug": "bulugh_almaram",
+      "aliases": [
+        "bulugh_almaram",
+        "bulugh-almaram",
+        "by-book__other-books__bulugh-almaram"
+      ],
+      "filename": "bulugh_almaram.json",
+      "group": "other_books",
+      "displayName": "Bulugh al-Maram",
+      "arabicName": "بلوغ المرام",
+      "author": "Ibn Hajar al-Asqalani",
+      "shortName": "Bulugh"
+    },
+    {
+      "normalizedSlug": "mishkat-almasabih",
+      "slug": "mishkat_almasabih",
+      "aliases": [
+        "mishkat_almasabih",
+        "mishkat-almasabih",
+        "by-book__other-books__mishkat-almasabih"
+      ],
+      "filename": "mishkat_almasabih.json",
+      "group": "other_books",
+      "displayName": "Mishkat al-Masabih",
+      "arabicName": "مشكاة المصابيح",
+      "author": "Muhammad ibn Abdullah al-Khatib al-Tabrizi",
+      "shortName": "Mishkat"
+    },
+    {
+      "normalizedSlug": "aladab-almufrad",
+      "slug": "aladab_almufrad",
+      "aliases": [
+        "aladab_almufrad",
+        "aladab-almufrad",
+        "by-book__other-books__aladab-almufrad"
+      ],
+      "filename": "aladab_almufrad.json",
+      "group": "other_books",
+      "displayName": "Al-Adab Al-Mufrad",
+      "arabicName": "الأدب المفرد",
+      "author": "Imam Muhammad al-Bukhari",
+      "shortName": "Al-Adab"
+    },
+    {
+      "normalizedSlug": "shamail-muhammadiyah",
+      "slug": "shamail_muhammadiyah",
+      "aliases": [
+        "shamail_muhammadiyah",
+        "shamail-muhammadiyah",
+        "by-book__other-books__shamail-muhammadiyah"
+      ],
+      "filename": "shamail_muhammadiyah.json",
+      "group": "other_books",
+      "displayName": "Shamail Muhammadiyah",
+      "arabicName": "الشمائل المحمدية",
+      "author": "Imam al-Tirmidhi",
+      "shortName": "Shamail"
+    },
+    {
+      "normalizedSlug": "nawawi40",
+      "slug": "nawawi40",
+      "aliases": [
+        "nawawi40",
+        "by-book__forties__nawawi40",
+        "by-book__forties__nawawi40__eng-nawawi40"
+      ],
+      "filename": "nawawi40.json",
+      "group": "forties",
+      "displayName": "Forty Hadith of Imam Nawawi",
+      "arabicName": "الأربعون النووية",
+      "author": "Imam Yahya ibn Sharaf al-Nawawi",
+      "shortName": "Nawawi 40"
+    },
+    {
+      "normalizedSlug": "qudsi40",
+      "slug": "qudsi40",
+      "aliases": [
+        "qudsi40",
+        "by-book__forties__qudsi40",
+        "by-book__forties__qudsi40__eng-qudsi40"
+      ],
+      "filename": "qudsi40.json",
+      "group": "forties",
+      "displayName": "Forty Hadith Qudsi",
+      "arabicName": "الأربعون القدسية",
+      "author": "Collected",
+      "shortName": "Qudsi 40"
+    },
+    {
+      "normalizedSlug": "shahwaliullah40",
+      "slug": "shahwaliullah40",
+      "aliases": [
+        "shahwaliullah40",
+        "by-book__forties__shahwaliullah40",
+        "by-book__forties__shahwaliullah40__eng-shahwaliullah40"
+      ],
+      "filename": "shahwaliullah40.json",
+      "group": "forties",
+      "displayName": "Forty Hadith of Shah Waliullah",
+      "arabicName": "أربعون ولي الله الدهلوي",
+      "author": "Shah Waliullah Dahlawi",
+      "shortName": "Waliullah 40"
+    }
+  ]
+}

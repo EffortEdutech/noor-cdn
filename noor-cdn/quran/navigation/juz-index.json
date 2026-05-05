@@ -1,0 +1,1256 @@
+{
+  "metadata": {
+    "total_juz": 30,
+    "total_hizb": 60,
+    "source": "Standard Mushaf Division",
+    "generated_by": "Sprint 28.6A.1 hotfix",
+    "note": "Complete 30-juz navigation index generated after the legacy source file was found to contain only 7 records."
+  },
+  "juz_info": [
+    {
+      "number": 1,
+      "name_arabic": "الم",
+      "name_english": "Alif Lam Meem",
+      "start_surah": 1,
+      "start_verse": 1,
+      "end_surah": 2,
+      "end_verse": 141,
+      "total_verses": 148,
+      "page_start": 1,
+      "page_end": 21,
+      "surahs_included": [
+        {
+          "surah": 1,
+          "verses": "1-7",
+          "verse_count": 7
+        },
+        {
+          "surah": 2,
+          "verses": "1-141",
+          "verse_count": 141
+        }
+      ],
+      "hizb_included": [
+        1,
+        2
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 2,
+      "name_arabic": "سيقول",
+      "name_english": "Sa-yaqool",
+      "start_surah": 2,
+      "start_verse": 142,
+      "end_surah": 2,
+      "end_verse": 252,
+      "total_verses": 111,
+      "page_start": 22,
+      "page_end": 41,
+      "surahs_included": [
+        {
+          "surah": 2,
+          "verses": "142-252",
+          "verse_count": 111
+        }
+      ],
+      "hizb_included": [
+        3,
+        4
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 3,
+      "name_arabic": "تلك الرسل",
+      "name_english": "Tilka ar-Rusul",
+      "start_surah": 2,
+      "start_verse": 253,
+      "end_surah": 3,
+      "end_verse": 92,
+      "total_verses": 126,
+      "page_start": 42,
+      "page_end": 61,
+      "surahs_included": [
+        {
+          "surah": 2,
+          "verses": "253-286",
+          "verse_count": 34
+        },
+        {
+          "surah": 3,
+          "verses": "1-92",
+          "verse_count": 92
+        }
+      ],
+      "hizb_included": [
+        5,
+        6
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 4,
+      "name_arabic": "لن تنالوا",
+      "name_english": "Lan Tanaaloo",
+      "start_surah": 3,
+      "start_verse": 93,
+      "end_surah": 4,
+      "end_verse": 23,
+      "total_verses": 131,
+      "page_start": 62,
+      "page_end": 81,
+      "surahs_included": [
+        {
+          "surah": 3,
+          "verses": "93-200",
+          "verse_count": 108
+        },
+        {
+          "surah": 4,
+          "verses": "1-23",
+          "verse_count": 23
+        }
+      ],
+      "hizb_included": [
+        7,
+        8
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 5,
+      "name_arabic": "والمحصنات",
+      "name_english": "Wal Muhsanat",
+      "start_surah": 4,
+      "start_verse": 24,
+      "end_surah": 4,
+      "end_verse": 147,
+      "total_verses": 124,
+      "page_start": 82,
+      "page_end": 101,
+      "surahs_included": [
+        {
+          "surah": 4,
+          "verses": "24-147",
+          "verse_count": 124
+        }
+      ],
+      "hizb_included": [
+        9,
+        10
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 6,
+      "name_arabic": "لا يحب الله",
+      "name_english": "La Yuhibbullah",
+      "start_surah": 4,
+      "start_verse": 148,
+      "end_surah": 5,
+      "end_verse": 81,
+      "total_verses": 110,
+      "page_start": 102,
+      "page_end": 121,
+      "surahs_included": [
+        {
+          "surah": 4,
+          "verses": "148-176",
+          "verse_count": 29
+        },
+        {
+          "surah": 5,
+          "verses": "1-81",
+          "verse_count": 81
+        }
+      ],
+      "hizb_included": [
+        11,
+        12
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 7,
+      "name_arabic": "وإذا سمعوا",
+      "name_english": "Wa Iza Samiu",
+      "start_surah": 5,
+      "start_verse": 82,
+      "end_surah": 6,
+      "end_verse": 110,
+      "total_verses": 149,
+      "page_start": 122,
+      "page_end": 141,
+      "surahs_included": [
+        {
+          "surah": 5,
+          "verses": "82-120",
+          "verse_count": 39
+        },
+        {
+          "surah": 6,
+          "verses": "1-110",
+          "verse_count": 110
+        }
+      ],
+      "hizb_included": [
+        13,
+        14
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 8,
+      "name_arabic": "ولو أننا",
+      "name_english": "Wa Lau Annana",
+      "start_surah": 6,
+      "start_verse": 111,
+      "end_surah": 7,
+      "end_verse": 87,
+      "total_verses": 142,
+      "page_start": 142,
+      "page_end": 161,
+      "surahs_included": [
+        {
+          "surah": 6,
+          "verses": "111-165",
+          "verse_count": 55
+        },
+        {
+          "surah": 7,
+          "verses": "1-87",
+          "verse_count": 87
+        }
+      ],
+      "hizb_included": [
+        15,
+        16
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 9,
+      "name_arabic": "قال الملأ",
+      "name_english": "Qalal Malao",
+      "start_surah": 7,
+      "start_verse": 88,
+      "end_surah": 8,
+      "end_verse": 40,
+      "total_verses": 159,
+      "page_start": 162,
+      "page_end": 181,
+      "surahs_included": [
+        {
+          "surah": 7,
+          "verses": "88-206",
+          "verse_count": 119
+        },
+        {
+          "surah": 8,
+          "verses": "1-40",
+          "verse_count": 40
+        }
+      ],
+      "hizb_included": [
+        17,
+        18
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 10,
+      "name_arabic": "واعلموا",
+      "name_english": "Wa A'lamu",
+      "start_surah": 8,
+      "start_verse": 41,
+      "end_surah": 9,
+      "end_verse": 92,
+      "total_verses": 127,
+      "page_start": 182,
+      "page_end": 201,
+      "surahs_included": [
+        {
+          "surah": 8,
+          "verses": "41-75",
+          "verse_count": 35
+        },
+        {
+          "surah": 9,
+          "verses": "1-92",
+          "verse_count": 92
+        }
+      ],
+      "hizb_included": [
+        19,
+        20
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 11,
+      "name_arabic": "يعتذرون",
+      "name_english": "Ya'tadhirun",
+      "start_surah": 9,
+      "start_verse": 93,
+      "end_surah": 11,
+      "end_verse": 5,
+      "total_verses": 151,
+      "page_start": 202,
+      "page_end": 221,
+      "surahs_included": [
+        {
+          "surah": 9,
+          "verses": "93-129",
+          "verse_count": 37
+        },
+        {
+          "surah": 10,
+          "verses": "1-109",
+          "verse_count": 109
+        },
+        {
+          "surah": 11,
+          "verses": "1-5",
+          "verse_count": 5
+        }
+      ],
+      "hizb_included": [
+        21,
+        22
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 12,
+      "name_arabic": "وما من دابة",
+      "name_english": "Wa Ma Min Daabbah",
+      "start_surah": 11,
+      "start_verse": 6,
+      "end_surah": 12,
+      "end_verse": 52,
+      "total_verses": 170,
+      "page_start": 222,
+      "page_end": 241,
+      "surahs_included": [
+        {
+          "surah": 11,
+          "verses": "6-123",
+          "verse_count": 118
+        },
+        {
+          "surah": 12,
+          "verses": "1-52",
+          "verse_count": 52
+        }
+      ],
+      "hizb_included": [
+        23,
+        24
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 13,
+      "name_arabic": "وما أبرئ",
+      "name_english": "Wa Ma Ubrioo",
+      "start_surah": 12,
+      "start_verse": 53,
+      "end_surah": 14,
+      "end_verse": 52,
+      "total_verses": 154,
+      "page_start": 242,
+      "page_end": 261,
+      "surahs_included": [
+        {
+          "surah": 12,
+          "verses": "53-111",
+          "verse_count": 59
+        },
+        {
+          "surah": 13,
+          "verses": "1-43",
+          "verse_count": 43
+        },
+        {
+          "surah": 14,
+          "verses": "1-52",
+          "verse_count": 52
+        }
+      ],
+      "hizb_included": [
+        25,
+        26
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 14,
+      "name_arabic": "ربما",
+      "name_english": "Rubama",
+      "start_surah": 15,
+      "start_verse": 1,
+      "end_surah": 16,
+      "end_verse": 128,
+      "total_verses": 227,
+      "page_start": 262,
+      "page_end": 281,
+      "surahs_included": [
+        {
+          "surah": 15,
+          "verses": "1-99",
+          "verse_count": 99
+        },
+        {
+          "surah": 16,
+          "verses": "1-128",
+          "verse_count": 128
+        }
+      ],
+      "hizb_included": [
+        27,
+        28
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 15,
+      "name_arabic": "سبحان",
+      "name_english": "Subhaan",
+      "start_surah": 17,
+      "start_verse": 1,
+      "end_surah": 18,
+      "end_verse": 74,
+      "total_verses": 185,
+      "page_start": 282,
+      "page_end": 302,
+      "surahs_included": [
+        {
+          "surah": 17,
+          "verses": "1-111",
+          "verse_count": 111
+        },
+        {
+          "surah": 18,
+          "verses": "1-74",
+          "verse_count": 74
+        }
+      ],
+      "hizb_included": [
+        29,
+        30
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 16,
+      "name_arabic": "قال ألم",
+      "name_english": "Qal Alam",
+      "start_surah": 18,
+      "start_verse": 75,
+      "end_surah": 20,
+      "end_verse": 135,
+      "total_verses": 269,
+      "page_start": 302,
+      "page_end": 321,
+      "surahs_included": [
+        {
+          "surah": 18,
+          "verses": "75-110",
+          "verse_count": 36
+        },
+        {
+          "surah": 19,
+          "verses": "1-98",
+          "verse_count": 98
+        },
+        {
+          "surah": 20,
+          "verses": "1-135",
+          "verse_count": 135
+        }
+      ],
+      "hizb_included": [
+        31,
+        32
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 17,
+      "name_arabic": "اقترب",
+      "name_english": "Aqtarabu",
+      "start_surah": 21,
+      "start_verse": 1,
+      "end_surah": 22,
+      "end_verse": 78,
+      "total_verses": 190,
+      "page_start": 322,
+      "page_end": 341,
+      "surahs_included": [
+        {
+          "surah": 21,
+          "verses": "1-112",
+          "verse_count": 112
+        },
+        {
+          "surah": 22,
+          "verses": "1-78",
+          "verse_count": 78
+        }
+      ],
+      "hizb_included": [
+        33,
+        34
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 18,
+      "name_arabic": "قد أفلح",
+      "name_english": "Qad Aflaha",
+      "start_surah": 23,
+      "start_verse": 1,
+      "end_surah": 25,
+      "end_verse": 20,
+      "total_verses": 202,
+      "page_start": 342,
+      "page_end": 361,
+      "surahs_included": [
+        {
+          "surah": 23,
+          "verses": "1-118",
+          "verse_count": 118
+        },
+        {
+          "surah": 24,
+          "verses": "1-64",
+          "verse_count": 64
+        },
+        {
+          "surah": 25,
+          "verses": "1-20",
+          "verse_count": 20
+        }
+      ],
+      "hizb_included": [
+        35,
+        36
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 19,
+      "name_arabic": "وقال الذين",
+      "name_english": "Wa Qalalladhina",
+      "start_surah": 25,
+      "start_verse": 21,
+      "end_surah": 27,
+      "end_verse": 55,
+      "total_verses": 339,
+      "page_start": 362,
+      "page_end": 381,
+      "surahs_included": [
+        {
+          "surah": 25,
+          "verses": "21-77",
+          "verse_count": 57
+        },
+        {
+          "surah": 26,
+          "verses": "1-227",
+          "verse_count": 227
+        },
+        {
+          "surah": 27,
+          "verses": "1-55",
+          "verse_count": 55
+        }
+      ],
+      "hizb_included": [
+        37,
+        38
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 20,
+      "name_arabic": "أمن خلق",
+      "name_english": "A'man Khalaq",
+      "start_surah": 27,
+      "start_verse": 56,
+      "end_surah": 29,
+      "end_verse": 45,
+      "total_verses": 171,
+      "page_start": 382,
+      "page_end": 401,
+      "surahs_included": [
+        {
+          "surah": 27,
+          "verses": "56-93",
+          "verse_count": 38
+        },
+        {
+          "surah": 28,
+          "verses": "1-88",
+          "verse_count": 88
+        },
+        {
+          "surah": 29,
+          "verses": "1-45",
+          "verse_count": 45
+        }
+      ],
+      "hizb_included": [
+        39,
+        40
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 21,
+      "name_arabic": "اتل ما أوحي",
+      "name_english": "Utlu Ma Oohi",
+      "start_surah": 29,
+      "start_verse": 46,
+      "end_surah": 33,
+      "end_verse": 30,
+      "total_verses": 178,
+      "page_start": 402,
+      "page_end": 421,
+      "surahs_included": [
+        {
+          "surah": 29,
+          "verses": "46-69",
+          "verse_count": 24
+        },
+        {
+          "surah": 30,
+          "verses": "1-60",
+          "verse_count": 60
+        },
+        {
+          "surah": 31,
+          "verses": "1-34",
+          "verse_count": 34
+        },
+        {
+          "surah": 32,
+          "verses": "1-30",
+          "verse_count": 30
+        },
+        {
+          "surah": 33,
+          "verses": "1-30",
+          "verse_count": 30
+        }
+      ],
+      "hizb_included": [
+        41,
+        42
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 22,
+      "name_arabic": "ومن يقنت",
+      "name_english": "Wa Man Yaqnut",
+      "start_surah": 33,
+      "start_verse": 31,
+      "end_surah": 36,
+      "end_verse": 27,
+      "total_verses": 169,
+      "page_start": 422,
+      "page_end": 441,
+      "surahs_included": [
+        {
+          "surah": 33,
+          "verses": "31-73",
+          "verse_count": 43
+        },
+        {
+          "surah": 34,
+          "verses": "1-54",
+          "verse_count": 54
+        },
+        {
+          "surah": 35,
+          "verses": "1-45",
+          "verse_count": 45
+        },
+        {
+          "surah": 36,
+          "verses": "1-27",
+          "verse_count": 27
+        }
+      ],
+      "hizb_included": [
+        43,
+        44
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 23,
+      "name_arabic": "ومالي",
+      "name_english": "Wa Mali",
+      "start_surah": 36,
+      "start_verse": 28,
+      "end_surah": 39,
+      "end_verse": 31,
+      "total_verses": 357,
+      "page_start": 442,
+      "page_end": 462,
+      "surahs_included": [
+        {
+          "surah": 36,
+          "verses": "28-83",
+          "verse_count": 56
+        },
+        {
+          "surah": 37,
+          "verses": "1-182",
+          "verse_count": 182
+        },
+        {
+          "surah": 38,
+          "verses": "1-88",
+          "verse_count": 88
+        },
+        {
+          "surah": 39,
+          "verses": "1-31",
+          "verse_count": 31
+        }
+      ],
+      "hizb_included": [
+        45,
+        46
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 24,
+      "name_arabic": "فمن أظلم",
+      "name_english": "Fa-man Azlam",
+      "start_surah": 39,
+      "start_verse": 32,
+      "end_surah": 41,
+      "end_verse": 46,
+      "total_verses": 175,
+      "page_start": 462,
+      "page_end": 481,
+      "surahs_included": [
+        {
+          "surah": 39,
+          "verses": "32-75",
+          "verse_count": 44
+        },
+        {
+          "surah": 40,
+          "verses": "1-85",
+          "verse_count": 85
+        },
+        {
+          "surah": 41,
+          "verses": "1-46",
+          "verse_count": 46
+        }
+      ],
+      "hizb_included": [
+        47,
+        48
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 25,
+      "name_arabic": "إليه يرد",
+      "name_english": "Ilayhi Yuraddu",
+      "start_surah": 41,
+      "start_verse": 47,
+      "end_surah": 45,
+      "end_verse": 37,
+      "total_verses": 246,
+      "page_start": 482,
+      "page_end": 501,
+      "surahs_included": [
+        {
+          "surah": 41,
+          "verses": "47-54",
+          "verse_count": 8
+        },
+        {
+          "surah": 42,
+          "verses": "1-53",
+          "verse_count": 53
+        },
+        {
+          "surah": 43,
+          "verses": "1-89",
+          "verse_count": 89
+        },
+        {
+          "surah": 44,
+          "verses": "1-59",
+          "verse_count": 59
+        },
+        {
+          "surah": 45,
+          "verses": "1-37",
+          "verse_count": 37
+        }
+      ],
+      "hizb_included": [
+        49,
+        50
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 26,
+      "name_arabic": "حم",
+      "name_english": "Ha Meem",
+      "start_surah": 46,
+      "start_verse": 1,
+      "end_surah": 51,
+      "end_verse": 30,
+      "total_verses": 195,
+      "page_start": 502,
+      "page_end": 521,
+      "surahs_included": [
+        {
+          "surah": 46,
+          "verses": "1-35",
+          "verse_count": 35
+        },
+        {
+          "surah": 47,
+          "verses": "1-38",
+          "verse_count": 38
+        },
+        {
+          "surah": 48,
+          "verses": "1-29",
+          "verse_count": 29
+        },
+        {
+          "surah": 49,
+          "verses": "1-18",
+          "verse_count": 18
+        },
+        {
+          "surah": 50,
+          "verses": "1-45",
+          "verse_count": 45
+        },
+        {
+          "surah": 51,
+          "verses": "1-30",
+          "verse_count": 30
+        }
+      ],
+      "hizb_included": [
+        51,
+        52
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 27,
+      "name_arabic": "قال فما خطبكم",
+      "name_english": "Qala Fama Khatbukum",
+      "start_surah": 51,
+      "start_verse": 31,
+      "end_surah": 57,
+      "end_verse": 29,
+      "total_verses": 399,
+      "page_start": 522,
+      "page_end": 541,
+      "surahs_included": [
+        {
+          "surah": 51,
+          "verses": "31-60",
+          "verse_count": 30
+        },
+        {
+          "surah": 52,
+          "verses": "1-49",
+          "verse_count": 49
+        },
+        {
+          "surah": 53,
+          "verses": "1-62",
+          "verse_count": 62
+        },
+        {
+          "surah": 54,
+          "verses": "1-55",
+          "verse_count": 55
+        },
+        {
+          "surah": 55,
+          "verses": "1-78",
+          "verse_count": 78
+        },
+        {
+          "surah": 56,
+          "verses": "1-96",
+          "verse_count": 96
+        },
+        {
+          "surah": 57,
+          "verses": "1-29",
+          "verse_count": 29
+        }
+      ],
+      "hizb_included": [
+        53,
+        54
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 28,
+      "name_arabic": "قد سمع الله",
+      "name_english": "Qad Sami Allah",
+      "start_surah": 58,
+      "start_verse": 1,
+      "end_surah": 66,
+      "end_verse": 12,
+      "total_verses": 137,
+      "page_start": 542,
+      "page_end": 561,
+      "surahs_included": [
+        {
+          "surah": 58,
+          "verses": "1-22",
+          "verse_count": 22
+        },
+        {
+          "surah": 59,
+          "verses": "1-24",
+          "verse_count": 24
+        },
+        {
+          "surah": 60,
+          "verses": "1-13",
+          "verse_count": 13
+        },
+        {
+          "surah": 61,
+          "verses": "1-14",
+          "verse_count": 14
+        },
+        {
+          "surah": 62,
+          "verses": "1-11",
+          "verse_count": 11
+        },
+        {
+          "surah": 63,
+          "verses": "1-11",
+          "verse_count": 11
+        },
+        {
+          "surah": 64,
+          "verses": "1-18",
+          "verse_count": 18
+        },
+        {
+          "surah": 65,
+          "verses": "1-12",
+          "verse_count": 12
+        },
+        {
+          "surah": 66,
+          "verses": "1-12",
+          "verse_count": 12
+        }
+      ],
+      "hizb_included": [
+        55,
+        56
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 29,
+      "name_arabic": "تبارك",
+      "name_english": "Tabarak",
+      "start_surah": 67,
+      "start_verse": 1,
+      "end_surah": 77,
+      "end_verse": 50,
+      "total_verses": 431,
+      "page_start": 562,
+      "page_end": 581,
+      "surahs_included": [
+        {
+          "surah": 67,
+          "verses": "1-30",
+          "verse_count": 30
+        },
+        {
+          "surah": 68,
+          "verses": "1-52",
+          "verse_count": 52
+        },
+        {
+          "surah": 69,
+          "verses": "1-52",
+          "verse_count": 52
+        },
+        {
+          "surah": 70,
+          "verses": "1-44",
+          "verse_count": 44
+        },
+        {
+          "surah": 71,
+          "verses": "1-28",
+          "verse_count": 28
+        },
+        {
+          "surah": 72,
+          "verses": "1-28",
+          "verse_count": 28
+        },
+        {
+          "surah": 73,
+          "verses": "1-20",
+          "verse_count": 20
+        },
+        {
+          "surah": 74,
+          "verses": "1-56",
+          "verse_count": 56
+        },
+        {
+          "surah": 75,
+          "verses": "1-40",
+          "verse_count": 40
+        },
+        {
+          "surah": 76,
+          "verses": "1-31",
+          "verse_count": 31
+        },
+        {
+          "surah": 77,
+          "verses": "1-50",
+          "verse_count": 50
+        }
+      ],
+      "hizb_included": [
+        57,
+        58
+      ],
+      "main_themes": []
+    },
+    {
+      "number": 30,
+      "name_arabic": "عم",
+      "name_english": "Amma",
+      "start_surah": 78,
+      "start_verse": 1,
+      "end_surah": 114,
+      "end_verse": 6,
+      "total_verses": 564,
+      "page_start": 582,
+      "page_end": 604,
+      "surahs_included": [
+        {
+          "surah": 78,
+          "verses": "1-40",
+          "verse_count": 40
+        },
+        {
+          "surah": 79,
+          "verses": "1-46",
+          "verse_count": 46
+        },
+        {
+          "surah": 80,
+          "verses": "1-42",
+          "verse_count": 42
+        },
+        {
+          "surah": 81,
+          "verses": "1-29",
+          "verse_count": 29
+        },
+        {
+          "surah": 82,
+          "verses": "1-19",
+          "verse_count": 19
+        },
+        {
+          "surah": 83,
+          "verses": "1-36",
+          "verse_count": 36
+        },
+        {
+          "surah": 84,
+          "verses": "1-25",
+          "verse_count": 25
+        },
+        {
+          "surah": 85,
+          "verses": "1-22",
+          "verse_count": 22
+        },
+        {
+          "surah": 86,
+          "verses": "1-17",
+          "verse_count": 17
+        },
+        {
+          "surah": 87,
+          "verses": "1-19",
+          "verse_count": 19
+        },
+        {
+          "surah": 88,
+          "verses": "1-26",
+          "verse_count": 26
+        },
+        {
+          "surah": 89,
+          "verses": "1-30",
+          "verse_count": 30
+        },
+        {
+          "surah": 90,
+          "verses": "1-20",
+          "verse_count": 20
+        },
+        {
+          "surah": 91,
+          "verses": "1-15",
+          "verse_count": 15
+        },
+        {
+          "surah": 92,
+          "verses": "1-21",
+          "verse_count": 21
+        },
+        {
+          "surah": 93,
+          "verses": "1-11",
+          "verse_count": 11
+        },
+        {
+          "surah": 94,
+          "verses": "1-8",
+          "verse_count": 8
+        },
+        {
+          "surah": 95,
+          "verses": "1-8",
+          "verse_count": 8
+        },
+        {
+          "surah": 96,
+          "verses": "1-19",
+          "verse_count": 19
+        },
+        {
+          "surah": 97,
+          "verses": "1-5",
+          "verse_count": 5
+        },
+        {
+          "surah": 98,
+          "verses": "1-8",
+          "verse_count": 8
+        },
+        {
+          "surah": 99,
+          "verses": "1-8",
+          "verse_count": 8
+        },
+        {
+          "surah": 100,
+          "verses": "1-11",
+          "verse_count": 11
+        },
+        {
+          "surah": 101,
+          "verses": "1-11",
+          "verse_count": 11
+        },
+        {
+          "surah": 102,
+          "verses": "1-8",
+          "verse_count": 8
+        },
+        {
+          "surah": 103,
+          "verses": "1-3",
+          "verse_count": 3
+        },
+        {
+          "surah": 104,
+          "verses": "1-9",
+          "verse_count": 9
+        },
+        {
+          "surah": 105,
+          "verses": "1-5",
+          "verse_count": 5
+        },
+        {
+          "surah": 106,
+          "verses": "1-4",
+          "verse_count": 4
+        },
+        {
+          "surah": 107,
+          "verses": "1-7",
+          "verse_count": 7
+        },
+        {
+          "surah": 108,
+          "verses": "1-3",
+          "verse_count": 3
+        },
+        {
+          "surah": 109,
+          "verses": "1-6",
+          "verse_count": 6
+        },
+        {
+          "surah": 110,
+          "verses": "1-3",
+          "verse_count": 3
+        },
+        {
+          "surah": 111,
+          "verses": "1-5",
+          "verse_count": 5
+        },
+        {
+          "surah": 112,
+          "verses": "1-4",
+          "verse_count": 4
+        },
+        {
+          "surah": 113,
+          "verses": "1-5",
+          "verse_count": 5
+        },
+        {
+          "surah": 114,
+          "verses": "1-6",
+          "verse_count": 6
+        }
+      ],
+      "hizb_included": [
+        59,
+        60
+      ],
+      "main_themes": []
+    }
+  ]
+}
