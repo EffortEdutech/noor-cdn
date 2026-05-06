@@ -6,14 +6,17 @@
     "nameTransliteration": "Saad",
     "nameEnglish": "Sad",
     "revelation": "makki",
-    "ayahCount": 88
+    "ayahCount": 88,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 38,
       "ayah": 1,
       "key": "38:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+      "arabic": "صٓ ۚ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
       "translations": {
         "en": "Sad: By the Qur'an, Full of Admonition: (This is the Truth).",
         "ms": "Saad; demi Al-Quran yang mempunyai kemuliaan serta mengandungi peringatan dan pengajaran",

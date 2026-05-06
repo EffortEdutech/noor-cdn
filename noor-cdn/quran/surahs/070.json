@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Ma'aarij",
     "nameEnglish": "The Ascending Stairways",
     "revelation": "makki",
-    "ayahCount": 44
+    "ayahCount": 44,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 70,
       "ayah": 1,
       "key": "70:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "arabic": "سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
       "translations": {
         "en": "A questioner asked about a Penalty to befall-",
         "ms": "Salah seorang (dari kalangan orang-orang kafir Makkah, secara mengejek-ejek) meminta kedatangan azab yang (dijanjikan) akan berlaku",

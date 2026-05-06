@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Mujaadilah",
     "nameEnglish": "The Pleading Woman",
     "revelation": "madani",
-    "ayahCount": 22
+    "ayahCount": 22,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 58,
       "ayah": 1,
       "key": "58:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "arabic": "قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَـٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ ۚ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
       "translations": {
         "en": "Allah has indeed heard (and accepted) the statement of the woman who pleads with thee concerning her husband and carries her complaint (in prayer) to Allah: and Allah (always) hears the arguments between both sides among you: for Allah hears and sees (all things).",
         "ms": "Sesungguhnya Allah telah mendengar (dan memperkenan) aduan perempuan yang bersoal jawab denganmu (wahai Muhammad) mengenai suaminya, sambil ia berdoa merayu kepada Allah (mengenai perkara yang menyusahkannya), sedang Allah sedia mendengar perbincangan kamu berdua. Sesungguhnya Allah Maha Mendengar, lagi Maha Melihat",

@@ -6,7 +6,9 @@
     "nameTransliteration": "At-Tawbah",
     "nameEnglish": "The Repentance",
     "revelation": "madani",
-    "ayahCount": 129
+    "ayahCount": 129,
+    "hasBismillahHeader": false,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {

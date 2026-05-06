@@ -6,14 +6,17 @@
     "nameTransliteration": "Quraysh",
     "nameEnglish": "Quraysh",
     "revelation": "makki",
-    "ayahCount": 4
+    "ayahCount": 4,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 106,
       "ayah": 1,
       "key": "106:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لِإِيلَـٰفِ قُرَيْشٍ",
+      "arabic": "لِإِيلَـٰفِ قُرَيْشٍ",
       "translations": {
         "en": "For the covenants (of security and safeguard enjoyed) by the Quraish,",
         "ms": "Kerana kebiasaan aman tenteram kaum Quraisy (penduduk Makkah)",

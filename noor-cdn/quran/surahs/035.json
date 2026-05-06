@@ -6,14 +6,17 @@
     "nameTransliteration": "Faatir",
     "nameEnglish": "Originator",
     "revelation": "makki",
-    "ayahCount": 45
+    "ayahCount": 45,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 35,
       "ayah": 1,
       "key": "35:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "arabic": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
       "translations": {
         "en": "Praise be to Allah, Who created (out of nothing) the heavens and the earth, Who made the angels, messengers with wings,- two, or three, or four (pairs): He adds to Creation as He pleases: for Allah has power over all things.",
         "ms": "Segala puji tertentu bagi Allah yang menciptakan langit dan bumi, yang menjadikan malaikat utusan-utusan yang bersayap: dua, tiga dan empat; Ia menambah pada bentuk kejadian makhluk yang diciptakanNya apa jua yang dikehendakiNya. Sesungguhnya Allah Maha Kuasa atas tiap-tiap sesuatu",

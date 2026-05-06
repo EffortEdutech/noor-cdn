@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Inshiqaaq",
     "nameEnglish": "The Splitting Open",
     "revelation": "makki",
-    "ayahCount": 25
+    "ayahCount": 25,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 84,
       "ayah": 1,
       "key": "84:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "arabic": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
       "translations": {
         "en": "When the sky is rent asunder,",
         "ms": "Apabila langit terbelah",

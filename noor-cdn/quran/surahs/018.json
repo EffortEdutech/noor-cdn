@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Kahf",
     "nameEnglish": "The Cave",
     "revelation": "makki",
-    "ayahCount": 110
+    "ayahCount": 110,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 18,
       "ayah": 1,
       "key": "18:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
+      "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ",
       "translations": {
         "en": "Praise be to Allah, Who hath sent to His Servant the Book, and hath allowed therein no Crookedness:",
         "ms": "Segala puji terentu bagi Allah yang telah menurunkan kepada hambaNya (Muhammad), Kitab suci Al-Quran, dan tidak menjadikan padanya sesuatu yang bengkok (terpesong)",

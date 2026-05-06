@@ -6,14 +6,17 @@
     "nameTransliteration": "Ibraaheem",
     "nameEnglish": "Abraham",
     "revelation": "makki",
-    "ayahCount": 52
+    "ayahCount": 52,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 14,
       "ayah": 1,
       "key": "14:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "arabic": "الٓر ۚ كِتَـٰبٌ أَنزَلْنَـٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
       "translations": {
         "en": "A. L. R. A Book which We have revealed unto thee, in order that thou mightest lead mankind out of the depths of darkness into light - by the leave of their Lord - to the Way of (Him) the Exalted in power, worthy of all praise!-",
         "ms": "Alif, Laam, Raa'. Ini ialah Kitab (Al-Quran) Kami turunkan dia kepadamu (wahai Muhammad), supaya engkau mengeluarkan umat manusia seluruhnya dari gelap-gelita kufur kepada cahaya iman - dengan izin Tuhan mereka - ke jalan Allah Yang Maha Kuasa lagi Maha Terpuji",

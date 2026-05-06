@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Insaan",
     "nameEnglish": "The Human",
     "revelation": "madani",
-    "ayahCount": 31
+    "ayahCount": 31,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 76,
       "ayah": 1,
       "key": "76:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
+      "arabic": "هَلْ أَتَىٰ عَلَى ٱلْإِنسَـٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا",
       "translations": {
         "en": "Has there not been over Man a long period of Time, when he was nothing - (not even) mentioned?",
         "ms": "Bukankah telah berlalu kepada manusia satu ketika dari masa (yang beredar), sedang ia (masih belum wujud lagi, dan) tidak menjadi sesuatu benda yang disebut-sebut, (maka mengapa kaum musyrik itu mengingkari hari akhirat)",

@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Nasr",
     "nameEnglish": "The Divine Support",
     "revelation": "madani",
-    "ayahCount": 3
+    "ayahCount": 3,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 110,
       "ayah": 1,
       "key": "110:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "arabic": "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
       "translations": {
         "en": "When comes the Help of Allah, and Victory,",
         "ms": "Apabila datang pertolongan Allah dan kemenangan (semasa engkau wahai Muhammad berjaya menguasai negeri Makkah)",

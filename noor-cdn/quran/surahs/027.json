@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Naml",
     "nameEnglish": "The Ant",
     "revelation": "makki",
-    "ayahCount": 93
+    "ayahCount": 93,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 27,
       "ayah": 1,
       "key": "27:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+      "arabic": "طسٓ ۚ تِلْكَ ءَايَـٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
       "translations": {
         "en": "These are verses of the Qur'an,-a book that makes (things) clear;",
         "ms": "Taa, siin. Ini ialah ayat-ayat Al-Quran, juga Kitab yang jelas nyata (kandungannya dan kebenarannya)",

@@ -6,14 +6,17 @@
     "nameTransliteration": "At-Talaaq",
     "nameEnglish": "The Divorce",
     "revelation": "madani",
-    "ayahCount": 12
+    "ayahCount": 12,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 65,
       "ayah": 1,
       "key": "65:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا",
       "translations": {
         "en": "O Prophet! When ye do divorce women, divorce them at their prescribed periods, and count (accurately), their prescribed periods: And fear Allah your Lord: and turn them not out of their houses, nor shall they (themselves) leave, except in case they are guilty of some open lewdness, those are limits set by Allah: and any who transgresses the limits of Allah, does verily wrong his (own) soul: thou knowest not if perchance Allah will bring about thereafter some new situation.",
         "ms": "Wahai Nabi! Apabila kamu - (engkau dan umatmu) - hendak menceraikan isteri-isteri (kamu), maka ceraikanlah mereka pada masa mereka dapat memulakan idahnya, dan hitunglah masa idah itu (dengan betul), serta bertaqwalah kepada Allah, Tuhan kamu. Janganlah kamu mengeluarkan mereka dari rumah-rumah kediamannya (sehingga selesai idahnya), dan janganlah pula (dibenarkan) mereka keluar (dari situ), kecuali (jika) mereka melakukan perbuatan keji yang nyata. Dan itulah aturan-aturan hukum Allah (maka janganlah kamu melanggarnya); dan sesiapa yang melanggar aturan-aturan hukum Allah maka sesungguhnya ia telah berlaku zalim kepada dirinya. (Patuhilah hukum-hukum itu, kerana) engkau tidak mengetahui boleh jadi Allah akan mengadakan, sesudah itu, sesuatu perkara (yang lain)",

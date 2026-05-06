@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Naas",
     "nameEnglish": "Mankind",
     "revelation": "makki",
-    "ayahCount": 6
+    "ayahCount": 6,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 114,
       "ayah": 1,
       "key": "114:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
       "translations": {
         "en": "Say: I seek refuge with the Lord and Cherisher of Mankind,",
         "ms": "Katakanlah (wahai Muhammad): \"Aku berlindung kepada (Allah) Pemulihara sekalian manusia",

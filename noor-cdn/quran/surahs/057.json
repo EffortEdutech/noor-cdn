@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Hadeed",
     "nameEnglish": "The Iron",
     "revelation": "madani",
-    "ayahCount": 29
+    "ayahCount": 29,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 57,
       "ayah": 1,
       "key": "57:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "arabic": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
       "translations": {
         "en": "Whatever is in the heavens and on earth,- let it declare the Praises and Glory of Allah: for He is the Exalted in Might, the Wise.",
         "ms": "Segala yang ada di langit dan di bumi tetap mengucap tasbih kepada Allah; dan Dia lah Yang Maha Kuasa, lagi Maha Bijaksana",

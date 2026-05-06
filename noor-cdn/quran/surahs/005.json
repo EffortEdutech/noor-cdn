@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Maa'idah",
     "nameEnglish": "The Table Spread",
     "revelation": "madani",
-    "ayahCount": 120
+    "ayahCount": 120,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 5,
       "ayah": 1,
       "key": "5:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ ۚ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَـٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ ۗ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
       "translations": {
         "en": "O ye who believe! fulfil (all) obligations. Lawful unto you (for food) are all four-footed animals, with the exceptions named: But animals of the chase are forbidden while ye are in the sacred precincts or in pilgrim garb: for Allah doth command according to His will and plan.",
         "ms": "Wahai orang-orang yang beriman, penuhi serta sempurnakanlah perjanjian-perjanjian. Dihalalkan bagi kamu (memakan) binatang-binatang ternak (dan sebagainya), kecuali apa yang akan dibacakan (tentang haramnya) kepada kamu. (Halalnya binatang-binatang ternak dan sebagainya itu) tidak pula bererti kamu boleh menghalalkan perburuan ketika kamu dalam keadaan berihram. Sesungguhnya Allah menetapkan hukum apa yang Ia kehendaki",

@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Ghaashiyah",
     "nameEnglish": "The Overwhelming",
     "revelation": "makki",
-    "ayahCount": 26
+    "ayahCount": 26,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 88,
       "ayah": 1,
       "key": "88:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+      "arabic": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
       "translations": {
         "en": "Has the story reached thee of the overwhelming (Event)?",
         "ms": "Sudahkah sampai kepadamu (wahai Muhammad) perihal hari kiamat yang huru-haranya meliputi",

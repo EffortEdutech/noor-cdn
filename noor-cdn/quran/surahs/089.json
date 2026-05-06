@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Fajr",
     "nameEnglish": "The Dawn",
     "revelation": "makki",
-    "ayahCount": 30
+    "ayahCount": 30,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 89,
       "ayah": 1,
       "key": "89:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+      "arabic": "وَٱلْفَجْرِ",
       "translations": {
         "en": "By the break of Day",
         "ms": "Demi waktu fajar",

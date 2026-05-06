@@ -6,14 +6,17 @@
     "nameTransliteration": "Hood",
     "nameEnglish": "Hud",
     "revelation": "makki",
-    "ayahCount": 123
+    "ayahCount": 123,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 11,
       "ayah": 1,
       "key": "11:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓر ۚ كِتَـٰبٌ أُحْكِمَتْ ءَايَـٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ",
+      "arabic": "الٓر ۚ كِتَـٰبٌ أُحْكِمَتْ ءَايَـٰتُهُۥ ثُمَّ فُصِّلَتْ مِن لَّدُنْ حَكِيمٍ خَبِيرٍ",
       "translations": {
         "en": "A. L. R. (This is) a Book, with verses basic or fundamental (of established meaning), further explained in detail,- from One Who is Wise and Well-acquainted (with all things):",
         "ms": "Alif, Laam, Raa'. Al-Quran sebuah Kitab yang tersusun ayat-ayatnya dengan tetap teguh, kemudian dijelaskan pula kandungannya satu persatu. (Susunan dan penjelasan itu) adalah dari sisi Allah Yang Maha Bijaksana, lagi Maha Mendalam pengetahuanNya",

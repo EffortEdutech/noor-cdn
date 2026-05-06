@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Anfaal",
     "nameEnglish": "The Spoils of War",
     "revelation": "madani",
-    "ayahCount": 75
+    "ayahCount": 75,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 8,
       "ayah": 1,
       "key": "8:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
+      "arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ ۖ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ ۖ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
       "translations": {
         "en": "They ask thee concerning (things taken as) spoils of war. Say: \"(such) spoils are at the disposal of Allah and the Messenger: So fear Allah, and keep straight the relations between yourselves: Obey Allah and His Messenger, if ye do believe.\"",
         "ms": "Mereka bertanya kepadamu (wahai Muhammad) tentang harta rampasan perang. Katakanlah: \"Harta rampasan perang itu (terserah) bagi Allah dan bagi RasulNya (untuk menentukan pembahagiannya). Oleh itu, bertaqwalah kamu kepada Allah dan perbaikilah keadaan perhubungan di antara kamu, serta taatlah kepada Allah dan RasulNya, jika betul kamu orang-orang yang beriman",

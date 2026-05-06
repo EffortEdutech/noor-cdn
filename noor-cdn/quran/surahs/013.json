@@ -6,14 +6,17 @@
     "nameTransliteration": "Ar-Ra'd",
     "nameEnglish": "The Thunder",
     "revelation": "madani",
-    "ayahCount": 43
+    "ayahCount": 43,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 13,
       "ayah": 1,
       "key": "13:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓمٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+      "arabic": "الٓمٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
       "translations": {
         "en": "A. L. M. R. These are the signs (or verses) of the Book: that which hath been revealed unto thee from thy Lord is the Truth; but most men believe not.",
         "ms": "Alif, Laam, Miim, Raa'. Ini ialah ayat-ayat Kitab (Al-Quran); dan apa yang diturunkan kepadamu (wahai Muhammad) dari Tuhanmu adalah benar; tetapi kebanyakan manusia tidak (mahu) beriman",

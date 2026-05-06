@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Ahzaab",
     "nameEnglish": "The Combined Forces",
     "revelation": "madani",
-    "ayahCount": 73
+    "ayahCount": 73,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 33,
       "ayah": 1,
       "key": "33:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
       "translations": {
         "en": "O Prophet! Fear Allah, and hearken not to the Unbelievers and the Hypocrites: verily Allah is full of Knowledge and Wisdom.",
         "ms": "Wahai Nabi! Tetaplah bertaqwa kepada Allah, dan janganlah engkau patuhi kehendak orang-orang kafir dan orang-orang munafik. Sesungguhnya Allah adalah Maha Mengetahui, lagi Maha Bijaksana",

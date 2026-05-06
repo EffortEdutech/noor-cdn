@@ -6,14 +6,17 @@
     "nameTransliteration": "Muhammad",
     "nameEnglish": "Muhammad",
     "revelation": "madani",
-    "ayahCount": 38
+    "ayahCount": 38,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 47,
       "ayah": 1,
       "key": "47:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
+      "arabic": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
       "translations": {
         "en": "Those who reject Allah and hinder (men) from the Path of Allah,- their deeds will Allah render astray (from their mark).",
         "ms": "Orang-orang yang kafir serta menghalangi (dirinya dan orang lain) dari jalan Allah, Allah sia-siakan segala amal mereka",

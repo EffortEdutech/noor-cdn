@@ -6,14 +6,17 @@
     "nameTransliteration": "Adh-Dhaariyaat",
     "nameEnglish": "The Winnowing Winds",
     "revelation": "makki",
-    "ayahCount": 60
+    "ayahCount": 60,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 51,
       "ayah": 1,
       "key": "51:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلذَّٰرِيَـٰتِ ذَرْوًا",
+      "arabic": "وَٱلذَّٰرِيَـٰتِ ذَرْوًا",
       "translations": {
         "en": "By the (Winds) that scatter broadcast;",
         "ms": "Demi angin yang menerbang dan menaburkan (debu, biji-bijian benih, dan lain-lainnya), dengan penerbangan dan penaburan yang sesungguh-sungguhnya",

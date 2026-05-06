@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Ambiyaa'",
     "nameEnglish": "The Prophets",
     "revelation": "makki",
-    "ayahCount": 112
+    "ayahCount": 112,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 21,
       "ayah": 1,
       "key": "21:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
+      "arabic": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
       "translations": {
         "en": "Closer and closer to mankind comes their Reckoning: yet they heed not and they turn away.",
         "ms": "Telah hampir datangnya kepada manusia hari perhitungan amalnya sedang mereka dalam kelalaian, tidak hiraukan persediaan baginya",

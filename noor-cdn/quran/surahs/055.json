@@ -6,14 +6,17 @@
     "nameTransliteration": "Ar-Rahmaan",
     "nameEnglish": "The Beneficent",
     "revelation": "madani",
-    "ayahCount": 78
+    "ayahCount": 78,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 55,
       "ayah": 1,
       "key": "55:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلرَّحْمَـٰنُ",
+      "arabic": "ٱلرَّحْمَـٰنُ",
       "translations": {
         "en": "(Allah) Most Gracious!",
         "ms": "(Tuhan) Yang Maha Pemurah serta melimpah-limpah rahmatNya",

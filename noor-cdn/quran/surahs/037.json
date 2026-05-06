@@ -6,14 +6,17 @@
     "nameTransliteration": "As-Saaffaat",
     "nameEnglish": "Those Who Set the Ranks",
     "revelation": "makki",
-    "ayahCount": 182
+    "ayahCount": 182,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 37,
       "ayah": 1,
       "key": "37:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+      "arabic": "وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
       "translations": {
         "en": "By those who range themselves in ranks,",
         "ms": "Demi (hamba-hambaKu) yang berbaris dengan berderet-deret",

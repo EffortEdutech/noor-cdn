@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Jinn",
     "nameEnglish": "The Jinn",
     "revelation": "makki",
-    "ayahCount": 28
+    "ayahCount": 28,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 72,
       "ayah": 1,
       "key": "72:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+      "arabic": "قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
       "translations": {
         "en": "Say: It has been revealed to me that a company of Jinns listened (to the Qur'an). They said, 'We have really heard a wonderful Recital!",
         "ms": "Katakanlah (wahai Muhammad): \"Telah diwahyukan kepadaku, bahawa sesungguhnya: satu rombongan jin telah mendengar (Al-Quran yang aku bacakan), lalu mereka (menyampaikan hal itu kepada kaumnya dengan) berkata: `Sesungguhnya kami telah mendengar Al-Quran (sebuah Kitab Suci) yang susunannya dan kandungannya sungguh menakjubkan",

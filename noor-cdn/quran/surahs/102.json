@@ -6,14 +6,17 @@
     "nameTransliteration": "At-Takaathur",
     "nameEnglish": "The Rivalry in World Increase",
     "revelation": "makki",
-    "ayahCount": 8
+    "ayahCount": 8,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 102,
       "ayah": 1,
       "key": "102:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "arabic": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
       "translations": {
         "en": "The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),",
         "ms": "Kamu telah dilalaikan (daripada mengerjakan amal bakti) oleh perbuatan berlumba-lumba untuk mendapat dengan sebanyak-banyaknya (harta benda, anak-pinak pangkat dan pengaruh)",

@@ -6,14 +6,17 @@
     "nameTransliteration": "Ad-Duhaa",
     "nameEnglish": "The Morning Hours",
     "revelation": "makki",
-    "ayahCount": 11
+    "ayahCount": 11,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 93,
       "ayah": 1,
       "key": "93:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "arabic": "وَٱلضُّحَىٰ",
       "translations": {
         "en": "By the Glorious Morning Light,",
         "ms": "Demi waktu dhuha",

@@ -6,14 +6,17 @@
     "nameTransliteration": "Yoosuf",
     "nameEnglish": "Joseph",
     "revelation": "makki",
-    "ayahCount": 111
+    "ayahCount": 111,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 12,
       "ayah": 1,
       "key": "12:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "arabic": "الٓر ۚ تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
       "translations": {
         "en": "A. L. R. These are the symbols (or Verses) of the perspicuous Book.",
         "ms": "Alif, Laam, Raa'. Ini ialah ayat-ayat Kitab Al-Quran yang menyatakan kebenaran",

@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Israa'",
     "nameEnglish": "The Night Journey",
     "revelation": "makki",
-    "ayahCount": 111
+    "ayahCount": 111,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 17,
       "ayah": 1,
       "key": "17:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "arabic": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَـٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَـٰتِنَآ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
       "translations": {
         "en": "Glory to (Allah) Who did take His servant for a Journey by night from the Sacred Mosque to the farthest Mosque, whose precincts We did bless,- in order that We might show him some of Our Signs: for He is the One Who heareth and seeth (all things).",
         "ms": "Maha Suci Allah yang telah menjalankan hambaNya (Muhammad) pada malam hari dari Masjid Al-Haraam (di Makkah) ke Masjid Al-Aqsa (di Palestin), yang Kami berkati sekelilingnya, untuk memperlihatkan kepadanya tanda-tanda (kekuasaan dan kebesaran) Kami. Sesungguhnya Allah jualah yang Maha Mendengar, lagi Maha Mengetahui",

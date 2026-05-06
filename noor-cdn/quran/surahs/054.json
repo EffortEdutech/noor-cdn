@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Qamar",
     "nameEnglish": "The Moon",
     "revelation": "makki",
-    "ayahCount": 55
+    "ayahCount": 55,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 54,
       "ayah": 1,
       "key": "54:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "arabic": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
       "translations": {
         "en": "The Hour (of Judgment) is nigh, and the moon is cleft asunder.",
         "ms": "Telah hampir saat (kedatangan hari kiamat) dan terbelahlah bulan",

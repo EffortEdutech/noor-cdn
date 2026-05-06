@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Humazah",
     "nameEnglish": "The Traducer",
     "revelation": "makki",
-    "ayahCount": 9
+    "ayahCount": 9,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 104,
       "ayah": 1,
       "key": "104:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "arabic": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
       "translations": {
         "en": "Woe to every (kind of) scandal-monger and-backbiter,",
         "ms": "Kecelakaan besar bagi tiap-tiap pencaci, pengeji",

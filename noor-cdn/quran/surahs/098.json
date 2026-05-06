@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Bayyinah",
     "nameEnglish": "The Clear Proof",
     "revelation": "madani",
-    "ayahCount": 8
+    "ayahCount": 8,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 98,
       "ayah": 1,
       "key": "98:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+      "arabic": "لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
       "translations": {
         "en": "Those who reject (Truth), among the People of the Book and among the Polytheists, were not going to depart (from their ways) until there should come to them Clear Evidence,-",
         "ms": "Orang-orang yang kafir dari Ahli Kitab (Yahudi dan Nasrani) serta orang-orang musyrik, tidak akan terlepas (dari kepercayaan dan amalan masing-masing) sehingga datang kepada mereka bukti yang jelas nyata",

@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Munaafiqoon",
     "nameEnglish": "The Hypocrites",
     "revelation": "madani",
-    "ayahCount": 11
+    "ayahCount": 11,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 63,
       "ayah": 1,
       "key": "63:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+      "arabic": "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
       "translations": {
         "en": "When the Hypocrites come to thee, they say, \"We bear witness that thou art indeed the Messenger of Allah.\" Yea, Allah knoweth that thou art indeed His Messenger, and Allah beareth witness that the Hypocrites are indeed liars.",
         "ms": "Apabila orang-orang munafik datang kepadamu (wahai Muhammad), mereka berkata: \"Kami mengakui bahawa sesungguhnya engkau - sebenar-benarnya Rasul Allah\". Dan Allah sememangnya mengetahui bahawa engkau ialah RasulNya, serta Allah menyaksikan bahawa sesungguhnya pengakuan mereka adalah dusta",

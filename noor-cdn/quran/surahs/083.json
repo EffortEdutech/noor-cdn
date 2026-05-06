@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Mutaffifeen",
     "nameEnglish": "The Defrauding",
     "revelation": "makki",
-    "ayahCount": 36
+    "ayahCount": 36,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 83,
       "ayah": 1,
       "key": "83:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "arabic": "وَيْلٌ لِّلْمُطَفِّفِينَ",
       "translations": {
         "en": "Woe to those that deal in fraud,-",
         "ms": "Kecelakaan besar bagi orang-orang yang curang (dalam timbangan dan sukatan)",

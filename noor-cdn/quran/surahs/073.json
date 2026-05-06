@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Muzzammil",
     "nameEnglish": "The Enshrouded One",
     "revelation": "makki",
-    "ayahCount": 20
+    "ayahCount": 20,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 73,
       "ayah": 1,
       "key": "73:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+      "arabic": "يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
       "translations": {
         "en": "O thou folded in garments!",
         "ms": "Wahai orang yang berselimut",

@@ -6,7 +6,10 @@
     "nameTransliteration": "At-Teen",
     "nameEnglish": "The Fig",
     "revelation": "makki",
-    "ayahCount": 8
+    "ayahCount": 8,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {

@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Noor",
     "nameEnglish": "The Light",
     "revelation": "madani",
-    "ayahCount": 64
+    "ayahCount": 64,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 24,
       "ayah": 1,
       "key": "24:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
+      "arabic": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ",
       "translations": {
         "en": "A sura which We have sent down and which We have ordained in it have We sent down Clear Signs, in order that ye may receive admonition.",
         "ms": "Ini ialah satu \"surah\" yang Kami turunkan, dan Kami wajibkan hukum-hukumnya, serta Kami turunkan padanya ayat-ayat keterangan yang nyata supaya kamu beringat (mengamalkannya)",

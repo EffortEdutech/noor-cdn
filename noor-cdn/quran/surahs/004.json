@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Nisaa'",
     "nameEnglish": "The Women",
     "revelation": "madani",
-    "ayahCount": 176
+    "ayahCount": 176,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 4,
       "ayah": 1,
       "key": "4:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
       "translations": {
         "en": "O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.",
         "ms": "Wahai sekalian manusia! Bertaqwalah kepada Tuhan kamu yang telah menjadikan kamu (bermula) dari diri yang satu (Adam), dan yang menjadikan daripada (Adam) itu pasangannya (isterinya - Hawa), dan juga yang membiakkan dari keduanya - zuriat keturunan - lelaki dan perempuan yang ramai. Dan bertaqwalah kepada Allah yang kamu selalu meminta dengan menyebut-yebut namaNya, serta peliharalah hubungan (silaturrahim) kaum kerabat; kerana sesungguhnya Allah sentiasa memerhati (mengawas) kamu",

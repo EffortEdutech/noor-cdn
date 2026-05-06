@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-An'aam",
     "nameEnglish": "The Cattle",
     "revelation": "makki",
-    "ayahCount": 165
+    "ayahCount": 165,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 6,
       "ayah": 1,
       "key": "6:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
+      "arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَـٰتِ وَٱلنُّورَ ۖ ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ",
       "translations": {
         "en": "Praise be Allah, Who created the heavens and the earth, and made the darkness and the light. Yet those who reject Faith hold (others) as equal, with their Guardian-Lord.",
         "ms": "Segala puji tertentu bagi Allah yang menciptakan langit dan bumi, dan menjadikan gelap dan terang; dalam pada itu, orang-orang kafir menyamakan (sesuatu yang lain) dengan tuhan mereka",

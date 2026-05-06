@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Naba'",
     "nameEnglish": "The Tidings",
     "revelation": "makki",
-    "ayahCount": 40
+    "ayahCount": 40,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 78,
       "ayah": 1,
       "key": "78:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ",
+      "arabic": "عَمَّ يَتَسَآءَلُونَ",
       "translations": {
         "en": "Concerning what are they disputing?",
         "ms": "Tentang apakah mereka bertanya-tanya",

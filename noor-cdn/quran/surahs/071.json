@@ -6,14 +6,17 @@
     "nameTransliteration": "Nooh",
     "nameEnglish": "Noah",
     "revelation": "makki",
-    "ayahCount": 28
+    "ayahCount": 28,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 71,
       "ayah": 1,
       "key": "71:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+      "arabic": "إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
       "translations": {
         "en": "We sent Noah to his People (with the Command): \"Do thou warn thy People before there comes to them a grievous Penalty.\"",
         "ms": "Sesungguhnya Kami telah mengutus Nabi Nuh kepada kaumnya, (dengan berfirman kepadanya): \"Berikanlah peringatan dan amaran kepada kaummu sebelum mereka didatangi azab yang tidak terperi sakitnya",

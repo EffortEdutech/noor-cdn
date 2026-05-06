@@ -6,14 +6,17 @@
     "nameTransliteration": "Qaaf",
     "nameEnglish": "Qaf",
     "revelation": "makki",
-    "ayahCount": 45
+    "ayahCount": 45,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 50,
       "ayah": 1,
       "key": "50:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+      "arabic": "قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
       "translations": {
         "en": "Qaf: By the Glorious Qur'an (Thou art Allah's Messenger).",
         "ms": "Qaaf. Demi Al-Quran yang melimpah-limpah kemuliaan dan kebaikannya (bahawa sesungguhnya Muhammad adalah Rasul yang diutus memberi peringatan dan amaran)",

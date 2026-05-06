@@ -6,14 +6,17 @@
     "nameTransliteration": "An-Najm",
     "nameEnglish": "The Star",
     "revelation": "makki",
-    "ayahCount": 62
+    "ayahCount": 62,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 53,
       "ayah": 1,
       "key": "53:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلنَّجْمِ إِذَا هَوَىٰ",
+      "arabic": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
       "translations": {
         "en": "By the Star when it goes down,-",
         "ms": "Demi bintang semasa ia menjunam",

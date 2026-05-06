@@ -6,14 +6,17 @@
     "nameTransliteration": "Ash-Shu'araa'",
     "nameEnglish": "The Poets",
     "revelation": "makki",
-    "ayahCount": 227
+    "ayahCount": 227,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 26,
       "ayah": 1,
       "key": "26:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ طسٓمٓ",
+      "arabic": "طسٓمٓ",
       "translations": {
         "en": "Ta. Sin. Mim.",
         "ms": "Taa, Siin, Miim",

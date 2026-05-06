@@ -6,14 +6,17 @@
     "nameTransliteration": "At-Taghaabun",
     "nameEnglish": "The Mutual Disillusion",
     "revelation": "madani",
-    "ayahCount": 18
+    "ayahCount": 18,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 64,
       "ayah": 1,
       "key": "64:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "arabic": "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
       "translations": {
         "en": "Whatever is in the heavens and on earth, doth declare the Praises and Glory of Allah: to Him belongs dominion, and to Him belongs praise: and He has power over all things.",
         "ms": "Segala yang ada di langit dan yang ada di bumi sentiasa mengucap tasbih kepada Allah; bagiNyalah kuasa pemerintahan, dan bagiNyalah segala pujian; dan Ia Maha Kuasa atas tiap-tiap sesuatu",

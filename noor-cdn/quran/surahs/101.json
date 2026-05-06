@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Qaari'ah",
     "nameEnglish": "The Striking Calamity",
     "revelation": "makki",
-    "ayahCount": 11
+    "ayahCount": 11,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 101,
       "ayah": 1,
       "key": "101:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+      "arabic": "ٱلْقَارِعَةُ",
       "translations": {
         "en": "The (Day) of Noise and Clamour:",
         "ms": "Hari yang menggemparkan",

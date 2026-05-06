@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Kawthar",
     "nameEnglish": "The Abundance",
     "revelation": "makki",
-    "ayahCount": 3
+    "ayahCount": 3,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 108,
       "ayah": 1,
       "key": "108:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "arabic": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
       "translations": {
         "en": "To thee have We granted the Fount (of Abundance).",
         "ms": "Sesungguhnya Kami telah mengurniakan kepadamu (wahai Muhammad) kebaikan yang banyak (di dunia dan di akhirat)",

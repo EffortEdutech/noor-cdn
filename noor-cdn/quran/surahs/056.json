@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Waaqi'ah",
     "nameEnglish": "The Inevitable",
     "revelation": "makki",
-    "ayahCount": 96
+    "ayahCount": 96,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 56,
       "ayah": 1,
       "key": "56:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+      "arabic": "إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
       "translations": {
         "en": "When the Event inevitable cometh to pass,",
         "ms": "Apabila berlaku hari kiamat itu",

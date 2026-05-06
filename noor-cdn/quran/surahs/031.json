@@ -6,14 +6,17 @@
     "nameTransliteration": "Luqmaan",
     "nameEnglish": "Luqman",
     "revelation": "makki",
-    "ayahCount": 34
+    "ayahCount": 34,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 31,
       "ayah": 1,
       "key": "31:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ الٓمٓ",
+      "arabic": "الٓمٓ",
       "translations": {
         "en": "A. L. M.",
         "ms": "Alif, Laam, Miim",

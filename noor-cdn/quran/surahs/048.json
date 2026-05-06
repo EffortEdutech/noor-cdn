@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Fath",
     "nameEnglish": "The Victory",
     "revelation": "madani",
-    "ayahCount": 29
+    "ayahCount": 29,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 48,
       "ayah": 1,
       "key": "48:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
+      "arabic": "إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا",
       "translations": {
         "en": "Verily We have granted thee a manifest Victory:",
         "ms": "Sesungguhnya Kami telah membuka bagi perjuanganmu (wahai Muhammad) satu jalan kemenangan yang jelas nyata",

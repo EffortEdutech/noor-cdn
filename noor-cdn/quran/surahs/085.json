@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Burooj",
     "nameEnglish": "The Mansions of the Stars",
     "revelation": "makki",
-    "ayahCount": 22
+    "ayahCount": 22,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 85,
       "ayah": 1,
       "key": "85:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "arabic": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
       "translations": {
         "en": "By the sky, (displaying) the Zodiacal Signs;",
         "ms": "Demi langit yang mempunyai tempat-tempat peredaran bintang-bintang",

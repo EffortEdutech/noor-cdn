@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Furqaan",
     "nameEnglish": "The Criterion",
     "revelation": "makki",
-    "ayahCount": 77
+    "ayahCount": 77,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 25,
       "ayah": 1,
       "key": "25:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا",
+      "arabic": "تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَـٰلَمِينَ نَذِيرًا",
       "translations": {
         "en": "Blessed is He who sent down the criterion to His servant, that it may be an admonition to all creatures;-",
         "ms": "Maha berkat Tuhan yang menurunkan Al-Furqaan kepada hambaNya (Muhammad), untuk menjadi peringatan dan amaran bagi seluruh penduduk alam",

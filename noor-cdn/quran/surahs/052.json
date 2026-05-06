@@ -6,14 +6,17 @@
     "nameTransliteration": "At-Toor",
     "nameEnglish": "The Mount",
     "revelation": "makki",
-    "ayahCount": 49
+    "ayahCount": 49,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 52,
       "ayah": 1,
       "key": "52:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلطُّورِ",
+      "arabic": "وَٱلطُّورِ",
       "translations": {
         "en": "By the Mount (of Revelation);",
         "ms": "Demi Gunung Tursina",

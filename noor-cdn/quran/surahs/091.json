@@ -6,14 +6,17 @@
     "nameTransliteration": "Ash-Shams",
     "nameEnglish": "The Sun",
     "revelation": "makki",
-    "ayahCount": 15
+    "ayahCount": 15,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 91,
       "ayah": 1,
       "key": "91:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+      "arabic": "وَٱلشَّمْسِ وَضُحَىٰهَا",
       "translations": {
         "en": "By the Sun and his (glorious) splendour;",
         "ms": "Demi matahari dan cahayanya yang terang-benderang",

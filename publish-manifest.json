@@ -2,7 +2,7 @@
   "name": "NOOR CDN Publish Pack",
   "appVersion": "0.25.0",
   "appLabel": "Sprint 25 Production CDN v1 Promotion",
-  "generatedAt": "2026-05-01T06:49:08.583Z",
+  "generatedAt": "2026-05-06T10:02:26.096Z",
   "sourceRoot": "content-pipeline/dist/noor-cdn",
   "publishRoot": "content-pipeline/publish/noor-cdn-gh-pages",
   "publicSubfolder": "noor-cdn",
@@ -54,23 +54,23 @@
     },
     {
       "path": "noor-cdn/quran/surahs/001.json",
-      "bytes": 2612,
-      "sha256": "a3722019e6dec75e81e0d5b6cd5782530f164ed5c66ecb3e69815ba50245c98e"
+      "bytes": 4068,
+      "sha256": "9d5fc58eb9aa4568abe4593eff7ec03b5fcd831a96d6f9f7fa40f0c0d98c6952"
     },
     {
       "path": "noor-cdn/quran/surahs/112.json",
-      "bytes": 1348,
-      "sha256": "361ddefb99a19793c1770dd511690f31e7fd0ddb90d17c6b80d0ef8871ba2c73"
+      "bytes": 2067,
+      "sha256": "6f962175368b9dd91319dac6f31c35ace9d5e3ea819ac1db11124d785ef5a554"
     },
     {
       "path": "noor-cdn/quran/surahs/113.json",
-      "bytes": 1809,
-      "sha256": "9ae51fed13873dd69d1075b9d52dd5b92cbeb24eeb124bc2b21280e1547a3db1"
+      "bytes": 2754,
+      "sha256": "4cb4ca4d314d9dc78c43cc0eed8c917d1864d55e642a83fec80edc0b20a22166"
     },
     {
       "path": "noor-cdn/quran/surahs/114.json",
-      "bytes": 1874,
-      "sha256": "180f1ccc71053dbfb1e55a44e8c030d8b531ff1185d215f9edfbdd811c45ae76"
+      "bytes": 3001,
+      "sha256": "1c5a4c039205c65b7248586bf4636cb24d19145538a8f39e5ca948d5ac68f587"
     },
     {
       "path": "noor-cdn/tafseer/demo-tafseer/surahs/001.json",

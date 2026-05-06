@@ -6,7 +6,10 @@
     "nameTransliteration": "Al-Faatihah",
     "nameEnglish": "The Opening",
     "revelation": "makki",
-    "ayahCount": 7
+    "ayahCount": 7,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": false,
+    "bismillahIsAyah": true
   },
   "ayahs": [
     {

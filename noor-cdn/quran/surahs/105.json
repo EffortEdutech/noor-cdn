@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Feel",
     "nameEnglish": "The Elephant",
     "revelation": "makki",
-    "ayahCount": 5
+    "ayahCount": 5,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 105,
       "ayah": 1,
       "key": "105:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
       "translations": {
         "en": "Seest thou not how thy Lord dealt with the Companions of the Elephant?",
         "ms": "Tidakkah engkau mengetahui bagaimana Tuhanmu telah melakukan kepada angkatan tentera (yang dipimpin oleh pembawa) Gajah, (yang hendak meruntuhkan Kaabah)",

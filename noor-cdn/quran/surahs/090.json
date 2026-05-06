@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Balad",
     "nameEnglish": "The City",
     "revelation": "makki",
-    "ayahCount": 20
+    "ayahCount": 20,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 90,
       "ayah": 1,
       "key": "90:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "arabic": "لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
       "translations": {
         "en": "I do call to witness this City;-",
         "ms": "Aku bersumpah dengan negeri (Makkah) ini",

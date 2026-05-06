@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Falaq",
     "nameEnglish": "The Daybreak",
     "revelation": "makki",
-    "ayahCount": 5
+    "ayahCount": 5,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 113,
       "ayah": 1,
       "key": "113:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
       "translations": {
         "en": "Say: I seek refuge with the Lord of the Dawn",
         "ms": "Katakanlah (wahai Muhammad); \"Aku berlindung kepada (Allah) Tuhan yang menciptakan sekalian makhluk",

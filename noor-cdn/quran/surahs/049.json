@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Hujuraat",
     "nameEnglish": "The Private Apartments",
     "revelation": "madani",
-    "ayahCount": 18
+    "ayahCount": 18,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 49,
       "ayah": 1,
       "key": "49:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ",
       "translations": {
         "en": "O Ye who believe! Put not yourselves forward before Allah and His Messenger; but fear Allah: for Allah is He Who hears and knows all things.",
         "ms": "Wahai orang-orang yang beriman! Janganlah kamu memandai-mandai (melakukan sesuatu perkara) sebelum (mendapat hukum atau kebenaran) Allah dan RasulNya; dan bertaqwalah kamu kepada Allah; sesungguhnya Allah Maha Mendengar, lagi Maha Mengetahui",

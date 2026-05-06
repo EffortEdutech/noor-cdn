@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Masad",
     "nameEnglish": "The Palm Fibre",
     "revelation": "makki",
-    "ayahCount": 5
+    "ayahCount": 5,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 111,
       "ayah": 1,
       "key": "111:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
       "translations": {
         "en": "Perish the hands of the Father of Flame! Perish he!",
         "ms": "Binasalah kedua-dua tangan Abu lahab, dan binasalah ia bersama",

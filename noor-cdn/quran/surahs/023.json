@@ -6,14 +6,17 @@
     "nameTransliteration": "Al-Mu'minoon",
     "nameEnglish": "The Believers",
     "revelation": "makki",
-    "ayahCount": 118
+    "ayahCount": 118,
+    "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "hasBismillahHeader": true,
+    "bismillahIsAyah": false
   },
   "ayahs": [
     {
       "surah": 23,
       "ayah": 1,
       "key": "23:1",
-      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+      "arabic": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
       "translations": {
         "en": "The believers must (eventually) win through,-",
         "ms": "Sesungguhnya berjayalah orang-orang yang beriman",
