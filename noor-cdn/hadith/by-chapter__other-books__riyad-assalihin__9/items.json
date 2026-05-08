@@ -8,8 +8,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/9.json",
     "book": "riyad_assalihin",
     "number": "1",
+    "narrator": "Ibn `Umar (May Allah be pleased with them) reported:",
     "arabic": "عن ابن عمر رضي الله عنهما، قال‏:‏ كان رسول الله صلى الله عليه وسلم يعتكف العشر الأواخر من رمضان‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
-    "translations": {},
+    "translations": {
+      "en": "The Messenger of Allah (ﷺ) used to observe I`tikaf in the last ten days of Ramadan. ."
+    },
     "sourceLabel": "riyad_assalihin · By chapter · 9",
     "tags": [
       "by_chapter",
@@ -27,8 +30,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/9.json",
     "book": "riyad_assalihin",
     "number": "2",
+    "narrator": "'Aishah (May Allah be pleased with her) reported:",
     "arabic": "وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يعتكف العشر الأواخر من رمضان، حتى توفاه الله، تعالى ثم اعتكف أزواجه من بعده‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏",
-    "translations": {},
+    "translations": {
+      "en": "The Prophet (ﷺ) used to engage himself in I'tikaf (seclusion for prayers) in the mosque during the last ten nights of Ramadan till he passed away; thereafter, his wives followed this practice after him.."
+    },
     "sourceLabel": "riyad_assalihin · By chapter · 9",
     "tags": [
       "by_chapter",
@@ -46,8 +52,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/riyad_assalihin/9.json",
     "book": "riyad_assalihin",
     "number": "3",
+    "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
     "arabic": "وعن أبي هريرة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏",
-    "translations": {},
+    "translations": {
+      "en": "The Prophet (ﷺ) used to observe I'tikaf every year (during Ramadan) for ten days; in the year in which he passed away, he observed I'tikaf for twenty days.."
+    },
     "sourceLabel": "riyad_assalihin · By chapter · 9",
     "tags": [
       "by_chapter",

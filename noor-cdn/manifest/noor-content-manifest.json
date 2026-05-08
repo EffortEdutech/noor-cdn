@@ -47,7 +47,7 @@
         "ur"
       ],
       "itemCount": 102012,
-      "updatedAt": "2026-05-02T08:14:05.406Z",
+      "updatedAt": "2026-05-08T02:04:30.766Z",
       "notes": "Staging migration only. Hadith is normalized into separate by_book and by_chapter navigation views. Same canonical Hadith may appear in multiple views."
     }
   },

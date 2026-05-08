@@ -8,8 +8,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/16.json",
     "book": "shamail_muhammadiyah",
     "number": "1",
+    "narrator": "Jabir said:",
     "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ‏:‏ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ حَمَّادِ بْنِ سَلَمَةَ ‏(‏ح‏)‏ حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ‏:‏ دَخَلَ النَّبِيُّ صلى الله عليه وسلم، مَكَّةَ يَوْمَ الْفَتْحِ، وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ‏.‏",
-    "translations": {},
+    "translations": {
+      "en": "“The Prophet (Allah bless him and give him peace) entered Mecca on the Day of Victory wearing a black turban.”"
+    },
     "sourceLabel": "shamail_muhammadiyah · By chapter · 16",
     "tags": [
       "by_chapter",
@@ -27,8 +30,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/16.json",
     "book": "shamail_muhammadiyah",
     "number": "2",
+    "narrator": "'Amr ibn Huraith reported that his father said:",
     "arabic": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ‏:‏ حَدَّثَنَا سُفْيَانُ، عَنْ مُسَاوِرٍ الْوَرَّاقِ، عَنْ جَعْفَرِ بْنِ عَمْرِو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، قَالَ‏:‏ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ عَلَى الْمِنْبَرِ، وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ‏.‏",
-    "translations": {},
+    "translations": {
+      "en": "\"I saw a black turban on the head of Allah’s Messenger (Allah bless him and give him peace).”"
+    },
     "sourceLabel": "shamail_muhammadiyah · By chapter · 16",
     "tags": [
       "by_chapter",
@@ -46,8 +52,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/16.json",
     "book": "shamail_muhammadiyah",
     "number": "3",
+    "narrator": "'Amr ibn Huraith reported that his father said:",
     "arabic": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلانَ، وَيُوسُفُ بْنُ عِيسَى، قَالا‏:‏ حَدَّثَنَا وَكِيعٌ، عَنْ مُسَاوِرٍ الْوَرَّاقِ، عَنْ جَعْفَرِ بْنِ عَمْرُو بْنِ حُرَيْثٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم، خَطَبَ النَّاسَ، وَعَلَيْهِ عِمَامَةٌ سَوْدَاءُ‏.‏",
-    "translations": {},
+    "translations": {
+      "en": "\"The Prophet (Allah bless him and give him peace) addressed the people while wearing a black turban.”"
+    },
     "sourceLabel": "shamail_muhammadiyah · By chapter · 16",
     "tags": [
       "by_chapter",
@@ -65,8 +74,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/16.json",
     "book": "shamail_muhammadiyah",
     "number": "4",
+    "narrator": "Ibn 'Umar said:",
     "arabic": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، قَالَ‏:‏ حَدَّثَنَا يَحْيَى بْنُ مُحَمَّدٍ الْمَدَنِيُّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ مُحَمَّدٍ، عَنْ عُبَيْدِ اللهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم، إِذَا اعْتَمَّ، سَدَلَ عِمَامَتَهُ بَيْنَ كَتِفَيْهِ‏.‏‏.‏",
-    "translations": {},
+    "translations": {
+      "en": "\"When the Prophet (Allah bless him and give him peace) donned a turban, he let his turban hang down between his shoulders.”"
+    },
     "sourceLabel": "shamail_muhammadiyah · By chapter · 16",
     "tags": [
       "by_chapter",
@@ -84,8 +96,11 @@
     "sourcePath": "hadith/db/by_chapter/other_books/shamail_muhammadiyah/16.json",
     "book": "shamail_muhammadiyah",
     "number": "5",
+    "narrator": "Ibn 'Abbas said:",
     "arabic": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، قَالَ‏:‏ حَدَّثَنَا وَكِيعٌ، قَالَ‏:‏ حَدَّثَنَا أَبُو سُلَيْمَانَ وَهُوَ عَبْدُ الرَّحْمَنِ بْنُ الْغَسِيلِ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ النَّاسَ، وَعَلَيْهِ عِصَابَةٌ دَسْمَاءُ‏.‏",
-    "translations": {},
+    "translations": {
+      "en": "“The Prophet (Allah bless him and give him peace) addressed the people while wearing a turban that was dasma’ ."
+    },
     "sourceLabel": "shamail_muhammadiyah · By chapter · 16",
     "tags": [
       "by_chapter",
